@@ -1,7 +1,12 @@
 import pandas as pd
 
-# Load the CSV data
-color_data = pd.read_csv('driver_colors.csv')
+# Get the directory of the current script
+current_dir = os.path.dirname(os.path.abspath(__file__))
+
+# Construct the full path to the CSV file
+csv_path = os.path.join(current_dir, 'driver_colors.csv')
+
+color_data = pd.read_csv(csv_path)
 
 def get_driver_color(driver_name, year, results_df):
     """
