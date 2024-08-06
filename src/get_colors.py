@@ -1,12 +1,12 @@
 import pandas as pd
+import streamlit as st
 
-# Get the directory of the current script
-current_dir = os.path.dirname(os.path.abspath(__file__))
+@st.cache_data
+def load_csv(file_path):
+    return pd.read_csv(file_path)
 
-# Construct the full path to the CSV file
-csv_path = os.path.join(current_dir, 'driver_colors.csv')
-
-color_data = pd.read_csv(csv_path)
+# Load the color data
+color_data = load_csv('driver_colors.csv')
 
 def get_driver_color(driver_name, year, results_df):
     """
@@ -43,7 +43,6 @@ def get_driver_color(driver_name, year, results_df):
     # If still no match, return a default color
     return '#808080'  # Default to gray
 
-
 def load_team_colors():
     """Load team colors from CSV file."""
-    return pd.read_csv('f1_team_colors.csv', index_col='Team Name')
+    return load_csv('f1_team_colors.csv').set_index('Team Name')
