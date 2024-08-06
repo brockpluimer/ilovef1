@@ -1,0 +1,27 @@
+position,number,driver,constructor,laps,grid,status,points
+1,27,Alan Jones,Williams,45,2,Finished,9
+2,28,Clay Regazzoni,Williams,45,6,Finished,6
+3,26,Jacques Laffite,Ligier,45,3,Finished,4
+4,11,Jody Scheckter,Ferrari,45,5,Finished,3
+5,7,John Watson,McLaren,45,12,Finished,2
+6,30,Jochen Mass,Arrows,44,18,+1 Lap,1
+7,4,Geoff Lees,Tyrrell,44,16,+1 Lap,0
+8,12,Gilles Villeneuve,Ferrari,44,9,+1 Lap,0
+9,3,Didier Pironi,Tyrrell,44,8,+1 Lap,0
+10,17,Jan Lammers,Shadow,44,20,+1 Lap,0
+11,18,Elio de Angelis,Shadow,43,21,+2 Laps,0
+12,6,Nelson Piquet,Brabham-Alfa Romeo,42,4,Engine,0
+13,29,Riccardo Patrese,Arrows,34,19,Tyre,0
+14,8,Patrick Tambay,McLaren,30,15,Suspension,0
+15,20,Keke Rosberg,Wolf,29,17,Engine,0
+16,5,Niki Lauda,Brabham-Alfa Romeo,27,7,Engine,0
+17,25,Jacky Ickx,Ligier,24,14,Tyre,0
+18,31,Hector Rebaque,Team Lotus,22,24,Handling,0
+19,1,Mario Andretti,Team Lotus,16,11,Transmission,0
+20,16,René Arnoux,Renault,9,10,Tyre,0
+21,15,Jean-Pierre Jabouille,Renault,7,1,Spun off,0
+22,14,Emerson Fittipaldi,Fittipaldi,4,22,Electrical,0
+23,2,Carlos Reutemann,Team Lotus,1,13,Accident,0
+24,9,Hans-Joachim Stuck,ATS,0,23,Suspension,0
+25,22,Patrick Gaillard,Ensign,0,0,Did not qualify,0
+26,24,Arturo Merzario,Merzario,0,0,Did not qualify,0

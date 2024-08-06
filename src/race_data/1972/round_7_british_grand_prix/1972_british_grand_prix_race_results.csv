@@ -1,0 +1,27 @@
+position,number,driver,constructor,laps,grid,status,points
+1,8,Emerson Fittipaldi,Team Lotus,76,2,Finished,9
+2,1,Jackie Stewart,Tyrrell,76,4,Finished,6
+3,19,Peter Revson,McLaren,76,3,Finished,4
+4,17,Chris Amon,Matra,75,17,+1 Lap,3
+5,18,Denny Hulme,McLaren,75,11,+1 Lap,2
+6,6,Arturo Merzario,Ferrari,75,9,+1 Lap,1
+7,3,Ronnie Peterson,March,74,8,Spun off,0
+8,27,Carlos Reutemann,Brabham,73,10,+3 Laps,0
+9,4,Niki Lauda,March,73,19,+3 Laps,0
+10,33,Rolf Stommelen,March,71,25,+5 Laps,0
+11,11,Jean-Pierre Beltoise,BRM,70,6,+6 Laps,0
+12,28,Wilson Fittipaldi,Brabham,69,22,Suspension,0
+13,31,Mike Beuttler,March,69,23,+7 Laps,0
+14,22,Tim Schenken,Surtees,64,5,Suspension,0
+15,2,François Cevert,Tyrrell,60,12,Spun off,0
+16,9,David Walker,Team Lotus,59,15,Suspension,0
+17,5,Jacky Ickx,Ferrari,49,1,Oil pressure,0
+18,26,Graham Hill,Brabham,47,21,Spun off,0
+19,25,Carlos Pace,March,39,13,Differential,0
+20,14,Jackie Oliver,BRM,36,14,Suspension,0
+21,21,Mike Hailwood,Surtees,31,7,Gearbox,0
+22,29,Dave Charlton,Team Lotus,21,24,Gearbox,0
+23,30,Nanni Galli,Tecno,9,18,Spun off,0
+24,24,Henri Pescarolo,Politoys,7,26,Accident,0
+25,12,Peter Gethin,BRM,5,16,Engine,0
+26,23,Andrea de Adamich,Surtees,3,20,Accident,0

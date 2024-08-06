@@ -1,0 +1,31 @@
+position,number,driver,constructor,laps,grid,status,points
+1,5,Emerson Fittipaldi,McLaren,85,4,Finished,9
+2,12,Niki Lauda,Ferrari,85,3,Finished,6
+3,3,Jody Scheckter,Tyrrell,85,2,Finished,4
+4,11,Clay Regazzoni,Ferrari,85,1,Finished,3
+5,14,Jean-Pierre Beltoise,BRM,85,7,Finished,2
+6,6,Denny Hulme,McLaren,85,12,Finished,1
+7,33,Mike Hailwood,McLaren,84,13,+1 Lap,0
+8,26,Graham Hill,Lola,83,29,+2 Laps,0
+9,10,Vittorio Brambilla,March,83,31,+2 Laps,0
+10,41,Tim Schenken,Trojan,83,23,+2 Laps,0
+11,28,John Watson,Brabham,83,19,+2 Laps,0
+12,27,Guy Edwards,Lola,82,21,+3 Laps,0
+13,17,Jean-Pierre Jarier,Shadow,82,17,+3 Laps,0
+14,21,Gijs van Lennep,Iso Marlboro,82,30,+3 Laps,0
+15,22,Vern Schuppan,Ensign,82,14,+3 Laps,0
+16,37,François Migault,BRM,82,25,+3 Laps,0
+17,34,Teddy Pilette,Brabham,81,27,+4 Laps,0
+18,16,Brian Redman,Shadow,80,18,Engine,0
+19,2,Jacky Ickx,Team Lotus,72,16,Overheating,0
+20,42,Tom Pryce,Token,66,20,Collision,0
+21,7,Carlos Reutemann,Brabham,62,24,Engine,0
+22,1,Ronnie Peterson,Team Lotus,56,5,Fuel leak,0
+23,4,Patrick Depailler,Tyrrell,53,28,Brakes,0
+24,19,Jochen Mass,Surtees,53,26,Suspension,0
+25,43,Gérard Larrousse,Brabham,53,11,Tyre,0
+26,18,Carlos Pace,Surtees,50,8,Handling,0
+27,8,Rikky von Opel,Brabham,49,22,Engine,0
+28,24,James Hunt,Hesketh,45,9,Accident,0
+29,20,Arturo Merzario,Iso Marlboro,29,6,Transmission,0
+30,15,Henri Pescarolo,BRM,12,15,Collision,0

@@ -1,0 +1,26 @@
+position,number,driver,constructor,laps,grid,status,points
+1,28,John Watson,Penske,54,2,Finished,9
+2,26,Jacques Laffite,Ligier,54,5,Finished,6
+3,6,Gunnar Nilsson,Team Lotus,54,4,Finished,4
+4,11,James Hunt,McLaren,54,1,Finished,3
+5,5,Mario Andretti,Team Lotus,54,9,Finished,2
+6,10,Ronnie Peterson,March,54,3,Finished,1
+7,12,Jochen Mass,McLaren,54,12,Finished,0
+8,24,Harald Ertl,Hesketh,53,20,+1 Lap,0
+9,38,Henri Pescarolo,Surtees,52,22,+2 Laps,0
+10,18,Brett Lunger,Surtees,51,16,Accident,0
+11,39,Alessandro Pesenti-Rossi,Tyrrell,51,23,+3 Laps,0
+12,33,Lella Lombardi,Brabham-Ford,50,24,+4 Laps,0
+13,22,Hans Binder,Ensign,47,19,Throttle,0
+14,32,Loris Kessel,Brabham-Ford,44,25,Not classified,0
+15,9,Vittorio Brambilla,March,43,7,Accident,0
+16,30,Emerson Fittipaldi,Fittipaldi,43,17,Accident,0
+17,8,Carlos Pace,Brabham-Alfa Romeo,40,18,Accident,0
+18,17,Jean-Pierre Jarier,Shadow,40,8,Fuel pump,0
+19,19,Alan Jones,Surtees,30,15,Accident,0
+20,34,Hans-Joachim Stuck,March,26,11,Fuel system,0
+21,4,Patrick Depailler,Tyrrell,24,13,Suspension,0
+22,20,Arturo Merzario,Wolf,17,21,Accident,0
+23,16,Tom Pryce,Shadow,14,6,Brakes,0
+24,3,Jody Scheckter,Tyrrell,14,10,Suspension,0
+25,7,Carlos Reutemann,Brabham-Alfa Romeo,0,14,Clutch,0

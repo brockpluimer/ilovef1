@@ -1,0 +1,21 @@
+position,number,driver,constructor,Q1,Q2,Q3
+1,16,Charles Leclerc,Ferrari,1:31.471,1:30.932,1:30.558
+2,1,Max Verstappen,Red Bull,1:31.785,1:30.757,1:30.681
+3,55,Carlos Sainz,Ferrari,1:31.567,1:30.787,1:30.687
+4,11,Sergio Pérez,Red Bull,1:32.311,1:31.008,1:30.921
+5,44,Lewis Hamilton,Mercedes,1:32.285,1:31.048,1:31.238
+6,77,Valtteri Bottas,Alfa Romeo,1:31.919,1:31.717,1:31.560
+7,20,Kevin Magnussen,Haas F1 Team,1:31.955,1:31.461,1:31.808
+8,14,Fernando Alonso,Alpine F1 Team,1:32.346,1:31.621,1:32.195
+9,63,George Russell,Mercedes,1:32.269,1:31.252,1:32.216
+10,10,Pierre Gasly,AlphaTauri,1:32.096,1:31.635,1:32.338
+11,31,Esteban Ocon,Alpine F1 Team,1:32.041,1:31.782,
+12,47,Mick Schumacher,Haas F1 Team,1:32.380,1:31.998,
+13,4,Lando Norris,McLaren,1:32.239,1:32.008,
+14,23,Alexander Albon,Williams,1:32.726,1:32.664,
+15,24,Guanyu Zhou,Alfa Romeo,1:32.493,1:33.543,
+16,22,Yuki Tsunoda,AlphaTauri,1:32.750,,
+17,27,Nico Hülkenberg,Aston Martin,1:32.777,,
+18,3,Daniel Ricciardo,McLaren,1:32.945,,
+19,18,Lance Stroll,Aston Martin,1:33.032,,
+20,6,Nicholas Latifi,Williams,1:33.634,,

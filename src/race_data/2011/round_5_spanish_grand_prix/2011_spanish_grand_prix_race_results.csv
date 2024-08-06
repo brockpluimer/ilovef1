@@ -1,0 +1,25 @@
+position,number,driver,constructor,laps,grid,status,points
+1,1,Sebastian Vettel,Red Bull,66,2,Finished,25
+2,3,Lewis Hamilton,McLaren,66,3,Finished,18
+3,4,Jenson Button,McLaren,66,5,Finished,15
+4,2,Mark Webber,Red Bull,66,1,Finished,12
+5,5,Fernando Alonso,Ferrari,65,4,+1 Lap,10
+6,7,Michael Schumacher,Mercedes,65,10,+1 Lap,8
+7,8,Nico Rosberg,Mercedes,65,7,+1 Lap,6
+8,9,Nick Heidfeld,Renault,65,24,+1 Lap,4
+9,17,Sergio Pérez,Sauber,65,12,+1 Lap,2
+10,16,Kamui Kobayashi,Sauber,65,14,+1 Lap,1
+11,10,Vitaly Petrov,Renault,65,6,+1 Lap,0
+12,15,Paul di Resta,Force India,65,16,+1 Lap,0
+13,14,Adrian Sutil,Force India,65,17,+1 Lap,0
+14,18,Sébastien Buemi,Toro Rosso,65,11,+1 Lap,0
+15,12,Pastor Maldonado,Williams,65,9,+1 Lap,0
+16,19,Jaime Alguersuari,Toro Rosso,64,13,+2 Laps,0
+17,11,Rubens Barrichello,Williams,64,19,+2 Laps,0
+18,21,Jarno Trulli,Lotus,64,18,+2 Laps,0
+19,24,Timo Glock,Virgin,63,20,+3 Laps,0
+20,25,Jérôme d'Ambrosio,Virgin,62,23,+4 Laps,0
+21,22,Narain Karthikeyan,HRT,61,22,+5 Laps,0
+22,6,Felipe Massa,Ferrari,58,8,Gearbox,0
+23,20,Heikki Kovalainen,Lotus,48,15,Accident,0
+24,23,Vitantonio Liuzzi,HRT,28,21,Gearbox,0

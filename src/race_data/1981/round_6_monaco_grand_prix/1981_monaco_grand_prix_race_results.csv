@@ -1,0 +1,31 @@
+position,number,driver,constructor,laps,grid,status,points
+1,27,Gilles Villeneuve,Ferrari,76,2,Finished,9
+2,1,Alan Jones,Williams,76,7,Finished,6
+3,26,Jacques Laffite,Ligier,76,8,Finished,4
+4,28,Didier Pironi,Ferrari,75,17,+1 Lap,3
+5,3,Eddie Cheever,Tyrrell,74,15,+2 Laps,2
+6,14,Marc Surer,Ensign,74,19,+2 Laps,1
+7,33,Patrick Tambay,Theodore,72,16,+4 Laps,0
+8,5,Nelson Piquet,Brabham,53,1,Spun off,0
+9,7,John Watson,McLaren,52,10,Engine,0
+10,4,Michele Alboreto,Tyrrell,50,20,Collision,0
+11,23,Bruno Giacomelli,Alfa Romeo,50,18,Collision,0
+12,15,Alain Prost,Renault,45,9,Engine,0
+13,2,Carlos Reutemann,Williams,33,4,Gearbox,0
+14,11,Elio de Angelis,Team Lotus,32,6,Engine,0
+15,16,René Arnoux,Renault,32,13,Spun off,0
+16,29,Riccardo Patrese,Arrows,29,5,Gearbox,0
+17,12,Nigel Mansell,Team Lotus,15,3,Suspension,0
+18,30,Siegfried Stohr,Arrows,14,14,Fuel system,0
+19,8,Andrea de Cesaris,McLaren,0,11,Collision,0
+20,22,Mario Andretti,Alfa Romeo,0,12,Collision,0
+21,20,Keke Rosberg,Fittipaldi,0,0,Did not qualify,0
+22,25,Jean-Pierre Jabouille,Ligier,0,0,Did not qualify,0
+23,6,Hector Rebaque,Brabham,0,0,Did not qualify,0
+24,21,Chico Serra,Fittipaldi,0,0,Did not qualify,0
+25,32,Piercarlo Ghinzani,Osella,0,0,Did not qualify,0
+26,31,Beppe Gabbiani,Osella,0,0,Did not qualify,0
+27,10,Slim Borgudd,ATS,0,0,Did not qualify,0
+28,18,Derek Daly,March,0,0,Did not qualify,0
+29,17,Eliseo Salazar,March,0,0,Did not qualify,0
+30,35,Brian Henton,Toleman,0,0,Did not qualify,0

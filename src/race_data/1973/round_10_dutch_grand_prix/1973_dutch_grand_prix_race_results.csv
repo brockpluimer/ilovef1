@@ -1,0 +1,25 @@
+position,number,driver,constructor,laps,grid,status,points
+1,5,Jackie Stewart,Tyrrell,72,2,Finished,9
+2,6,François Cevert,Tyrrell,72,3,Finished,6
+3,27,James Hunt,March,72,7,Finished,4
+4,8,Peter Revson,McLaren,72,6,Finished,3
+5,20,Jean-Pierre Beltoise,BRM,72,9,Finished,2
+6,26,Gijs van Lennep,Iso Marlboro,70,20,+2 Laps,1
+7,24,Carlos Pace,Surtees,69,8,+3 Laps,0
+8,19,Clay Regazzoni,BRM,68,12,+4 Laps,0
+9,25,Howden Ganley,Iso Marlboro,68,15,+4 Laps,0
+10,16,George Follmer,Shadow,67,22,+5 Laps,0
+11,2,Ronnie Peterson,Team Lotus,66,1,Engine,0
+12,12,Graham Hill,Shadow,56,17,Not classified,0
+13,21,Niki Lauda,BRM,52,11,Fuel pump,0
+14,23,Mike Hailwood,Surtees,52,24,Electrical,0
+15,7,Denny Hulme,McLaren,31,4,Engine,0
+16,11,Wilson Fittipaldi,Brabham,27,13,Accident,0
+17,22,Chris Amon,Tecno,22,19,Fuel system,0
+18,10,Carlos Reutemann,Brabham,9,5,Tyre,0
+19,18,David Purley,March,8,21,Withdrew,0
+20,14,Roger Williamson,March,7,18,Accident,0
+21,1,Emerson Fittipaldi,Team Lotus,2,16,Physical,0
+22,15,Mike Beuttler,March,2,23,Electrical,0
+23,17,Jackie Oliver,Shadow,1,10,Accident,0
+24,28,Rikky von Opel,Ensign,0,14,Withdrew,0

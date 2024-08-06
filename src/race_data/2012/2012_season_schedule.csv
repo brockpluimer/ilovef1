@@ -1,0 +1,21 @@
+round,raceName,date,time,circuit,country
+1,Australian Grand Prix,2012-03-18,06:00:00Z,Albert Park Grand Prix Circuit,Australia
+2,Malaysian Grand Prix,2012-03-25,08:00:00Z,Sepang International Circuit,Malaysia
+3,Chinese Grand Prix,2012-04-15,07:00:00Z,Shanghai International Circuit,China
+4,Bahrain Grand Prix,2012-04-22,12:00:00Z,Bahrain International Circuit,Bahrain
+5,Spanish Grand Prix,2012-05-13,12:00:00Z,Circuit de Barcelona-Catalunya,Spain
+6,Monaco Grand Prix,2012-05-27,12:00:00Z,Circuit de Monaco,Monaco
+7,Canadian Grand Prix,2012-06-10,18:00:00Z,Circuit Gilles Villeneuve,Canada
+8,European Grand Prix,2012-06-24,12:00:00Z,Valencia Street Circuit,Spain
+9,British Grand Prix,2012-07-08,12:00:00Z,Silverstone Circuit,UK
+10,German Grand Prix,2012-07-22,12:00:00Z,Hockenheimring,Germany
+11,Hungarian Grand Prix,2012-07-29,12:00:00Z,Hungaroring,Hungary
+12,Belgian Grand Prix,2012-09-02,12:00:00Z,Circuit de Spa-Francorchamps,Belgium
+13,Italian Grand Prix,2012-09-09,12:00:00Z,Autodromo Nazionale di Monza,Italy
+14,Singapore Grand Prix,2012-09-23,12:00:00Z,Marina Bay Street Circuit,Singapore
+15,Japanese Grand Prix,2012-10-07,06:00:00Z,Suzuka Circuit,Japan
+16,Korean Grand Prix,2012-10-14,06:00:00Z,Korean International Circuit,Korea
+17,Indian Grand Prix,2012-10-28,09:30:00Z,Buddh International Circuit,India
+18,Abu Dhabi Grand Prix,2012-11-04,13:00:00Z,Yas Marina Circuit,UAE
+19,United States Grand Prix,2012-11-18,19:00:00Z,Circuit of the Americas,USA
+20,Brazilian Grand Prix,2012-11-25,16:00:00Z,Autódromo José Carlos Pace,Brazil

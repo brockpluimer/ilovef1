@@ -1,0 +1,18 @@
+position,number,driver,constructor,laps,grid,status,points
+1,2,Juan Fangio,Maserati,100,2,Finished,8
+2,6,Jean Behra,Maserati,100,3,Finished,6
+3,8,Carlos Menditeguy,Maserati,99,8,+1 Lap,4
+4,22,Harry Schell,Maserati,98,9,+2 Laps,3
+5,20,José Froilán González,Ferrari,98,10,+2 Laps,1
+5,20,Alfonso de Portago,Ferrari,98,10,+2 Laps,1
+6,18,Peter Collins,Ferrari,98,11,+2 Laps,0
+6,18,Wolfgang von Trips,Ferrari,98,11,+2 Laps,0
+6,18,Cesare Perdisa,Ferrari,98,11,+2 Laps,0
+7,24,Jo Bonnier,Maserati,95,13,+5 Laps,0
+8,4,Stirling Moss,Maserati,93,1,+7 Laps,1
+9,26,Alessandro de Tomaso,Ferrari,91,12,+9 Laps,0
+10,28,Luigi Piotti,Maserati,90,14,+10 Laps,0
+11,14,Eugenio Castellotti,Ferrari,75,4,Wheel,0
+12,16,Mike Hawthorn,Ferrari,35,7,Clutch,0
+13,12,Luigi Musso,Ferrari,31,6,Clutch,0
+14,10,Peter Collins,Ferrari,26,5,Clutch,0

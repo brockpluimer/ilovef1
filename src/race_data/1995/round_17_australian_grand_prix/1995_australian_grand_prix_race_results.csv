@@ -1,0 +1,25 @@
+position,number,driver,constructor,laps,grid,status,points
+1,5,Damon Hill,Williams,81,1,Finished,10
+2,26,Olivier Panis,Ligier,79,12,+2 Laps,6
+3,9,Gianni Morbidelli,Footwork,79,13,+2 Laps,4
+4,7,Mark Blundell,McLaren,79,10,+2 Laps,3
+5,4,Mika Salo,Tyrrell,78,14,+3 Laps,2
+6,23,Pedro Lamy,Minardi,78,17,+3 Laps,1
+7,21,Pedro Diniz,Forti,77,21,+4 Laps,0
+8,16,Bertrand Gachot,Pacific,76,23,+5 Laps,0
+9,3,Ukyo Katayama,Tyrrell,70,16,Engine,0
+10,2,Johnny Herbert,Benetton,69,8,Transmission,0
+11,15,Eddie Irvine,Jordan,62,9,Engine,0
+12,30,Heinz-Harald Frentzen,Sauber,39,6,Gearbox,0
+13,28,Gerhard Berger,Ferrari,34,4,Engine,0
+14,25,Martin Brundle,Ligier,29,11,Spun off,0
+15,1,Michael Schumacher,Benetton,25,3,Collision,0
+16,27,Jean Alesi,Ferrari,23,5,Collision,0
+17,22,Roberto Moreno,Forti,21,20,Spun off,0
+18,14,Rubens Barrichello,Jordan,20,7,Spun off,0
+19,6,David Coulthard,Williams,19,2,Accident,0
+20,10,Taki Inoue,Footwork,15,19,Spun off,0
+21,29,Karl Wendlinger,Sauber,8,18,Physical,0
+22,17,Andrea Montermini,Pacific,2,22,Gearbox,0
+23,24,Luca Badoer,Minardi,0,15,Electrical,0
+24,8,Mika Häkkinen,McLaren,0,24,Injured,0

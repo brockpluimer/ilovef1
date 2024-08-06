@@ -1,0 +1,31 @@
+position,number,driver,constructor,laps,grid,status,points
+1,6,Bob Sweikert,Kurtis Kraft,200,14,Finished,8
+2,10,Tony Bettenhausen,Kurtis Kraft,200,2,Finished,3
+2,10,Paul Russo,Kurtis Kraft,200,2,Finished,3
+3,15,Jimmy Davies,Kurtis Kraft,200,10,Finished,4
+4,44,Johnny Thomson,Kuzma,200,33,Finished,3
+5,77,Bill Homeier,Kurtis Kraft,200,7,Finished,1
+5,77,Walt Faulkner,Kurtis Kraft,200,7,Finished,1
+6,19,Andy Linden,Kurtis Kraft,200,8,Finished,0
+7,71,Al Herman,Kurtis Kraft,200,16,Finished,0
+8,29,Pat O'Connor,Kurtis Kraft,200,19,Finished,0
+9,48,Jimmy Daywalt,Kurtis Kraft,200,17,Finished,0
+10,89,Pat Flaherty,Kurtis Kraft,200,12,Finished,0
+11,98,Duane Carter,Kuzma,197,18,+3 Laps,0
+12,41,Chuck Weyant,Kurtis Kraft,196,25,+4 Laps,0
+13,83,Eddie Johnson,Trevis,196,32,+4 Laps,0
+14,33,Jim Rathmann,Epperly,191,20,+9 Laps,0
+15,12,Don Freeland,Phillips,178,21,Transmission,0
+16,22,Cal Niday,Kurtis Kraft,170,9,Accident,0
+17,99,Art Cross,Kurtis Kraft,168,24,Engine,0
+18,81,Shorty Templeman,Trevis,142,31,Transmission,0
+19,8,Sam Hanks,Kurtis Kraft,134,6,Transmission,0
+20,31,Keith Andrews,Schroeder,120,28,Fuel pump,0
+21,16,Johnnie Parsons,Kurtis Kraft,119,27,Magneto,0
+22,37,Eddie Russo,Pawl,112,13,Ignition,0
+23,49,Ray Crawford,Kurtis Kraft,111,23,Engine,0
+24,1,Jimmy Bryan,Kuzma,90,11,Fuel pump,0
+25,4,Bill Vukovich,Kurtis Kraft,56,5,Accident,1
+26,3,Jack McGrath,Kurtis Kraft,54,3,Magneto,0
+27,42,Al Keller,Kurtis Kraft,54,22,Accident,0
+28,27,Rodger Ward,Kuzma,53,30,Accident,0

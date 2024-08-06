@@ -1,0 +1,27 @@
+position,number,driver,constructor,laps,grid,status,points
+1,5,Nigel Mansell,Williams,63,1,Finished,9
+2,6,Nelson Piquet,Williams,63,3,Finished,6
+3,7,Riccardo Patrese,Brabham,63,8,Finished,4
+4,18,Eddie Cheever,Arrows,63,13,Finished,3
+5,19,Teo Fabi,Benetton,61,6,+2 Laps,2
+6,30,Philippe Alliot,Larrousse,60,24,+3 Laps,1
+7,3,Jonathan Palmer,Tyrrell,60,22,+3 Laps,0
+8,4,Philippe Streiff,Tyrrell,60,25,+3 Laps,0
+9,29,Yannick Dalmas,Larrousse,59,23,+4 Laps,0
+10,12,Ayrton Senna,Team Lotus,54,7,Spun off,0
+11,16,Ivan Capelli,March,51,20,Water leak,0
+12,21,Alex Caffi,Osella,50,26,Engine,0
+13,26,Piercarlo Ghinzani,Ligier,43,21,Water leak,0
+14,23,Adrián Campos,Minardi,32,19,Transmission,0
+15,25,René Arnoux,Ligier,29,18,Overheating,0
+16,17,Derek Warwick,Arrows,26,11,Accident,0
+17,8,Andrea de Cesaris,Brabham,22,10,Accident,0
+18,28,Gerhard Berger,Ferrari,20,2,Turbo,0
+19,20,Thierry Boutsen,Benetton,15,4,Electrical,0
+20,24,Alessandro Nannini,Minardi,13,14,Turbo,0
+21,27,Michele Alboreto,Ferrari,12,9,Engine,0
+22,9,Martin Brundle,Zakspeed,3,13,Turbo,0
+23,2,Stefan Johansson,McLaren,1,15,Accident,0
+24,11,Satoru Nakajima,Team Lotus,1,16,Accident,0
+25,10,Christian Danner,Zakspeed,1,17,Accident,0
+26,1,Alain Prost,McLaren,0,5,Collision,0

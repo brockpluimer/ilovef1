@@ -1,0 +1,31 @@
+position,number,driver,constructor,laps,grid,status,points
+1,1,Ayrton Senna,McLaren,14,1,Finished,5
+2,5,Nigel Mansell,Williams,14,3,Finished,3
+3,2,Gerhard Berger,McLaren,14,2,Finished,2
+4,20,Nelson Piquet,Benetton,14,5,Finished,1.5
+5,6,Riccardo Patrese,Williams,14,4,Finished,1
+6,27,Gianni Morbidelli,Ferrari,14,8,Finished,0.5
+7,21,Emanuele Pirro,Dallara,14,13,Finished,0
+8,33,Andrea de Cesaris,Jordan,14,12,Finished,0
+9,32,Alessandro Zanardi,Jordan,14,16,Finished,0
+10,4,Stefano Modena,Tyrrell,14,9,Finished,0
+11,12,Johnny Herbert,Team Lotus,14,21,Finished,0
+12,22,Jyrki Järvilehto,Dallara,14,11,Finished,0
+13,9,Michele Alboreto,Footwork,14,15,Finished,0
+14,15,Maurício Gugelmin,Leyton House,13,14,+1 Lap,0
+15,10,Alex Caffi,Footwork,13,23,+1 Lap,0
+16,24,Roberto Moreno,Minardi,13,18,+1 Lap,0
+17,8,Mark Blundell,Brabham,13,17,+1 Lap,0
+18,26,Érik Comas,Ligier,13,22,+1 Lap,0
+19,11,Mika Häkkinen,Team Lotus,13,25,+2 Laps,0
+20,16,Karl Wendlinger,Leyton House,12,26,+2 Laps,0
+21,23,Pierluigi Martini,Minardi,8,10,Spun off,0
+22,19,Michael Schumacher,Benetton,5,6,Spun off,0
+23,28,Jean Alesi,Ferrari,5,7,Accident,0
+24,34,Nicola Larini,Lambo,5,19,Spun off,0
+25,25,Thierry Boutsen,Ligier,5,20,Accident,0
+26,3,Satoru Nakajima,Tyrrell,4,24,Spun off,0
+27,30,Aguri Suzuki,Larrousse,0,0,Did not qualify,0
+28,7,Martin Brundle,Brabham,0,0,Did not qualify,0
+29,35,Eric van de Poele,Lambo,0,0,Did not qualify,0
+30,29,Bertrand Gachot,Larrousse,0,0,Did not qualify,0

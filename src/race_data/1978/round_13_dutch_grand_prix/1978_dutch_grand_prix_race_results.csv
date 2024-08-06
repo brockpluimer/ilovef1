@@ -1,0 +1,31 @@
+position,number,driver,constructor,laps,grid,status,points
+1,5,Mario Andretti,Team Lotus,75,1,Finished,9
+2,6,Ronnie Peterson,Team Lotus,75,2,Finished,6
+3,1,Niki Lauda,Brabham,75,3,Finished,4
+4,2,John Watson,Brabham,75,8,Finished,3
+5,14,Emerson Fittipaldi,Fittipaldi,75,10,Finished,2
+6,12,Gilles Villeneuve,Ferrari,75,5,Finished,1
+7,11,Carlos Reutemann,Ferrari,75,4,Finished,0
+8,26,Jacques Laffite,Ligier,74,6,+1 Lap,0
+9,8,Patrick Tambay,McLaren,74,14,+1 Lap,0
+10,7,James Hunt,McLaren,74,7,+1 Lap,0
+11,25,Hector Rebaque,Team Lotus,74,20,+1 Lap,0
+12,20,Jody Scheckter,Wolf,73,15,+2 Laps,0
+13,33,Bruno Giacomelli,McLaren,60,19,Spun off,0
+14,16,Hans-Joachim Stuck,Shadow,56,18,Transmission,0
+15,31,René Arnoux,Martini,40,23,Chassis,0
+16,37,Arturo Merzario,Merzario,40,26,Engine,0
+17,19,Vittorio Brambilla,Surtees,37,22,Disqualified,0
+18,15,Jean-Pierre Jabouille,Renault,35,9,Engine,0
+19,30,Brett Lunger,McLaren,35,21,Engine,0
+20,32,Keke Rosberg,Wolf,21,24,Accident,0
+21,27,Alan Jones,Williams,17,11,Throttle,0
+22,29,Nelson Piquet,McLaren,16,25,Transmission,0
+23,4,Patrick Depailler,Tyrrell,13,12,Engine,0
+24,22,Derek Daly,Ensign,10,16,Transmission,0
+25,35,Riccardo Patrese,Arrows,0,13,Accident,0
+26,3,Didier Pironi,Tyrrell,0,17,Accident,0
+27,18,Rupert Keegan,Surtees,0,0,Withdrew,0
+28,17,Clay Regazzoni,Shadow,0,0,Did not qualify,0
+29,10,Michael Bleekemolen,ATS,0,0,Did not qualify,0
+30,9,Jochen Mass,ATS,0,0,Did not qualify,0

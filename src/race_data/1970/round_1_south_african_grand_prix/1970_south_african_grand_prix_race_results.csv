@@ -1,0 +1,24 @@
+position,number,driver,constructor,laps,grid,status,points
+1,12,Jack Brabham,Brabham,80,3,Finished,9
+2,6,Denny Hulme,McLaren-Ford,80,6,Finished,6
+3,1,Jackie Stewart,March,80,1,Finished,4
+4,3,Jean-Pierre Beltoise,Matra,80,8,Finished,3
+5,10,John Miles,Team Lotus,79,14,+1 Lap,2
+6,11,Graham Hill,Team Lotus,79,19,+1 Lap,1
+7,4,Henri Pescarolo,Matra,78,18,+2 Laps,0
+8,23,John Love,Team Lotus,78,22,+2 Laps,0
+9,20,Pedro Rodríguez,BRM,76,16,+4 Laps,0
+10,16,Jo Siffert,March,75,9,+5 Laps,0
+11,24,Peter de Klerk,Brabham,75,21,+5 Laps,0
+12,25,Dave Charlton,Team Lotus,73,13,Engine,0
+13,9,Jochen Rindt,Team Lotus,72,4,Engine,0
+14,17,Jacky Ickx,Ferrari,60,5,Engine,0
+15,7,John Surtees,McLaren-Ford,60,7,Engine,0
+16,21,George Eaton,BRM,58,23,Engine,0
+17,2,Johnny Servoz-Gavin,March,57,17,Engine,0
+18,5,Bruce McLaren,McLaren-Ford,39,10,Engine,0
+19,22,Piers Courage,De Tomaso,39,20,Accident,0
+20,8,Mario Andretti,March,26,11,Overheating,0
+21,14,Rolf Stommelen,Brabham,23,15,Engine,0
+22,19,Jackie Oliver,BRM,22,12,Gearbox,0
+23,15,Chris Amon,March,14,2,Overheating,0

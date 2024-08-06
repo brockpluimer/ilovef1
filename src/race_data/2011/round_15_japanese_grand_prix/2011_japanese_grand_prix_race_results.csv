@@ -1,0 +1,25 @@
+position,number,driver,constructor,laps,grid,status,points
+1,4,Jenson Button,McLaren,53,2,Finished,25
+2,5,Fernando Alonso,Ferrari,53,5,Finished,18
+3,1,Sebastian Vettel,Red Bull,53,1,Finished,15
+4,2,Mark Webber,Red Bull,53,6,Finished,12
+5,3,Lewis Hamilton,McLaren,53,3,Finished,10
+6,7,Michael Schumacher,Mercedes,53,8,Finished,8
+7,6,Felipe Massa,Ferrari,53,4,Finished,6
+8,17,Sergio Pérez,Sauber,53,17,Finished,4
+9,10,Vitaly Petrov,Renault,53,10,Finished,2
+10,8,Nico Rosberg,Mercedes,53,23,Finished,1
+11,14,Adrian Sutil,Force India,53,11,Finished,0
+12,15,Paul di Resta,Force India,53,12,Finished,0
+13,16,Kamui Kobayashi,Sauber,53,7,Finished,0
+14,12,Pastor Maldonado,Williams,53,14,Finished,0
+15,19,Jaime Alguersuari,Toro Rosso,53,16,Finished,0
+16,9,Bruno Senna,Renault,53,9,Finished,0
+17,11,Rubens Barrichello,Williams,53,13,Finished,0
+18,20,Heikki Kovalainen,Lotus,53,18,Finished,0
+19,21,Jarno Trulli,Lotus,53,19,Finished,0
+20,24,Timo Glock,Virgin,51,21,+2 Laps,0
+21,25,Jérôme d'Ambrosio,Virgin,51,20,+2 Laps,0
+22,22,Daniel Ricciardo,HRT,51,22,+2 Laps,0
+23,23,Vitantonio Liuzzi,HRT,50,24,+3 Laps,0
+24,18,Sébastien Buemi,Toro Rosso,11,15,Wheel,0

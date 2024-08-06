@@ -1,0 +1,24 @@
+position,number,driver,constructor,laps,grid,status,points
+1,2,Alberto Ascari,Ferrari,80,3,Finished,8
+2,6,José Froilán González,Ferrari,80,4,Finished,6
+3,40,Felice Bonetto,Alfa Romeo,79,7,+1 Lap,2
+3,40,Nino Farina,Alfa Romeo,79,7,+1 Lap,3
+4,4,Luigi Villoresi,Ferrari,79,5,+1 Lap,3
+5,8,Piero Taruffi,Ferrari,78,6,+2 Laps,2
+6,48,André Simon,Simca,74,11,+6 Laps,0
+7,18,Louis Rosier,Talbot-Lago,73,15,+7 Laps,0
+8,24,Yves Cabantous,Talbot-Lago,72,14,+8 Laps,0
+9,44,Franco Rol,OSCA,67,18,+13 Laps,0
+10,38,Juan Fangio,Alfa Romeo,39,1,Engine,0
+11,50,Maurice Trintignant,Simca,29,12,Engine,0
+12,46,Robert Manzon,Simca,29,13,Engine,0
+13,20,Louis Chiron,Talbot-Lago,23,17,Ignition,0
+14,22,Pierre Levegh,Talbot-Lago,9,20,Engine,0
+15,28,Jacques Swaters,Talbot-Lago,7,22,Overheating,0
+16,34,Nino Farina,Alfa Romeo,6,2,Engine,0
+17,26,Johnny Claes,Talbot-Lago,4,21,Oil pump,0
+18,36,Toulo de Graffenried,Alfa Romeo,1,9,Supercharger,0
+19,16,Peter Whitehead,Ferrari,1,19,Magneto,0
+20,12,Chico Landi,Ferrari,0,16,Transmission,0
+21,30,Reg Parnell,BRM,0,8,Withdrew,0
+22,32,Ken Richardson,BRM,0,10,Withdrew,0

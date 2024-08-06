@@ -1,0 +1,18 @@
+position,number,driver,constructor,laps,grid,status,points
+1,3,Graham Hill,BRM,100,1,Finished,9
+2,17,Lorenzo Bandini,Ferrari,100,4,Finished,6
+3,4,Jackie Stewart,BRM,100,3,Finished,4
+4,18,John Surtees,Ferrari,99,5,Out of fuel,3
+5,7,Bruce McLaren,Cooper-Climax,98,7,+2 Laps,2
+6,14,Jo Siffert,Brabham-BRM,98,10,+2 Laps,1
+7,12,Jo Bonnier,Brabham-Climax,97,13,+3 Laps,0
+8,2,Denny Hulme,Brabham-Climax,92,8,+8 Laps,0
+9,9,Bob Anderson,Brabham-Climax,85,9,+15 Laps,0
+10,10,Paul Hawkins,Lotus-Climax,79,14,Accident,0
+11,1,Jack Brabham,Brabham-Climax,43,2,Engine,0
+12,15,Richard Attwood,Lotus-BRM,43,6,Wheel,0
+13,19,Ronnie Bucknum,Honda,33,15,Gearbox,0
+14,11,Frank Gardner,Brabham-BRM,29,11,Engine,0
+15,16,Mike Hailwood,Lotus-BRM,12,12,Gearbox,0
+16,20,Richie Ginther,Honda,0,17,Halfshaft,0
+17,8,Jochen Rindt,Cooper-Climax,0,0,Did not qualify,0

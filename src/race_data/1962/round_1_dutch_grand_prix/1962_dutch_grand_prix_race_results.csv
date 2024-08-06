@@ -1,0 +1,23 @@
+position,number,driver,constructor,laps,grid,status,points
+1,17,Graham Hill,BRM,80,2,Finished,9
+2,5,Trevor Taylor,Lotus-Climax,80,10,Finished,6
+3,1,Phil Hill,Ferrari,80,9,Finished,4
+4,2,Giancarlo Baghetti,Ferrari,79,12,+1 Lap,3
+5,7,Tony Maggs,Cooper-Climax,78,15,+2 Laps,2
+6,14,Carel Godin de Beaufort,Porsche,76,14,+4 Laps,1
+7,11,Jo Bonnier,Porsche,75,13,+5 Laps,0
+8,21,Jackie Lewis,Cooper-Climax,70,7,+10 Laps,0
+9,4,Jim Clark,Lotus-Climax,70,3,+10 Laps,0
+10,3,Ricardo Rodríguez,Ferrari,73,11,Accident,0
+11,18,Richie Ginther,BRM,71,7,Accident,0
+12,9,Innes Ireland,Lotus-Climax,61,6,Accident,0
+13,10,Masten Gregory,Lotus-Climax,54,16,Halfshaft,0
+14,16,Wolfgang Seidel,Emeryson,52,20,Not classified,0
+15,12,Dan Gurney,Porsche,47,8,Gearbox,0
+16,6,Bruce McLaren,Cooper-Climax,21,5,Gearbox,0
+17,20,Roy Salvadori,Lola,12,17,Withdrew,0
+18,19,John Surtees,Lola,8,1,Accident,0
+19,8,Jack Brabham,Lotus-Climax,4,4,Accident,0
+20,15,Ben Pon,Porsche,2,10,Accident,0
+21,16,Rob Slotemaker,Porsche,0,0,Withdrew,0
+22,21,Maurice Trintignant,Lotus-Climax,0,0,Withdrew,0

@@ -1,0 +1,26 @@
+position,number,driver,constructor,laps,grid,status,points
+1,16,Mike Hawthorn,Ferrari,60,7,Finished,8
+2,18,Juan Fangio,Maserati,60,4,Finished,7
+3,20,José Froilán González,Maserati,60,5,Finished,4
+4,10,Alberto Ascari,Ferrari,60,1,Finished,3
+5,14,Nino Farina,Ferrari,60,6,Finished,2
+6,12,Luigi Villoresi,Ferrari,60,3,Finished,0
+7,46,Toulo de Graffenried,Maserati,58,9,+2 Laps,0
+8,44,Louis Rosier,Ferrari,56,10,+4 Laps,0
+9,22,Onofre Marimón,Maserati,55,8,+5 Laps,0
+10,2,Jean Behra,Gordini,55,22,+5 Laps,0
+11,38,Bob Gerard,Cooper,55,12,+5 Laps,0
+12,48,Johnny Claes,Connaught,53,21,+7 Laps,0
+13,28,Peter Collins,HWM,52,17,+8 Laps,0
+14,30,Yves Cabantous,HWM,50,18,+10 Laps,0
+15,32,Louis Chiron,OSCA,43,25,+17 Laps,0
+16,24,Felice Bonetto,Maserati,42,2,Engine,0
+17,36,Stirling Moss,Cooper,38,13,Clutch,0
+18,42,Prince Bira,Connaught,29,11,Differential,0
+19,34,Élie Bayol,OSCA,18,15,Engine,0
+20,40,Ken Wharton,Cooper,17,14,Wheel bearing,0
+21,4,Maurice Trintignant,Gordini,14,23,Transmission,0
+22,26,Lance Macklin,HWM,9,16,Clutch,0
+23,6,Harry Schell,Gordini,4,20,Engine,0
+24,8,Roberto Mieres,Gordini,4,24,Axle,0
+25,50,Roy Salvadori,Connaught,2,19,Ignition,0

@@ -1,0 +1,25 @@
+position,number,driver,constructor,laps,grid,status,points
+1,1,Sebastian Vettel,Red Bull,60,1,Finished,25
+2,4,Jenson Button,McLaren,60,4,Finished,18
+3,5,Fernando Alonso,Ferrari,60,3,Finished,15
+4,2,Mark Webber,Red Bull,60,2,Finished,12
+5,7,Michael Schumacher,Mercedes,60,11,Finished,10
+6,8,Nico Rosberg,Mercedes,60,7,Finished,8
+7,3,Lewis Hamilton,McLaren,60,5,Finished,6
+8,19,Jaime Alguersuari,Toro Rosso,59,10,+1 Lap,4
+9,14,Adrian Sutil,Force India,59,8,+1 Lap,2
+10,17,Sergio Pérez,Sauber,59,20,+1 Lap,1
+11,10,Vitaly Petrov,Renault,59,16,+1 Lap,0
+12,9,Bruno Senna,Renault,59,14,+1 Lap,0
+13,15,Paul di Resta,Force India,59,12,+1 Lap,0
+14,20,Heikki Kovalainen,Lotus,58,18,+2 Laps,0
+15,11,Rubens Barrichello,Williams,58,15,+2 Laps,0
+16,25,Jérôme d'Ambrosio,Virgin,57,21,+3 Laps,0
+17,22,Narain Karthikeyan,HRT,57,24,+3 Laps,0
+18,23,Daniel Ricciardo,HRT,57,23,+3 Laps,0
+19,21,Jarno Trulli,Lotus,55,19,+5 Laps,0
+20,6,Felipe Massa,Ferrari,32,6,Suspension,0
+21,18,Sébastien Buemi,Toro Rosso,24,9,Engine,0
+22,12,Pastor Maldonado,Williams,12,13,Gearbox,0
+23,24,Timo Glock,Virgin,2,22,Collision,0
+24,16,Kamui Kobayashi,Sauber,0,17,Collision,0

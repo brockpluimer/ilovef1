@@ -1,0 +1,31 @@
+position,number,driver,constructor,laps,grid,status,points
+1,1,Jackie Stewart,Tyrrell,59,1,Finished,9
+2,2,François Cevert,Tyrrell,59,4,Finished,6
+3,19,Denny Hulme,McLaren,59,3,Finished,4
+4,4,Ronnie Peterson,March,59,26,Finished,3
+5,7,Jacky Ickx,Ferrari,59,12,Finished,2
+6,9,Mario Andretti,Ferrari,58,10,+1 Lap,1
+7,3,Patrick Depailler,Tyrrell,58,11,+1 Lap,0
+8,8,Clay Regazzoni,Ferrari,58,6,+1 Lap,0
+9,21,Jody Scheckter,McLaren,58,8,+1 Lap,0
+10,12,Reine Wisell,Team Lotus,57,16,+2 Laps,0
+11,28,Graham Hill,Brabham,57,27,+2 Laps,0
+12,34,Sam Posey,Surtees,57,22,+2 Laps,0
+13,6,Mike Beuttler,March,57,20,+2 Laps,0
+14,26,Henri Pescarolo,March,57,21,+2 Laps,0
+15,18,Chris Amon,Matra,57,7,+2 Laps,0
+16,33,Skip Barber,March,57,20,+2 Laps,0
+17,23,Mike Hailwood,Surtees,56,14,Collision,0
+18,20,Peter Revson,McLaren,54,2,Electrical,0
+19,5,Niki Lauda,March,49,25,Not classified,0
+20,27,Carlos Pace,March,48,15,Fuel system,0
+21,14,Peter Gethin,BRM,47,28,Engine,0
+22,16,Howden Ganley,BRM,44,17,Engine,0
+23,11,David Walker,Team Lotus,44,30,Engine,0
+24,30,Wilson Fittipaldi,Brabham,43,13,Engine,0
+25,17,Jean-Pierre Beltoise,BRM,40,18,Ignition,0
+26,15,Brian Redman,BRM,34,24,Engine,0
+27,29,Carlos Reutemann,Brabham,31,5,Engine,0
+28,25,Andrea de Adamich,Surtees,25,19,Collision,0
+29,24,Tim Schenken,Surtees,22,31,Suspension,0
+30,10,Emerson Fittipaldi,Team Lotus,17,9,Suspension,0

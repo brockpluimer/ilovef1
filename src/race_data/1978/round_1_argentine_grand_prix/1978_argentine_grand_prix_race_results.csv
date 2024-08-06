@@ -1,0 +1,28 @@
+position,number,driver,constructor,laps,grid,status,points
+1,5,Mario Andretti,Team Lotus,52,1,Finished,9
+2,1,Niki Lauda,Brabham,52,5,Finished,6
+3,4,Patrick Depailler,Tyrrell,52,10,Finished,4
+4,7,James Hunt,McLaren,52,6,Finished,3
+5,6,Ronnie Peterson,Team Lotus,52,3,Finished,2
+6,8,Patrick Tambay,McLaren,52,9,Finished,1
+7,11,Carlos Reutemann,Ferrari,52,2,Finished,0
+8,12,Gilles Villeneuve,Ferrari,52,7,Finished,0
+9,14,Emerson Fittipaldi,Fittipaldi,52,17,Finished,0
+10,20,Jody Scheckter,Wolf,52,15,Finished,0
+11,9,Jochen Mass,ATS,52,13,Finished,0
+12,10,Jean-Pierre Jarier,ATS,51,11,+1 Lap,0
+13,30,Brett Lunger,McLaren,51,24,+1 Lap,0
+14,3,Didier Pironi,Tyrrell,51,23,+1 Lap,0
+15,17,Clay Regazzoni,Shadow,51,16,+1 Lap,0
+16,26,Jacques Laffite,Ligier,50,8,Engine,0
+17,16,Hans-Joachim Stuck,Shadow,50,18,+2 Laps,0
+18,19,Vittorio Brambilla,Surtees,50,12,+2 Laps,0
+19,2,John Watson,Brabham,41,4,Engine,0
+20,27,Alan Jones,Williams,36,14,Fuel system,0
+21,22,Danny Ongais,Ensign,35,21,Distributor,0
+22,23,Lamberto Leoni,Ensign,28,22,Engine,0
+23,37,Arturo Merzario,Merzario,9,20,Differential,0
+24,18,Rupert Keegan,Surtees,4,19,Overheating,0
+25,25,Hector Rebaque,Team Lotus,0,0,Did not qualify,0
+26,32,Eddie Cheever,Theodore,0,0,Did not qualify,0
+27,24,Divina Galica,Hesketh,0,0,Did not qualify,0

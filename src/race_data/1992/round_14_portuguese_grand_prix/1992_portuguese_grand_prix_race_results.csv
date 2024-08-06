@@ -1,0 +1,27 @@
+position,number,driver,constructor,laps,grid,status,points
+1,5,Nigel Mansell,Williams,71,1,Finished,10
+2,2,Gerhard Berger,McLaren,71,4,Finished,6
+3,1,Ayrton Senna,McLaren,70,3,+1 Lap,4
+4,20,Martin Brundle,Benetton,70,6,+1 Lap,3
+5,11,Mika Häkkinen,Team Lotus,70,7,+1 Lap,2
+6,9,Michele Alboreto,Footwork,70,8,+1 Lap,1
+7,19,Michael Schumacher,Benetton,69,5,+2 Laps,0
+8,25,Thierry Boutsen,Ligier,69,11,+2 Laps,0
+9,4,Andrea de Cesaris,Tyrrell,69,12,+2 Laps,0
+10,10,Aguri Suzuki,Footwork,68,17,+3 Laps,0
+11,17,Emanuele Naspetti,March,68,23,+3 Laps,0
+12,23,Christian Fittipaldi,Minardi,68,26,+3 Laps,0
+13,32,Stefano Modena,Jordan,68,24,+3 Laps,0
+14,24,Gianni Morbidelli,Minardi,68,18,+3 Laps,0
+15,21,Jyrki Järvilehto,Dallara,51,19,Physical,0
+16,16,Karl Wendlinger,March,48,22,Gearbox,0
+17,26,Érik Comas,Ligier,47,14,Engine,0
+18,30,Ukyo Katayama,Larrousse,46,25,Spun off,0
+19,6,Riccardo Patrese,Williams,43,2,Collision,0
+20,22,Pierluigi Martini,Dallara,43,21,Puncture,0
+21,28,Ivan Capelli,Ferrari,34,16,Engine,0
+22,3,Olivier Grouillard,Tyrrell,27,15,Gearbox,0
+23,29,Bertrand Gachot,Larrousse,25,13,Engine,0
+24,33,Maurício Gugelmin,Jordan,19,20,Electrical,0
+25,27,Jean Alesi,Ferrari,12,10,Spun off,0
+26,12,Johnny Herbert,Team Lotus,2,9,Accident,0

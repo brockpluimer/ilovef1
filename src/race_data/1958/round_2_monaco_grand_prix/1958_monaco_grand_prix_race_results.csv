@@ -1,0 +1,31 @@
+position,number,driver,constructor,laps,grid,status,points
+1,20,Maurice Trintignant,Cooper,100,5,Finished,8
+2,34,Luigi Musso,Ferrari,100,10,Finished,6
+3,36,Peter Collins,Ferrari,100,9,Finished,4
+4,16,Jack Brabham,Cooper,97,3,+3 Laps,3
+5,8,Harry Schell,BRM,91,12,+9 Laps,2
+6,24,Cliff Allison,Team Lotus,87,13,+13 Laps,0
+7,40,Wolfgang von Trips,Ferrari,91,11,Engine,0
+8,58,Jo Bonnier,Maserati,71,16,Accident,0
+9,26,Graham Hill,Team Lotus,69,15,Halfshaft,0
+10,18,Roy Salvadori,Cooper,56,4,Gearbox,0
+11,38,Mike Hawthorn,Ferrari,47,6,Fuel pump,1
+12,28,Stirling Moss,Vanwall,38,8,Engine,0
+13,6,Jean Behra,BRM,29,2,Brakes,0
+14,46,Giorgio Scarlatti,Maserati,28,14,Engine,0
+15,30,Tony Brooks,Vanwall,22,1,Engine,0
+16,32,Stuart Lewis-Evans,Vanwall,11,7,Overheating,0
+17,22,Ron Flockhart,Cooper,0,0,Did not qualify,0
+18,50,Ken Kavanagh,Maserati,0,0,Did not qualify,0
+19,48,Gerino Gerini,Maserati,0,0,Did not qualify,0
+20,12,Bruce Kessler,Connaught,0,0,Did not qualify,0
+21,14,Paul Emery,Connaught,0,0,Did not qualify,0
+22,44,Maria de Filippis,Maserati,0,0,Did not qualify,0
+23,56,André Testut,Maserati,0,0,Did not qualify,0
+24,52,Giulio Cabianca,OSCA,0,0,Did not qualify,0
+25,54,Luigi Piotti,OSCA,0,0,Did not qualify,0
+26,42,Horace Gould,Maserati,0,0,Did not qualify,0
+27,10,Ron Flockhart,BRM,0,0,Did not qualify,0
+28,12,Bernie Ecclestone,Connaught,0,0,Did not qualify,0
+29,50,Luigi Taramazzo,Maserati,0,0,Did not qualify,0
+30,56,Louis Chiron,Maserati,0,0,Did not qualify,0

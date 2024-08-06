@@ -1,0 +1,31 @@
+position,number,driver,constructor,laps,grid,status,points
+1,16,René Arnoux,Renault,52,6,Finished,9
+2,27,Patrick Tambay,Ferrari,52,3,Finished,6
+3,28,Mario Andretti,Ferrari,52,1,Finished,4
+4,7,John Watson,McLaren,52,12,Finished,3
+5,3,Michele Alboreto,Tyrrell,51,11,+1 Lap,2
+6,25,Eddie Cheever,Ligier,51,14,+1 Lap,1
+7,12,Nigel Mansell,Team Lotus,51,23,+1 Lap,0
+8,6,Keke Rosberg,Williams,50,7,+2 Laps,0
+9,10,Eliseo Salazar,ATS,50,25,+2 Laps,0
+10,22,Andrea de Cesaris,Alfa Romeo,50,9,+2 Laps,0
+11,20,Chico Serra,Fittipaldi,49,26,+3 Laps,0
+12,30,Mauro Baldi,Arrows,49,24,+3 Laps,0
+13,14,Roberto Guerrero,Ensign,40,18,Not classified,0
+14,11,Elio de Angelis,Team Lotus,33,17,Throttle,0
+15,23,Bruno Giacomelli,Alfa Romeo,32,8,Handling,0
+16,29,Marc Surer,Arrows,28,19,Ignition,0
+17,15,Alain Prost,Renault,27,5,Injection,0
+18,8,Niki Lauda,McLaren,21,10,Brakes,0
+19,31,Jean-Pierre Jarier,Osella,10,15,Wheel,0
+20,1,Nelson Piquet,Brabham,7,2,Engine,0
+21,2,Riccardo Patrese,Brabham,6,4,Clutch,0
+22,26,Jacques Laffite,Ligier,5,21,Gearbox,0
+23,36,Teo Fabi,Toleman,2,22,Engine,0
+24,5,Derek Daly,Williams,0,13,Collision,0
+25,35,Derek Warwick,Toleman,0,16,Collision,0
+26,4,Brian Henton,Tyrrell,0,20,Collision,0
+27,17,Rupert Keegan,March,0,0,Did not qualify,0
+28,9,Manfred Winkelhock,ATS,0,0,Did not qualify,0
+29,18,Raul Boesel,March,0,0,Did not qualify,0
+30,33,Tommy Byrne,Theodore,0,0,Did not qualify,0

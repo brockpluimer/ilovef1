@@ -1,0 +1,31 @@
+position,number,driver,constructor,laps,grid,status,points
+1,5,Rodger Ward,Watson,200,6,Finished,8
+2,16,Jim Rathmann,Watson,200,3,Finished,6
+3,3,Johnny Thomson,Lesovsky,200,1,Finished,5
+4,1,Tony Bettenhausen,Epperly,200,15,Finished,3
+5,99,Paul Goldsmith,Epperly,200,16,Finished,2
+6,33,Johnny Boyd,Epperly,200,11,Finished,0
+7,37,Duane Carter,Kurtis Kraft,200,12,Finished,0
+8,19,Eddie Johnson,Kurtis Kraft,200,8,Finished,0
+9,45,Paul Russo,Kurtis Kraft,200,27,Finished,0
+10,10,Anthony Foyt,Kuzma,200,17,Finished,0
+11,88,Gene Hartley,Kuzma,200,9,Finished,0
+12,74,Bob Veith,Moore,200,7,Finished,0
+13,89,Al Herman,Dunn,200,23,Finished,0
+14,66,Jimmy Daywalt,Kurtis Kraft,200,13,Finished,0
+15,71,Chuck Arnold,Kurtis Kraft,200,21,Finished,0
+16,58,Jim McWithey,Kurtis Kraft,200,33,Finished,0
+17,44,Eddie Sachs,Kuzma,182,2,Spun off,0
+18,57,Al Keller,Kuzma,163,28,Engine,0
+19,64,Pat Flaherty,Watson,162,18,Accident,0
+20,73,Dick Rathmann,Watson,150,4,Heat shield fire,0
+21,53,Bill Cheesbourg,Kuzma,147,30,Magneto,0
+22,15,Don Freeland,Kurtis Kraft,136,25,Magneto,0
+23,49,Ray Crawford,Elder,115,32,Accident,0
+24,9,Don Branson,Phillips,112,10,Suspension,0
+25,65,Bob Christie,Kurtis Kraft,109,24,Engine,0
+26,48,Bobby Grim,Kurtis Kraft,85,5,Magneto,0
+27,24,Jack Turner,Christensen,47,14,Fuel leak,0
+28,47,Chuck Weyant,Kurtis Kraft,45,29,Accident,0
+29,7,Jud Larson,Kurtis Kraft,45,19,Accident,0
+30,77,Mike Magill,Sutton,45,31,Accident,0

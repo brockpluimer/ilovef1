@@ -1,0 +1,23 @@
+position,number,driver,constructor,laps,grid,status,points
+1,21,Jackie Stewart,Tyrrell,95,2,Finished,9
+2,17,Denny Hulme,McLaren,95,4,Finished,6
+3,8,Jacky Ickx,Ferrari,95,8,Finished,4
+4,9,Clay Regazzoni,Ferrari,95,6,Finished,3
+5,19,Tim Schenken,Surtees,95,11,Finished,2
+6,14,Ronnie Peterson,March,94,10,+1 Lap,1
+7,2,Carlos Reutemann,Brabham,93,1,+2 Laps,0
+8,23,Henri Pescarolo,March,93,15,+2 Laps,0
+9,3,Howden Ganley,BRM,93,13,+2 Laps,0
+10,7,Helmut Marko,BRM,93,19,+2 Laps,0
+11,15,Niki Lauda,March,93,22,+2 Laps,0
+12,11,Emerson Fittipaldi,Team Lotus,61,5,Suspension,0
+13,22,François Cevert,Tyrrell,59,17,Gearbox,0
+14,4,Reine Wisell,BRM,59,7,Water leak,0
+15,18,Peter Revson,McLaren,49,3,Engine,0
+16,10,Mario Andretti,Ferrari,20,9,Engine,0
+17,20,Andrea de Adamich,Surtees,11,14,Fuel system,0
+18,1,Graham Hill,Brabham,11,16,Fuel pump,0
+19,12,David Walker,Team Lotus,8,20,Disqualified,0
+20,5,Peter Gethin,BRM,1,18,Oil leak,0
+21,6,Alex Soler-Roig,BRM,1,21,Accident,0
+22,16,Chris Amon,Matra,0,12,Withdrew,0

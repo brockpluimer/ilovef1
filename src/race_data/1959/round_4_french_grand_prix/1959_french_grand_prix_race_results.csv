@@ -1,0 +1,23 @@
+position,number,driver,constructor,laps,grid,status,points
+1,24,Tony Brooks,Ferrari,50,1,Finished,8
+2,26,Phil Hill,Ferrari,50,3,Finished,6
+3,8,Jack Brabham,Cooper-Climax,50,2,Finished,4
+4,22,Olivier Gendebien,Ferrari,50,11,Finished,3
+5,12,Bruce McLaren,Cooper-Climax,50,10,Finished,2
+6,44,Ron Flockhart,BRM,50,13,Finished,0
+7,6,Harry Schell,BRM,47,9,+3 Laps,0
+8,40,Giorgio Scarlatti,Maserati,41,21,+9 Laps,0
+9,42,Carel Godin de Beaufort,Maserati,40,20,+10 Laps,0
+10,38,Fritz d'Orey,Maserati,40,18,+10 Laps,0
+11,14,Maurice Trintignant,Cooper-Climax,36,8,+14 Laps,0
+12,2,Stirling Moss,BRM,42,4,Disqualified,1
+13,30,Jean Behra,Ferrari,31,5,Engine,0
+14,16,Roy Salvadori,Cooper-Maserati,20,16,Engine,0
+15,28,Dan Gurney,Ferrari,19,12,Radiator,0
+16,34,Innes Ireland,Team Lotus,14,15,Wheel,0
+17,18,Ian Burgess,Cooper-Maserati,13,19,Engine,0
+18,10,Masten Gregory,Cooper-Climax,8,7,Physical,0
+19,32,Graham Hill,Team Lotus,7,14,Radiator,0
+20,20,Colin Davis,Cooper-Maserati,7,17,Oil leak,0
+21,4,Jo Bonnier,BRM,6,6,Engine,0
+22,36,Azdrubal Fontes,Maserati,0,0,Withdrew,0

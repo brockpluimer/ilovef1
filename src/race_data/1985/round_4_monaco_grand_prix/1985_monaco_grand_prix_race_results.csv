@@ -1,0 +1,26 @@
+position,number,driver,constructor,laps,grid,status,points
+1,2,Alain Prost,McLaren,78,5,Finished,9
+2,27,Michele Alboreto,Ferrari,78,3,Finished,6
+3,11,Elio de Angelis,Team Lotus,78,9,Finished,4
+4,25,Andrea de Cesaris,Ligier,77,8,+1 Lap,3
+5,16,Derek Warwick,Renault,77,10,+1 Lap,2
+6,26,Jacques Laffite,Ligier,77,16,+1 Lap,1
+7,5,Nigel Mansell,Williams,77,2,+1 Lap,0
+8,6,Keke Rosberg,Williams,76,7,+2 Laps,0
+9,18,Thierry Boutsen,Arrows,76,6,+2 Laps,0
+10,3,Martin Brundle,Tyrrell,74,18,+4 Laps,0
+11,30,Jonathan Palmer,Zakspeed,74,19,+4 Laps,0
+12,1,Niki Lauda,McLaren,17,14,Spun off,0
+13,22,Riccardo Patrese,Alfa Romeo,16,12,Accident,0
+14,7,Nelson Piquet,Brabham,16,13,Accident,0
+15,19,Teo Fabi,Toleman,16,20,Turbo,0
+16,12,Ayrton Senna,Team Lotus,13,1,Engine,0
+17,23,Eddie Cheever,Alfa Romeo,10,4,Alternator,0
+18,28,Stefan Johansson,Ferrari,1,15,Accident,0
+19,17,Gerhard Berger,Arrows,0,11,Accident,0
+20,15,Patrick Tambay,Renault,0,17,Accident,0
+21,24,Piercarlo Ghinzani,Osella,0,0,Did not qualify,0
+22,4,Stefan Bellof,Tyrrell,0,0,Did not qualify,0
+23,10,Philippe Alliot,RAM,0,0,Did not qualify,0
+24,9,Manfred Winkelhock,RAM,0,0,Did not qualify,0
+25,8,François Hesnault,Brabham,0,0,Did not qualify,0

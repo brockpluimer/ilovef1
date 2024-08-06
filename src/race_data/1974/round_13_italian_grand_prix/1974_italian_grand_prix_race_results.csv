@@ -1,0 +1,31 @@
+position,number,driver,constructor,laps,grid,status,points
+1,1,Ronnie Peterson,Team Lotus,52,7,Finished,9
+2,5,Emerson Fittipaldi,McLaren,52,6,Finished,6
+3,3,Jody Scheckter,Tyrrell,52,12,Finished,4
+4,20,Arturo Merzario,Iso Marlboro,52,15,Finished,3
+5,8,Carlos Pace,Brabham,51,3,+1 Lap,2
+6,6,Denny Hulme,McLaren,51,19,+1 Lap,1
+7,28,John Watson,Brabham,51,4,+1 Lap,0
+8,26,Graham Hill,Lola,51,21,+1 Lap,0
+9,33,David Hobbs,McLaren,51,23,+1 Lap,0
+10,16,Tom Pryce,Shadow,50,22,+2 Laps,0
+11,4,Patrick Depailler,Tyrrell,50,10,+2 Laps,0
+12,11,Clay Regazzoni,Ferrari,40,5,Engine,0
+13,12,Niki Lauda,Ferrari,32,1,Engine,0
+14,2,Jacky Ickx,Team Lotus,30,16,Throttle,0
+15,27,Rolf Stommelen,Lola,25,14,Suspension,0
+16,21,Jacques Laffite,Iso Marlboro,22,17,Engine,0
+17,17,Jean-Pierre Jarier,Shadow,19,9,Engine,0
+18,10,Vittorio Brambilla,March,16,13,Accident,0
+19,29,Tim Schenken,Trojan,15,20,Gearbox,0
+20,7,Carlos Reutemann,Brabham,12,2,Gearbox,0
+21,9,Hans-Joachim Stuck,March,11,18,Chassis,0
+22,15,Henri Pescarolo,BRM,3,25,Engine,0
+23,24,James Hunt,Hesketh,2,8,Engine,0
+24,37,François Migault,BRM,1,24,Gearbox,0
+25,14,Jean-Pierre Beltoise,BRM,0,11,Electrical,0
+26,19,José Dolhem,Surtees,0,0,Did not qualify,0
+27,31,Carlo Facetti,Brabham,0,0,Did not qualify,0
+28,18,Derek Bell,Surtees,0,0,Did not qualify,0
+29,25,Mike Wilds,Ensign,0,0,Did not qualify,0
+30,30,Chris Amon,Amon,0,0,Did not qualify,0

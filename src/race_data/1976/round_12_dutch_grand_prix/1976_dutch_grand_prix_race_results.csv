@@ -1,0 +1,28 @@
+position,number,driver,constructor,laps,grid,status,points
+1,11,James Hunt,McLaren,75,2,Finished,9
+2,2,Clay Regazzoni,Ferrari,75,5,Finished,6
+3,5,Mario Andretti,Team Lotus,75,6,Finished,4
+4,16,Tom Pryce,Shadow,75,3,Finished,3
+5,3,Jody Scheckter,Tyrrell,75,8,Finished,2
+6,9,Vittorio Brambilla,March,75,7,Finished,1
+7,4,Patrick Depailler,Tyrrell,75,14,Finished,0
+8,19,Alan Jones,Surtees,74,16,+1 Lap,0
+9,12,Jochen Mass,McLaren,74,15,+1 Lap,0
+10,17,Jean-Pierre Jarier,Shadow,74,20,+1 Lap,0
+11,38,Henri Pescarolo,Surtees,74,22,+1 Lap,0
+12,25,Rolf Stommelen,Hesketh,72,25,+3 Laps,0
+13,22,Jacky Ickx,Ensign,66,11,Electrical,0
+14,39,Boy Lunger,Penske,63,21,Halfshaft,0
+15,8,Carlos Pace,Brabham-Alfa Romeo,53,9,Oil leak,0
+16,26,Jacques Laffite,Ligier,53,10,Oil leak,0
+17,10,Ronnie Peterson,March,52,1,Oil pressure,0
+18,24,Harald Ertl,Hesketh,49,24,Spun off,0
+19,28,John Watson,Penske,47,4,Gearbox,0
+20,27,Larry Perkins,Boro,44,19,Accident,0
+21,30,Emerson Fittipaldi,Fittipaldi,40,17,Electrical,0
+22,7,Carlos Reutemann,Brabham-Alfa Romeo,11,12,Clutch,0
+23,6,Gunnar Nilsson,Team Lotus,10,13,Accident,0
+24,34,Hans-Joachim Stuck,March,9,26,Engine,0
+25,18,Conny Andersson,Surtees,9,18,Engine,0
+26,20,Arturo Merzario,Wolf,5,23,Accident,0
+27,40,Alessandro Pesenti-Rossi,Tyrrell,0,0,Did not qualify,0

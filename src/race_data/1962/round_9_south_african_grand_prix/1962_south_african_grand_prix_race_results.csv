@@ -1,0 +1,22 @@
+position,number,driver,constructor,laps,grid,status,points
+1,3,Graham Hill,BRM,82,2,Finished,9
+2,8,Bruce McLaren,Cooper-Climax,82,8,Finished,6
+3,9,Tony Maggs,Cooper-Climax,82,6,Finished,4
+4,10,Jack Brabham,Brabham,82,3,Finished,3
+5,11,Innes Ireland,Lotus-Climax,81,4,+1 Lap,2
+6,20,Neville Lederle,Lotus-Climax,78,10,+4 Laps,1
+7,4,Richie Ginther,BRM,78,7,+4 Laps,0
+8,18,John Love,Cooper-Climax,78,12,+4 Laps,0
+9,5,Bruce Johnstone,BRM,76,17,+6 Laps,0
+10,14,Ernie Pieterse,Lotus-Climax,71,13,+11 Laps,0
+11,15,Carel Godin de Beaufort,Porsche,70,16,Fuel system,0
+12,1,Jim Clark,Lotus-Climax,62,1,Oil leak,0
+13,21,Doug Serrurier,LDS,62,14,Radiator,0
+14,7,Roy Salvadori,Lola,56,11,Fuel leak,0
+15,22,Mike Harris,Cooper-Alfa Romeo,31,15,Wheel bearing,0
+16,6,John Surtees,Lola,26,5,Engine,0
+17,2,Trevor Taylor,Lotus-Climax,11,9,Gearbox,0
+18,12,Gary Hocking,Lotus-Climax,0,0,Withdrew,0
+19,16,Syd van der Vyver,Lotus-Climax,0,0,Withdrew,0
+20,17,Tony Settember,Emeryson,0,0,Withdrew,0
+21,19,Sam Tingle,Lotus-Climax,0,0,Withdrew,0

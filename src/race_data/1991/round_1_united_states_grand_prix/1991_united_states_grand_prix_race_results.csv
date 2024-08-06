@@ -1,0 +1,31 @@
+position,number,driver,constructor,laps,grid,status,points
+1,1,Ayrton Senna,McLaren,81,1,Finished,10
+2,27,Alain Prost,Ferrari,81,2,Finished,6
+3,20,Nelson Piquet,Benetton,81,5,Finished,4
+4,4,Stefano Modena,Tyrrell,81,11,Finished,3
+5,3,Satoru Nakajima,Tyrrell,80,16,+1 Lap,2
+6,30,Aguri Suzuki,Larrousse,79,21,+2 Laps,1
+7,34,Nicola Larini,Lambo,78,17,+3 Laps,0
+8,17,Gabriele Tarquini,AGS,77,22,+4 Laps,0
+9,23,Pierluigi Martini,Minardi,75,15,Engine,0
+10,32,Bertrand Gachot,Jordan,75,14,Engine,0
+11,7,Martin Brundle,Brabham,73,12,+8 Laps,0
+12,28,Jean Alesi,Ferrari,72,6,Gearbox,0
+13,11,Mika Häkkinen,Team Lotus,59,13,Engine,0
+14,6,Riccardo Patrese,Williams,49,3,Gearbox,0
+15,19,Roberto Moreno,Benetton,49,8,Collision,0
+16,9,Michele Alboreto,Footwork,41,25,Engine,0
+17,16,Ivan Capelli,Leyton House,40,18,Gearbox,0
+18,25,Thierry Boutsen,Ligier,40,20,Engine,0
+19,2,Gerhard Berger,McLaren,36,7,Fuel pump,0
+20,5,Nigel Mansell,Williams,35,4,Gearbox,0
+21,15,Maurício Gugelmin,Leyton House,34,23,Gearbox,0
+22,8,Mark Blundell,Brabham,32,24,Spun off,0
+23,21,Emanuele Pirro,Dallara,16,9,Gearbox,0
+24,24,Gianni Morbidelli,Minardi,15,26,Gearbox,0
+25,22,Jyrki Järvilehto,Dallara,12,10,Gearbox,0
+26,29,Éric Bernard,Larrousse,4,19,Engine,0
+27,10,Alex Caffi,Footwork,0,0,Did not qualify,0
+28,18,Stefan Johansson,AGS,0,0,Did not qualify,0
+29,26,Érik Comas,Ligier,0,0,Did not qualify,0
+30,12,Julian Bailey,Team Lotus,0,0,Did not qualify,0

@@ -1,0 +1,20 @@
+position,number,driver,constructor,laps,grid,status,points
+1,2,Jack Brabham,Cooper-Climax,36,1,Finished,8
+2,4,Bruce McLaren,Cooper-Climax,36,14,Finished,6
+3,34,Olivier Gendebien,Cooper-Climax,35,5,+1 Lap,4
+4,24,Phil Hill,Ferrari,35,4,+1 Lap,3
+5,18,Jim Clark,Team Lotus,34,10,+2 Laps,2
+6,32,Lucien Bianchi,Cooper-Climax,28,15,+8 Laps,1
+7,10,Graham Hill,BRM,35,6,Engine,0
+8,16,Alan Stacey,Team Lotus,24,17,Accident,0
+9,22,Willy Mairesse,Ferrari,23,13,Transmission,0
+10,26,Wolfgang von Trips,Ferrari,22,11,Transmission,0
+11,36,Chris Bristow,Cooper-Climax,19,9,Accident,0
+12,30,Chuck Daigh,Scarab,16,18,Engine,0
+13,6,Jo Bonnier,BRM,14,7,Engine,0
+14,14,Innes Ireland,Team Lotus,13,8,Accident,0
+15,8,Dan Gurney,BRM,4,12,Engine,0
+16,38,Tony Brooks,Cooper-Climax,2,2,Gearbox,0
+17,28,Lance Reventlow,Scarab,1,16,Engine,0
+18,12,Stirling Moss,Team Lotus,0,3,Accident,0
+19,20,Mike Taylor,Team Lotus,0,19,Accident,0

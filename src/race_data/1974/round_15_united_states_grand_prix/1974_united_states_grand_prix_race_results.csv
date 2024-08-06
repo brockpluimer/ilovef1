@@ -1,0 +1,31 @@
+position,number,driver,constructor,laps,grid,status,points
+1,7,Carlos Reutemann,Brabham,59,1,Finished,9
+2,8,Carlos Pace,Brabham,59,4,Finished,6
+3,24,James Hunt,Hesketh,59,2,Finished,4
+4,5,Emerson Fittipaldi,McLaren,59,8,Finished,3
+5,28,John Watson,Brabham,59,7,Finished,2
+6,4,Patrick Depailler,Tyrrell,59,13,Finished,1
+7,33,Jochen Mass,McLaren,59,20,Finished,0
+8,26,Graham Hill,Lola,58,24,+1 Lap,0
+9,15,Chris Amon,BRM,57,12,+2 Laps,0
+10,17,Jean-Pierre Jarier,Shadow,57,10,+2 Laps,0
+11,11,Clay Regazzoni,Ferrari,55,9,+4 Laps,0
+12,27,Rolf Stommelen,Lola,54,21,+5 Laps,0
+13,1,Ronnie Peterson,Team Lotus,52,19,Fuel system,0
+14,22,Mike Wilds,Ensign,50,22,Not classified,0
+15,16,Tom Pryce,Shadow,47,18,Not classified,0
+16,3,Jody Scheckter,Tyrrell,44,6,Fuel system,0
+17,20,Arturo Merzario,Iso Marlboro,43,15,Electrical,0
+18,12,Niki Lauda,Ferrari,38,5,Suspension,0
+19,21,Jacques Laffite,Iso Marlboro,31,11,Engine,0
+20,66,Mark Donohue,Penske,27,14,Suspension,0
+21,18,José Dolhem,Surtees,25,26,Withdrew,0
+22,10,Vittorio Brambilla,March,21,25,Fuel system,0
+23,19,Helmuth Koinigg,Surtees,9,23,Fatal accident,0
+24,2,Jacky Ickx,Team Lotus,7,16,Suspension,0
+25,31,Tim Schenken,Team Lotus,6,27,Disqualified,0
+26,55,Mario Andretti,Parnelli,4,3,Disqualified,0
+27,6,Denny Hulme,McLaren,4,17,Engine,0
+28,9,Hans-Joachim Stuck,March,0,0,Did not qualify,0
+29,42,Ian Ashley,Brabham,0,0,Did not qualify,0
+30,14,Jean-Pierre Beltoise,BRM,0,0,Did not qualify,0

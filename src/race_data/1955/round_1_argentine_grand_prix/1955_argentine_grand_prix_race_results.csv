@@ -1,0 +1,31 @@
+position,number,driver,constructor,laps,grid,status,points
+1,2,Juan Fangio,Mercedes,96,3,Finished,9
+2,12,José Froilán González,Ferrari,96,1,Finished,2
+2,12,Nino Farina,Ferrari,96,1,Finished,2
+2,12,Maurice Trintignant,Ferrari,96,1,Finished,2
+3,10,Maurice Trintignant,Ferrari,94,5,+2 Laps,1.33
+3,10,Umberto Maglioli,Ferrari,94,5,+2 Laps,1.33
+3,10,Nino Farina,Ferrari,94,5,+2 Laps,1.33
+4,8,Hans Herrmann,Mercedes,94,10,+2 Laps,1
+4,8,Karl Kling,Mercedes,94,10,+2 Laps,1
+4,8,Stirling Moss,Mercedes,94,10,+2 Laps,1
+5,18,Roberto Mieres,Maserati,91,16,+5 Laps,2
+6,28,Jean Behra,Maserati,88,7,+8 Laps,0
+6,28,Harry Schell,Maserati,88,7,+8 Laps,0
+7,22,Sergio Mantovani,Maserati,83,18,+13 Laps,0
+7,22,Harry Schell,Maserati,83,18,+13 Laps,0
+7,22,Luigi Musso,Maserati,83,18,+13 Laps,0
+8,20,Sergio Mantovani,Maserati,54,19,Engine,0
+8,20,Jean Behra,Maserati,54,19,Engine,0
+8,20,Luigi Musso,Maserati,54,19,Engine,0
+9,26,Harry Schell,Maserati,54,20,Fuel pressure,0
+9,26,Carlos Menditeguy,Maserati,54,20,Fuel pressure,0
+9,26,Clemar Bucci,Maserati,54,20,Fuel pressure,0
+10,42,Jesús Iglesias,Gordini,38,17,Transmission,0
+11,14,Maurice Trintignant,Ferrari,36,14,Engine,0
+12,36,Eugenio Castellotti,Lancia,35,12,Accident,0
+12,36,Luigi Villoresi,Lancia,35,12,Accident,0
+13,6,Stirling Moss,Mercedes,29,8,Fuel system,0
+14,30,Alberto Uria,Maserati,22,21,Out of fuel,0
+15,32,Alberto Ascari,Lancia,21,2,Accident,0
+16,38,Élie Bayol,Gordini,7,15,Transmission,0

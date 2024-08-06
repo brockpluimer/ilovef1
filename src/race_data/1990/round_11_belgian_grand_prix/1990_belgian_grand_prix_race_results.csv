@@ -1,0 +1,31 @@
+position,number,driver,constructor,laps,grid,status,points
+1,27,Ayrton Senna,McLaren,44,1,Finished,9
+2,1,Alain Prost,Ferrari,44,3,Finished,6
+3,28,Gerhard Berger,McLaren,44,2,Finished,4
+4,19,Alessandro Nannini,Benetton,44,6,Finished,3
+5,20,Nelson Piquet,Benetton,44,8,Finished,2
+6,15,Maurício Gugelmin,Leyton House,44,14,Finished,1
+7,16,Ivan Capelli,Leyton House,43,12,+1 Lap,0
+8,4,Jean Alesi,Tyrrell,43,9,+1 Lap,0
+9,29,Éric Bernard,Larrousse,43,15,+1 Lap,0
+10,10,Alex Caffi,Arrows,43,19,+1 Lap,0
+11,11,Derek Warwick,Team Lotus,43,18,+1 Lap,0
+12,12,Martin Donnelly,Team Lotus,43,22,+1 Lap,0
+13,9,Michele Alboreto,Arrows,43,26,+1 Lap,0
+14,25,Nicola Larini,Ligier,42,21,+2 Laps,0
+15,23,Pierluigi Martini,Minardi,42,16,+2 Laps,0
+16,14,Olivier Grouillard,Osella,42,23,+2 Laps,0
+17,8,Stefano Modena,Brabham,39,13,Engine,0
+18,7,David Brabham,Brabham,36,24,Electrical,0
+19,22,Andrea de Cesaris,Dallara,27,20,Engine,0
+20,5,Thierry Boutsen,Williams,21,4,Transmission,0
+21,2,Nigel Mansell,Ferrari,19,5,Handling,0
+22,6,Riccardo Patrese,Williams,18,7,Gearbox,0
+23,21,Emanuele Pirro,Dallara,5,17,Water leak,0
+24,3,Satoru Nakajima,Tyrrell,4,10,Engine,0
+25,30,Aguri Suzuki,Larrousse,0,11,Accident,0
+26,24,Paolo Barilla,Minardi,0,25,Accident,0
+27,26,Philippe Alliot,Ligier,0,0,Did not qualify,0
+28,17,Gabriele Tarquini,AGS,0,0,Did not qualify,0
+29,18,Yannick Dalmas,AGS,0,0,Did not qualify,0
+30,31,Bertrand Gachot,Coloni,0,0,Did not qualify,0

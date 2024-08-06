@@ -1,0 +1,27 @@
+position,number,driver,constructor,laps,grid,status,points
+1,6,Nelson Piquet,Williams,76,2,Finished,9
+2,12,Ayrton Senna,Team Lotus,76,1,Finished,6
+3,5,Nigel Mansell,Williams,75,4,+1 Lap,4
+4,28,Stefan Johansson,Ferrari,75,7,+1 Lap,3
+5,11,Johnny Dumfries,Team Lotus,74,8,+2 Laps,2
+6,3,Martin Brundle,Tyrrell,74,16,+2 Laps,1
+7,16,Patrick Tambay,Lola,74,6,+2 Laps,0
+8,4,Philippe Streiff,Tyrrell,74,18,+2 Laps,0
+9,26,Philippe Alliot,Ligier,73,12,+3 Laps,0
+10,14,Jonathan Palmer,Zakspeed,70,24,+6 Laps,0
+11,25,René Arnoux,Ligier,48,9,Engine,0
+12,15,Alan Jones,Lola,46,10,Differential,0
+13,20,Gerhard Berger,Benetton,44,11,Transmission,0
+14,18,Thierry Boutsen,Arrows,40,22,Electrical,0
+15,2,Keke Rosberg,McLaren,34,5,Suspension,0
+16,19,Teo Fabi,Benetton,32,13,Transmission,0
+17,24,Alessandro Nannini,Minardi,30,17,Engine,0
+18,27,Michele Alboreto,Ferrari,29,15,Accident,0
+19,8,Derek Warwick,Brabham,28,19,Accident,0
+20,1,Alain Prost,McLaren,23,3,Accident,0
+21,21,Piercarlo Ghinzani,Osella,15,23,Suspension,0
+22,17,Christian Danner,Arrows,7,21,Suspension,0
+23,7,Riccardo Patrese,Brabham,5,14,Gearbox,0
+24,23,Andrea de Cesaris,Minardi,5,20,Engine,0
+25,29,Huub Rothengatter,Zakspeed,2,25,Radiator,0
+26,22,Allen Berg,Osella,1,26,Turbo,0

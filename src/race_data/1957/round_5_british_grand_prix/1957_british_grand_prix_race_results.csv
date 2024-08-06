@@ -1,0 +1,23 @@
+position,number,driver,constructor,laps,grid,status,points
+1,20,Stirling Moss,Vanwall,90,3,Finished,5
+1,20,Tony Brooks,Vanwall,90,3,Finished,4
+2,14,Luigi Musso,Ferrari,90,10,Finished,6
+3,10,Mike Hawthorn,Ferrari,90,5,Finished,4
+4,16,Maurice Trintignant,Ferrari,88,9,+2 Laps,3
+4,16,Peter Collins,Ferrari,88,9,+2 Laps,0
+5,36,Roy Salvadori,Cooper,85,15,+5 Laps,2
+6,38,Bob Gerard,Cooper,82,18,+8 Laps,0
+7,22,Stuart Lewis-Evans,Vanwall,82,6,+8 Laps,0
+8,32,Ivor Bueb,Maserati,71,19,+19 Laps,0
+9,34,Jack Brabham,Cooper,74,13,Clutch,0
+10,4,Jean Behra,Maserati,69,2,Clutch,0
+11,12,Peter Collins,Ferrari,53,8,Water leak,0
+12,18,Stirling Moss,Vanwall,51,1,Engine,0
+12,18,Tony Brooks,Vanwall,51,1,Engine,0
+13,2,Juan Fangio,Maserati,49,4,Engine,0
+14,24,Jack Fairman,BRM,46,16,Engine,0
+15,26,Les Leston,BRM,44,12,Engine,0
+16,6,Harry Schell,Maserati,39,7,Water pump,0
+17,8,Carlos Menditeguy,Maserati,35,11,Transmission,0
+18,28,Jo Bonnier,Maserati,18,17,Gearbox,0
+19,30,Horace Gould,Maserati,0,14,Accident,0

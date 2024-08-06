@@ -1,0 +1,23 @@
+position,number,driver,constructor,laps,grid,status,points
+1,5,Mario Andretti,Team Lotus,80,2,Finished,9
+2,11,Niki Lauda,Ferrari,80,1,Finished,6
+3,20,Jody Scheckter,Wolf,80,3,Finished,4
+4,4,Patrick Depailler,Tyrrell,80,12,Finished,3
+5,28,Emerson Fittipaldi,Fittipaldi,80,7,Finished,2
+6,34,Jean-Pierre Jarier,Penske,79,9,+1 Lap,1
+7,1,James Hunt,McLaren,79,8,+1 Lap,0
+8,6,Gunnar Nilsson,Team Lotus,79,16,+1 Lap,0
+9,26,Jacques Laffite,Ligier,78,5,Electrical,0
+10,10,Brian Henton,March,77,18,+3 Laps,0
+11,18,Hans Binder,Surtees,77,19,+3 Laps,0
+12,3,Ronnie Peterson,Tyrrell,62,10,Fuel system,0
+13,22,Clay Regazzoni,Ensign,57,13,Gearbox,0
+14,8,Hans-Joachim Stuck,Brabham,53,17,Brakes,0
+15,17,Alan Jones,Shadow,40,14,Gearbox,0
+16,2,Jochen Mass,McLaren,39,15,Handling,0
+17,7,John Watson,Brabham,33,6,Disqualified,0
+18,16,Renzo Zorzi,Shadow,27,20,Gearbox,0
+19,9,Alex Ribeiro,March,15,22,Gearbox,0
+20,12,Carlos Reutemann,Ferrari,5,4,Accident,0
+21,30,Brett Lunger,March,4,21,Accident,0
+22,19,Vittorio Brambilla,Surtees,0,11,Accident,0

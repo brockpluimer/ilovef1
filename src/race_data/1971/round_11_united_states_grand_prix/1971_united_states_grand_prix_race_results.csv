@@ -1,0 +1,30 @@
+position,number,driver,constructor,laps,grid,status,points
+1,9,François Cevert,Tyrrell,59,5,Finished,9
+2,14,Jo Siffert,BRM,59,6,Finished,6
+3,25,Ronnie Peterson,March-Ford,59,11,Finished,4
+4,16,Howden Ganley,BRM,59,12,Finished,3
+5,8,Jackie Stewart,Tyrrell,59,1,Finished,2
+6,5,Clay Regazzoni,Ferrari,59,4,Finished,1
+7,22,Graham Hill,Brabham,58,18,+1 Lap,0
+8,12,Jean-Pierre Beltoise,Matra,58,10,+1 Lap,0
+9,15,Peter Gethin,BRM,58,21,+1 Lap,0
+10,31,David Hobbs,McLaren,58,22,+1 Lap,0
+11,27,Andrea de Adamich,March-Alfa Romeo,57,26,+2 Laps,0
+12,11,Chris Amon,Matra,57,8,+2 Laps,0
+13,17,Helmut Marko,BRM,57,16,+2 Laps,0
+14,28,John Cannon,BRM,56,24,+3 Laps,0
+15,20,Mike Hailwood,Surtees,54,14,Accident,0
+16,29,Jo Bonnier,McLaren,54,28,Out of fuel,0
+17,18,John Surtees,Surtees,54,13,+5 Laps,0
+18,33,Skip Barber,March-Ford,52,25,Not classified,0
+19,32,Jacky Ickx,Ferrari,49,7,Alternator,0
+20,2,Emerson Fittipaldi,Lotus-Ford,49,2,Not classified,0
+21,30,Pete Lovely,Lotus-Ford,49,29,Not classified,0
+22,7,Denny Hulme,McLaren,47,3,Accident,0
+23,23,Tim Schenken,Brabham,41,15,Engine,0
+24,24,Chris Craft,Brabham,30,27,Suspension,0
+25,19,Sam Posey,Surtees,15,17,Engine,0
+26,21,Henri Pescarolo,March-Ford,23,20,Engine,0
+27,26,Nanni Galli,March-Ford,11,23,Wheel,0
+28,3,Reine Wisell,Lotus-Ford,5,9,Brakes,0
+29,10,Peter Revson,Tyrrell,1,19,Clutch,0

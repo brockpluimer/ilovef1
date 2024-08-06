@@ -1,0 +1,27 @@
+position,number,driver,constructor,laps,grid,status,points
+1,6,Nelson Piquet,Williams,76,3,Finished,9
+2,12,Ayrton Senna,Team Lotus,76,6,Finished,6
+3,1,Alain Prost,McLaren,76,4,Finished,4
+4,20,Thierry Boutsen,Benetton,75,7,+1 Lap,3
+5,7,Riccardo Patrese,Brabham,75,10,+1 Lap,2
+6,17,Derek Warwick,Arrows,74,9,+2 Laps,1
+7,3,Jonathan Palmer,Tyrrell,74,16,+2 Laps,0
+8,18,Eddie Cheever,Arrows,74,11,+2 Laps,0
+9,4,Philippe Streiff,Tyrrell,74,14,+2 Laps,0
+10,16,Ivan Capelli,March,74,18,+2 Laps,0
+11,24,Alessandro Nannini,Minardi,73,20,+3 Laps,0
+12,26,Piercarlo Ghinzani,Ligier,73,25,+3 Laps,0
+13,14,Pascal Fabre,AGS,71,26,+5 Laps,0
+14,5,Nigel Mansell,Williams,70,1,Wheel,0
+15,21,Alex Caffi,Osella,64,21,Fuel system,0
+16,25,René Arnoux,Ligier,57,19,Electrical,0
+17,30,Philippe Alliot,Larrousse,48,15,Accident,0
+18,9,Martin Brundle,Zakspeed,45,22,Turbo,0
+19,27,Michele Alboreto,Ferrari,43,5,Engine,0
+20,8,Andrea de Cesaris,Brabham,43,13,Gearbox,0
+21,2,Stefan Johansson,McLaren,14,8,Gearbox,0
+22,19,Teo Fabi,Benetton,14,12,Gearbox,0
+23,23,Adrián Campos,Minardi,14,24,Spun off,0
+24,28,Gerhard Berger,Ferrari,13,2,Differential,0
+25,10,Christian Danner,Zakspeed,3,23,Engine,0
+26,11,Satoru Nakajima,Team Lotus,1,17,Driveshaft,0

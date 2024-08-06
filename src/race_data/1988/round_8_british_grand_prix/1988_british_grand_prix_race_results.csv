@@ -1,0 +1,31 @@
+position,number,driver,constructor,laps,grid,status,points
+1,12,Ayrton Senna,McLaren,65,3,Finished,9
+2,5,Nigel Mansell,Williams,65,11,Finished,6
+3,19,Alessandro Nannini,Benetton,65,8,Finished,4
+4,15,Maurício Gugelmin,March,65,5,Finished,3
+5,1,Nelson Piquet,Team Lotus,65,7,Finished,2
+6,17,Derek Warwick,Arrows,64,9,+1 Lap,1
+7,18,Eddie Cheever,Arrows,64,13,+1 Lap,0
+8,6,Riccardo Patrese,Williams,64,15,+1 Lap,0
+9,28,Gerhard Berger,Ferrari,64,1,+1 Lap,0
+10,2,Satoru Nakajima,Team Lotus,64,10,+1 Lap,0
+11,36,Alex Caffi,Dallara,64,21,+1 Lap,0
+12,33,Stefano Modena,Euro Brun,64,20,+1 Lap,0
+13,29,Yannick Dalmas,Larrousse,63,23,+2 Laps,0
+14,30,Philippe Alliot,Larrousse,63,22,+2 Laps,0
+15,23,Pierluigi Martini,Minardi,63,19,+2 Laps,0
+16,4,Julian Bailey,Tyrrell,63,24,+2 Laps,0
+17,27,Michele Alboreto,Ferrari,62,2,Out of fuel,0
+18,25,René Arnoux,Ligier,62,25,+3 Laps,0
+19,21,Nicola Larini,Osella,60,26,Out of fuel,0
+20,20,Thierry Boutsen,Benetton,38,12,Transmission,0
+21,16,Ivan Capelli,March,34,6,Alternator,0
+22,11,Alain Prost,McLaren,24,4,Handling,0
+23,3,Jonathan Palmer,Tyrrell,14,17,Engine,0
+24,22,Andrea de Cesaris,Rial,9,14,Clutch,0
+25,14,Philippe Streiff,AGS,8,16,Broken wing,0
+26,24,Luis Pérez-Sala,Minardi,0,18,Suspension,0
+27,32,Oscar Larrauri,Euro Brun,0,0,Did not qualify,0
+28,9,Piercarlo Ghinzani,Zakspeed,0,0,Did not qualify,0
+29,26,Stefan Johansson,Ligier,0,0,Did not qualify,0
+30,10,Bernd Schneider,Zakspeed,0,0,Did not qualify,0

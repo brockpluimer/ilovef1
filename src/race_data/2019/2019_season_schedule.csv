@@ -1,0 +1,22 @@
+round,raceName,date,time,circuit,country
+1,Australian Grand Prix,2019-03-17,05:10:00Z,Albert Park Grand Prix Circuit,Australia
+2,Bahrain Grand Prix,2019-03-31,15:10:00Z,Bahrain International Circuit,Bahrain
+3,Chinese Grand Prix,2019-04-14,06:10:00Z,Shanghai International Circuit,China
+4,Azerbaijan Grand Prix,2019-04-28,12:10:00Z,Baku City Circuit,Azerbaijan
+5,Spanish Grand Prix,2019-05-12,13:10:00Z,Circuit de Barcelona-Catalunya,Spain
+6,Monaco Grand Prix,2019-05-26,13:10:00Z,Circuit de Monaco,Monaco
+7,Canadian Grand Prix,2019-06-09,18:10:00Z,Circuit Gilles Villeneuve,Canada
+8,French Grand Prix,2019-06-23,13:10:00Z,Circuit Paul Ricard,France
+9,Austrian Grand Prix,2019-06-30,13:10:00Z,Red Bull Ring,Austria
+10,British Grand Prix,2019-07-14,13:10:00Z,Silverstone Circuit,UK
+11,German Grand Prix,2019-07-28,13:10:00Z,Hockenheimring,Germany
+12,Hungarian Grand Prix,2019-08-04,13:10:00Z,Hungaroring,Hungary
+13,Belgian Grand Prix,2019-09-01,13:10:00Z,Circuit de Spa-Francorchamps,Belgium
+14,Italian Grand Prix,2019-09-08,13:10:00Z,Autodromo Nazionale di Monza,Italy
+15,Singapore Grand Prix,2019-09-22,12:10:00Z,Marina Bay Street Circuit,Singapore
+16,Russian Grand Prix,2019-09-29,11:10:00Z,Sochi Autodrom,Russia
+17,Japanese Grand Prix,2019-10-13,05:10:00Z,Suzuka Circuit,Japan
+18,Mexican Grand Prix,2019-10-27,19:10:00Z,Autódromo Hermanos Rodríguez,Mexico
+19,United States Grand Prix,2019-11-03,19:10:00Z,Circuit of the Americas,USA
+20,Brazilian Grand Prix,2019-11-17,17:10:00Z,Autódromo José Carlos Pace,Brazil
+21,Abu Dhabi Grand Prix,2019-12-01,13:10:00Z,Yas Marina Circuit,UAE

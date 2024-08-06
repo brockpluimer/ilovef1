@@ -1,0 +1,27 @@
+position,number,driver,constructor,laps,grid,status,points
+1,1,Nelson Piquet,Brabham,70,1,Finished,9
+2,8,Niki Lauda,McLaren,70,8,Finished,6
+3,7,Alain Prost,McLaren,70,2,Finished,4
+4,11,Elio de Angelis,Team Lotus,69,3,+1 Lap,3
+5,28,René Arnoux,Ferrari,68,5,+2 Laps,2
+6,12,Nigel Mansell,Team Lotus,68,7,+2 Laps,1
+7,19,Ayrton Senna,Toleman,68,9,+2 Laps,0
+8,14,Manfred Winkelhock,ATS,68,12,+2 Laps,0
+9,20,Johnny Cecotto,Toleman,68,20,+2 Laps,0
+10,9,Philippe Alliot,RAM,65,26,+5 Laps,0
+11,23,Eddie Cheever,Alfa Romeo,63,11,Out of fuel,0
+12,3,Martin Brundle,Tyrrell,68,21,Disqualified,0
+13,17,Marc Surer,Arrows,59,23,Engine,0
+14,16,Derek Warwick,Renault,57,4,Chassis,0
+15,21,Huub Rothengatter,Spirit,56,24,Not classified,0
+16,4,Stefan Bellof,Tyrrell,52,22,Disqualified,0
+17,26,Andrea de Cesaris,Ligier,40,10,Brakes,0
+18,2,Corrado Fabi,Brabham,39,16,Turbo,0
+19,18,Thierry Boutsen,Arrows,38,18,Engine,0
+20,22,Riccardo Patrese,Alfa Romeo,37,14,Accident,0
+21,6,Keke Rosberg,Williams,32,15,Fuel system,0
+22,5,Jacques Laffite,Williams,31,17,Turbo,0
+23,10,Mike Thackwell,RAM,29,25,Turbo,0
+24,24,Piercarlo Ghinzani,Osella,11,19,Gearbox,0
+25,27,Michele Alboreto,Ferrari,10,6,Engine,0
+26,25,François Hesnault,Ligier,7,13,Turbo,0

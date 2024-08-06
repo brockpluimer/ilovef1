@@ -1,0 +1,28 @@
+position,number,driver,constructor,laps,grid,status,points
+1,7,Alain Prost,McLaren,31,1,Finished,4.5
+2,19,Ayrton Senna,Toleman,31,13,Finished,3
+3,28,René Arnoux,Ferrari,31,3,Finished,2
+4,6,Keke Rosberg,Williams,31,10,Finished,1.5
+5,11,Elio de Angelis,Team Lotus,31,11,Finished,1
+6,27,Michele Alboreto,Ferrari,30,4,+1 Lap,0.5
+7,24,Piercarlo Ghinzani,Osella,30,19,+1 Lap,0
+8,5,Jacques Laffite,Williams,30,16,+1 Lap,0
+9,4,Stefan Bellof,Tyrrell,31,20,Disqualified,0
+10,22,Riccardo Patrese,Alfa Romeo,24,14,Steering,0
+11,8,Niki Lauda,McLaren,23,8,Spun off,0
+12,14,Manfred Winkelhock,ATS,22,12,Spun off,0
+13,12,Nigel Mansell,Team Lotus,15,2,Spun off,0
+14,1,Nelson Piquet,Brabham,14,9,Electrical,0
+15,25,François Hesnault,Ligier,12,17,Electrical,0
+16,2,Corrado Fabi,Brabham,9,15,Electrical,0
+17,20,Johnny Cecotto,Toleman,1,18,Spun off,0
+18,16,Derek Warwick,Renault,0,5,Collision,0
+19,15,Patrick Tambay,Renault,0,6,Collision,0
+20,26,Andrea de Cesaris,Ligier,0,7,Accident,0
+21,17,Marc Surer,Arrows,0,0,Did not qualify,0
+22,3,Martin Brundle,Tyrrell,0,0,Did not qualify,0
+23,23,Eddie Cheever,Alfa Romeo,0,0,Did not qualify,0
+24,18,Thierry Boutsen,Arrows,0,0,Did not qualify,0
+25,10,Jonathan Palmer,RAM,0,0,Did not qualify,0
+26,21,Mauro Baldi,Spirit,0,0,Did not qualify,0
+27,9,Philippe Alliot,RAM,0,0,Did not qualify,0

@@ -1,0 +1,25 @@
+position,number,driver,constructor,laps,grid,status,points
+1,1,Sebastian Vettel,Red Bull,56,1,Finished,25
+2,4,Jenson Button,McLaren,56,4,Finished,18
+3,9,Nick Heidfeld,Renault,56,6,Finished,15
+4,2,Mark Webber,Red Bull,56,3,Finished,12
+5,6,Felipe Massa,Ferrari,56,7,Finished,10
+6,5,Fernando Alonso,Ferrari,56,5,Finished,8
+7,16,Kamui Kobayashi,Sauber,56,10,Finished,6
+8,3,Lewis Hamilton,McLaren,56,2,Finished,4
+9,7,Michael Schumacher,Mercedes,56,11,Finished,2
+10,15,Paul di Resta,Force India,56,14,Finished,1
+11,14,Adrian Sutil,Force India,55,17,+1 Lap,0
+12,8,Nico Rosberg,Mercedes,55,9,+1 Lap,0
+13,18,Sébastien Buemi,Toro Rosso,55,12,+1 Lap,0
+14,19,Jaime Alguersuari,Toro Rosso,55,13,+1 Lap,0
+15,20,Heikki Kovalainen,Lotus,55,19,+1 Lap,0
+16,24,Timo Glock,Virgin,54,21,+2 Laps,0
+17,10,Vitaly Petrov,Renault,52,8,Accident,0
+18,23,Vitantonio Liuzzi,HRT,46,23,+10 Laps,0
+19,25,Jérôme d'Ambrosio,Virgin,42,22,Accident,0
+20,21,Jarno Trulli,Lotus,31,20,Clutch,0
+21,17,Sergio Pérez,Sauber,23,16,Accident,0
+22,11,Rubens Barrichello,Williams,22,15,Gearbox,0
+23,22,Narain Karthikeyan,HRT,14,24,+42 Laps,0
+24,12,Pastor Maldonado,Williams,8,18,Engine misfire,0

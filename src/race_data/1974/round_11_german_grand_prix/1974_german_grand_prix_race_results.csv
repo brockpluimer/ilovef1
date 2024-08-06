@@ -1,0 +1,31 @@
+position,number,driver,constructor,laps,grid,status,points
+1,11,Clay Regazzoni,Ferrari,14,2,Finished,9
+2,3,Jody Scheckter,Tyrrell,14,4,Finished,6
+3,7,Carlos Reutemann,Brabham,14,6,Finished,4
+4,1,Ronnie Peterson,Team Lotus,14,8,Finished,3
+5,2,Jacky Ickx,Team Lotus,14,9,Finished,2
+6,16,Tom Pryce,Shadow,14,11,Finished,1
+7,9,Hans-Joachim Stuck,March,14,20,Finished,0
+8,17,Jean-Pierre Jarier,Shadow,14,18,Finished,0
+9,26,Graham Hill,Lola,14,19,Finished,0
+10,15,Henri Pescarolo,BRM,14,24,Finished,0
+11,18,Derek Bell,Surtees,14,25,Finished,0
+12,8,Carlos Pace,Brabham,14,17,Finished,0
+13,10,Vittorio Brambilla,March,14,23,Finished,0
+14,32,Ian Ashley,Token,13,20,+1 Lap,0
+15,33,Mike Hailwood,McLaren,12,12,Accident,0
+16,19,Jochen Mass,Surtees,10,13,Engine,0
+17,24,James Hunt,Hesketh,10,10,Gearbox,0
+18,4,Patrick Depailler,Tyrrell,5,5,Accident,0
+19,20,Arturo Merzario,Iso Marlboro,5,16,Throttle,0
+20,14,Jean-Pierre Beltoise,BRM,4,15,Fuel system,0
+21,22,Vern Schuppan,Ensign,4,22,Gearbox,0
+22,5,Emerson Fittipaldi,McLaren,2,3,Suspension,0
+23,21,Jacques Laffite,Iso Marlboro,2,21,Suspension,0
+24,28,John Watson,Brabham,1,14,Suspension,0
+25,12,Niki Lauda,Ferrari,0,1,Accident,0
+26,6,Denny Hulme,McLaren,0,7,Accident,0
+27,37,François Migault,BRM,0,0,Did not qualify,0
+28,23,Tim Schenken,Trojan,0,0,Did not qualify,0
+29,27,Guy Edwards,Lola,0,0,Did not qualify,0
+30,30,Larry Perkins,Amon,0,0,Did not qualify,0

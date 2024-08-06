@@ -1,0 +1,29 @@
+position,number,driver,constructor,laps,grid,status,points
+1,12,Stirling Moss,Mercedes,90,1,Finished,9
+2,10,Juan Fangio,Mercedes,90,2,Finished,6
+3,14,Karl Kling,Mercedes,90,4,Finished,4
+4,50,Piero Taruffi,Mercedes,89,5,+1 Lap,3
+5,4,Luigi Musso,Maserati,89,9,+1 Lap,2
+6,16,Eugenio Castellotti,Ferrari,87,12,+3 Laps,0
+6,16,Mike Hawthorn,Ferrari,87,12,+3 Laps,0
+7,26,Mike Sparken,Gordini,81,23,+9 Laps,0
+8,46,Lance Macklin,Maserati,79,16,+11 Laps,0
+9,28,Harry Schell,Vanwall,72,15,+18 Laps,0
+9,28,Ken Wharton,Vanwall,72,15,+18 Laps,0
+10,18,Maurice Trintignant,Ferrari,59,13,Overheating,0
+11,6,Roberto Mieres,Maserati,47,6,Engine,0
+12,40,Jack Brabham,Cooper,30,25,Engine,0
+13,32,Kenneth McAlpine,Connaught,30,17,Oil pressure,0
+14,42,Peter Collins,Maserati,28,24,Clutch,0
+15,24,Hernando da Silva Ramos,Gordini,26,18,Oil pressure,0
+16,44,Roy Salvadori,Maserati,23,20,Gearbox,0
+17,48,Horace Gould,Maserati,22,22,Brakes,0
+18,30,Harry Schell,Vanwall,20,7,Throttle,0
+19,36,Peter Walker,Connaught,19,14,Transmission,0
+19,36,Tony Rolt,Connaught,19,14,Transmission,0
+20,38,Leslie Marr,Connaught,18,19,Brakes,0
+21,20,Eugenio Castellotti,Ferrari,16,10,Transmission,0
+22,8,André Simon,Maserati,9,8,Gearbox,0
+23,2,Jean Behra,Maserati,9,3,Oil leak,0
+24,22,Robert Manzon,Gordini,4,11,Transmission,0
+25,34,Jack Fairman,Connaught,0,21,Engine,0

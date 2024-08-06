@@ -1,0 +1,19 @@
+position,number,driver,constructor,laps,grid,status,points
+1,2,Jochen Rindt,Lotus-Ford,108,1,Finished,9
+2,18,Piers Courage,Brabham-Ford,108,9,Finished,6
+3,14,John Surtees,BRM,106,11,+2 Laps,4
+4,8,Jack Brabham,Brabham-Ford,106,18,+2 Laps,3
+5,12,Pedro Rodríguez,Ferrari,101,12,+7 Laps,2
+6,19,Silvio Moser,Brabham-Ford,98,17,+10 Laps,1
+7,16,Johnny Servoz-Gavin,Matra-Ford,92,15,Not classified,0
+8,1,Graham Hill,Lotus-Ford,90,4,Accident,0
+9,7,Jacky Ickx,Brabham-Ford,77,8,Engine,0
+10,22,George Eaton,BRM,76,9,Engine,0
+11,4,Jean-Pierre Beltoise,Matra-Ford,72,7,Engine,0
+12,5,Denny Hulme,McLaren-Ford,52,2,Gearbox,0
+13,3,Jackie Stewart,Matra-Ford,35,3,Engine,0
+14,21,Pete Lovely,Lotus-Ford,25,16,Halfshaft,0
+15,15,Jackie Oliver,BRM,23,14,Engine,0
+16,10,Jo Siffert,Lotus-Ford,3,13,Fuel system,0
+17,9,Mario Andretti,Lotus-Ford,3,5,Suspension,0
+18,6,Bruce McLaren,McLaren-Ford,0,6,Engine,0

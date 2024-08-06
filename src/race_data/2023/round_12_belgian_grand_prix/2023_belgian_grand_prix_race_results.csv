@@ -1,0 +1,21 @@
+position,number,driver,constructor,laps,grid,status,points
+1,1,Max Verstappen,Red Bull,44,6,Finished,25
+2,11,Sergio Pérez,Red Bull,44,2,Finished,18
+3,16,Charles Leclerc,Ferrari,44,1,Finished,15
+4,44,Lewis Hamilton,Mercedes,44,3,Finished,13
+5,14,Fernando Alonso,Aston Martin,44,9,Finished,10
+6,63,George Russell,Mercedes,44,8,Finished,8
+7,4,Lando Norris,McLaren,44,7,Finished,6
+8,31,Esteban Ocon,Alpine F1 Team,44,14,Finished,4
+9,18,Lance Stroll,Aston Martin,44,10,Finished,2
+10,22,Yuki Tsunoda,AlphaTauri,44,11,Finished,1
+11,10,Pierre Gasly,Alpine F1 Team,44,12,Finished,0
+12,77,Valtteri Bottas,Alfa Romeo,44,13,Finished,0
+13,24,Guanyu Zhou,Alfa Romeo,44,17,Finished,0
+14,23,Alexander Albon,Williams,44,15,Finished,0
+15,20,Kevin Magnussen,Haas F1 Team,44,16,Finished,0
+16,3,Daniel Ricciardo,AlphaTauri,44,19,Finished,0
+17,2,Logan Sargeant,Williams,44,18,Finished,0
+18,27,Nico Hülkenberg,Haas F1 Team,44,0,Finished,0
+19,55,Carlos Sainz,Ferrari,23,4,Collision damage,0
+20,81,Oscar Piastri,McLaren,0,5,Collision damage,0

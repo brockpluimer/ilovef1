@@ -1,0 +1,18 @@
+position,number,driver,constructor,laps,grid,status,points
+1,6,Jim Clark,Lotus-Climax,40,1,Finished,9
+2,12,Jackie Stewart,BRM,40,2,Finished,6
+3,2,John Surtees,Ferrari,40,4,Finished,4
+4,16,Denny Hulme,Brabham-Climax,40,6,Finished,3
+5,10,Graham Hill,BRM,39,13,+1 Lap,2
+6,36,Jo Siffert,Brabham-BRM,39,14,+1 Lap,1
+7,8,Mike Spence,Lotus-Climax,39,10,+1 Lap,0
+8,4,Lorenzo Bandini,Ferrari,36,3,Accident,0
+9,30,Bob Anderson,Brabham-Climax,34,15,Fuel system,0
+10,18,Bruce McLaren,Cooper-Climax,23,9,Suspension,0
+11,34,Jo Bonnier,Brabham-Climax,21,11,Alternator,0
+12,24,Chris Amon,Lotus-BRM,20,8,Fuel system,0
+13,22,Innes Ireland,Lotus-BRM,18,17,Gearbox,0
+14,14,Dan Gurney,Brabham-Climax,16,5,Engine,0
+15,26,Richie Ginther,Honda,9,7,Ignition,0
+16,28,Ronnie Bucknum,Honda,4,16,Ignition,0
+17,20,Jochen Rindt,Cooper-Climax,3,12,Accident,0

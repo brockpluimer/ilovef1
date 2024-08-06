@@ -1,0 +1,31 @@
+position,number,driver,constructor,laps,grid,status,points
+1,5,Nigel Mansell,Williams,65,1,Finished,10
+2,19,Michael Schumacher,Benetton,65,2,Finished,6
+3,27,Jean Alesi,Ferrari,65,8,Finished,4
+4,2,Gerhard Berger,McLaren,65,7,Finished,3
+5,9,Michele Alboreto,Footwork,64,16,+1 Lap,2
+6,22,Pierluigi Martini,Dallara,63,13,+2 Laps,1
+7,10,Aguri Suzuki,Footwork,63,19,+2 Laps,0
+8,16,Karl Wendlinger,March,63,9,+2 Laps,0
+9,1,Ayrton Senna,McLaren,62,3,Spun off,0
+10,28,Ivan Capelli,Ferrari,62,5,Spun off,0
+11,23,Christian Fittipaldi,Minardi,61,22,+4 Laps,0
+12,17,Paul Belmondo,March,61,23,+4 Laps,0
+13,21,Jyrki Järvilehto,Dallara,56,12,Spun off,0
+14,15,Gabriele Tarquini,Fondmetal,56,18,Spun off,0
+15,11,Mika Häkkinen,Team Lotus,56,21,Spun off,0
+16,26,Érik Comas,Ligier,55,10,Spun off,0
+17,29,Bertrand Gachot,Larrousse,35,24,Engine,0
+18,3,Olivier Grouillard,Tyrrell,30,15,Spun off,0
+19,24,Gianni Morbidelli,Minardi,26,25,Handling,0
+20,33,Maurício Gugelmin,Jordan,24,17,Spun off,0
+21,14,Andrea Chiesa,Fondmetal,22,20,Spun off,0
+22,6,Riccardo Patrese,Williams,19,4,Spun off,0
+23,12,Johnny Herbert,Team Lotus,13,26,Spun off,0
+24,25,Thierry Boutsen,Ligier,11,14,Engine,0
+25,20,Martin Brundle,Benetton,4,6,Spun off,0
+26,4,Andrea de Cesaris,Tyrrell,2,11,Engine,0
+27,30,Ukyo Katayama,Larrousse,0,0,Did not qualify,0
+28,7,Eric van de Poele,Brabham,0,0,Did not qualify,0
+29,32,Stefano Modena,Jordan,0,0,Did not qualify,0
+30,8,Damon Hill,Brabham,0,0,Did not qualify,0

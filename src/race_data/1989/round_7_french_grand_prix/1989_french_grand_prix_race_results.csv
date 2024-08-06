@@ -1,0 +1,31 @@
+position,number,driver,constructor,laps,grid,status,points
+1,2,Alain Prost,McLaren,80,1,Finished,9
+2,27,Nigel Mansell,Ferrari,80,3,Finished,6
+3,6,Riccardo Patrese,Williams,80,8,Finished,4
+4,4,Jean Alesi,Tyrrell,80,16,Finished,3
+5,36,Stefan Johansson,Onyx,79,13,+1 Lap,2
+6,26,Olivier Grouillard,Ligier,79,17,+1 Lap,1
+7,10,Eddie Cheever,Arrows,79,25,+1 Lap,0
+8,11,Nelson Piquet,Team Lotus,78,20,+2 Laps,0
+9,20,Emanuele Pirro,Benetton,78,24,+2 Laps,0
+10,3,Jonathan Palmer,Tyrrell,78,9,+2 Laps,0
+11,29,Éric Bernard,Larrousse,77,15,+3 Laps,0
+12,9,Martin Donnelly,Arrows,77,14,+3 Laps,0
+13,37,Bertrand Gachot,Onyx,76,11,Engine,0
+14,15,Maurício Gugelmin,March,71,10,Not classified,0
+15,8,Stefano Modena,Brabham,67,22,Engine,0
+16,5,Thierry Boutsen,Williams,50,5,Gearbox,0
+17,12,Satoru Nakajima,Team Lotus,49,19,Engine,0
+18,16,Ivan Capelli,March,43,12,Engine,0
+19,19,Alessandro Nannini,Benetton,40,4,Suspension,0
+20,23,Pierluigi Martini,Minardi,31,23,Engine,0
+21,30,Philippe Alliot,Larrousse,30,7,Engine,0
+22,40,Gabriele Tarquini,AGS,30,21,Engine,0
+23,28,Gerhard Berger,Ferrari,29,6,Clutch,0
+24,21,Alex Caffi,Dallara,27,26,Clutch,0
+25,25,René Arnoux,Ligier,14,18,Gearbox,0
+26,1,Ayrton Senna,McLaren,0,2,Differential,0
+27,22,Andrea de Cesaris,Dallara,0,0,Did not qualify,0
+28,24,Luis Pérez-Sala,Minardi,0,0,Did not qualify,0
+29,38,Christian Danner,Rial,0,0,Did not qualify,0
+30,31,Roberto Moreno,Coloni,0,0,Did not qualify,0

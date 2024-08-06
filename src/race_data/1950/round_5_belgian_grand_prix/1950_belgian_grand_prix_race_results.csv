@@ -1,0 +1,15 @@
+position,number,driver,constructor,laps,grid,status,points
+1,10,Juan Fangio,Alfa Romeo,35,2,Finished,8
+2,12,Luigi Fagioli,Alfa Romeo,35,3,Finished,6
+3,14,Louis Rosier,Talbot-Lago,35,8,Finished,4
+4,8,Nino Farina,Alfa Romeo,35,1,Finished,4
+5,4,Alberto Ascari,Ferrari,34,7,+1 Lap,2
+6,2,Luigi Villoresi,Ferrari,33,4,+2 Laps,0
+7,22,Pierre Levegh,Talbot-Lago,33,10,+2 Laps,0
+8,24,Johnny Claes,Talbot-Lago,22,14,+3 Laps,0
+9,26,Geoff Crossley,Alta,30,12,+5 Laps,0
+10,30,Toni Branca,Maserati,29,11,+6 Laps,0
+11,20,Eugène Chaboud,Talbot-Lago,22,13,Oil pipe,0
+12,6,Raymond Sommer,Talbot-Lago,20,5,Oil pressure,0
+13,16,Philippe Étancelin,Talbot-Lago,15,6,Overheating,0
+14,18,Yves Cabantous,Talbot-Lago,2,9,Oil pipe,0

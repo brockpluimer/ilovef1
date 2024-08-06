@@ -1,0 +1,30 @@
+position,number,driver,constructor,laps,grid,status,points
+1,15,Alain Prost,Renault,53,5,Finished,9
+2,28,René Arnoux,Ferrari,53,2,Finished,6
+3,5,Nelson Piquet,Brabham,53,4,Finished,4
+4,16,Eddie Cheever,Renault,53,8,Finished,3
+5,12,Nigel Mansell,Team Lotus,52,3,+1 Lap,2
+6,8,Niki Lauda,McLaren,51,14,+2 Laps,1
+7,25,Jean-Pierre Jarier,Ligier,51,20,+2 Laps,0
+8,1,Keke Rosberg,Williams,51,15,+2 Laps,0
+9,7,John Watson,McLaren,51,17,+2 Laps,0
+10,31,Corrado Fabi,Osella,50,26,+3 Laps,0
+11,32,Piercarlo Ghinzani,Osella,49,25,+4 Laps,0
+12,40,Stefan Johansson,Spirit,48,16,+5 Laps,0
+13,30,Thierry Boutsen,Arrows,48,19,+5 Laps,0
+14,9,Manfred Winkelhock,ATS,33,13,Water leak,0
+15,22,Andrea de Cesaris,Alfa Romeo,31,11,Out of fuel,0
+16,27,Patrick Tambay,Ferrari,30,1,Ignition,0
+17,6,Riccardo Patrese,Brabham,29,6,Engine,0
+18,33,Roberto Guerrero,Theodore,25,21,Gearbox,0
+19,2,Jacques Laffite,Williams,21,24,Vibrations,0
+20,23,Mauro Baldi,Alfa Romeo,13,9,Oil leak,0
+21,3,Michele Alboreto,Tyrrell,8,18,Collision,0
+22,35,Derek Warwick,Toleman,2,10,Turbo,0
+23,36,Bruno Giacomelli,Toleman,1,7,Radiator,0
+24,11,Elio de Angelis,Team Lotus,0,12,Collision,0
+25,29,Marc Surer,Arrows,0,22,Collision,0
+26,4,Danny Sullivan,Tyrrell,0,23,Collision,0
+27,26,Raul Boesel,Ligier,0,0,Did not qualify,0
+28,34,Johnny Cecotto,Theodore,0,0,Did not qualify,0
+29,17,Kenny Acheson,RAM,0,0,Did not qualify,0

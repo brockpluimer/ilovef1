@@ -1,0 +1,18 @@
+position,number,driver,constructor,laps,grid,status,points
+1,12,Jack Brabham,Brabham-Repco,48,4,Finished,9
+2,22,Mike Parkes,Ferrari,48,3,Finished,6
+3,14,Denny Hulme,Brabham-Repco,46,9,+2 Laps,4
+4,6,Jochen Rindt,Cooper-Maserati,46,5,+2 Laps,3
+5,26,Dan Gurney,Eagle-Climax,45,14,+3 Laps,2
+6,44,John Taylor,Brabham-BRM,45,15,+3 Laps,1
+7,36,Bob Anderson,Brabham-Climax,44,12,+4 Laps,0
+8,8,Chris Amon,Cooper-Maserati,44,7,+4 Laps,0
+9,42,Guy Ligier,Cooper-Maserati,42,11,Not classified,0
+10,2,Pedro Rodríguez,Lotus-Climax,40,13,Oil leak,0
+11,20,Lorenzo Bandini,Ferrari,37,1,Not classified,0
+12,30,Jo Bonnier,Brabham-Climax,32,17,Not classified,0
+13,16,Graham Hill,BRM,13,8,Engine,0
+14,38,Jo Siffert,Cooper-Maserati,10,6,Fuel system,0
+15,32,Mike Spence,Lotus-BRM,8,10,Clutch,0
+16,10,John Surtees,Cooper-Maserati,5,2,Fuel system,0
+17,4,Peter Arundell,Lotus-BRM,3,16,Gearbox,0

@@ -1,0 +1,30 @@
+position,number,driver,constructor,laps,grid,status,points
+1,5,Nelson Piquet,Brabham,53,1,Finished,9
+2,2,Carlos Reutemann,Williams,53,4,Finished,6
+3,15,Alain Prost,Renault,53,2,Finished,4
+4,1,Alan Jones,Williams,53,3,Finished,3
+5,16,René Arnoux,Renault,53,5,Finished,2
+6,11,Elio de Angelis,Team Lotus,52,10,+1 Lap,1
+7,29,Riccardo Patrese,Arrows,52,9,+1 Lap,0
+8,22,Mario Andretti,Alfa Romeo,52,17,+1 Lap,0
+9,30,Siegfried Stohr,Arrows,52,19,+1 Lap,0
+10,23,Bruno Giacomelli,Alfa Romeo,51,22,Out of fuel,0
+11,8,Andrea de Cesaris,McLaren,51,18,+2 Laps,0
+12,9,Jan Lammers,ATS,51,23,+2 Laps,0
+13,4,Ricardo Zunino,Tyrrell,51,24,+2 Laps,0
+14,27,Gilles Villeneuve,Ferrari,40,7,Transmission,0
+15,33,Patrick Tambay,Theodore,36,14,Oil leak,0
+16,7,John Watson,McLaren,36,11,Transmission,0
+17,6,Hector Rebaque,Brabham,32,6,Electrical,0
+18,21,Chico Serra,Fittipaldi,28,20,Gearbox,0
+19,26,Jacques Laffite,Ligier,19,21,Handling,0
+20,14,Marc Surer,Ensign,14,16,Engine,0
+21,20,Keke Rosberg,Fittipaldi,4,8,Fuel system,0
+22,12,Nigel Mansell,Team Lotus,3,15,Engine,0
+23,28,Didier Pironi,Ferrari,3,12,Engine,0
+24,3,Eddie Cheever,Tyrrell,1,13,Clutch,0
+25,31,Miguel Ángel Guerra,Osella,0,0,Did not qualify,0
+26,32,Beppe Gabbiani,Osella,0,0,Did not qualify,0
+27,17,Derek Daly,March,0,0,Did not qualify,0
+28,25,Jean-Pierre Jabouille,Ligier,0,0,Did not qualify,0
+29,18,Eliseo Salazar,March,0,0,Did not qualify,0

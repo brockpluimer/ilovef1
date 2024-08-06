@@ -1,0 +1,31 @@
+position,number,driver,constructor,laps,grid,status,points
+1,1,Jimmy Bryan,Epperly,200,7,Finished,8
+2,99,George Amick,Epperly,200,25,Finished,6
+3,9,Johnny Boyd,Kurtis Kraft,200,8,Finished,4
+4,33,Tony Bettenhausen,Epperly,200,9,Finished,4
+5,2,Jim Rathmann,Epperly,200,20,Finished,2
+6,16,Jimmy Reece,Watson,200,3,Finished,0
+7,26,Don Freeland,Phillips,200,13,Finished,0
+8,44,Jud Larson,Watson,200,19,Finished,0
+9,61,Eddie Johnson,Kurtis Kraft,200,26,Finished,0
+10,54,Bill Cheesbourg,Kurtis Kraft,200,33,Finished,0
+11,52,Al Keller,Kurtis Kraft,200,21,Finished,0
+12,45,Johnnie Parsons,Kurtis Kraft,200,6,Finished,0
+13,19,Johnnie Tolan,Kuzma,200,30,Finished,0
+14,65,Bob Christie,Kurtis Kraft,189,17,Spun off,0
+15,59,Dempsey Wilson,Kuzma,151,32,Heat shield fire,0
+16,29,Anthony Foyt,Kuzma,148,12,Spun off,0
+17,77,Mike Magill,Kurtis Kraft,136,31,Disqualified,0
+18,15,Paul Russo,Kurtis Kraft,122,14,Throttle,0
+19,83,Shorty Templeman,Kurtis Kraft,116,23,Brakes,0
+20,8,Rodger Ward,Lesovsky,93,11,Magneto,0
+21,43,Billy Garrett,Kurtis Kraft,80,15,Magneto,0
+22,88,Eddie Sachs,Kuzma,68,18,Transmission,0
+23,7,Johnny Thomson,Kurtis Kraft,52,22,Steering,0
+24,89,Chuck Weyant,Dunn,38,29,Accident,0
+25,25,Jack Turner,Lesovsky,21,10,Fuel pump,0
+26,14,Bob Veith,Kurtis Kraft,1,4,Accident,0
+27,97,Dick Rathmann,Watson,0,1,Accident,0
+28,5,Ed Elisian,Watson,0,2,Accident,0
+29,4,Pat O'Connor,Kurtis Kraft,0,5,Accident,0
+30,31,Paul Goldsmith,Kurtis Kraft,0,16,Accident,0

@@ -1,0 +1,11 @@
+position,number,driver,constructor,laps,grid,status,points
+1,14,Stirling Moss,Cooper,80,7,Finished,8
+2,16,Luigi Musso,Ferrari,80,5,Finished,6
+3,20,Mike Hawthorn,Ferrari,80,2,Finished,4
+4,2,Juan Fangio,Maserati,80,1,Finished,4
+5,4,Jean Behra,Maserati,78,4,+2 Laps,2
+6,8,Harry Schell,Maserati,77,8,+3 Laps,0
+7,6,Carlos Menditeguy,Maserati,76,6,+4 Laps,0
+8,10,Paco Godia,Maserati,75,9,+5 Laps,0
+9,12,Horace Gould,Maserati,71,10,+9 Laps,0
+10,18,Peter Collins,Ferrari,0,3,Halfshaft,0

@@ -1,0 +1,26 @@
+position,number,driver,constructor,laps,grid,status,points
+1,20,Gerhard Berger,Benetton,68,4,Finished,9
+2,1,Alain Prost,McLaren,68,6,Finished,6
+3,12,Ayrton Senna,Team Lotus,68,1,Finished,4
+4,6,Nelson Piquet,Williams,67,2,+1 Lap,3
+5,5,Nigel Mansell,Williams,67,3,+1 Lap,2
+6,26,Philippe Alliot,Ligier,67,10,+1 Lap,1
+7,18,Thierry Boutsen,Arrows,66,21,+2 Laps,0
+8,23,Andrea de Cesaris,Minardi,66,22,+2 Laps,0
+9,17,Christian Danner,Arrows,66,20,+2 Laps,0
+10,14,Jonathan Palmer,Zakspeed,65,18,Out of fuel,0
+11,3,Martin Brundle,Tyrrell,65,16,+3 Laps,0
+12,28,Stefan Johansson,Ferrari,64,14,Turbo,0
+13,7,Riccardo Patrese,Brabham,64,5,Spun off,0
+14,24,Alessandro Nannini,Minardi,64,24,+4 Laps,0
+15,25,René Arnoux,Ligier,63,13,Engine,0
+16,22,Allen Berg,Osella,61,26,+7 Laps,0
+17,11,Johnny Dumfries,Team Lotus,53,17,Electrical,0
+18,8,Derek Warwick,Brabham,37,7,Engine,0
+19,15,Alan Jones,Lola,35,15,Tyre,0
+20,2,Keke Rosberg,McLaren,32,11,Puncture,0
+21,27,Michele Alboreto,Ferrari,10,12,Turbo,0
+22,21,Piercarlo Ghinzani,Osella,8,25,Turbo,0
+23,4,Philippe Streiff,Tyrrell,8,19,Turbo,0
+24,19,Teo Fabi,Benetton,4,9,Engine,0
+25,16,Patrick Tambay,Lola,0,8,Accident,0

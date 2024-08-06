@@ -1,0 +1,27 @@
+position,number,driver,constructor,laps,grid,status,points
+1,5,Nigel Mansell,Williams,75,2,Finished,9
+2,6,Nelson Piquet,Williams,75,1,Finished,6
+3,1,Alain Prost,McLaren,74,6,+1 Lap,4
+4,25,René Arnoux,Ligier,73,8,+2 Laps,3
+5,3,Martin Brundle,Tyrrell,72,11,+3 Laps,2
+6,4,Philippe Streiff,Tyrrell,72,16,+3 Laps,1
+7,11,Johnny Dumfries,Team Lotus,72,10,+3 Laps,0
+8,8,Derek Warwick,Brabham,72,9,+3 Laps,0
+9,14,Jonathan Palmer,Zakspeed,69,22,+6 Laps,0
+10,18,Thierry Boutsen,Arrows,62,13,Not classified,0
+11,16,Patrick Tambay,Lola,60,17,Gearbox,0
+12,27,Michele Alboreto,Ferrari,51,12,Turbo,0
+13,24,Alessandro Nannini,Minardi,50,20,Steering,0
+14,19,Teo Fabi,Benetton,45,7,Fuel system,0
+15,7,Riccardo Patrese,Brabham,39,15,Engine,0
+16,12,Ayrton Senna,Team Lotus,27,3,Gearbox,0
+17,29,Huub Rothengatter,Zakspeed,24,25,Engine,0
+18,23,Andrea de Cesaris,Minardi,23,21,Electrical,0
+19,20,Gerhard Berger,Benetton,22,4,Electrical,0
+20,15,Alan Jones,Lola,22,14,Throttle,0
+21,28,Stefan Johansson,Ferrari,20,18,Engine,0
+22,2,Keke Rosberg,McLaren,7,5,Gearbox,0
+23,26,Jacques Laffite,Ligier,0,19,Collision,0
+24,17,Christian Danner,Arrows,0,23,Collision,0
+25,21,Piercarlo Ghinzani,Osella,0,24,Collision,0
+26,22,Allen Berg,Osella,0,26,Collision,0

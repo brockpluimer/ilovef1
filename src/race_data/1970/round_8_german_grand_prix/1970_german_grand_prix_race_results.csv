@@ -1,0 +1,26 @@
+position,number,driver,constructor,laps,grid,status,points
+1,2,Jochen Rindt,Team Lotus,50,2,Finished,9
+2,10,Jacky Ickx,Ferrari,50,1,Finished,6
+3,4,Denny Hulme,McLaren-Ford,50,16,Finished,4
+4,17,Emerson Fittipaldi,Team Lotus,50,13,Finished,3
+5,21,Rolf Stommelen,Brabham,49,11,+1 Lap,2
+6,14,Henri Pescarolo,Matra,49,5,+1 Lap,1
+7,23,François Cevert,March,49,14,+1 Lap,0
+8,12,Jo Siffert,March,47,4,Ignition,0
+9,7,John Surtees,Surtees,46,15,Engine,0
+10,9,Graham Hill,Team Lotus,37,20,Engine,0
+11,5,Chris Amon,March,34,6,Engine,0
+12,15,Clay Regazzoni,Ferrari,30,3,Engine,0
+13,16,John Miles,Team Lotus,24,10,Engine,0
+14,1,Jackie Stewart,March,20,7,Engine,0
+15,11,Mario Andretti,March,15,9,Gearbox,0
+16,22,Ronnie Peterson,March,11,19,Engine,0
+17,6,Pedro Rodríguez,BRM,7,8,Ignition,0
+18,18,Jackie Oliver,BRM,5,18,Engine,0
+19,3,Jack Brabham,Brabham,4,12,Oil leak,0
+20,8,Jean-Pierre Beltoise,Matra,4,21,Suspension,0
+21,24,Peter Gethin,McLaren-Ford,3,17,Throttle,0
+22,25,Brian Redman,De Tomaso,0,0,Did not qualify,0
+23,20,Andrea de Adamich,McLaren-Alfa Romeo,0,0,Did not qualify,0
+24,27,Silvio Moser,Bellasi,0,0,Did not qualify,0
+25,26,Hubert Hahne,March,0,0,Did not qualify,0

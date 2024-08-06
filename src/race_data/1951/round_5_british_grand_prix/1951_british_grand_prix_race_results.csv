@@ -1,0 +1,21 @@
+position,number,driver,constructor,laps,grid,status,points
+1,12,José Froilán González,Ferrari,90,1,Finished,8
+2,2,Juan Fangio,Alfa Romeo,90,2,Finished,6
+3,10,Luigi Villoresi,Ferrari,88,5,+2 Laps,4
+4,4,Felice Bonetto,Alfa Romeo,87,7,+3 Laps,3
+5,6,Reg Parnell,BRM,85,20,+5 Laps,2
+6,3,Consalvo Sanesi,Alfa Romeo,84,6,+6 Laps,0
+7,7,Peter Walker,BRM,84,19,+6 Laps,0
+8,9,Brian Shawe Taylor,ERA,84,12,+6 Laps,0
+9,14,Peter Whitehead,Ferrari,83,8,+7 Laps,0
+10,22,Louis Rosier,Talbot-Lago,83,9,+7 Laps,0
+11,8,Bob Gerard,ERA,82,10,+8 Laps,0
+12,18,Duncan Hamilton,Talbot-Lago,81,11,+9 Laps,0
+13,25,Johnny Claes,Talbot-Lago,80,14,+10 Laps,0
+14,1,Nino Farina,Alfa Romeo,75,3,Clutch,1
+15,5,Joe Kelly,Alta,75,18,Not classified,0
+16,11,Alberto Ascari,Ferrari,56,4,Gearbox,0
+17,17,Philip Fotheringham-Parker,Maserati,46,16,Oil leak,0
+18,15,David Murray,Maserati,45,15,Engine,0
+19,23,Louis Chiron,Talbot-Lago,41,13,Brakes,0
+20,16,John James,Maserati,23,17,Radiator,0

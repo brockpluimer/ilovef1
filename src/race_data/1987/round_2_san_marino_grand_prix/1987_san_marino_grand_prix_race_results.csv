@@ -1,0 +1,28 @@
+position,number,driver,constructor,laps,grid,status,points
+1,5,Nigel Mansell,Williams,59,2,Finished,9
+2,12,Ayrton Senna,Team Lotus,59,1,Finished,6
+3,27,Michele Alboreto,Ferrari,59,6,Finished,4
+4,2,Stefan Johansson,McLaren,59,8,Finished,3
+5,9,Martin Brundle,Zakspeed,57,14,+2 Laps,2
+6,11,Satoru Nakajima,Team Lotus,57,12,Out of fuel,1
+7,10,Christian Danner,Zakspeed,57,17,+2 Laps,0
+8,4,Philippe Streiff,Tyrrell,57,20,+2 Laps,0
+9,7,Riccardo Patrese,Brabham,57,7,+2 Laps,0
+10,30,Philippe Alliot,Larrousse,56,21,+3 Laps,0
+11,17,Derek Warwick,Arrows,55,10,Out of fuel,0
+12,21,Alex Caffi,Osella,54,19,Out of fuel,0
+13,14,Pascal Fabre,AGS,53,24,+6 Laps,0
+14,19,Teo Fabi,Benetton,51,4,Turbo,0
+15,20,Thierry Boutsen,Benetton,48,11,Engine,0
+16,18,Eddie Cheever,Arrows,48,9,Clutch,0
+17,3,Jonathan Palmer,Tyrrell,48,23,Clutch,0
+18,8,Andrea de Cesaris,Brabham,39,13,Spun off,0
+19,23,Adrián Campos,Minardi,30,16,Gearbox,0
+20,22,Gabriele Tarquini,Osella,26,25,Gearbox,0
+21,24,Alessandro Nannini,Minardi,25,15,Turbo,0
+22,16,Ivan Capelli,March,18,22,Engine,0
+23,28,Gerhard Berger,Ferrari,16,5,Electrical,0
+24,1,Alain Prost,McLaren,14,3,Electrical,0
+25,26,Piercarlo Ghinzani,Ligier,7,18,Handling,0
+26,6,Nelson Piquet,Williams,0,0,Injury,0
+27,25,René Arnoux,Ligier,0,0,Suspension,0

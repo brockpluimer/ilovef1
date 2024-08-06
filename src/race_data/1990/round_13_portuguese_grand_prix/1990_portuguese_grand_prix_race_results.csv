@@ -1,0 +1,31 @@
+position,number,driver,constructor,laps,grid,status,points
+1,2,Nigel Mansell,Ferrari,61,1,Finished,9
+2,27,Ayrton Senna,McLaren,61,3,Finished,6
+3,1,Alain Prost,Ferrari,61,2,Finished,4
+4,28,Gerhard Berger,McLaren,61,4,Finished,3
+5,20,Nelson Piquet,Benetton,61,6,Finished,2
+6,19,Alessandro Nannini,Benetton,61,9,Finished,1
+7,6,Riccardo Patrese,Williams,60,5,+1 Lap,0
+8,4,Jean Alesi,Tyrrell,60,8,+1 Lap,0
+9,9,Michele Alboreto,Arrows,60,19,+1 Lap,0
+10,25,Nicola Larini,Ligier,59,22,+2 Laps,0
+11,23,Pierluigi Martini,Minardi,59,16,+2 Laps,0
+12,15,Maurício Gugelmin,Leyton House,59,14,+2 Laps,0
+13,10,Alex Caffi,Arrows,58,17,Accident,0
+14,30,Aguri Suzuki,Larrousse,58,11,Accident,0
+15,21,Emanuele Pirro,Dallara,58,13,+3 Laps,0
+16,26,Philippe Alliot,Ligier,52,20,Accident,0
+17,7,David Brabham,Brabham,52,25,Gearbox,0
+18,16,Ivan Capelli,Leyton House,51,12,Engine,0
+19,5,Thierry Boutsen,Williams,30,7,Engine,0
+20,29,Éric Bernard,Larrousse,24,10,Gearbox,0
+21,8,Stefano Modena,Brabham,21,23,Gearbox,0
+22,12,Martin Donnelly,Team Lotus,14,15,Alternator,0
+23,11,Derek Warwick,Team Lotus,5,21,Throttle,0
+24,18,Yannick Dalmas,AGS,3,24,Halfshaft,0
+25,22,Andrea de Cesaris,Dallara,0,18,Spun off,0
+26,3,Satoru Nakajima,Tyrrell,0,0,Withdrew,0
+27,14,Olivier Grouillard,Osella,0,0,Did not qualify,0
+28,24,Paolo Barilla,Minardi,0,0,Did not qualify,0
+29,17,Gabriele Tarquini,AGS,0,0,Did not qualify,0
+30,31,Bertrand Gachot,Coloni,0,0,Did not qualify,0

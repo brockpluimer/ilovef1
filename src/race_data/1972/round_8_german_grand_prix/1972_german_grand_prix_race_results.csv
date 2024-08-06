@@ -1,0 +1,28 @@
+position,number,driver,constructor,laps,grid,status,points
+1,4,Jacky Ickx,Ferrari,14,1,Finished,9
+2,9,Clay Regazzoni,Ferrari,14,7,Finished,6
+3,10,Ronnie Peterson,March,14,4,Finished,4
+4,17,Howden Ganley,BRM,14,18,Finished,3
+5,5,Brian Redman,McLaren,14,19,Finished,2
+6,11,Graham Hill,Brabham,14,15,Finished,1
+7,26,Wilson Fittipaldi,Brabham,14,21,Finished,0
+8,28,Mike Beuttler,March,14,27,Finished,0
+9,6,Jean-Pierre Beltoise,BRM,14,13,Finished,0
+10,7,François Cevert,Tyrrell,14,5,Finished,0
+11,1,Jackie Stewart,Tyrrell,13,2,Collision,0
+12,19,Arturo Merzario,Ferrari,13,22,+1 Lap,0
+13,16,Andrea de Adamich,Surtees,13,20,+1 Lap,0
+14,15,Tim Schenken,Surtees,13,12,+1 Lap,0
+15,8,Chris Amon,Matra,13,8,+1 Lap,0
+16,21,Carlos Pace,March,11,11,Not classified,0
+17,2,Emerson Fittipaldi,Team Lotus,10,3,Gearbox,0
+18,20,Henri Pescarolo,March,10,9,Accident,0
+19,3,Denny Hulme,McLaren,8,10,Engine,0
+20,14,Mike Hailwood,Surtees,8,16,Suspension,0
+21,12,Carlos Reutemann,Brabham,6,6,Differential,0
+22,22,Rolf Stommelen,March,6,14,Electrical,0
+23,25,David Walker,Team Lotus,6,23,Oil leak,0
+24,23,Niki Lauda,March,4,24,Oil leak,0
+25,27,Derek Bell,Tecno,4,25,Engine,0
+26,29,Dave Charlton,Team Lotus,4,26,Physical,0
+27,18,Reine Wisell,BRM,3,17,Engine,0

@@ -1,0 +1,23 @@
+position,number,driver,constructor,laps,grid,status,points
+1,30,Piero Taruffi,Ferrari,62,2,Finished,9
+2,42,Rudi Fischer,Ferrari,62,5,Finished,6
+3,6,Jean Behra,Gordini,61,7,+1 Lap,4
+4,22,Ken Wharton,Frazer Nash,60,13,+2 Laps,3
+5,26,Alan Brown,Cooper,59,15,+3 Laps,2
+6,38,Toulo de Graffenried,Maserati,58,8,+4 Laps,0
+7,44,Peter Hirt,Ferrari,56,19,+6 Laps,0
+8,24,Eric Brandon,Cooper,55,17,+7 Laps,0
+9,10,Prince Bira,Simca,52,11,Engine,0
+10,32,André Simon,Ferrari,51,4,Magneto,0
+10,32,Nino Farina,Ferrari,51,4,Magneto,0
+11,40,Harry Schell,Maserati,31,18,Engine,0
+12,46,Stirling Moss,HWM,24,9,Withdrew,0
+13,20,Lance Macklin,HWM,24,12,Withdrew,0
+14,8,Robert Manzon,Gordini,20,3,Radiator,0
+15,28,Nino Farina,Ferrari,16,1,Magneto,0
+16,18,Peter Collins,HWM,12,6,Halfshaft,0
+17,16,George Abecassis,HWM,12,10,Halfshaft,0
+18,2,Hans von Stuck,AFM,4,14,Engine,0
+19,4,Toni Ulmen,Veritas,4,16,Fuel leak,0
+20,12,Louis Rosier,Ferrari,2,20,Accident,0
+21,50,Max de Terra,Simca,1,21,Magneto,0

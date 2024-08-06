@@ -1,0 +1,27 @@
+position,number,driver,constructor,laps,grid,status,points
+1,2,Alain Prost,Williams,72,1,Finished,10
+2,8,Ayrton Senna,McLaren,72,2,Finished,6
+3,26,Mark Blundell,Ligier,71,8,+1 Lap,4
+4,23,Christian Fittipaldi,Minardi,71,13,+1 Lap,3
+5,30,Jyrki Järvilehto,Sauber,70,6,+2 Laps,2
+6,28,Gerhard Berger,Ferrari,69,15,Engine,1
+7,9,Derek Warwick,Footwork,69,22,Spun off,0
+8,25,Martin Brundle,Ligier,57,12,Spun off,0
+9,21,Michele Alboreto,Lola,55,21,Overheating,0
+10,20,Érik Comas,Larrousse,51,19,Engine,0
+11,6,Riccardo Patrese,Benetton,46,7,Spun off,0
+12,5,Michael Schumacher,Benetton,39,3,Spun off,0
+13,12,Johnny Herbert,Team Lotus,38,17,Fuel system,0
+14,29,Karl Wendlinger,Sauber,33,10,Engine,0
+15,14,Rubens Barrichello,Jordan,31,14,Gearbox,0
+16,27,Jean Alesi,Ferrari,30,5,Suspension,0
+17,19,Philippe Alliot,Larrousse,27,11,Spun off,0
+18,24,Fabrizio Barbazza,Minardi,21,24,Collision,0
+19,10,Aguri Suzuki,Footwork,21,20,Collision,0
+20,22,Luca Badoer,Lola,20,26,Gearbox,0
+21,0,Damon Hill,Williams,16,4,Collision,0
+22,11,Alessandro Zanardi,Team Lotus,16,16,Collision,0
+23,7,Michael Andretti,McLaren,4,9,Collision,0
+24,15,Ivan Capelli,Jordan,2,18,Spun off,0
+25,3,Ukyo Katayama,Tyrrell,1,21,Transmission,0
+26,4,Andrea de Cesaris,Tyrrell,0,23,Transmission,0

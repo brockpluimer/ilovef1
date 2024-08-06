@@ -1,0 +1,23 @@
+position,number,driver,constructor,laps,grid,status,points
+1,1,Mika Häkkinen,McLaren,72,1,Finished,10
+2,3,Michael Schumacher,Ferrari,72,4,Finished,6
+3,8,Heinz-Harald Frentzen,Jordan,71,8,Out of fuel,4
+4,6,Ralf Schumacher,Williams,71,11,+1 Lap,3
+5,4,Eddie Irvine,Ferrari,71,6,+1 Lap,2
+6,18,Olivier Panis,Prost,71,12,+1 Lap,1
+7,10,Alexander Wurz,Benetton,70,9,+2 Laps,0
+8,15,Toranosuke Takagi,Arrows,69,19,+3 Laps,0
+9,21,Marc Gené,Minardi,69,20,+3 Laps,0
+10,14,Pedro de la Rosa,Arrows,52,17,Hydraulics,0
+11,22,Jacques Villeneuve,BAR,49,21,Hydraulics,0
+12,5,Alessandro Zanardi,Williams,43,16,Gearbox,0
+13,16,Rubens Barrichello,Stewart,42,3,Engine,0
+14,12,Pedro Diniz,Sauber,42,15,Collision,0
+15,9,Giancarlo Fisichella,Benetton,38,5,Clutch,0
+16,20,Stéphane Sarrazin,Minardi,31,18,Spun off,0
+17,11,Jean Alesi,Sauber,27,14,Gearbox,0
+18,2,David Coulthard,McLaren,22,2,Gearbox,0
+19,19,Jarno Trulli,Prost,21,13,Gearbox,0
+20,17,Johnny Herbert,Stewart,15,10,Hydraulics,0
+21,7,Damon Hill,Jordan,10,7,Collision,0
+22,23,Ricardo Zonta,BAR,0,0,Did not qualify,0

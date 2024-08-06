@@ -1,0 +1,23 @@
+position,number,driver,constructor,laps,grid,status,points
+1,30,Dan Gurney,Porsche,54,6,Finished,9
+2,24,Tony Maggs,Cooper-Climax,53,11,+1 Lap,6
+3,10,Richie Ginther,BRM,52,10,+2 Laps,4
+4,22,Bruce McLaren,Cooper-Climax,51,3,+3 Laps,3
+5,18,John Surtees,Lola,51,5,+3 Laps,2
+6,38,Carel Godin de Beaufort,Porsche,51,17,+3 Laps,1
+7,28,Maurice Trintignant,Lotus-Climax,50,13,+4 Laps,0
+8,14,Trevor Taylor,Lotus-Climax,48,12,+6 Laps,0
+9,8,Graham Hill,BRM,44,2,+10 Laps,0
+10,32,Jo Bonnier,Porsche,43,9,Fuel system,0
+11,12,Jim Clark,Lotus-Climax,34,1,Suspension,0
+12,42,Jackie Lewis,Cooper,28,16,Accident,0
+13,20,Roy Salvadori,Lola,21,14,Oil pressure,0
+14,34,Masten Gregory,Lotus-BRM,15,7,Overheating,0
+15,26,Jack Brabham,Lotus-Climax,11,4,Suspension,0
+16,40,Jo Siffert,Lotus-BRM,6,15,Clutch,0
+17,36,Innes Ireland,Lotus-Climax,1,8,Puncture,0
+18,16,Peter Arundell,Team Lotus,0,0,Withdrew,0
+19,,Tony Marsh,BRM,0,0,Withdrew,0
+20,,Colin Davis,Porsche,0,0,Withdrew,0
+21,,Carlo Abate,Lotus-Climax,0,0,Withdrew,0
+22,,Ian Burgess,Cooper-Climax,0,0,Withdrew,0

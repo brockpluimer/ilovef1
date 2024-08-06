@@ -1,0 +1,23 @@
+position,number,driver,constructor,laps,grid,status,points
+1,6,Ludovico Scarfiotti,Ferrari,68,2,Finished,9
+2,4,Mike Parkes,Ferrari,68,1,Finished,6
+3,12,Denny Hulme,Brabham-Repco,68,10,Finished,4
+4,16,Jochen Rindt,Cooper-Maserati,67,8,+1 Lap,3
+5,42,Mike Spence,Lotus-BRM,67,14,+1 Lap,2
+6,40,Bob Anderson,Brabham-Climax,66,15,+2 Laps,1
+7,48,Bob Bondurant,BRM,65,18,+3 Laps,0
+8,24,Peter Arundell,Lotus-BRM,63,13,Engine,0
+9,20,Giacomo Russo,Lotus-Climax,63,20,+5 Laps,0
+10,44,Giancarlo Baghetti,Ferrari,59,16,Not classified,0
+11,22,Jim Clark,Lotus-BRM,58,3,Gearbox,0
+12,36,Jo Siffert,Cooper-Maserati,46,17,Engine,0
+13,2,Lorenzo Bandini,Ferrari,33,5,Ignition,0
+14,14,John Surtees,Cooper-Maserati,31,4,Fuel leak,0
+15,18,Richie Ginther,Honda,16,7,Accident,0
+16,10,Jack Brabham,Brabham-Repco,7,6,Oil leak,0
+17,30,Dan Gurney,Eagle-Weslake,7,19,Engine,0
+18,28,Jackie Stewart,BRM,5,9,Fuel leak,0
+19,38,Jo Bonnier,Cooper-Maserati,3,12,Throttle,0
+20,26,Graham Hill,BRM,0,11,Engine,0
+21,34,Phil Hill,Eagle-Climax,0,0,Did not qualify,0
+22,32,Chris Amon,Brabham-BRM,0,0,Did not qualify,0

@@ -1,0 +1,27 @@
+position,number,driver,constructor,laps,grid,status,points
+1,7,Nelson Piquet,Brabham,53,5,Finished,9
+2,6,Keke Rosberg,Williams,53,1,Finished,6
+3,2,Alain Prost,McLaren,53,4,Finished,4
+4,28,Stefan Johansson,Ferrari,53,16,Finished,3
+5,11,Elio de Angelis,Team Lotus,53,7,Finished,2
+6,15,Patrick Tambay,Renault,53,10,Finished,1
+7,16,Derek Warwick,Renault,53,11,Finished,0
+8,8,Marc Surer,Brabham,52,14,+1 Lap,0
+9,18,Thierry Boutsen,Arrows,52,12,+1 Lap,0
+10,23,Eddie Cheever,Alfa Romeo,52,18,+1 Lap,0
+11,22,Riccardo Patrese,Alfa Romeo,52,17,+1 Lap,0
+12,9,Manfred Winkelhock,RAM,50,20,+3 Laps,0
+13,4,Stefan Bellof,Tyrrell,50,26,+3 Laps,0
+14,19,Teo Fabi,Toleman,49,19,Fuel system,0
+15,24,Piercarlo Ghinzani,Osella,49,24,+4 Laps,0
+16,3,Martin Brundle,Tyrrell,32,21,Gearbox,0
+17,1,Niki Lauda,McLaren,30,6,Gearbox,0
+18,12,Ayrton Senna,Team Lotus,26,2,Accident,0
+19,17,Gerhard Berger,Arrows,20,9,Accident,0
+20,29,Pierluigi Martini,Minardi,19,25,Accident,0
+21,10,Philippe Alliot,RAM,8,23,Fuel system,0
+22,30,Jonathan Palmer,Zakspeed,6,22,Engine,0
+23,27,Michele Alboreto,Ferrari,5,3,Turbo,0
+24,25,Andrea de Cesaris,Ligier,4,13,Steering,0
+25,26,Jacques Laffite,Ligier,2,15,Turbo,0
+26,5,Nigel Mansell,Williams,0,8,Injury,0

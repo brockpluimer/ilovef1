@@ -1,0 +1,27 @@
+position,number,driver,constructor,laps,grid,status,points
+1,12,Ayrton Senna,Team Lotus,63,2,Finished,9
+2,6,Nelson Piquet,Williams,63,3,Finished,6
+3,1,Alain Prost,McLaren,63,5,Finished,4
+4,28,Gerhard Berger,Ferrari,63,12,Finished,3
+5,5,Nigel Mansell,Williams,62,1,+1 Lap,2
+6,18,Eddie Cheever,Arrows,60,6,+3 Laps,1
+7,2,Stefan Johansson,McLaren,60,11,+3 Laps,0
+8,10,Christian Danner,Zakspeed,60,16,+3 Laps,0
+9,7,Riccardo Patrese,Brabham,60,9,+3 Laps,0
+10,25,René Arnoux,Ligier,60,21,+3 Laps,0
+11,3,Jonathan Palmer,Tyrrell,60,13,+3 Laps,0
+12,14,Pascal Fabre,AGS,58,26,+5 Laps,0
+13,20,Thierry Boutsen,Benetton,52,4,Brakes,0
+14,26,Piercarlo Ghinzani,Ligier,51,23,Clutch,0
+15,4,Philippe Streiff,Tyrrell,44,14,Wheel,0
+16,30,Philippe Alliot,Larrousse,38,20,Accident,0
+17,27,Michele Alboreto,Ferrari,25,7,Gearbox,0
+18,24,Alessandro Nannini,Minardi,22,18,Gearbox,0
+19,9,Martin Brundle,Zakspeed,16,15,Turbo,0
+20,17,Derek Warwick,Arrows,12,10,Accident,0
+21,16,Ivan Capelli,March,9,22,Electrical,0
+22,19,Teo Fabi,Benetton,6,8,Accident,0
+23,21,Alex Caffi,Osella,3,19,Transmission,0
+24,8,Andrea de Cesaris,Brabham,2,17,Gearbox,0
+25,23,Adrián Campos,Minardi,1,25,Accident,0
+26,11,Satoru Nakajima,Team Lotus,0,24,Accident,0

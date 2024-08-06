@@ -1,0 +1,25 @@
+position,number,driver,constructor,laps,grid,status,points
+1,1,Michael Schumacher,Benetton,45,2,Finished,10
+2,6,David Coulthard,Williams,45,3,Finished,6
+3,28,Gerhard Berger,Ferrari,45,4,Finished,4
+4,2,Johnny Herbert,Benetton,45,9,Finished,3
+5,29,Jean-Christophe Boullion,Sauber,44,14,+1 Lap,2
+6,25,Aguri Suzuki,Ligier,44,18,+1 Lap,1
+7,3,Ukyo Katayama,Tyrrell,44,17,+1 Lap,0
+8,17,Andrea Montermini,Pacific,42,23,+3 Laps,0
+9,15,Eddie Irvine,Jordan,41,6,+4 Laps,0
+10,8,Mika Häkkinen,McLaren,33,7,Engine,0
+11,30,Heinz-Harald Frentzen,Sauber,32,11,Engine,0
+12,24,Luca Badoer,Minardi,28,16,Oil leak,0
+13,16,Giovanni Lavaggi,Pacific,27,24,Gearbox,0
+14,22,Roberto Moreno,Forti,27,22,Halfshaft,0
+15,14,Rubens Barrichello,Jordan,20,5,Engine,0
+16,7,Mark Blundell,McLaren,17,8,Engine,0
+17,26,Olivier Panis,Ligier,13,12,Water leak,0
+18,27,Jean Alesi,Ferrari,12,10,Engine,0
+19,23,Pierluigi Martini,Minardi,11,20,Engine,0
+20,10,Taki Inoue,Footwork,9,19,Gearbox,0
+21,21,Pedro Diniz,Forti,8,21,Brakes,0
+22,5,Damon Hill,Williams,1,1,Spun off,0
+23,4,Mika Salo,Tyrrell,0,13,Clutch,0
+24,9,Massimiliano Papis,Footwork,0,15,Gearbox,0

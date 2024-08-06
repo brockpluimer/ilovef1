@@ -1,0 +1,22 @@
+position,number,driver,constructor,laps,grid,status,points
+1,10,Graham Hill,Lotus-Ford,65,3,Finished,9
+2,2,Bruce McLaren,McLaren-Ford,65,9,Finished,6
+3,11,Jackie Oliver,Lotus-Ford,65,14,Finished,4
+4,8,Pedro Rodríguez,BRM,65,12,Finished,3
+5,17,Jo Bonnier,Honda,64,18,+1 Lap,2
+6,16,Jo Siffert,Lotus-Ford,64,1,+1 Lap,1
+7,15,Jackie Stewart,Matra-Ford,64,7,+1 Lap,0
+8,18,Vic Elford,Cooper-BRM,63,17,+2 Laps,0
+9,9,Henri Pescarolo,Matra,62,20,+3 Laps,0
+10,3,Jack Brabham,Brabham-Repco,59,8,Oil pressure,0
+11,23,Johnny Servoz-Gavin,Matra-Ford,57,16,Ignition,0
+12,14,Dan Gurney,McLaren-Ford,28,5,Suspension,0
+13,22,Piers Courage,BRM,25,19,Engine,0
+14,19,Lucien Bianchi,Cooper-BRM,21,21,Engine,0
+15,5,John Surtees,Honda,17,6,Overheating,0
+16,6,Chris Amon,Ferrari,16,2,Transmission,0
+17,12,Moisés Solana,Lotus-Ford,14,11,Broken wing,0
+18,1,Denny Hulme,McLaren-Ford,10,4,Suspension,0
+19,21,Jean-Pierre Beltoise,Matra,10,13,Suspension,0
+20,7,Jacky Ickx,Ferrari,3,15,Ignition,0
+21,4,Jochen Rindt,Brabham-Repco,2,10,Ignition,0

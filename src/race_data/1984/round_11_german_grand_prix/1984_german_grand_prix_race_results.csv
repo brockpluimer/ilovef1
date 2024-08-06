@@ -1,0 +1,28 @@
+position,number,driver,constructor,laps,grid,status,points
+1,7,Alain Prost,McLaren,44,1,Finished,9
+2,8,Niki Lauda,McLaren,44,7,Finished,6
+3,16,Derek Warwick,Renault,44,3,Finished,4
+4,12,Nigel Mansell,Team Lotus,44,16,Finished,3
+5,15,Patrick Tambay,Renault,44,4,Finished,2
+6,28,René Arnoux,Ferrari,43,10,+1 Lap,1
+7,26,Andrea de Cesaris,Ligier,43,11,+1 Lap,0
+8,25,François Hesnault,Ligier,43,17,+1 Lap,0
+9,21,Huub Rothengatter,Spirit,40,24,+4 Laps,0
+10,3,Stefan Johansson,Tyrrell,42,26,Disqualified,0
+11,14,Manfred Winkelhock,ATS,31,13,Gearbox,0
+12,23,Eddie Cheever,Alfa Romeo,29,18,Engine,0
+13,2,Teo Fabi,Brabham,28,8,Turbo,0
+14,1,Nelson Piquet,Brabham,23,5,Gearbox,0
+15,22,Riccardo Patrese,Alfa Romeo,16,20,Fuel system,0
+16,24,Piercarlo Ghinzani,Osella,14,21,Electrical,0
+17,30,Jo Gartner,Osella,13,23,Turbo,0
+18,27,Michele Alboreto,Ferrari,13,6,Engine,0
+19,10,Jonathan Palmer,RAM,11,25,Turbo,0
+20,6,Keke Rosberg,Williams,10,19,Electrical,0
+21,5,Jacques Laffite,Williams,10,12,Engine,0
+22,18,Thierry Boutsen,Arrows,8,15,Engine,0
+23,11,Elio de Angelis,Team Lotus,8,2,Turbo,0
+24,9,Philippe Alliot,RAM,7,22,Overheating,0
+25,19,Ayrton Senna,Toleman,4,9,Accident,0
+26,17,Marc Surer,Arrows,1,14,Turbo,0
+27,4,Mike Thackwell,Tyrrell,0,0,Did not qualify,0

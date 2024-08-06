@@ -1,0 +1,31 @@
+position,number,driver,constructor,laps,grid,status,points
+1,5,Nelson Piquet,Brabham,45,6,Finished,9
+2,15,Alain Prost,Renault,45,1,Finished,6
+3,26,Jacques Laffite,Ligier,45,7,Finished,4
+4,6,Hector Rebaque,Brabham,45,16,Finished,3
+5,3,Eddie Cheever,Tyrrell,45,18,Finished,2
+6,7,John Watson,McLaren,44,9,+1 Lap,1
+7,11,Elio de Angelis,Team Lotus,44,14,+1 Lap,0
+8,32,Jean-Pierre Jarier,Osella,44,17,+1 Lap,0
+9,22,Mario Andretti,Alfa Romeo,44,12,+1 Lap,0
+10,27,Gilles Villeneuve,Ferrari,44,8,+1 Lap,0
+11,1,Alan Jones,Williams,44,4,+1 Lap,0
+12,30,Siegfried Stohr,Arrows,44,26,+1 Lap,0
+13,16,René Arnoux,Renault,44,2,+1 Lap,0
+14,33,Marc Surer,Theodore,43,22,Suspension,0
+15,23,Bruno Giacomelli,Alfa Romeo,43,17,+2 Laps,0
+16,14,Eliseo Salazar,Ensign,39,23,Not classified,0
+17,9,Slim Borgudd,ATS,35,28,Engine,0
+18,2,Carlos Reutemann,Williams,27,3,Engine,0
+19,29,Riccardo Patrese,Arrows,27,13,Engine,0
+20,25,Patrick Tambay,Ligier,27,11,Transmission,0
+21,17,Derek Daly,March,15,21,Suspension,0
+22,12,Nigel Mansell,Team Lotus,12,15,Fuel leak,0
+23,8,Andrea de Cesaris,McLaren,4,10,Collision,0
+24,28,Didier Pironi,Ferrari,1,5,Electrical,0
+25,20,Keke Rosberg,Fittipaldi,0,0,Did not qualify,0
+26,35,Brian Henton,Toleman,0,0,Did not qualify,0
+27,31,Beppe Gabbiani,Osella,0,0,Did not qualify,0
+28,36,Derek Warwick,Toleman,0,0,Did not qualify,0
+29,4,Michele Alboreto,Tyrrell,0,0,Did not qualify,0
+30,21,Chico Serra,Fittipaldi,0,0,Did not qualify,0

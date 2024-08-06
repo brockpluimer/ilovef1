@@ -1,0 +1,27 @@
+position,number,driver,constructor,laps,grid,status,points
+1,11,Elio de Angelis,Team Lotus,60,3,Finished,9
+2,18,Thierry Boutsen,Arrows,59,5,+1 Lap,6
+3,15,Patrick Tambay,Renault,59,11,+1 Lap,4
+4,1,Niki Lauda,McLaren,59,8,+1 Lap,3
+5,5,Nigel Mansell,Williams,58,7,+2 Laps,2
+6,28,Stefan Johansson,Ferrari,57,15,Out of fuel,1
+7,12,Ayrton Senna,Team Lotus,57,1,Out of fuel,0
+8,7,Nelson Piquet,Brabham,57,9,Out of fuel,0
+9,3,Martin Brundle,Tyrrell,56,25,Out of fuel,0
+10,16,Derek Warwick,Renault,56,14,Out of fuel,0
+11,2,Alain Prost,McLaren,60,6,Disqualified,0
+12,23,Eddie Cheever,Alfa Romeo,50,12,Engine,0
+13,24,Piercarlo Ghinzani,Osella,46,22,Not classified,0
+14,27,Michele Alboreto,Ferrari,29,4,Electrical,0
+15,9,Manfred Winkelhock,RAM,27,23,Engine,0
+16,10,Philippe Alliot,RAM,24,21,Engine,0
+17,6,Keke Rosberg,Williams,23,2,Brakes,0
+18,26,Jacques Laffite,Ligier,22,16,Turbo,0
+19,29,Pierluigi Martini,Minardi,14,19,Turbo,0
+20,25,Andrea de Cesaris,Ligier,11,13,Spun off,0
+21,21,Mauro Baldi,Spirit,9,26,Electrical,0
+22,8,François Hesnault,Brabham,5,20,Engine,0
+23,4,Stefan Bellof,Tyrrell,5,24,Engine,0
+24,17,Gerhard Berger,Arrows,4,18,Engine,0
+25,22,Riccardo Patrese,Alfa Romeo,4,18,Engine,0
+26,30,Jonathan Palmer,Zakspeed,0,17,Retired,0

@@ -1,0 +1,31 @@
+position,number,driver,constructor,laps,grid,status,points
+1,50,Juan Fangio,Maserati,80,2,Finished,9
+2,6,Nino Farina,Ferrari,80,3,Finished,6
+3,2,Luigi Villoresi,Ferrari,79,5,+1 Lap,4
+4,8,Mike Hawthorn,Ferrari,79,6,+1 Lap,3
+5,36,Maurice Trintignant,Gordini,79,8,+1 Lap,2
+6,40,Roberto Mieres,Gordini,77,16,+3 Laps,0
+7,56,Sergio Mantovani,Maserati,76,12,+4 Laps,0
+7,56,Luigi Musso,Maserati,76,12,+4 Laps,0
+8,10,Umberto Maglioli,Ferrari,75,11,+5 Laps,0
+9,38,Harry Schell,Gordini,75,15,+5 Laps,0
+10,32,Louis Chiron,OSCA,72,25,+8 Laps,0
+11,44,Prince Bira,Maserati,72,23,+8 Laps,0
+12,46,Alan Brown,Cooper,70,24,+10 Laps,0
+13,28,Stirling Moss,Cooper,70,10,+10 Laps,0
+14,48,Hans von Stuck,AFM,67,29,+13 Laps,0
+15,16,Yves Cabantous,HWM,67,28,+13 Laps,0
+16,64,Louis Rosier,Ferrari,65,17,+15 Laps,0
+17,4,Alberto Ascari,Ferrari,79,1,Accident,0
+18,52,Felice Bonetto,Maserati,77,7,Out of fuel,0
+19,54,Onofre Marimón,Maserati,75,4,Accident,0
+20,58,Toulo de Graffenried,Maserati,70,9,Engine,0
+21,20,Jack Fairman,Connaught,61,22,Not classified,0
+22,30,Ken Wharton,Cooper,57,19,Not classified,0
+23,24,Kenneth McAlpine,Connaught,56,18,Not classified,0
+24,12,Piero Carini,Ferrari,40,20,Engine,0
+25,22,Roy Salvadori,Connaught,33,14,Throttle,0
+26,2,Chico Landi,Maserati,18,21,Engine,0
+27,34,Élie Bayol,OSCA,17,13,Engine,0
+28,18,John Fitch,HWM,14,26,Engine,0
+29,26,Johnny Claes,Connaught,7,30,Fuel system,0

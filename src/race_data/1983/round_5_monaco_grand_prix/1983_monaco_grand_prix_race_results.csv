@@ -1,0 +1,29 @@
+position,number,driver,constructor,laps,grid,status,points
+1,1,Keke Rosberg,Williams,76,5,Finished,9
+2,5,Nelson Piquet,Brabham,76,6,Finished,6
+3,15,Alain Prost,Renault,76,1,Finished,4
+4,27,Patrick Tambay,Ferrari,76,4,Finished,3
+5,4,Danny Sullivan,Tyrrell,74,20,+2 Laps,2
+6,23,Mauro Baldi,Alfa Romeo,74,13,+2 Laps,1
+7,30,Chico Serra,Arrows,74,15,+2 Laps,0
+8,6,Riccardo Patrese,Brabham,64,17,Electrical,0
+9,2,Jacques Laffite,Williams,53,8,Gearbox,0
+10,29,Marc Surer,Arrows,49,12,Collision,0
+11,35,Derek Warwick,Toleman,49,10,Collision,0
+12,11,Elio de Angelis,Team Lotus,49,19,Halfshaft,0
+13,25,Jean-Pierre Jarier,Ligier,32,9,Suspension,0
+14,16,Eddie Cheever,Renault,30,3,Engine,0
+15,22,Andrea de Cesaris,Alfa Romeo,13,7,Gearbox,0
+16,28,René Arnoux,Ferrari,6,2,Suspension,0
+17,26,Raul Boesel,Ligier,3,18,Collision,0
+18,9,Manfred Winkelhock,ATS,3,16,Collision,0
+19,3,Michele Alboreto,Tyrrell,0,11,Collision,0
+20,12,Nigel Mansell,Team Lotus,0,14,Collision,0
+21,36,Bruno Giacomelli,Toleman,0,0,Did not qualify,0
+22,8,Niki Lauda,McLaren,0,0,Did not qualify,0
+23,7,John Watson,McLaren,0,0,Did not qualify,0
+24,31,Corrado Fabi,Osella,0,0,Did not qualify,0
+25,17,Eliseo Salazar,RAM,0,0,Did not qualify,0
+26,32,Piercarlo Ghinzani,Osella,0,0,Did not qualify,0
+27,34,Johnny Cecotto,Theodore,0,0,Did not prequalify,0
+28,33,Roberto Guerrero,Theodore,0,0,Did not prequalify,0

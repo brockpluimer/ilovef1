@@ -1,0 +1,31 @@
+position,number,driver,constructor,laps,grid,status,points
+1,11,Alain Prost,McLaren,60,3,Finished,9
+2,28,Gerhard Berger,Ferrari,60,4,Finished,6
+3,1,Nelson Piquet,Team Lotus,60,5,Finished,4
+4,17,Derek Warwick,Arrows,60,11,Finished,3
+5,27,Michele Alboreto,Ferrari,60,6,Finished,2
+6,2,Satoru Nakajima,Team Lotus,59,10,+1 Lap,1
+7,20,Thierry Boutsen,Benetton,59,7,+1 Lap,0
+8,18,Eddie Cheever,Arrows,59,15,+1 Lap,0
+9,26,Stefan Johansson,Ligier,57,21,+3 Laps,0
+10,22,Andrea de Cesaris,Rial,53,14,Engine,0
+11,3,Jonathan Palmer,Tyrrell,47,22,Transmission,0
+12,24,Luis Pérez-Sala,Minardi,46,20,Chassis,0
+13,30,Philippe Alliot,Larrousse,40,16,Suspension,0
+14,31,Gabriele Tarquini,Coloni,35,25,Suspension,0
+15,14,Philippe Streiff,AGS,35,19,Brakes,0
+16,29,Yannick Dalmas,Larrousse,32,17,Engine,0
+17,12,Ayrton Senna,McLaren,31,1,Disqualified,0
+18,25,René Arnoux,Ligier,23,18,Clutch,0
+19,33,Stefano Modena,Euro Brun,20,24,Engine,0
+20,5,Nigel Mansell,Williams,18,2,Engine,0
+21,19,Alessandro Nannini,Benetton,7,12,Engine,0
+22,6,Riccardo Patrese,Williams,6,8,Engine,0
+23,16,Ivan Capelli,March,6,9,Engine,0
+24,23,Adrián Campos,Minardi,5,23,Chassis,0
+25,15,Maurício Gugelmin,March,0,13,Gearbox,0
+26,32,Oscar Larrauri,Euro Brun,0,26,Electrical,0
+27,4,Julian Bailey,Tyrrell,0,0,Did not qualify,0
+28,9,Piercarlo Ghinzani,Zakspeed,0,0,Did not qualify,0
+29,21,Nicola Larini,Osella,0,0,Did not qualify,0
+30,10,Bernd Schneider,Zakspeed,0,0,Did not qualify,0

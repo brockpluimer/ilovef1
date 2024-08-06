@@ -1,0 +1,27 @@
+position,number,driver,constructor,laps,grid,status,points
+1,7,Alain Prost,McLaren,67,2,Finished,9
+2,27,Michele Alboreto,Ferrari,67,5,Finished,6
+3,1,Nelson Piquet,Brabham,67,1,Finished,4
+4,8,Niki Lauda,McLaren,67,15,Finished,3
+5,28,René Arnoux,Ferrari,67,6,Finished,2
+6,22,Riccardo Patrese,Alfa Romeo,66,9,+1 Lap,1
+7,26,Andrea de Cesaris,Ligier,65,17,+2 Laps,0
+8,21,Mauro Baldi,Spirit,65,24,+2 Laps,0
+9,18,Thierry Boutsen,Arrows,64,11,Ignition,0
+10,25,François Hesnault,Ligier,64,19,+3 Laps,0
+11,16,Derek Warwick,Renault,61,7,Overheating,0
+12,30,Jo Gartner,Osella,60,22,Fuel system,0
+13,2,Teo Fabi,Brabham,57,10,Gearbox,0
+14,12,Nigel Mansell,Team Lotus,51,8,Engine,0
+15,15,Patrick Tambay,Renault,47,3,Fuel system,0
+16,23,Eddie Cheever,Alfa Romeo,37,13,Fuel system,0
+17,9,Philippe Alliot,RAM,37,25,Turbo,0
+18,10,Jonathan Palmer,RAM,35,21,Turbo,0
+19,5,Jacques Laffite,Williams,27,14,Engine,0
+20,11,Elio de Angelis,Team Lotus,25,23,Turbo,0
+21,20,Stefan Johansson,Toleman,17,26,Overheating,0
+22,6,Keke Rosberg,Williams,0,4,Accident,0
+23,19,Ayrton Senna,Toleman,0,12,Accident,0
+24,17,Marc Surer,Arrows,0,16,Accident,0
+25,31,Gerhard Berger,ATS,0,18,Accident,0
+26,24,Piercarlo Ghinzani,Osella,0,20,Accident,0

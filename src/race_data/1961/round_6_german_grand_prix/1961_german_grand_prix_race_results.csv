@@ -1,0 +1,31 @@
+position,number,driver,constructor,laps,grid,status,points
+1,7,Stirling Moss,Lotus-Climax,15,3,Finished,9
+2,3,Wolfgang von Trips,Ferrari,15,5,Finished,6
+3,4,Phil Hill,Ferrari,15,1,Finished,4
+4,14,Jim Clark,Lotus-Climax,15,8,Finished,3
+5,18,John Surtees,Cooper-Climax,15,10,Finished,2
+6,2,Bruce McLaren,Cooper-Climax,15,12,Finished,1
+7,9,Dan Gurney,Porsche,15,7,Finished,0
+8,5,Richie Ginther,Ferrari,15,14,Finished,0
+9,28,Jackie Lewis,Cooper-Climax,15,18,Finished,0
+10,19,Roy Salvadori,Cooper-Climax,15,15,Finished,0
+11,33,Tony Maggs,Lotus-Climax,14,22,+1 Lap,0
+12,30,Ian Burgess,Cooper-Climax,14,24,+1 Lap,0
+13,11,Hans Herrmann,Porsche,14,11,+1 Lap,0
+14,31,Carel Godin de Beaufort,Porsche,14,17,+1 Lap,0
+15,37,Tony Marsh,Lotus-Climax,13,20,+2 Laps,0
+16,27,Gerry Ashmore,Lotus-Climax,13,25,+2 Laps,0
+17,6,Willy Mairesse,Ferrari,13,13,Accident,0
+18,20,Maurice Trintignant,Cooper-Maserati,12,21,Engine,0
+19,38,Bernard Collomb,Cooper-Climax,11,26,Not classified,0
+20,32,Lorenzo Bandini,Cooper-Maserati,10,19,Engine,0
+21,16,Tony Brooks,BRM,6,9,Engine,0
+22,8,Jo Bonnier,Porsche,5,4,Engine,0
+23,26,Wolfgang Seidel,Lotus-Climax,3,23,Handling,0
+24,17,Graham Hill,BRM,1,16,Accident,0
+25,15,Innes Ireland,Lotus-Climax,1,6,Heat shield fire,0
+26,1,Jack Brabham,Cooper-Climax,0,2,Accident,0
+27,10,Edgar Barth,Porsche,0,0,Withdrew,0
+28,12,Masten Gregory,Cooper-Climax,0,0,Withdrew,0
+29,25,Michael May,Lotus-Climax,0,0,Withdrew,0
+30,29,Peter Monteverdi,MBM,0,0,Withdrew,0

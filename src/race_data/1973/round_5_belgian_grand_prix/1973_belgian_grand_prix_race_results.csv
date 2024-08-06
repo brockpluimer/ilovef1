@@ -1,0 +1,24 @@
+position,number,driver,constructor,laps,grid,status,points
+1,5,Jackie Stewart,Tyrrell,70,6,Finished,9
+2,6,François Cevert,Tyrrell,70,4,Finished,6
+3,1,Emerson Fittipaldi,Team Lotus,70,9,Finished,4
+4,9,Andrea de Adamich,Brabham,69,18,+1 Lap,3
+5,21,Niki Lauda,BRM,69,14,+1 Lap,2
+6,22,Chris Amon,Tecno,67,15,+3 Laps,1
+7,7,Denny Hulme,McLaren,67,2,+3 Laps,0
+8,24,Carlos Pace,Surtees,66,8,+4 Laps,0
+9,12,Graham Hill,Shadow,65,23,+5 Laps,0
+10,19,Clay Regazzoni,BRM,63,12,Accident,0
+11,15,Mike Beuttler,March,63,20,Accident,0
+12,14,Jean-Pierre Jarier,March,60,16,Accident,0
+13,20,Jean-Pierre Beltoise,BRM,56,5,Not classified,0
+14,11,Wilson Fittipaldi,Brabham,46,19,Engine,0
+15,2,Ronnie Peterson,Team Lotus,42,1,Accident,0
+16,8,Peter Revson,McLaren,33,10,Accident,0
+17,25,Howden Ganley,Iso Marlboro,16,21,Accident,0
+18,10,Carlos Reutemann,Brabham,14,7,Engine,0
+19,16,George Follmer,Shadow,13,11,Throttle,0
+20,17,Jackie Oliver,Shadow,11,22,Accident,0
+21,3,Jacky Ickx,Ferrari,6,3,Oil pump,0
+22,26,Nanni Galli,Iso Marlboro,6,17,Engine,0
+23,23,Mike Hailwood,Surtees,4,13,Accident,0

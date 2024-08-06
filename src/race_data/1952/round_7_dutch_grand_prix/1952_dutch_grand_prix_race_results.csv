@@ -1,0 +1,20 @@
+position,number,driver,constructor,laps,grid,status,points
+1,2,Alberto Ascari,Ferrari,90,1,Finished,9
+2,4,Nino Farina,Ferrari,90,2,Finished,6
+3,6,Luigi Villoresi,Ferrari,90,4,Finished,4
+4,32,Mike Hawthorn,Cooper,88,3,+2 Laps,3
+5,10,Robert Manzon,Gordini,87,6,+3 Laps,2
+6,12,Maurice Trintignant,Gordini,87,5,+3 Laps,0
+7,28,Duncan Hamilton,HWM,85,10,+5 Laps,0
+8,26,Lance Macklin,HWM,84,9,+6 Laps,0
+9,16,Chico Landi,Maserati,83,16,+7 Laps,0
+9,16,Jan Flinterman,Maserati,83,16,+7 Laps,0
+10,34,Ken Wharton,Frazer Nash,76,7,Wheel bearing,0
+11,36,Stirling Moss,ERA,73,18,Engine,0
+12,30,Dries van der Lof,HWM,70,14,Not classified,0
+13,22,Ken Downing,Connaught,27,13,Oil pressure,0
+14,24,Charles de Tornaco,Ferrari,19,17,Engine,0
+15,14,Paul Frère,Simca,15,11,Clutch,0
+16,8,Jean Behra,Gordini,10,6,Electrical,0
+17,20,Jan Flinterman,Maserati,7,15,Differential,0
+18,18,Gino Bianco,Maserati,4,12,Axle,0

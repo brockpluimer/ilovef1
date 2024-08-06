@@ -1,0 +1,25 @@
+position,number,driver,constructor,laps,grid,status,points
+1,5,Damon Hill,Williams,77,1,Finished,10
+2,6,David Coulthard,Williams,77,2,Finished,6
+3,28,Gerhard Berger,Ferrari,76,4,+1 Lap,4
+4,2,Johnny Herbert,Benetton,76,9,+1 Lap,3
+5,30,Heinz-Harald Frentzen,Sauber,76,11,+1 Lap,2
+6,26,Olivier Panis,Ligier,76,10,+1 Lap,1
+7,14,Rubens Barrichello,Jordan,76,14,+1 Lap,0
+8,24,Luca Badoer,Minardi,75,12,+2 Laps,0
+9,23,Pedro Lamy,Minardi,74,15,+3 Laps,0
+10,29,Jean-Christophe Boullion,Sauber,74,19,+3 Laps,0
+11,1,Michael Schumacher,Benetton,73,3,Engine,0
+12,17,Andrea Montermini,Pacific,73,22,+4 Laps,0
+13,15,Eddie Irvine,Jordan,70,7,Clutch,0
+14,25,Martin Brundle,Ligier,67,8,Engine,0
+15,4,Mika Salo,Tyrrell,58,16,Throttle,0
+16,7,Mark Blundell,McLaren,54,13,Fuel leak,0
+17,3,Ukyo Katayama,Tyrrell,46,17,Spun off,0
+18,9,Massimiliano Papis,Footwork,45,20,Brakes,0
+19,27,Jean Alesi,Ferrari,42,6,Brakes,0
+20,21,Pedro Diniz,Forti,32,23,Engine,0
+21,10,Taki Inoue,Footwork,13,18,Engine,0
+22,22,Roberto Moreno,Forti,8,21,Gearbox,0
+23,16,Giovanni Lavaggi,Pacific,5,24,Spun off,0
+24,8,Mika Häkkinen,McLaren,3,5,Engine,0

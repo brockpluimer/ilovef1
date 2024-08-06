@@ -1,0 +1,21 @@
+position,number,driver,constructor,laps,grid,status,points
+1,1,Michael Schumacher,Ferrari,73,7,Finished,10
+2,6,Kimi Räikkönen,McLaren,73,1,Finished,8
+3,10,Heinz-Harald Frentzen,Sauber,73,15,Finished,6
+4,7,Jarno Trulli,Renault,73,10,Finished,5
+5,9,Nick Heidfeld,Sauber,73,13,Finished,4
+6,3,Juan Pablo Montoya,Williams,72,4,+1 Lap,3
+7,11,Giancarlo Fisichella,Jordan,72,17,+1 Lap,2
+8,15,Justin Wilson,Jaguar,71,16,+2 Laps,1
+9,21,Cristiano da Matta,Toyota,71,9,+2 Laps,0
+10,19,Jos Verstappen,Minardi,69,19,+4 Laps,0
+11,18,Nicolas Kiesa,Minardi,69,20,+4 Laps,0
+12,16,Jacques Villeneuve,BAR,63,12,Engine,0
+13,12,Ralph Firman,Jordan,48,18,Spun off,0
+14,5,David Coulthard,McLaren,45,8,Gearbox,0
+15,8,Fernando Alonso,Renault,44,6,Engine,0
+16,17,Jenson Button,BAR,41,11,Engine,0
+17,20,Olivier Panis,Toyota,27,3,Accident,0
+18,14,Mark Webber,Jaguar,21,14,Accident,0
+19,4,Ralf Schumacher,Williams,21,5,Accident,0
+20,2,Rubens Barrichello,Ferrari,2,2,Collision,0

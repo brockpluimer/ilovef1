@@ -1,0 +1,31 @@
+position,number,driver,constructor,laps,grid,status,points
+1,27,Gilles Villeneuve,Ferrari,80,7,Finished,9
+2,26,Jacques Laffite,Ligier,80,1,Finished,6
+3,7,John Watson,McLaren,80,4,Finished,4
+4,2,Carlos Reutemann,Williams,80,3,Finished,3
+5,11,Elio de Angelis,Team Lotus,80,10,Finished,2
+6,12,Nigel Mansell,Team Lotus,80,11,Finished,1
+7,1,Alan Jones,Williams,80,2,Finished,0
+8,22,Mario Andretti,Alfa Romeo,80,8,Finished,0
+9,16,René Arnoux,Renault,80,17,Finished,0
+10,23,Bruno Giacomelli,Alfa Romeo,80,6,Finished,0
+11,21,Chico Serra,Fittipaldi,79,21,+1 Lap,0
+12,20,Keke Rosberg,Fittipaldi,78,15,+2 Laps,0
+13,33,Patrick Tambay,Theodore,78,16,+2 Laps,0
+14,14,Eliseo Salazar,Ensign,77,24,+3 Laps,0
+15,28,Didier Pironi,Ferrari,76,13,+4 Laps,0
+16,17,Derek Daly,March,75,22,+5 Laps,0
+17,3,Eddie Cheever,Tyrrell,62,20,Not classified,0
+18,25,Jean-Pierre Jabouille,Ligier,51,19,Brakes,0
+19,6,Hector Rebaque,Brabham,46,18,Gearbox,0
+20,30,Siegfried Stohr,Arrows,43,23,Ignition,0
+21,5,Nelson Piquet,Brabham,43,9,Accident,0
+22,15,Alain Prost,Renault,28,5,Spun off,0
+23,29,Riccardo Patrese,Arrows,21,12,Brakes,0
+24,8,Andrea de Cesaris,McLaren,9,14,Accident,0
+25,4,Michele Alboreto,Tyrrell,0,0,Did not qualify,0
+26,31,Beppe Gabbiani,Osella,0,0,Did not qualify,0
+27,9,Slim Borgudd,ATS,0,0,Did not qualify,0
+28,35,Brian Henton,Toleman,0,0,Did not qualify,0
+29,36,Derek Warwick,Toleman,0,0,Did not qualify,0
+30,32,Giorgio Francia,Osella,0,0,Did not qualify,0

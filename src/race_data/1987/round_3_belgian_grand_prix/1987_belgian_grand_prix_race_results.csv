@@ -1,0 +1,27 @@
+position,number,driver,constructor,laps,grid,status,points
+1,1,Alain Prost,McLaren,43,6,Finished,9
+2,2,Stefan Johansson,McLaren,43,10,Finished,6
+3,8,Andrea de Cesaris,Brabham,42,13,+1 Lap,4
+4,18,Eddie Cheever,Arrows,42,11,+1 Lap,3
+5,11,Satoru Nakajima,Team Lotus,42,15,+1 Lap,2
+6,25,René Arnoux,Ligier,41,16,+2 Laps,1
+7,26,Piercarlo Ghinzani,Ligier,40,17,+3 Laps,0
+8,30,Philippe Alliot,Larrousse,40,22,+3 Laps,0
+9,4,Philippe Streiff,Tyrrell,39,23,+4 Laps,0
+10,14,Pascal Fabre,AGS,38,25,+5 Laps,0
+11,19,Teo Fabi,Benetton,34,9,Engine,0
+12,9,Martin Brundle,Zakspeed,19,18,Overheating,0
+13,20,Thierry Boutsen,Benetton,18,7,Wheel bearing,0
+14,5,Nigel Mansell,Williams,17,1,Accident,0
+15,12,Ayrton Senna,Team Lotus,17,3,Accident,0
+16,16,Ivan Capelli,March,14,21,Engine,0
+17,6,Nelson Piquet,Williams,11,2,Exhaust,0
+18,21,Alex Caffi,Osella,11,26,Fuel leak,0
+19,27,Michele Alboreto,Ferrari,9,5,Transmission,0
+20,10,Christian Danner,Zakspeed,9,20,Brakes,0
+21,17,Derek Warwick,Arrows,8,12,Radiator,0
+22,7,Riccardo Patrese,Brabham,5,8,Clutch,0
+23,28,Gerhard Berger,Ferrari,2,4,Engine,0
+24,24,Alessandro Nannini,Minardi,1,14,Turbo,0
+25,23,Adrián Campos,Minardi,0,19,Gearbox,0
+26,3,Jonathan Palmer,Tyrrell,0,24,Accident,0

@@ -1,0 +1,25 @@
+position,number,driver,constructor,laps,grid,status,points
+1,8,Ayrton Senna,McLaren,53,2,Finished,10
+2,2,Alain Prost,Williams,53,1,Finished,6
+3,7,Mika Häkkinen,McLaren,53,3,Finished,4
+4,0,Damon Hill,Williams,53,6,Finished,3
+5,14,Rubens Barrichello,Jordan,53,12,Finished,2
+6,15,Eddie Irvine,Jordan,53,8,Finished,1
+7,26,Mark Blundell,Ligier,52,17,+1 Lap,0
+8,30,Jyrki Järvilehto,Sauber,52,11,+1 Lap,0
+9,25,Martin Brundle,Ligier,51,15,Collision,0
+10,24,Pierluigi Martini,Minardi,51,22,+2 Laps,0
+11,12,Johnny Herbert,Team Lotus,51,19,+2 Laps,0
+12,19,Toshio Suzuki,Larrousse,51,23,+2 Laps,0
+13,11,Pedro Lamy,Team Lotus,49,20,Spun off,0
+14,9,Derek Warwick,Footwork,48,7,Collision,0
+15,6,Riccardo Patrese,Benetton,45,10,Spun off,0
+16,28,Gerhard Berger,Ferrari,40,5,Engine,0
+17,10,Aguri Suzuki,Footwork,28,9,Spun off,0
+18,23,Jean-Marc Gounon,Minardi,26,13,Withdrew,0
+19,3,Ukyo Katayama,Tyrrell,26,24,Engine,0
+20,29,Karl Wendlinger,Sauber,25,16,Engine,0
+21,20,Érik Comas,Larrousse,17,21,Engine,0
+22,5,Michael Schumacher,Benetton,10,4,Collision,0
+23,27,Jean Alesi,Ferrari,7,14,Engine,0
+24,4,Andrea de Cesaris,Tyrrell,0,18,Collision,0

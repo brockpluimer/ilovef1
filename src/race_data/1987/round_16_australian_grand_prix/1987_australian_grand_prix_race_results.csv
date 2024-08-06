@@ -1,0 +1,28 @@
+position,number,driver,constructor,laps,grid,status,points
+1,28,Gerhard Berger,Ferrari,82,1,Finished,9
+2,27,Michele Alboreto,Ferrari,82,6,Finished,6
+3,20,Thierry Boutsen,Benetton,81,5,+1 Lap,4
+4,3,Jonathan Palmer,Tyrrell,80,19,+2 Laps,3
+5,29,Yannick Dalmas,Larrousse,79,21,+3 Laps,0
+6,14,Roberto Moreno,AGS,79,25,+3 Laps,1
+7,10,Christian Danner,Zakspeed,79,24,+3 Laps,0
+8,8,Andrea de Cesaris,Brabham,78,10,Spun off,0
+9,5,Riccardo Patrese,Williams,76,7,Oil leak,0
+10,12,Ayrton Senna,Team Lotus,82,4,Disqualified,0
+11,6,Nelson Piquet,Williams,58,3,Brakes,0
+12,16,Ivan Capelli,March,58,23,Spun off,0
+13,1,Alain Prost,McLaren,53,2,Brakes,0
+14,18,Eddie Cheever,Arrows,53,11,Overheating,0
+15,2,Stefan Johansson,McLaren,48,8,Brakes,0
+16,19,Teo Fabi,Benetton,46,9,Brakes,0
+17,23,Adrián Campos,Minardi,46,26,Transmission,0
+18,30,Philippe Alliot,Larrousse,45,17,Electrical,0
+19,25,René Arnoux,Ligier,41,20,Ignition,0
+20,7,Stefano Modena,Brabham,31,15,Physical,0
+21,26,Piercarlo Ghinzani,Ligier,26,22,Ignition,0
+22,11,Satoru Nakajima,Team Lotus,22,14,Hydraulics,0
+23,17,Derek Warwick,Arrows,19,12,Transmission,0
+24,9,Martin Brundle,Zakspeed,18,16,Engine,0
+25,4,Philippe Streiff,Tyrrell,6,18,Spun off,0
+26,24,Alessandro Nannini,Minardi,0,13,Accident,0
+27,21,Alex Caffi,Osella,0,27,Did not qualify,0

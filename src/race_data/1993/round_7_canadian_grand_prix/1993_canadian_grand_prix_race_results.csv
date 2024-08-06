@@ -1,0 +1,27 @@
+position,number,driver,constructor,laps,grid,status,points
+1,2,Alain Prost,Williams,69,1,Finished,10
+2,5,Michael Schumacher,Benetton,69,3,Finished,6
+3,0,Damon Hill,Williams,69,2,Finished,4
+4,28,Gerhard Berger,Ferrari,68,5,+1 Lap,3
+5,25,Martin Brundle,Ligier,68,7,+1 Lap,2
+6,29,Karl Wendlinger,Sauber,68,9,+1 Lap,1
+7,30,Jyrki Järvilehto,Sauber,68,11,+1 Lap,0
+8,20,Érik Comas,Larrousse,68,13,+1 Lap,0
+9,23,Christian Fittipaldi,Minardi,67,17,+2 Laps,0
+10,12,Johnny Herbert,Team Lotus,67,20,+2 Laps,0
+11,11,Alessandro Zanardi,Team Lotus,67,21,+2 Laps,0
+12,15,Thierry Boutsen,Jordan,67,24,+2 Laps,0
+13,10,Aguri Suzuki,Footwork,66,16,+3 Laps,0
+14,7,Michael Andretti,McLaren,66,12,+3 Laps,0
+15,22,Luca Badoer,Lola,65,25,+4 Laps,0
+16,9,Derek Warwick,Footwork,65,18,+4 Laps,0
+17,3,Ukyo Katayama,Tyrrell,64,22,+5 Laps,0
+18,8,Ayrton Senna,McLaren,62,8,Electrical,0
+19,6,Riccardo Patrese,Benetton,52,4,Physical,0
+20,4,Andrea de Cesaris,Tyrrell,45,19,Spun off,0
+21,24,Fabrizio Barbazza,Minardi,33,23,Gearbox,0
+22,27,Jean Alesi,Ferrari,33,6,Engine,0
+23,26,Mark Blundell,Ligier,13,10,Spun off,0
+24,14,Rubens Barrichello,Jordan,10,14,Electrical,0
+25,19,Philippe Alliot,Larrousse,8,15,Engine,0
+26,21,Michele Alboreto,Lola,0,0,Did not qualify,0

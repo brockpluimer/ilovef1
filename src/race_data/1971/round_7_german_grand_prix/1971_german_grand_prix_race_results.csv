@@ -1,0 +1,24 @@
+position,number,driver,constructor,laps,grid,status,points
+1,2,Jackie Stewart,Tyrrell,12,1,Finished,9
+2,3,François Cevert,Tyrrell,12,5,Finished,6
+3,6,Clay Regazzoni,Ferrari,12,4,Finished,4
+4,5,Mario Andretti,Ferrari,12,11,Finished,3
+5,15,Ronnie Peterson,March-Ford,12,3,Finished,2
+6,25,Tim Schenken,Brabham,12,9,Finished,1
+7,7,John Surtees,Surtees,12,15,Finished,0
+8,9,Reine Wisell,Lotus-Ford,12,17,Finished,0
+9,24,Graham Hill,Brabham,12,13,Finished,0
+10,12,Rolf Stommelen,Surtees,11,12,+1 Lap,0
+11,22,Vic Elford,BRM,11,18,+1 Lap,0
+12,17,Nanni Galli,March-Alfa Romeo,10,21,+2 Laps,0
+13,8,Emerson Fittipaldi,Lotus-Ford,8,8,Oil leak,0
+14,21,Jo Siffert,BRM,6,3,Disqualified,0
+15,10,Chris Amon,Matra,6,16,Accident,0
+16,14,Henri Pescarolo,March-Ford,5,10,Suspension,0
+17,20,Peter Gethin,McLaren,5,19,Accident,0
+18,18,Denny Hulme,McLaren,3,6,Fuel leak,0
+19,28,Mike Beuttler,March-Ford,3,22,Disqualified,0
+20,23,Howden Ganley,BRM,2,14,Engine,0
+21,16,Andrea de Adamich,March-Alfa Romeo,2,20,Injection,0
+22,4,Jacky Ickx,Ferrari,1,2,Accident,0
+23,27,Jo Bonnier,McLaren,0,0,Did not qualify,0

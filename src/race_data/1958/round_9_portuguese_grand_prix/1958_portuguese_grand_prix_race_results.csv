@@ -1,0 +1,16 @@
+position,number,driver,constructor,laps,grid,status,points
+1,2,Stirling Moss,Vanwall,50,1,Finished,8
+2,24,Mike Hawthorn,Ferrari,50,2,Finished,7
+3,6,Stuart Lewis-Evans,Vanwall,49,3,+1 Lap,4
+4,8,Jean Behra,BRM,49,4,+1 Lap,3
+5,22,Wolfgang von Trips,Ferrari,49,6,+1 Lap,2
+6,10,Harry Schell,BRM,49,7,+1 Lap,0
+7,14,Jack Brabham,Cooper,48,8,+2 Laps,0
+8,12,Maurice Trintignant,Cooper,48,9,+2 Laps,0
+9,16,Roy Salvadori,Cooper,46,11,+4 Laps,0
+10,28,Carroll Shelby,Maserati,47,10,Brakes,0
+11,4,Tony Brooks,Vanwall,37,5,Spun off,0
+12,20,Graham Hill,Team Lotus,25,12,Spun off,0
+13,18,Cliff Allison,Maserati,15,13,Engine,0
+14,32,Jo Bonnier,Maserati,9,14,Physical,0
+15,30,Maria de Filippis,Maserati,6,15,Engine,0

@@ -1,0 +1,31 @@
+position,number,driver,constructor,laps,grid,status,points
+1,12,Jack Brabham,Cooper-Climax,75,1,Finished,8
+2,6,Stirling Moss,BRM,75,7,Finished,6.5
+3,16,Bruce McLaren,Cooper-Climax,75,8,Finished,4.5
+4,8,Harry Schell,BRM,74,3,+1 Lap,3
+5,18,Maurice Trintignant,Cooper-Climax,74,4,+1 Lap,2
+6,2,Roy Salvadori,Aston Martin,74,2,+1 Lap,0
+7,14,Masten Gregory,Cooper-Climax,73,5,+2 Laps,0
+8,30,Alan Stacey,Team Lotus,71,12,+4 Laps,0
+9,28,Graham Hill,Team Lotus,70,9,+5 Laps,0
+10,48,Chris Bristow,Cooper-Borgward,70,16,+5 Laps,0
+11,58,Henry Taylor,Cooper-Climax,69,21,+6 Laps,0
+12,52,Peter Ashdown,Cooper-Climax,69,23,+6 Laps,0
+13,46,Ivor Bueb,Cooper-Borgward,69,18,+6 Laps,0
+14,4,Carroll Shelby,Aston Martin,69,6,Ignition,0
+15,40,Fritz d'Orey,Maserati,57,20,Accident,0
+16,42,Ron Flockhart,BRM,53,11,Spun off,0
+17,38,Jack Fairman,Cooper-Climax,39,15,Gearbox,0
+18,10,Jo Bonnier,BRM,37,10,Brakes,0
+19,22,Ian Burgess,Cooper-Maserati,31,13,Transmission,0
+20,24,Hans Herrmann,Cooper-Maserati,21,19,Gearbox,0
+21,64,David Piper,Team Lotus,19,22,Overheating,0
+22,36,Brian Naylor,JBW,18,14,Transmission,0
+23,50,Mike Taylor,Cooper-Climax,17,24,Transmission,0
+24,20,Tony Brooks,Vanwall,13,17,Ignition,0
+25,54,Keith Greene,Cooper-Climax,0,0,Did not qualify,0
+26,56,Bill Moss,Cooper-Climax,0,0,Did not qualify,0
+27,60,Mike Parkes,Fry,0,0,Did not qualify,0
+28,62,Dennis Taylor,Team Lotus,0,0,Did not qualify,0
+29,44,Trevor Taylor,Cooper-Climax,0,0,Did not qualify,0
+30,66,Tim Parnell,Cooper-Climax,0,0,Did not qualify,0

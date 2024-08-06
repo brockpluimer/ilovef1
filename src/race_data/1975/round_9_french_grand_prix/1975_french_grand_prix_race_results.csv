@@ -1,0 +1,27 @@
+position,number,driver,constructor,laps,grid,status,points
+1,12,Niki Lauda,Ferrari,54,1,Finished,9
+2,24,James Hunt,Hesketh,54,3,Finished,6
+3,2,Jochen Mass,McLaren,54,7,Finished,4
+4,1,Emerson Fittipaldi,McLaren,54,10,Finished,3
+5,27,Mario Andretti,Parnelli,54,15,Finished,2
+6,4,Patrick Depailler,Tyrrell,54,13,Finished,1
+7,23,Tony Brise,Embassy Hill,54,12,Finished,0
+8,17,Jean-Pierre Jarier,Shadow-Ford,54,4,Finished,0
+9,3,Jody Scheckter,Tyrrell,54,2,Finished,0
+10,5,Ronnie Peterson,Team Lotus,54,17,Finished,0
+11,21,Jacques Laffite,Williams,54,16,Finished,0
+12,15,Jean-Pierre Jabouille,Tyrrell,54,21,Finished,0
+13,18,John Watson,Surtees,53,14,+1 Lap,0
+14,7,Carlos Reutemann,Brabham,53,11,+1 Lap,0
+15,31,Gijs van Lennep,Ensign,53,22,+1 Lap,0
+16,22,Alan Jones,Embassy Hill,53,20,+1 Lap,0
+17,14,Bob Evans,BRM,52,25,+2 Laps,0
+18,10,Lella Lombardi,March,50,26,+4 Laps,0
+19,8,Carlos Pace,Brabham,26,5,Transmission,0
+20,6,Jacky Ickx,Team Lotus,17,19,Brakes,0
+21,30,Wilson Fittipaldi,Fittipaldi,14,23,Engine,0
+22,9,Vittorio Brambilla,March,6,8,Chassis,0
+23,11,Clay Regazzoni,Ferrari,6,9,Engine,0
+24,28,Mark Donohue,Penske,6,18,Transmission,0
+25,16,Tom Pryce,Shadow-Ford,2,6,Transmission,0
+26,20,François Migault,Williams,0,24,Withdrew,0

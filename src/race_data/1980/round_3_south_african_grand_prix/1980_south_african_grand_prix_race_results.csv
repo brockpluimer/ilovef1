@@ -1,0 +1,29 @@
+position,number,driver,constructor,laps,grid,status,points
+1,16,René Arnoux,Renault,78,2,Finished,9
+2,26,Jacques Laffite,Ligier,78,4,Finished,6
+3,25,Didier Pironi,Ligier,78,5,Finished,4
+4,5,Nelson Piquet,Brabham,78,3,Finished,3
+5,28,Carlos Reutemann,Williams,77,6,+1 Lap,2
+6,30,Jochen Mass,Arrows,77,19,+1 Lap,1
+7,3,Jean-Pierre Jarier,Tyrrell,77,13,+1 Lap,0
+8,20,Emerson Fittipaldi,Fittipaldi,77,18,+1 Lap,0
+9,14,Clay Regazzoni,Ensign,77,20,+1 Lap,0
+10,6,Ricardo Zunino,Brabham,77,17,+1 Lap,0
+11,7,John Watson,McLaren,76,21,+2 Laps,0
+12,11,Mario Andretti,Team Lotus,76,15,+2 Laps,0
+13,17,Geoff Lees,Shadow,70,24,Suspension,0
+14,23,Bruno Giacomelli,Alfa Romeo,69,12,Engine,0
+15,15,Jean-Pierre Jabouille,Renault,61,1,Puncture,0
+16,4,Derek Daly,Tyrrell,61,16,Puncture,0
+17,21,Keke Rosberg,Fittipaldi,58,23,Accident,0
+18,22,Patrick Depailler,Alfa Romeo,53,7,Not classified,0
+19,27,Alan Jones,Williams,34,8,Gearbox,0
+20,2,Gilles Villeneuve,Ferrari,31,10,Transmission,0
+21,1,Jody Scheckter,Ferrari,14,9,Engine,0
+22,29,Riccardo Patrese,Arrows,10,11,Spun off,0
+23,31,Eddie Cheever,Osella,8,22,Spun off,0
+24,12,Elio de Angelis,Team Lotus,1,14,Spun off,0
+25,8,Alain Prost,McLaren,0,0,Accident,0
+26,9,Marc Surer,ATS,0,0,Accident,0
+27,18,Dave Kennedy,Shadow,0,0,Did not qualify,0
+28,10,Jan Lammers,ATS,0,0,Did not qualify,0

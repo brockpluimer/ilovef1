@@ -1,0 +1,17 @@
+position,number,driver,constructor,laps,grid,status,points
+1,8,Peter Collins,Ferrari,36,3,Finished,8
+2,6,Paul Frère,Ferrari,36,8,Finished,6
+3,34,Stirling Moss,Maserati,36,9,Finished,3
+3,34,Cesare Perdisa,Maserati,36,9,Finished,2
+4,10,Harry Schell,Vanwall,35,6,+1 Lap,3
+5,22,Luigi Villoresi,Maserati,34,11,+2 Laps,2
+6,20,André Pilette,Ferrari,33,16,+3 Laps,0
+7,32,Jean Behra,Maserati,33,4,+3 Laps,0
+8,24,Louis Rosier,Maserati,33,10,+3 Laps,0
+9,2,Juan Fangio,Ferrari,23,1,Transmission,0
+10,12,Maurice Trintignant,Vanwall,11,7,Fuel system,0
+11,30,Stirling Moss,Maserati,10,2,Wheel,0
+12,4,Eugenio Castellotti,Ferrari,10,5,Transmission,0
+13,28,Piero Scotti,Connaught,10,12,Engine,0
+14,26,Horace Gould,Maserati,2,15,Gearbox,0
+15,36,Paco Godia,Maserati,0,13,Accident,0

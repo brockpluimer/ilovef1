@@ -1,0 +1,27 @@
+position,number,driver,constructor,laps,grid,status,points
+1,6,Riccardo Patrese,Brabham,77,3,Finished,9
+2,22,Andrea de Cesaris,Alfa Romeo,77,9,Finished,6
+3,5,Nelson Piquet,Brabham,77,2,Finished,4
+4,35,Derek Warwick,Toleman,76,13,+1 Lap,3
+5,1,Keke Rosberg,Williams,76,6,+1 Lap,2
+6,16,Eddie Cheever,Renault,76,14,+1 Lap,1
+7,4,Danny Sullivan,Tyrrell,75,19,+2 Laps,0
+8,29,Marc Surer,Arrows,75,22,+2 Laps,0
+9,30,Thierry Boutsen,Arrows,74,20,+3 Laps,0
+10,25,Jean-Pierre Jarier,Ligier,73,21,+4 Laps,0
+11,8,Niki Lauda,McLaren,71,12,Electrical,0
+12,17,Kenny Acheson,RAM,71,24,+6 Laps,0
+13,12,Nigel Mansell,Team Lotus,68,7,Not classified,0
+14,26,Raul Boesel,Ligier,66,23,Not classified,0
+15,3,Michele Alboreto,Tyrrell,60,18,Engine,0
+16,27,Patrick Tambay,Ferrari,56,1,Turbo,0
+17,36,Bruno Giacomelli,Toleman,56,16,Turbo,0
+18,15,Alain Prost,Renault,35,5,Turbo,0
+19,31,Corrado Fabi,Osella,28,25,Engine,0
+20,11,Elio de Angelis,Team Lotus,20,11,Engine,0
+21,7,John Watson,McLaren,18,15,Disqualified,0
+22,28,René Arnoux,Ferrari,9,4,Engine,0
+23,23,Mauro Baldi,Alfa Romeo,5,17,Engine,0
+24,9,Manfred Winkelhock,ATS,1,8,Engine,0
+25,2,Jacques Laffite,Williams,1,10,Spun off,0
+26,32,Piercarlo Ghinzani,Osella,1,26,Engine,0

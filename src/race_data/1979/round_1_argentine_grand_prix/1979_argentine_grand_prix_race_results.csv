@@ -1,0 +1,27 @@
+position,number,driver,constructor,laps,grid,status,points
+1,26,Jacques Laffite,Ligier,53,1,Finished,9
+2,2,Carlos Reutemann,Team Lotus,53,3,Finished,6
+3,7,John Watson,McLaren,53,6,Finished,4
+4,25,Patrick Depailler,Ligier,53,2,Finished,3
+5,1,Mario Andretti,Team Lotus,52,7,+1 Lap,2
+6,14,Emerson Fittipaldi,Fittipaldi,52,11,+1 Lap,1
+7,18,Elio de Angelis,Shadow,52,16,+1 Lap,0
+8,30,Jochen Mass,Arrows,51,14,+2 Laps,0
+9,27,Alan Jones,Williams,51,15,+2 Laps,0
+10,28,Clay Regazzoni,Williams,51,17,+2 Laps,0
+11,22,Derek Daly,Ensign,51,24,+2 Laps,0
+12,12,Gilles Villeneuve,Ferrari,48,10,Engine,0
+13,31,Hector Rebaque,Team Lotus,46,19,Suspension,0
+14,17,Jan Lammers,Shadow,42,21,Transmission,0
+15,20,James Hunt,Wolf,41,18,Electrical,0
+16,4,Jean-Pierre Jarier,Tyrrell,15,4,Engine,0
+17,15,Jean-Pierre Jabouille,Renault,15,12,Engine,0
+18,5,Niki Lauda,Brabham-Alfa Romeo,8,23,Fuel system,0
+19,16,René Arnoux,Renault,6,25,Engine,0
+20,11,Jody Scheckter,Ferrari,0,5,Collision,0
+21,3,Didier Pironi,Tyrrell,0,8,Collision,0
+22,8,Patrick Tambay,McLaren,0,9,Collision,0
+23,6,Nelson Piquet,Brabham-Alfa Romeo,0,20,Collision,0
+24,24,Arturo Merzario,Merzario,0,22,Collision,0
+25,29,Riccardo Patrese,Arrows,0,13,Accident,0
+26,9,Hans-Joachim Stuck,ATS,0,0,Withdrew,0

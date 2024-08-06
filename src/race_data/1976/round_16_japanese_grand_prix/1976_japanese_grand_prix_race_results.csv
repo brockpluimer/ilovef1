@@ -1,0 +1,27 @@
+position,number,driver,constructor,laps,grid,status,points
+1,5,Mario Andretti,Team Lotus,73,1,Finished,9
+2,4,Patrick Depailler,Tyrrell,72,13,+1 Lap,6
+3,11,James Hunt,McLaren,72,2,+1 Lap,4
+4,19,Alan Jones,Surtees,72,20,+1 Lap,3
+5,2,Clay Regazzoni,Ferrari,72,7,+1 Lap,2
+6,6,Gunnar Nilsson,Team Lotus,72,16,+1 Lap,1
+7,26,Jacques Laffite,Ligier,72,11,+1 Lap,0
+8,24,Harald Ertl,Hesketh,72,22,+1 Lap,0
+9,18,Noritake Takahara,Surtees,70,24,+3 Laps,0
+10,17,Jean-Pierre Jarier,Shadow,69,15,+4 Laps,0
+11,51,Masahiro Hasemi,Kojima,66,10,+7 Laps,0
+12,3,Jody Scheckter,Tyrrell,58,5,Overheating,0
+13,21,Hans Binder,Wolf,49,25,Wheel,0
+14,16,Tom Pryce,Shadow,46,14,Physical,0
+15,9,Vittorio Brambilla,March,38,8,Electrical,0
+16,34,Hans-Joachim Stuck,March,37,18,Electrical,0
+17,12,Jochen Mass,McLaren,35,12,Accident,0
+18,28,John Watson,Penske,33,4,Engine,0
+19,52,Kazuyoshi Hoshino,Tyrrell,27,21,Tyre,0
+20,20,Arturo Merzario,Wolf,23,19,Gearbox,0
+21,30,Emerson Fittipaldi,Fittipaldi,9,23,Withdrew,0
+22,8,Carlos Pace,Brabham-Alfa Romeo,7,6,Withdrew,0
+23,1,Niki Lauda,Ferrari,2,3,Withdrew,0
+24,7,Larry Perkins,Brabham-Alfa Romeo,1,17,Withdrew,0
+25,10,Ronnie Peterson,March,0,9,Engine,0
+26,54,Tony Trimmer,Maki,0,0,Did not qualify,0

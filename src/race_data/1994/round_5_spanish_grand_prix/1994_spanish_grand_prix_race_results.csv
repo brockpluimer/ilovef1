@@ -1,0 +1,28 @@
+position,number,driver,constructor,laps,grid,status,points
+1,0,Damon Hill,Williams,65,2,Finished,10
+2,5,Michael Schumacher,Benetton,65,1,Finished,6
+3,4,Mark Blundell,Tyrrell,65,11,Finished,4
+4,27,Jean Alesi,Ferrari,64,6,+1 Lap,3
+5,23,Pierluigi Martini,Minardi,64,18,+1 Lap,2
+6,15,Eddie Irvine,Jordan,64,13,+1 Lap,1
+7,26,Olivier Panis,Ligier,63,19,+2 Laps,0
+8,25,Éric Bernard,Ligier,62,20,+3 Laps,0
+9,11,Alessandro Zanardi,Team Lotus,62,23,+3 Laps,0
+10,31,David Brabham,Simtek,61,24,+4 Laps,0
+11,8,Martin Brundle,McLaren,59,8,Transmission,0
+12,6,Jyrki Järvilehto,Benetton,53,4,Engine,0
+13,7,Mika Häkkinen,McLaren,48,3,Engine,0
+14,12,Johnny Herbert,Team Lotus,41,22,Spun off,0
+15,14,Rubens Barrichello,Jordan,39,5,Spun off,0
+16,9,Christian Fittipaldi,Footwork,35,21,Engine,0
+17,2,David Coulthard,Williams,32,9,Electrical,0
+18,34,Bertrand Gachot,Pacific,32,25,Broken wing,0
+19,28,Gerhard Berger,Ferrari,27,7,Gearbox,0
+20,10,Gianni Morbidelli,Footwork,24,15,Fuel system,0
+21,30,Heinz-Harald Frentzen,Sauber,21,12,Gearbox,0
+22,20,Érik Comas,Larrousse,19,16,Radiator,0
+23,3,Ukyo Katayama,Tyrrell,16,10,Engine,0
+24,24,Michele Alboreto,Minardi,4,14,Engine,0
+25,33,Paul Belmondo,Pacific,2,26,Spun off,0
+26,19,Olivier Beretta,Larrousse,0,17,Engine,0
+27,32,Andrea Montermini,Simtek,0,0,Injury,0

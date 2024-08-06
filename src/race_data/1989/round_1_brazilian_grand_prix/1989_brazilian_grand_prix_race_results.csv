@@ -1,0 +1,31 @@
+position,number,driver,constructor,laps,grid,status,points
+1,27,Nigel Mansell,Ferrari,61,6,Finished,9
+2,2,Alain Prost,McLaren,61,5,Finished,6
+3,15,Maurício Gugelmin,March,61,12,Finished,4
+4,20,Johnny Herbert,Benetton,61,10,Finished,3
+5,9,Derek Warwick,Arrows,61,8,Finished,2
+6,19,Alessandro Nannini,Benetton,61,11,Finished,1
+7,3,Jonathan Palmer,Tyrrell,60,18,+1 Lap,0
+8,12,Satoru Nakajima,Team Lotus,60,21,+1 Lap,0
+9,26,Olivier Grouillard,Ligier,60,22,+1 Lap,0
+10,4,Michele Alboreto,Tyrrell,59,20,+2 Laps,0
+11,1,Ayrton Senna,McLaren,59,1,+2 Laps,0
+12,30,Philippe Alliot,Larrousse,58,26,+3 Laps,0
+13,22,Andrea de Cesaris,Dallara,57,15,+4 Laps,0
+14,38,Christian Danner,Rial,56,17,+5 Laps,0
+15,6,Riccardo Patrese,Williams,51,2,Alternator,0
+16,10,Eddie Cheever,Arrows,37,24,Collision,0
+17,34,Bernd Schneider,Zakspeed,36,25,Collision,0
+18,7,Martin Brundle,Brabham,27,13,Halfshaft,0
+19,16,Ivan Capelli,March,22,7,Suspension,0
+20,11,Nelson Piquet,Team Lotus,10,9,Fuel system,0
+21,17,Nicola Larini,Osella,10,19,Disqualified,0
+22,8,Stefano Modena,Brabham,9,14,Halfshaft,0
+23,5,Thierry Boutsen,Williams,3,4,Engine,0
+24,23,Pierluigi Martini,Minardi,2,16,Chassis,0
+25,28,Gerhard Berger,Ferrari,0,3,Collision,0
+26,24,Luis Pérez-Sala,Minardi,0,23,Collision,0
+27,29,Yannick Dalmas,Larrousse,0,0,Did not qualify,0
+28,25,René Arnoux,Ligier,0,0,Did not qualify,0
+29,33,Gregor Foitek,Euro Brun,0,0,Did not qualify,0
+30,31,Roberto Moreno,Coloni,0,0,Did not qualify,0

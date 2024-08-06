@@ -1,0 +1,25 @@
+position,number,driver,constructor,laps,grid,status,points
+1,1,Sebastian Vettel,Red Bull,60,1,Finished,25
+2,5,Fernando Alonso,Ferrari,60,5,Finished,18
+3,2,Mark Webber,Red Bull,60,2,Finished,15
+4,4,Lewis Hamilton,McLaren,60,3,Finished,12
+5,3,Jenson Button,McLaren,60,4,Finished,10
+6,6,Felipe Massa,Ferrari,60,6,Finished,8
+7,9,Kimi Räikkönen,Lotus F1,60,7,Finished,6
+8,12,Nico Hülkenberg,Force India,60,12,Finished,4
+9,10,Romain Grosjean,Lotus F1,60,11,Finished,2
+10,19,Bruno Senna,Williams,60,13,Finished,1
+11,8,Nico Rosberg,Mercedes,60,10,Finished,0
+12,11,Paul di Resta,Force India,60,16,Finished,0
+13,16,Daniel Ricciardo,Toro Rosso,60,15,Finished,0
+14,14,Kamui Kobayashi,Sauber,60,17,Finished,0
+15,17,Jean-Éric Vergne,Toro Rosso,59,18,+1 Lap,0
+16,18,Pastor Maldonado,Williams,59,9,+1 Lap,0
+17,21,Vitaly Petrov,Caterham,59,19,+1 Lap,0
+18,20,Heikki Kovalainen,Caterham,59,20,+1 Lap,0
+19,25,Charles Pic,Marussia,59,24,+1 Lap,0
+20,24,Timo Glock,Marussia,58,21,+2 Laps,0
+21,23,Narain Karthikeyan,HRT,58,23,+2 Laps,0
+22,7,Michael Schumacher,Mercedes,55,14,Retired,0
+23,22,Pedro de la Rosa,HRT,43,22,Accident,0
+24,15,Sergio Pérez,Sauber,21,8,Accident,0

@@ -1,0 +1,15 @@
+position,number,driver,constructor,laps,grid,status,points
+1,28,Didier Pironi,Ferrari,60,4,Finished,9
+2,27,Gilles Villeneuve,Ferrari,60,3,Finished,6
+3,3,Michele Alboreto,Tyrrell,60,5,Finished,4
+4,31,Jean-Pierre Jarier,Osella,59,9,+1 Lap,3
+5,10,Eliseo Salazar,ATS,57,14,+3 Laps,2
+6,9,Manfred Winkelhock,ATS,54,12,Disqualified,0
+7,36,Teo Fabi,Toleman,52,10,Not classified,0
+8,16,René Arnoux,Renault,44,1,Turbo,0
+9,23,Bruno Giacomelli,Alfa Romeo,24,6,Engine,0
+10,32,Riccardo Paletti,Osella,7,13,Suspension,0
+11,15,Alain Prost,Renault,6,2,Engine,0
+12,22,Andrea de Cesaris,Alfa Romeo,4,7,Electrical,0
+13,4,Brian Henton,Tyrrell,0,11,Transmission,0
+14,35,Derek Warwick,Toleman,0,8,Electrical,0

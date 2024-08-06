@@ -1,0 +1,23 @@
+position,number,driver,constructor,Q1,Q2,Q3
+1,5,Felipe Massa,Ferrari,1:21.375,1:20.597,1:21.421
+2,1,Fernando Alonso,McLaren,1:21.609,1:20.797,1:21.451
+3,6,Kimi Räikkönen,Ferrari,1:21.802,1:20.741,1:21.723
+4,2,Lewis Hamilton,McLaren,1:21.120,1:20.713,1:21.785
+5,10,Robert Kubica,BMW Sauber,1:21.941,1:21.381,1:22.253
+6,12,Jarno Trulli,Toyota,1:22.501,1:21.554,1:22.324
+7,9,Nick Heidfeld,BMW Sauber,1:21.625,1:21.113,1:22.389
+8,4,Heikki Kovalainen,Renault,1:21.790,1:21.623,1:22.568
+9,14,David Coulthard,Red Bull,1:22.491,1:21.488,1:22.749
+10,3,Giancarlo Fisichella,Renault,1:22.064,1:21.677,1:22.881
+11,16,Nico Rosberg,Williams,1:21.943,1:21.968,
+12,8,Rubens Barrichello,Honda,1:22.502,1:22.097,
+13,22,Takuma Sato,Super Aguri,1:22.090,1:22.115,
+14,7,Jenson Button,Honda,1:22.503,1:22.120,
+15,23,Anthony Davidson,Super Aguri,1:22.295,,
+16,18,Vitantonio Liuzzi,Toro Rosso,1:22.508,,
+17,11,Ralf Schumacher,Toyota,1:22.666,,
+18,17,Alexander Wurz,Williams,1:22.769,,
+19,15,Mark Webber,Red Bull,1:23.398,,
+20,20,Adrian Sutil,Spyker,1:23.811,,
+21,21,Christijan Albers,Spyker,1:23.990,,
+22,19,Scott Speed,Toro Rosso,,,

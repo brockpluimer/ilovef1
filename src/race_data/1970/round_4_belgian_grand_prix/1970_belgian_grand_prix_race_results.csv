@@ -1,0 +1,18 @@
+position,number,driver,constructor,laps,grid,status,points
+1,1,Pedro Rodríguez,BRM,28,6,Finished,9
+2,10,Chris Amon,March,28,3,Finished,6
+3,25,Jean-Pierre Beltoise,Matra,28,11,Finished,4
+4,28,Ignazio Giunti,Ferrari,28,8,Finished,3
+5,19,Rolf Stommelen,Brabham,28,7,Finished,2
+6,26,Henri Pescarolo,Matra,27,17,Electrical,1
+7,9,Jo Siffert,March,26,10,Fuel pressure,0
+8,27,Jacky Ickx,Ferrari,26,4,+2 Laps,0
+9,14,Ronnie Peterson,March,20,9,Not classified,0
+10,18,Jack Brabham,Brabham,19,5,Clutch,0
+11,23,Graham Hill,Team Lotus,19,16,Engine,0
+12,11,Jackie Stewart,March,14,1,Engine,0
+13,21,John Miles,Team Lotus,13,13,Gearbox,0
+14,20,Jochen Rindt,Team Lotus,10,2,Engine,0
+15,2,Jackie Oliver,BRM,7,14,Engine,0
+16,7,Piers Courage,De Tomaso,4,12,Oil pressure,0
+17,8,Derek Bell,Brabham,1,15,Gearbox,0

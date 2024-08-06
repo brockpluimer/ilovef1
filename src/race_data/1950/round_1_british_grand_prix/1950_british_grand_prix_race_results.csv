@@ -1,0 +1,24 @@
+position,number,driver,constructor,laps,grid,status,points
+1,2,Nino Farina,Alfa Romeo,70,1,Finished,9
+2,3,Luigi Fagioli,Alfa Romeo,70,2,Finished,6
+3,4,Reg Parnell,Alfa Romeo,70,4,Finished,4
+4,14,Yves Cabantous,Talbot-Lago,68,6,+2 Laps,3
+5,15,Louis Rosier,Talbot-Lago,68,9,+2 Laps,2
+6,12,Bob Gerard,ERA,67,13,+3 Laps,0
+7,11,Cuth Harrison,ERA,67,15,+3 Laps,0
+8,16,Philippe Étancelin,Talbot-Lago,65,14,+5 Laps,0
+9,6,David Hampshire,Maserati,64,16,+6 Laps,0
+10,10,Brian Shawe Taylor,Maserati,64,20,+6 Laps,0
+10,10,Joe Fry,Maserati,64,20,+6 Laps,0
+11,18,Johnny Claes,Talbot-Lago,64,21,+6 Laps,0
+12,1,Juan Fangio,Alfa Romeo,62,3,Oil leak,0
+13,23,Joe Kelly,Alta,57,19,Not classified,0
+14,21,Prince Bira,Maserati,49,5,Out of fuel,0
+15,5,David Murray,Maserati,44,18,Engine,0
+16,24,Geoff Crossley,Alta,43,17,Transmission,0
+17,20,Toulo de Graffenried,Maserati,36,8,Engine,0
+18,19,Louis Chiron,Maserati,26,11,Clutch,0
+19,17,Eugène Martin,Talbot-Lago,8,7,Oil pressure,0
+20,9,Peter Walker,ERA,5,10,Gearbox,0
+20,9,Tony Rolt,ERA,5,10,Gearbox,0
+21,8,Leslie Johnson,ERA,2,12,Supercharger,0

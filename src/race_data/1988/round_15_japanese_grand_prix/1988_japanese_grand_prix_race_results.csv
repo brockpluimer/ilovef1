@@ -1,0 +1,31 @@
+position,number,driver,constructor,laps,grid,status,points
+1,12,Ayrton Senna,McLaren,51,1,Finished,9
+2,11,Alain Prost,McLaren,51,2,Finished,6
+3,20,Thierry Boutsen,Benetton,51,10,Finished,4
+4,28,Gerhard Berger,Ferrari,51,3,Finished,3
+5,19,Alessandro Nannini,Benetton,51,12,Finished,2
+6,6,Riccardo Patrese,Williams,51,11,Finished,1
+7,2,Satoru Nakajima,Team Lotus,50,6,+1 Lap,0
+8,14,Philippe Streiff,AGS,50,18,+1 Lap,0
+9,30,Philippe Alliot,Larrousse,50,19,+1 Lap,0
+10,15,Maurício Gugelmin,March,50,13,+1 Lap,0
+11,27,Michele Alboreto,Ferrari,50,9,+1 Lap,0
+12,3,Jonathan Palmer,Tyrrell,50,16,+1 Lap,0
+13,23,Pierluigi Martini,Minardi,49,17,+2 Laps,0
+14,4,Julian Bailey,Tyrrell,49,26,+2 Laps,0
+15,24,Luis Pérez-Sala,Minardi,49,22,+2 Laps,0
+16,29,Aguri Suzuki,Larrousse,48,20,+3 Laps,0
+17,25,René Arnoux,Ligier,48,23,+3 Laps,0
+18,22,Andrea de Cesaris,Rial,36,14,Overheating,0
+19,18,Eddie Cheever,Arrows,35,15,Ignition,0
+20,21,Nicola Larini,Osella,34,24,Brakes,0
+21,1,Nelson Piquet,Team Lotus,34,5,Driver unwell,0
+22,5,Nigel Mansell,Williams,24,8,Collision,0
+23,36,Alex Caffi,Dallara,22,21,Spun off,0
+24,16,Ivan Capelli,March,19,4,Electrical,0
+25,17,Derek Warwick,Arrows,16,7,Spun off,0
+26,10,Bernd Schneider,Zakspeed,14,25,Driver unwell,0
+27,26,Stefan Johansson,Ligier,0,0,Did not qualify,0
+28,32,Oscar Larrauri,Euro Brun,0,0,Did not qualify,0
+29,9,Piercarlo Ghinzani,Zakspeed,0,0,Did not qualify,0
+30,33,Stefano Modena,Euro Brun,0,0,Did not qualify,0

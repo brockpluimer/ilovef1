@@ -1,0 +1,28 @@
+position,number,driver,constructor,laps,grid,status,points
+1,6,Emerson Fittipaldi,Team Lotus,55,4,Finished,9
+2,10,Mike Hailwood,Surtees,55,9,Finished,6
+3,14,Denny Hulme,McLaren,55,5,Finished,4
+4,15,Peter Revson,McLaren,55,8,Finished,3
+5,28,Graham Hill,Brabham,55,13,Finished,2
+6,23,Peter Gethin,BRM,55,12,Finished,1
+7,3,Mario Andretti,Ferrari,54,7,+1 Lap,0
+8,21,Jean-Pierre Beltoise,BRM,54,16,+1 Lap,0
+9,19,Ronnie Peterson,March,54,24,+1 Lap,0
+10,16,Mike Beuttler,March,54,25,+1 Lap,0
+11,22,Howden Ganley,BRM,52,17,+3 Laps,0
+12,24,Reine Wisell,BRM,51,10,+4 Laps,0
+13,18,Niki Lauda,March,50,20,+5 Laps,0
+14,4,Jacky Ickx,Ferrari,46,1,Electrical,0
+15,20,Chris Amon,Matra,38,2,Brakes,0
+16,9,Andrea de Adamich,Surtees,33,21,Brakes,0
+17,29,Wilson Fittipaldi,Brabham,20,19,Suspension,0
+18,7,John Surtees,Surtees,20,22,Fuel system,0
+19,8,Tim Schenken,Surtees,20,15,Spun off,0
+20,5,Clay Regazzoni,Ferrari,16,4,Collision,0
+21,26,Carlos Pace,March,15,18,Collision,0
+22,30,Carlos Reutemann,Brabham,14,11,Suspension,0
+23,2,François Cevert,Tyrrell,14,14,Engine,0
+24,11,Nanni Galli,Tecno,6,23,Engine,0
+25,1,Jackie Stewart,Tyrrell,0,3,Clutch,0
+26,25,Henri Pescarolo,March,0,0,Did not qualify,0
+27,12,Derek Bell,Tecno,0,0,Did not qualify,0

@@ -1,0 +1,26 @@
+position,number,driver,constructor,laps,grid,status,points
+1,5,Emerson Fittipaldi,McLaren,32,1,Finished,9
+2,11,Clay Regazzoni,Ferrari,32,8,Finished,6
+3,2,Jacky Ickx,Team Lotus,31,5,+1 Lap,4
+4,18,Carlos Pace,Surtees,31,12,+1 Lap,3
+5,33,Mike Hailwood,McLaren,31,7,+1 Lap,2
+6,1,Ronnie Peterson,Team Lotus,31,4,+1 Lap,1
+7,7,Carlos Reutemann,Brabham,31,2,+1 Lap,0
+8,4,Patrick Depailler,Tyrrell,31,16,+1 Lap,0
+9,24,James Hunt,March,31,18,+1 Lap,0
+10,14,Jean-Pierre Beltoise,BRM,31,17,+1 Lap,0
+11,26,Graham Hill,Lola,31,21,+1 Lap,0
+12,6,Denny Hulme,McLaren,31,11,+1 Lap,0
+13,3,Jody Scheckter,Tyrrell,31,14,+1 Lap,0
+14,15,Henri Pescarolo,BRM,30,22,+2 Laps,0
+15,8,Richard Robarts,Brabham,30,24,+2 Laps,0
+16,37,François Migault,BRM,30,23,+2 Laps,0
+17,19,Jochen Mass,Surtees,30,10,+2 Laps,0
+18,28,John Watson,Brabham,27,15,Clutch,0
+19,9,Hans-Joachim Stuck,March,24,13,Transmission,0
+20,17,Jean-Pierre Jarier,Shadow,21,19,Brakes,0
+21,20,Arturo Merzario,Iso Marlboro,20,9,Throttle,0
+22,16,Peter Revson,Shadow,10,6,Overheating,0
+23,10,Howden Ganley,March,8,20,Ignition,0
+24,12,Niki Lauda,Ferrari,2,25,Engine,0
+25,27,Guy Edwards,Lola,2,3,Chassis,0

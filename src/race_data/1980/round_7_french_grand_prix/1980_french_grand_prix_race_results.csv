@@ -1,0 +1,28 @@
+position,number,driver,constructor,laps,grid,status,points
+1,27,Alan Jones,Williams,54,4,Finished,9
+2,25,Didier Pironi,Ligier,54,3,Finished,6
+3,26,Jacques Laffite,Ligier,54,1,Finished,4
+4,5,Nelson Piquet,Brabham,54,8,Finished,3
+5,16,René Arnoux,Renault,54,2,Finished,2
+6,28,Carlos Reutemann,Williams,54,5,Finished,1
+7,7,John Watson,McLaren,53,13,+1 Lap,0
+8,2,Gilles Villeneuve,Ferrari,53,17,+1 Lap,0
+9,29,Riccardo Patrese,Arrows,53,18,+1 Lap,0
+10,30,Jochen Mass,Arrows,53,15,+1 Lap,0
+11,4,Derek Daly,Tyrrell,52,20,+2 Laps,0
+12,1,Jody Scheckter,Ferrari,52,19,+2 Laps,0
+13,20,Emerson Fittipaldi,Fittipaldi,50,24,Engine,0
+14,3,Jean-Pierre Jarier,Tyrrell,50,16,+4 Laps,0
+15,31,Eddie Cheever,Osella,43,21,Engine,0
+16,9,Marc Surer,ATS,26,11,Gearbox,0
+17,22,Patrick Depailler,Alfa Romeo,25,10,Handling,0
+18,11,Mario Andretti,Team Lotus,18,12,Gearbox,0
+19,21,Keke Rosberg,Fittipaldi,8,23,Spun off,0
+20,23,Bruno Giacomelli,Alfa Romeo,8,9,Handling,0
+21,8,Alain Prost,McLaren,6,7,Transmission,0
+22,12,Elio de Angelis,Team Lotus,3,14,Clutch,0
+23,15,Jean-Pierre Jabouille,Renault,0,6,Transmission,0
+24,6,Ricardo Zunino,Brabham,0,22,Clutch,0
+25,17,Geoff Lees,Shadow,0,0,Did not qualify,0
+26,14,Jan Lammers,Ensign,0,0,Did not qualify,0
+27,18,Dave Kennedy,Shadow,0,0,Did not qualify,0

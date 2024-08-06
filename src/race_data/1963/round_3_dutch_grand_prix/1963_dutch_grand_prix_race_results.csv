@@ -1,0 +1,22 @@
+position,number,driver,constructor,laps,grid,status,points
+1,6,Jim Clark,Lotus-Climax,80,1,Finished,9
+2,18,Dan Gurney,Brabham,79,14,+1 Lap,6
+3,2,John Surtees,Ferrari,79,5,+1 Lap,4
+4,30,Innes Ireland,BRP,79,7,+1 Lap,3
+5,14,Richie Ginther,BRM,79,6,+1 Lap,2
+6,4,Ludovico Scarfiotti,Ferrari,78,11,+2 Laps,1
+7,36,Jo Siffert,Lotus-BRM,77,17,+3 Laps,0
+8,42,Jim Hall,Lotus-BRM,77,18,+3 Laps,0
+9,32,Carel Godin de Beaufort,Porsche,75,19,+5 Laps,0
+10,8,Trevor Taylor,Lotus-Climax,66,10,+14 Laps,0
+11,28,Jo Bonnier,Cooper-Climax,56,8,+24 Laps,0
+12,12,Graham Hill,BRM,69,2,Overheating,0
+13,16,Jack Brabham,Brabham,68,4,Accident,0
+14,10,Chris Amon,Lola,29,12,Water pump,0
+15,26,Giancarlo Baghetti,ATS,17,15,Ignition,0
+16,24,Phil Hill,ATS,15,13,Suspension,0
+17,22,Tony Maggs,Cooper-Climax,14,9,Overheating,0
+18,20,Bruce McLaren,Cooper-Climax,7,3,Gearbox,0
+19,34,Gerhard Mitter,Porsche,2,16,Clutch,0
+20,38,Tony Settember,Scirocco,0,0,Withdrew,0
+21,40,Ian Burgess,Scirocco,0,0,Withdrew,0

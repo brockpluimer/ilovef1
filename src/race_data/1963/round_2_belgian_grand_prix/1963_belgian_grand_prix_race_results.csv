@@ -1,0 +1,25 @@
+position,number,driver,constructor,laps,grid,status,points
+1,1,Jim Clark,Lotus-Climax,32,8,Finished,9
+2,14,Bruce McLaren,Cooper-Climax,32,5,Finished,6
+3,18,Dan Gurney,Brabham,31,2,+1 Lap,4
+4,8,Richie Ginther,BRM,31,9,+1 Lap,3
+5,12,Jo Bonnier,Cooper-Climax,30,13,+2 Laps,2
+6,29,Carel Godin de Beaufort,Porsche,30,18,+2 Laps,1
+7,15,Tony Maggs,Cooper-Climax,27,4,Accident,0
+8,24,Tony Settember,Scirocco,25,19,Accident,0
+9,9,John Surtees,Ferrari,19,10,Injection,0
+10,7,Graham Hill,BRM,17,1,Gearbox,0
+11,22,Lucien Bianchi,Lola,17,16,Accident,0
+12,5,Jim Hall,Lotus-BRM,16,12,Accident,0
+13,28,Jo Siffert,Lotus-BRM,16,14,Accident,0
+14,26,Phil Hill,ATS,13,17,Gearbox,0
+15,17,Jack Brabham,Brabham,12,6,Injection,0
+16,21,Chris Amon,Lola,10,15,Oil leak,0
+17,4,Innes Ireland,BRP,9,7,Gearbox,0
+18,10,Willy Mairesse,Ferrari,7,3,Injection,0
+19,27,Giancarlo Baghetti,ATS,7,20,Gearbox,0
+20,2,Trevor Taylor,Lotus-Climax,5,11,Physical,0
+21,3,Peter Arundell,Lotus-Climax,0,0,Withdrew,0
+22,11,Ludovico Scarfiotti,Ferrari,0,0,Withdrew,0
+23,19,Lorenzo Bandini,BRM,0,0,Withdrew,0
+24,25,Ian Burgess,Scirocco,0,0,Withdrew,0

@@ -1,0 +1,31 @@
+position,number,driver,constructor,laps,grid,status,points
+1,1,Ayrton Senna,McLaren,78,1,Finished,10
+2,5,Nigel Mansell,Williams,78,5,Finished,6
+3,28,Jean Alesi,Ferrari,78,9,Finished,4
+4,19,Roberto Moreno,Benetton,77,8,+1 Lap,3
+5,27,Alain Prost,Ferrari,77,7,+1 Lap,2
+6,21,Emanuele Pirro,Dallara,77,12,+1 Lap,1
+7,25,Thierry Boutsen,Ligier,76,16,+2 Laps,0
+8,32,Bertrand Gachot,Jordan,76,23,+2 Laps,0
+9,29,Éric Bernard,Lola,76,13,+2 Laps,0
+10,26,Érik Comas,Ligier,76,26,+2 Laps,0
+11,22,Jyrki Järvilehto,Dallara,75,21,+3 Laps,0
+12,23,Pierluigi Martini,Minardi,72,14,+6 Laps,0
+13,11,Mika Häkkinen,Team Lotus,64,25,Oil leak,0
+14,24,Gianni Morbidelli,Minardi,49,17,Gearbox,0
+15,15,Maurício Gugelmin,Leyton House,43,15,Throttle,0
+16,4,Stefano Modena,Tyrrell,42,2,Engine,0
+17,6,Riccardo Patrese,Williams,42,3,Spun off,0
+18,8,Mark Blundell,Brabham,41,19,Spun off,0
+19,9,Michele Alboreto,Footwork,39,22,Engine,0
+20,3,Satoru Nakajima,Tyrrell,35,11,Spun off,0
+21,30,Aguri Suzuki,Lola,24,20,Engine,0
+22,33,Andrea de Cesaris,Jordan,21,10,Throttle,0
+23,16,Ivan Capelli,Leyton House,12,18,Brakes,0
+24,17,Gabriele Tarquini,AGS,9,24,Gearbox,0
+25,2,Gerhard Berger,McLaren,9,6,Spun off,0
+26,20,Nelson Piquet,Benetton,0,4,Suspension,0
+27,12,Julian Bailey,Team Lotus,0,0,Did not qualify,0
+28,18,Fabrizio Barbazza,AGS,0,0,Did not qualify,0
+29,10,Alex Caffi,Footwork,0,0,Did not qualify,0
+30,7,Martin Brundle,Brabham,0,0,Did not qualify,0

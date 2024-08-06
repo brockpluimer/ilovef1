@@ -1,0 +1,31 @@
+position,number,driver,constructor,laps,grid,status,points
+1,6,Riccardo Patrese,Williams,61,3,Finished,9
+2,28,Gerhard Berger,McLaren,61,2,Finished,6
+3,19,Alessandro Nannini,Benetton,61,9,Finished,4
+4,1,Alain Prost,Ferrari,61,6,Finished,3
+5,20,Nelson Piquet,Benetton,61,8,Finished,2
+6,4,Jean Alesi,Tyrrell,60,7,+1 Lap,1
+7,11,Derek Warwick,Team Lotus,60,10,+1 Lap,0
+8,12,Martin Donnelly,Team Lotus,60,11,+1 Lap,0
+9,26,Philippe Alliot,Ligier,60,16,+1 Lap,0
+10,25,Nicola Larini,Ligier,59,20,+2 Laps,0
+11,24,Paolo Barilla,Minardi,59,26,+2 Laps,0
+12,36,Jyrki Järvilehto,Onyx,59,25,+2 Laps,0
+13,29,Éric Bernard,Larrousse,56,13,Clutch,0
+14,14,Olivier Grouillard,Osella,52,22,Wheel,0
+15,2,Nigel Mansell,Ferrari,38,5,Engine,0
+16,35,Gregor Foitek,Onyx,35,23,Engine,0
+17,8,Stefano Modena,Brabham,31,14,Brakes,0
+18,22,Andrea de Cesaris,Dallara,29,17,Wheel,0
+19,15,Maurício Gugelmin,Leyton House,24,12,Electrical,0
+20,5,Thierry Boutsen,Williams,17,4,Engine,0
+21,30,Aguri Suzuki,Larrousse,17,15,Clutch,0
+22,27,Ayrton Senna,McLaren,3,1,Wheel,0
+23,21,Emanuele Pirro,Dallara,2,21,Spun off,0
+24,16,Ivan Capelli,Leyton House,0,18,Collision,0
+25,3,Satoru Nakajima,Tyrrell,0,19,Collision,0
+26,33,Roberto Moreno,Euro Brun,0,24,Throttle,0
+27,23,Pierluigi Martini,Minardi,0,0,Accident,0
+28,10,Alex Caffi,Arrows,0,0,Did not qualify,0
+29,9,Michele Alboreto,Arrows,0,0,Did not qualify,0
+30,7,David Brabham,Brabham,0,0,Did not qualify,0

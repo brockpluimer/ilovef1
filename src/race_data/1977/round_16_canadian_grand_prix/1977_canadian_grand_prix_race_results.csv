@@ -1,0 +1,28 @@
+position,number,driver,constructor,laps,grid,status,points
+1,20,Jody Scheckter,Wolf,80,9,Finished,9
+2,4,Patrick Depailler,Tyrrell,80,6,Finished,6
+3,2,Jochen Mass,McLaren,80,5,Finished,4
+4,17,Alan Jones,Shadow,80,7,Finished,3
+5,23,Patrick Tambay,Ensign,80,16,Finished,2
+6,19,Vittorio Brambilla,Surtees,78,15,Accident,1
+7,14,Danny Ongais,Penske,78,22,+2 Laps,0
+8,9,Alex Ribeiro,March,78,23,+2 Laps,0
+9,5,Mario Andretti,Team Lotus,77,1,Engine,0
+10,16,Riccardo Patrese,Shadow,76,8,Spun off,0
+11,30,Brett Lunger,McLaren,76,20,Engine,0
+12,21,Gilles Villeneuve,Ferrari,76,17,Transmission,0
+13,1,James Hunt,McLaren,61,2,Accident,0
+14,27,Patrick Nève,March,56,21,Engine,0
+15,3,Ronnie Peterson,Tyrrell,34,3,Fuel leak,0
+16,24,Rupert Keegan,Hesketh,32,25,Accident,0
+17,18,Hans Binder,Surtees,31,24,Accident,0
+18,10,Ian Scheckter,March,29,18,Engine,0
+19,28,Emerson Fittipaldi,Fittipaldi,29,19,Engine,0
+20,12,Carlos Reutemann,Ferrari,20,12,Fuel system,0
+21,8,Hans-Joachim Stuck,Brabham,19,13,Engine,0
+22,6,Gunnar Nilsson,Team Lotus,17,4,Accident,0
+23,26,Jacques Laffite,Ligier,12,11,Transmission,0
+24,7,John Watson,Brabham,1,10,Suspension,0
+25,22,Clay Regazzoni,Ensign,0,14,Accident,0
+26,25,Ian Ashley,Hesketh,0,0,Withdrew,0
+27,15,Jean-Pierre Jabouille,Renault,0,0,Did not qualify,0

@@ -1,0 +1,27 @@
+position,number,driver,constructor,laps,grid,status,points
+1,12,Niki Lauda,Ferrari,75,1,Finished,9
+2,1,Emerson Fittipaldi,McLaren,75,9,Finished,6
+3,8,Carlos Pace,Brabham,75,8,Finished,4
+4,5,Ronnie Peterson,Team Lotus,75,4,Finished,3
+5,4,Patrick Depailler,Tyrrell,75,12,Finished,2
+6,2,Jochen Mass,McLaren,75,15,Finished,1
+7,3,Jody Scheckter,Tyrrell,74,7,+1 Lap,0
+8,6,Jacky Ickx,Team Lotus,74,14,+1 Lap,0
+9,7,Carlos Reutemann,Brabham,73,10,+2 Laps,0
+10,28,Mark Donohue,Penske,66,16,Accident,0
+11,24,James Hunt,Hesketh,63,11,Accident,0
+12,26,Alan Jones,Hesketh,61,18,Wheel,0
+13,9,Vittorio Brambilla,March,48,5,Accident,0
+14,16,Tom Pryce,Shadow-Ford,39,2,Accident,0
+15,11,Clay Regazzoni,Ferrari,36,17,Accident,0
+16,18,John Watson,Surtees,36,6,Spun off,0
+17,27,Mario Andretti,Parnelli,9,13,Oil leak,0
+18,17,Jean-Pierre Jarier,Shadow-Ford,0,3,Accident,0
+19,21,Jacques Laffite,Williams,0,0,Did not qualify,0
+20,20,Arturo Merzario,Williams,0,0,Did not qualify,0
+21,23,Graham Hill,Embassy Hill,0,0,Did not qualify,0
+22,14,Bob Evans,BRM,0,0,Did not qualify,0
+23,31,Roelof Wunderink,Ensign,0,0,Did not qualify,0
+24,25,Torsten Palm,Hesketh,0,0,Did not qualify,0
+25,10,Lella Lombardi,March,0,0,Did not qualify,0
+26,30,Wilson Fittipaldi,Fittipaldi,0,0,Did not qualify,0

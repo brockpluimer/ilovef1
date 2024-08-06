@@ -1,0 +1,28 @@
+position,number,driver,constructor,laps,grid,status,points
+1,3,Michele Alboreto,Tyrrell,60,6,Finished,9
+2,1,Keke Rosberg,Williams,60,12,Finished,6
+3,7,John Watson,McLaren,60,21,Finished,4
+4,5,Nelson Piquet,Brabham,60,2,Finished,3
+5,2,Jacques Laffite,Williams,60,20,Finished,2
+6,12,Nigel Mansell,Team Lotus,59,14,+1 Lap,1
+7,30,Thierry Boutsen,Arrows,59,10,+1 Lap,0
+8,15,Alain Prost,Renault,59,13,+1 Lap,0
+9,36,Bruno Giacomelli,Toleman,59,17,+1 Lap,0
+10,26,Raul Boesel,Ligier,58,23,+2 Laps,0
+11,29,Marc Surer,Arrows,58,5,+2 Laps,0
+12,23,Mauro Baldi,Alfa Romeo,56,25,+4 Laps,0
+13,8,Niki Lauda,McLaren,49,18,Suspension,0
+14,33,Roberto Guerrero,Theodore,38,11,Not classified,0
+15,34,Johnny Cecotto,Theodore,34,26,Gearbox,0
+16,22,Andrea de Cesaris,Alfa Romeo,33,8,Turbo,0
+17,28,René Arnoux,Ferrari,31,1,Electrical,0
+18,4,Danny Sullivan,Tyrrell,30,16,Electrical,0
+19,25,Jean-Pierre Jarier,Ligier,29,19,Wheel,0
+20,9,Manfred Winkelhock,ATS,26,22,Collision,0
+21,35,Derek Warwick,Toleman,25,9,Engine,0
+22,6,Riccardo Patrese,Brabham,24,15,Brakes,0
+23,11,Elio de Angelis,Team Lotus,5,4,Gearbox,0
+24,16,Eddie Cheever,Renault,4,7,Distributor,0
+25,32,Piercarlo Ghinzani,Osella,4,24,Overheating,0
+26,27,Patrick Tambay,Ferrari,0,3,Engine,0
+27,31,Corrado Fabi,Osella,0,0,Withdrew,0

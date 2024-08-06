@@ -1,0 +1,30 @@
+position,number,driver,constructor,laps,grid,status,points
+1,5,Nelson Piquet,Brabham,52,4,Finished,9
+2,28,René Arnoux,Ferrari,52,3,Finished,6
+3,16,Eddie Cheever,Renault,52,7,Finished,4
+4,27,Patrick Tambay,Ferrari,52,2,Finished,3
+5,11,Elio de Angelis,Team Lotus,52,8,Finished,2
+6,35,Derek Warwick,Toleman,52,12,Finished,1
+7,36,Bruno Giacomelli,Toleman,52,14,Finished,0
+8,12,Nigel Mansell,Team Lotus,52,11,Finished,0
+9,25,Jean-Pierre Jarier,Ligier,51,19,+1 Lap,0
+10,29,Marc Surer,Arrows,51,20,+1 Lap,0
+11,1,Keke Rosberg,Williams,51,16,+1 Lap,0
+12,34,Johnny Cecotto,Theodore,50,26,+2 Laps,0
+13,33,Roberto Guerrero,Theodore,50,21,+2 Laps,0
+14,31,Corrado Fabi,Osella,45,25,Engine,0
+15,4,Danny Sullivan,Tyrrell,44,22,Fuel system,0
+16,30,Thierry Boutsen,Arrows,41,18,Engine,0
+17,9,Manfred Winkelhock,ATS,35,9,Exhaust,0
+18,3,Michele Alboreto,Tyrrell,28,24,Clutch,0
+19,15,Alain Prost,Renault,26,5,Turbo,0
+20,8,Niki Lauda,McLaren,24,13,Electrical,0
+21,7,John Watson,McLaren,13,15,Electrical,0
+22,32,Piercarlo Ghinzani,Osella,10,23,Gearbox,0
+23,23,Mauro Baldi,Alfa Romeo,4,10,Turbo,0
+24,40,Stefan Johansson,Spirit,4,17,Distributor,0
+25,6,Riccardo Patrese,Brabham,2,1,Engine,0
+26,22,Andrea de Cesaris,Alfa Romeo,2,6,Collision,0
+27,26,Raul Boesel,Ligier,0,0,Did not qualify,0
+28,2,Jacques Laffite,Williams,0,0,Did not qualify,0
+29,17,Kenny Acheson,RAM,0,0,Did not qualify,0

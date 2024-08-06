@@ -1,0 +1,29 @@
+position,number,driver,constructor,laps,grid,status,points
+1,1,Ayrton Senna,McLaren,53,2,Finished,10
+2,20,Martin Brundle,Benetton,53,9,Finished,6
+3,19,Michael Schumacher,Benetton,53,6,Finished,4
+4,2,Gerhard Berger,McLaren,53,5,Finished,3
+5,6,Riccardo Patrese,Williams,53,4,Finished,2
+6,4,Andrea de Cesaris,Tyrrell,52,21,+1 Lap,1
+7,9,Michele Alboreto,Footwork,52,16,+1 Lap,0
+8,22,Pierluigi Martini,Dallara,52,22,+1 Lap,0
+9,30,Ukyo Katayama,Larrousse,50,23,Transmission,0
+10,16,Karl Wendlinger,March,50,17,+3 Laps,0
+11,21,Jyrki Järvilehto,Dallara,47,14,Engine,0
+12,33,Maurício Gugelmin,Jordan,46,26,Transmission,0
+13,5,Nigel Mansell,Williams,41,1,Electrical,0
+14,25,Thierry Boutsen,Ligier,41,8,Throttle,0
+15,26,Érik Comas,Ligier,35,15,Spun off,0
+16,15,Gabriele Tarquini,Fondmetal,30,20,Gearbox,0
+17,3,Olivier Grouillard,Tyrrell,26,18,Engine,0
+18,12,Johnny Herbert,Team Lotus,18,13,Engine,0
+19,17,Emanuele Naspetti,March,17,24,Engine,0
+20,27,Jean Alesi,Ferrari,12,3,Fuel system,0
+21,28,Ivan Capelli,Ferrari,12,7,Electrical,0
+22,24,Gianni Morbidelli,Minardi,12,12,Engine,0
+23,29,Bertrand Gachot,Larrousse,11,10,Engine,0
+24,11,Mika Häkkinen,Team Lotus,5,11,Engine,0
+25,10,Aguri Suzuki,Footwork,2,19,Suspension,0
+26,14,Eric van de Poele,Fondmetal,0,25,Clutch,0
+27,23,Christian Fittipaldi,Minardi,0,0,Did not qualify,0
+28,32,Stefano Modena,Jordan,0,0,Did not qualify,0

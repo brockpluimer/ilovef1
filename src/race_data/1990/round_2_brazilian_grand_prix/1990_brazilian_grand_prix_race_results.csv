@@ -1,0 +1,31 @@
+position,number,driver,constructor,laps,grid,status,points
+1,1,Alain Prost,Ferrari,71,6,Finished,9
+2,28,Gerhard Berger,McLaren,71,2,Finished,6
+3,27,Ayrton Senna,McLaren,71,1,Finished,4
+4,2,Nigel Mansell,Ferrari,71,5,Finished,3
+5,5,Thierry Boutsen,Williams,70,3,+1 Lap,2
+6,20,Nelson Piquet,Benetton,70,13,+1 Lap,1
+7,4,Jean Alesi,Tyrrell,70,7,+1 Lap,0
+8,3,Satoru Nakajima,Tyrrell,70,19,+1 Lap,0
+9,23,Pierluigi Martini,Minardi,69,8,+2 Laps,0
+10,19,Alessandro Nannini,Benetton,68,15,Puncture,0
+11,25,Nicola Larini,Ligier,68,20,+3 Laps,0
+12,26,Philippe Alliot,Ligier,68,10,+3 Laps,0
+13,6,Riccardo Patrese,Williams,65,4,Oil pressure,0
+14,21,Gianni Morbidelli,Dallara,64,16,+7 Laps,0
+15,10,Alex Caffi,Arrows,49,25,Clutch,0
+16,12,Martin Donnelly,Team Lotus,43,14,Spun off,0
+17,8,Stefano Modena,Brabham,39,12,Spun off,0
+18,24,Paolo Barilla,Minardi,38,17,Engine,0
+19,18,Yannick Dalmas,AGS,28,26,Suspension,0
+20,11,Derek Warwick,Team Lotus,25,24,Electrical,0
+21,30,Aguri Suzuki,Larrousse,24,18,Suspension,0
+22,9,Michele Alboreto,Arrows,24,23,Suspension,0
+23,7,Gregor Foitek,Brabham,14,22,Transmission,0
+24,29,Éric Bernard,Larrousse,13,11,Gearbox,0
+25,14,Olivier Grouillard,Osella,8,21,Collision,0
+26,22,Andrea de Cesaris,Dallara,0,9,Collision,0
+27,35,Stefan Johansson,Onyx,0,0,Did not qualify,0
+28,36,Jyrki Järvilehto,Onyx,0,0,Did not qualify,0
+29,16,Ivan Capelli,Leyton House,0,0,Did not qualify,0
+30,15,Maurício Gugelmin,Leyton House,0,0,Did not qualify,0

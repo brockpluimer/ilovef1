@@ -1,0 +1,22 @@
+position,number,driver,constructor,laps,grid,status,points
+1,28,Stirling Moss,Maserati,100,2,Finished,8
+2,26,Peter Collins,Ferrari,100,9,Finished,3
+2,26,Juan Fangio,Ferrari,100,9,Finished,4
+3,30,Jean Behra,Maserati,99,4,+1 Lap,4
+4,20,Juan Fangio,Ferrari,99,1,+1 Lap,1.5
+4,20,Eugenio Castellotti,Ferrari,99,1,+1 Lap,1.5
+5,6,Hernando da Silva Ramos,Gordini,93,14,+7 Laps,2
+6,4,André Pilette,Gordini,88,11,+12 Laps,0
+6,4,Élie Bayol,Gordini,88,11,+12 Laps,0
+7,32,Cesare Perdisa,Maserati,86,7,+14 Laps,0
+8,18,Horace Gould,Maserati,85,16,+15 Laps,0
+9,2,Robert Manzon,Gordini,90,12,Accident,0
+10,8,Louis Rosier,Maserati,72,15,Engine,0
+11,22,Eugenio Castellotti,Ferrari,14,3,Clutch,0
+12,14,Maurice Trintignant,Vanwall,13,6,Overheating,0
+13,16,Harry Schell,Vanwall,2,5,Accident,0
+14,24,Luigi Musso,Ferrari,2,8,Accident,0
+15,36,Giorgio Scarlatti,Ferrari,0,0,Did not qualify,0
+16,10,Mike Hawthorn,BRM,0,0,Engine,0
+17,12,Tony Brooks,BRM,0,0,Engine,0
+18,34,Louis Chiron,Maserati,0,0,Engine,0

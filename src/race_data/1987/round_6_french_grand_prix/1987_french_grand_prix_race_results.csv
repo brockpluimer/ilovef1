@@ -1,0 +1,27 @@
+position,number,driver,constructor,laps,grid,status,points
+1,5,Nigel Mansell,Williams,80,1,Finished,9
+2,6,Nelson Piquet,Williams,80,4,Finished,6
+3,1,Alain Prost,McLaren,80,2,Finished,4
+4,12,Ayrton Senna,Team Lotus,79,3,+1 Lap,3
+5,19,Teo Fabi,Benetton,77,7,+3 Laps,2
+6,4,Philippe Streiff,Tyrrell,76,25,+4 Laps,1
+7,3,Jonathan Palmer,Tyrrell,76,24,+4 Laps,0
+8,2,Stefan Johansson,McLaren,74,9,+6 Laps,0
+9,14,Pascal Fabre,AGS,74,26,+6 Laps,0
+10,28,Gerhard Berger,Ferrari,71,6,Suspension,0
+11,11,Satoru Nakajima,Team Lotus,71,16,Not classified,0
+12,27,Michele Alboreto,Ferrari,64,8,Engine,0
+13,17,Derek Warwick,Arrows,62,10,Turbo,0
+14,30,Philippe Alliot,Larrousse,57,23,Gearbox,0
+15,16,Ivan Capelli,March,52,22,Engine,0
+16,23,Adrián Campos,Minardi,52,21,Turbo,0
+17,25,René Arnoux,Ligier,33,13,Exhaust,0
+18,20,Thierry Boutsen,Benetton,31,5,Engine,0
+19,10,Christian Danner,Zakspeed,26,19,Overheating,0
+20,26,Piercarlo Ghinzani,Ligier,24,17,Engine,0
+21,24,Alessandro Nannini,Minardi,23,15,Turbo,0
+22,7,Riccardo Patrese,Brabham,19,12,Differential,0
+23,9,Martin Brundle,Zakspeed,18,18,Wheel,0
+24,21,Alex Caffi,Osella,11,20,Engine,0
+25,8,Andrea de Cesaris,Brabham,2,11,Turbo,0
+26,18,Eddie Cheever,Arrows,0,14,Electrical,0

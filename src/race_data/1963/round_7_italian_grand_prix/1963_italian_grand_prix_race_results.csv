@@ -1,0 +1,31 @@
+position,number,driver,constructor,laps,grid,status,points
+1,8,Jim Clark,Lotus-Climax,86,3,Finished,9
+2,10,Richie Ginther,BRM,86,4,Finished,6
+3,18,Bruce McLaren,Cooper-Climax,85,8,+1 Lap,4
+4,32,Innes Ireland,BRP,84,10,Engine,3
+5,22,Jack Brabham,Brabham,84,7,+2 Laps,2
+6,20,Tony Maggs,Cooper-Climax,84,13,+2 Laps,1
+7,58,Jo Bonnier,Cooper-Climax,84,11,+2 Laps,0
+8,30,Jim Hall,Lotus-BRM,84,17,+2 Laps,0
+9,66,Maurice Trintignant,BRM,83,20,+3 Laps,0
+10,40,Mike Hailwood,Lola,82,18,+4 Laps,0
+11,16,Phil Hill,ATS,79,14,+7 Laps,0
+12,48,Bob Anderson,Lola,79,19,+7 Laps,0
+13,6,Mike Spence,Lotus-Climax,73,9,Oil pressure,0
+14,24,Dan Gurney,Brabham,64,5,Fuel system,0
+15,14,Giancarlo Baghetti,ATS,63,25,+23 Laps,0
+16,12,Graham Hill,BRM,59,2,Clutch,0
+17,54,Jo Siffert,Lotus-BRM,40,16,Oil pressure,0
+18,2,Lorenzo Bandini,Ferrari,37,6,Gearbox,0
+19,42,Masten Gregory,Lotus-BRM,26,12,Engine,0
+20,4,John Surtees,Ferrari,16,1,Engine,0
+21,38,Chris Amon,Lola,0,0,Withdrew,0
+22,64,Mário de Araújo Cabral,Cooper-Climax,0,0,Did not qualify,0
+23,50,Ian Raby,Gilby,0,0,Did not qualify,0
+24,34,Tony Settember,Scirocco,0,0,Did not qualify,0
+25,28,Carel Godin de Beaufort,Porsche,0,0,Did not qualify,0
+26,62,Ernesto Brambilla,Cooper-Maserati,0,0,Did not qualify,0
+27,46,André Pilette,Lotus-Climax,0,0,Did not qualify,0
+28,44,Roberto Lippi,De Tomaso-Ferrari,0,0,Did not qualify,0
+29,26,Gerhard Mitter,Porsche,0,0,Withdrew,0
+30,36,Ian Burgess,Scirocco,0,0,Withdrew,0

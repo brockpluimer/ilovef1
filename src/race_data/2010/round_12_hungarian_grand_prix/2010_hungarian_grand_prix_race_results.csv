@@ -1,0 +1,25 @@
+position,number,driver,constructor,laps,grid,status,points
+1,6,Mark Webber,Red Bull,70,2,Finished,25
+2,8,Fernando Alonso,Ferrari,70,3,Finished,18
+3,5,Sebastian Vettel,Red Bull,70,1,Finished,15
+4,7,Felipe Massa,Ferrari,70,4,Finished,12
+5,12,Vitaly Petrov,Renault,70,7,Finished,10
+6,10,Nico Hülkenberg,Williams,70,10,Finished,8
+7,22,Pedro de la Rosa,Sauber,69,9,+1 Lap,6
+8,1,Jenson Button,McLaren,69,11,+1 Lap,4
+9,23,Kamui Kobayashi,Sauber,69,23,+1 Lap,2
+10,9,Rubens Barrichello,Williams,69,12,+1 Lap,1
+11,3,Michael Schumacher,Mercedes,69,14,+1 Lap,0
+12,16,Sébastien Buemi,Toro Rosso,69,15,+1 Lap,0
+13,15,Vitantonio Liuzzi,Force India,69,16,+1 Lap,0
+14,19,Heikki Kovalainen,Lotus,67,19,+3 Laps,0
+15,18,Jarno Trulli,Lotus,67,20,+3 Laps,0
+16,24,Timo Glock,Virgin,67,18,+3 Laps,0
+17,21,Bruno Senna,HRT,67,22,+3 Laps,0
+18,25,Lucas di Grassi,Virgin,66,21,+4 Laps,0
+19,20,Sakon Yamamoto,HRT,66,24,+4 Laps,0
+20,2,Lewis Hamilton,McLaren,23,5,Gearbox,0
+21,11,Robert Kubica,Renault,23,8,Retired,0
+22,4,Nico Rosberg,Mercedes,15,6,Wheel,0
+23,14,Adrian Sutil,Force India,15,13,Collision,0
+24,17,Jaime Alguersuari,Toro Rosso,1,17,Engine,0

@@ -1,0 +1,23 @@
+position,number,driver,constructor,laps,grid,status,points
+1,4,Mike Hawthorn,Ferrari,50,1,Finished,9
+2,8,Stirling Moss,Vanwall,50,6,Finished,6
+3,6,Wolfgang von Trips,Ferrari,50,21,Finished,4
+4,34,Juan Fangio,Maserati,50,8,Finished,3
+5,42,Peter Collins,Ferrari,50,4,Finished,2
+6,22,Jack Brabham,Cooper,49,12,+1 Lap,0
+7,36,Phil Hill,Maserati,49,13,+1 Lap,0
+8,38,Jo Bonnier,Maserati,48,16,+2 Laps,0
+9,32,Gerino Gerini,Maserati,47,15,+3 Laps,0
+10,30,Troy Ruttman,Maserati,45,18,+5 Laps,0
+11,20,Roy Salvadori,Cooper,37,14,+13 Laps,0
+12,16,Harry Schell,BRM,41,3,Overheating,0
+13,14,Jean Behra,BRM,41,9,Fuel pump,0
+14,12,Tony Brooks,Vanwall,35,10,Engine,0
+14,12,Stuart Lewis-Evans,Vanwall,35,10,Engine,0
+15,24,Graham Hill,Team Lotus,33,19,Overheating,0
+16,40,Paco Godia,Maserati,28,11,Accident,0
+17,18,Maurice Trintignant,BRM,23,7,Fuel pump,0
+18,10,Tony Brooks,Vanwall,16,5,Engine,0
+19,2,Luigi Musso,Ferrari,9,2,Accident,0
+20,28,Carroll Shelby,Maserati,9,17,Engine,0
+21,26,Cliff Allison,Team Lotus,6,20,Engine,0

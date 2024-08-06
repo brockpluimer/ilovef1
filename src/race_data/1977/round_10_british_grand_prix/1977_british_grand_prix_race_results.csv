@@ -1,0 +1,31 @@
+position,number,driver,constructor,laps,grid,status,points
+1,1,James Hunt,McLaren,68,1,Finished,9
+2,11,Niki Lauda,Ferrari,68,3,Finished,6
+3,6,Gunnar Nilsson,Team Lotus,68,5,Finished,4
+4,2,Jochen Mass,McLaren,68,11,Finished,3
+5,8,Hans-Joachim Stuck,Brabham,68,7,Finished,2
+6,26,Jacques Laffite,Ligier,67,15,+1 Lap,1
+7,17,Alan Jones,Shadow,67,12,+1 Lap,0
+8,19,Vittorio Brambilla,Surtees,67,8,+1 Lap,0
+9,34,Jean-Pierre Jarier,Penske,67,20,+1 Lap,0
+10,27,Patrick Nève,March,66,26,+2 Laps,0
+11,40,Gilles Villeneuve,McLaren,66,9,+2 Laps,0
+12,18,Vern Schuppan,Surtees,66,23,+2 Laps,0
+13,30,Brett Lunger,McLaren,64,19,+4 Laps,0
+14,5,Mario Andretti,Team Lotus,62,6,Engine,0
+15,12,Carlos Reutemann,Ferrari,62,14,+6 Laps,0
+16,7,John Watson,Brabham,60,2,Fuel system,0
+17,20,Jody Scheckter,Wolf,59,4,Engine,0
+18,28,Emerson Fittipaldi,Fittipaldi,42,22,Throttle,0
+19,37,Arturo Merzario,March,28,17,Transmission,0
+20,16,Riccardo Patrese,Shadow,20,25,Fuel pressure,0
+21,4,Patrick Depailler,Tyrrell,16,18,Brakes,0
+22,15,Jean-Pierre Jabouille,Renault,16,21,Turbo,0
+23,10,Ian Scheckter,March,6,24,Accident,0
+24,3,Ronnie Peterson,Tyrrell,3,16,Engine,0
+25,23,Patrick Tambay,Ensign,3,10,Electrical,0
+26,24,Rupert Keegan,Hesketh,0,13,Accident,0
+27,9,Alex Ribeiro,March,0,0,Did not qualify,0
+28,22,Clay Regazzoni,Ensign,0,0,Did not qualify,0
+29,38,Brian Henton,March,0,0,Did not qualify,0
+30,36,Emilio de Villota,McLaren,0,0,Did not qualify,0

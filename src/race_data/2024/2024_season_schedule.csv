@@ -1,0 +1,25 @@
+round,raceName,date,time,circuit,country
+1,Bahrain Grand Prix,2024-03-02,15:00:00Z,Bahrain International Circuit,Bahrain
+2,Saudi Arabian Grand Prix,2024-03-09,17:00:00Z,Jeddah Corniche Circuit,Saudi Arabia
+3,Australian Grand Prix,2024-03-24,04:00:00Z,Albert Park Grand Prix Circuit,Australia
+4,Japanese Grand Prix,2024-04-07,05:00:00Z,Suzuka Circuit,Japan
+5,Chinese Grand Prix,2024-04-21,07:00:00Z,Shanghai International Circuit,China
+6,Miami Grand Prix,2024-05-05,20:00:00Z,Miami International Autodrome,USA
+7,Emilia Romagna Grand Prix,2024-05-19,13:00:00Z,Autodromo Enzo e Dino Ferrari,Italy
+8,Monaco Grand Prix,2024-05-26,13:00:00Z,Circuit de Monaco,Monaco
+9,Canadian Grand Prix,2024-06-09,18:00:00Z,Circuit Gilles Villeneuve,Canada
+10,Spanish Grand Prix,2024-06-23,13:00:00Z,Circuit de Barcelona-Catalunya,Spain
+11,Austrian Grand Prix,2024-06-30,13:00:00Z,Red Bull Ring,Austria
+12,British Grand Prix,2024-07-07,14:00:00Z,Silverstone Circuit,UK
+13,Hungarian Grand Prix,2024-07-21,13:00:00Z,Hungaroring,Hungary
+14,Belgian Grand Prix,2024-07-28,13:00:00Z,Circuit de Spa-Francorchamps,Belgium
+15,Dutch Grand Prix,2024-08-25,13:00:00Z,Circuit Park Zandvoort,Netherlands
+16,Italian Grand Prix,2024-09-01,13:00:00Z,Autodromo Nazionale di Monza,Italy
+17,Azerbaijan Grand Prix,2024-09-15,11:00:00Z,Baku City Circuit,Azerbaijan
+18,Singapore Grand Prix,2024-09-22,12:00:00Z,Marina Bay Street Circuit,Singapore
+19,United States Grand Prix,2024-10-20,19:00:00Z,Circuit of the Americas,USA
+20,Mexico City Grand Prix,2024-10-27,20:00:00Z,Autódromo Hermanos Rodríguez,Mexico
+21,São Paulo Grand Prix,2024-11-03,17:00:00Z,Autódromo José Carlos Pace,Brazil
+22,Las Vegas Grand Prix,2024-11-23,06:00:00Z,Las Vegas Strip Street Circuit,United States
+23,Qatar Grand Prix,2024-12-01,17:00:00Z,Losail International Circuit,Qatar
+24,Abu Dhabi Grand Prix,2024-12-08,13:00:00Z,Yas Marina Circuit,UAE

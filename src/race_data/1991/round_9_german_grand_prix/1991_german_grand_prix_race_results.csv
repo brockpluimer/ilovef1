@@ -1,0 +1,31 @@
+position,number,driver,constructor,laps,grid,status,points
+1,5,Nigel Mansell,Williams,45,1,Finished,10
+2,6,Riccardo Patrese,Williams,45,4,Finished,6
+3,28,Jean Alesi,Ferrari,45,6,Finished,4
+4,2,Gerhard Berger,McLaren,45,3,Finished,3
+5,33,Andrea de Cesaris,Jordan,45,7,Finished,2
+6,32,Bertrand Gachot,Jordan,45,11,Finished,1
+7,1,Ayrton Senna,McLaren,44,2,Out of fuel,0
+8,19,Roberto Moreno,Benetton,44,9,+1 Lap,0
+9,25,Thierry Boutsen,Ligier,44,17,+1 Lap,0
+10,21,Emanuele Pirro,Dallara,44,18,+1 Lap,0
+11,7,Martin Brundle,Brabham,43,15,+2 Laps,0
+12,8,Mark Blundell,Brabham,43,21,+2 Laps,0
+13,4,Stefano Modena,Tyrrell,41,14,+4 Laps,0
+14,27,Alain Prost,Ferrari,37,5,Spun off,0
+15,16,Ivan Capelli,Leyton House,36,12,Engine,0
+16,22,Jyrki Järvilehto,Dallara,35,20,Engine,0
+17,20,Nelson Piquet,Benetton,27,8,Engine,0
+18,3,Satoru Nakajima,Tyrrell,26,13,Gearbox,0
+19,26,Érik Comas,Ligier,22,26,Engine,0
+20,15,Maurício Gugelmin,Leyton House,21,16,Gearbox,0
+21,11,Mika Häkkinen,Team Lotus,19,23,Engine,0
+22,30,Aguri Suzuki,Lola,15,22,Engine,0
+23,24,Gianni Morbidelli,Minardi,14,19,Differential,0
+24,23,Pierluigi Martini,Minardi,11,10,Differential,0
+25,29,Éric Bernard,Lola,9,25,Transmission,0
+26,34,Nicola Larini,Lambo,0,24,Spun off,0
+27,9,Michele Alboreto,Footwork,0,0,Did not qualify,0
+28,12,Michael Bartels,Team Lotus,0,0,Did not qualify,0
+29,17,Gabriele Tarquini,AGS,0,0,Did not qualify,0
+30,35,Eric van de Poele,Lambo,0,0,Did not qualify,0

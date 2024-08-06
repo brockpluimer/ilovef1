@@ -1,0 +1,18 @@
+round,raceName,date,time,circuit,country
+1,Australian Grand Prix,2009-03-29,06:00:00Z,Albert Park Grand Prix Circuit,Australia
+2,Malaysian Grand Prix,2009-04-05,09:00:00Z,Sepang International Circuit,Malaysia
+3,Chinese Grand Prix,2009-04-19,07:00:00Z,Shanghai International Circuit,China
+4,Bahrain Grand Prix,2009-04-26,12:00:00Z,Bahrain International Circuit,Bahrain
+5,Spanish Grand Prix,2009-05-10,12:00:00Z,Circuit de Barcelona-Catalunya,Spain
+6,Monaco Grand Prix,2009-05-24,12:00:00Z,Circuit de Monaco,Monaco
+7,Turkish Grand Prix,2009-06-07,12:00:00Z,Istanbul Park,Turkey
+8,British Grand Prix,2009-06-21,12:00:00Z,Silverstone Circuit,UK
+9,German Grand Prix,2009-07-12,12:00:00Z,Nürburgring,Germany
+10,Hungarian Grand Prix,2009-07-26,12:00:00Z,Hungaroring,Hungary
+11,European Grand Prix,2009-08-23,12:00:00Z,Valencia Street Circuit,Spain
+12,Belgian Grand Prix,2009-08-30,12:00:00Z,Circuit de Spa-Francorchamps,Belgium
+13,Italian Grand Prix,2009-09-13,12:00:00Z,Autodromo Nazionale di Monza,Italy
+14,Singapore Grand Prix,2009-09-27,12:00:00Z,Marina Bay Street Circuit,Singapore
+15,Japanese Grand Prix,2009-10-04,05:00:00Z,Suzuka Circuit,Japan
+16,Brazilian Grand Prix,2009-10-18,16:00:00Z,Autódromo José Carlos Pace,Brazil
+17,Abu Dhabi Grand Prix,2009-11-01,11:00:00Z,Yas Marina Circuit,UAE

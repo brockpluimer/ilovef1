@@ -1,0 +1,31 @@
+position,number,driver,constructor,laps,grid,status,points
+1,7,John Watson,McLaren,68,5,Finished,9
+2,2,Carlos Reutemann,Williams,68,9,Finished,6
+3,26,Jacques Laffite,Ligier,67,14,+1 Lap,4
+4,3,Eddie Cheever,Tyrrell,67,23,+1 Lap,3
+5,6,Hector Rebaque,Brabham,67,13,+1 Lap,2
+6,9,Slim Borgudd,ATS,67,21,+1 Lap,1
+7,17,Derek Daly,March,66,17,+2 Laps,0
+8,32,Jean-Pierre Jarier,Osella,65,20,+3 Laps,0
+9,16,René Arnoux,Renault,64,1,Distributor,0
+10,29,Riccardo Patrese,Arrows,64,10,Engine,0
+11,33,Marc Surer,Theodore,61,24,Out of fuel,0
+12,22,Mario Andretti,Alfa Romeo,59,11,Throttle,0
+13,20,Keke Rosberg,Fittipaldi,56,14,Suspension,0
+14,11,Elio de Angelis,Team Lotus,25,22,Disqualified,0
+15,15,Alain Prost,Renault,17,2,Distributor,0
+16,25,Patrick Tambay,Ligier,15,15,Clutch,0
+17,28,Didier Pironi,Ferrari,13,4,Turbo,0
+18,5,Nelson Piquet,Brabham,11,3,Tyre,0
+19,23,Bruno Giacomelli,Alfa Romeo,5,12,Transmission,0
+20,27,Gilles Villeneuve,Ferrari,4,8,Spun off,0
+21,1,Alan Jones,Williams,3,7,Collision,0
+22,8,Andrea de Cesaris,McLaren,3,6,Spun off,0
+23,4,Michele Alboreto,Tyrrell,1,19,Clutch,0
+24,30,Siegfried Stohr,Arrows,8,18,Spun off,0
+25,21,Chico Serra,Fittipaldi,0,0,Did not qualify,0
+26,35,Brian Henton,Toleman,0,0,Did not qualify,0
+27,12,Nigel Mansell,Team Lotus,0,0,Did not qualify,0
+28,14,Eliseo Salazar,Ensign,0,0,Did not qualify,0
+29,36,Derek Warwick,Toleman,0,0,Did not qualify,0
+30,31,Beppe Gabbiani,Osella,0,0,Did not qualify,0

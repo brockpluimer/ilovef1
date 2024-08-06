@@ -1,0 +1,27 @@
+position,number,driver,constructor,laps,grid,status,points
+1,11,Jackie Stewart,Tyrrell,64,1,Finished,9
+2,17,Ronnie Peterson,March-Ford,64,6,Finished,6
+3,10,Mark Donohue,McLaren,64,8,Finished,4
+4,9,Denny Hulme,McLaren,63,10,+1 Lap,3
+5,3,Reine Wisell,Lotus-Ford,63,7,+1 Lap,2
+6,12,François Cevert,Tyrrell,62,3,+2 Laps,1
+7,2,Emerson Fittipaldi,Lotus-Ford,62,4,+2 Laps,0
+8,4,Jacky Ickx,Ferrari,62,12,+2 Laps,0
+9,14,Jo Siffert,BRM,61,2,+3 Laps,0
+10,20,Chris Amon,Matra,61,5,+3 Laps,0
+11,22,John Surtees,Surtees,60,14,+4 Laps,0
+12,31,Helmut Marko,BRM,60,19,+4 Laps,0
+13,6,Mario Andretti,Ferrari,60,13,+4 Laps,0
+14,15,Peter Gethin,BRM,59,16,+5 Laps,0
+15,28,George Eaton,BRM,59,21,+5 Laps,0
+16,18,Nanni Galli,March-Ford,57,20,+7 Laps,0
+17,19,Mike Beuttler,March-Ford,56,22,Not classified,0
+18,35,Pete Lovely,Lotus-Ford,55,25,Not classified,0
+19,24,Rolf Stommelen,Surtees,26,23,Overheating,0
+20,21,Jean-Pierre Beltoise,Matra,15,11,Accident,0
+21,33,Skip Barber,March-Ford,13,24,Oil pressure,0
+22,5,Clay Regazzoni,Ferrari,7,18,Accident,0
+23,37,Graham Hill,Brabham,2,15,Accident,0
+24,8,Tim Schenken,Brabham,1,17,Ignition,0
+25,16,Howden Ganley,BRM,0,9,Accident,0
+26,26,Chris Craft,Brabham,0,0,Did not qualify,0

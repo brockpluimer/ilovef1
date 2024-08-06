@@ -1,0 +1,31 @@
+position,number,driver,constructor,laps,grid,status,points
+1,7,John Watson,McLaren,70,10,Finished,9
+2,6,Keke Rosberg,Williams,70,3,Finished,6
+3,25,Eddie Cheever,Ligier,69,14,+1 Lap,4
+4,11,Elio de Angelis,Team Lotus,68,11,+2 Laps,3
+5,1,Nelson Piquet,Brabham,67,8,+3 Laps,2
+6,20,Chico Serra,Fittipaldi,67,23,+3 Laps,1
+7,29,Marc Surer,Arrows,66,22,+4 Laps,0
+8,18,Raul Boesel,March,66,24,+4 Laps,0
+9,26,Jacques Laffite,Ligier,66,17,+4 Laps,0
+10,8,Niki Lauda,McLaren,70,4,Disqualified,0
+11,5,Derek Daly,Williams,60,13,Spun off,0
+12,17,Jochen Mass,March,60,25,Engine,0
+13,15,Alain Prost,Renault,59,1,Spun off,0
+14,2,Riccardo Patrese,Brabham,52,9,Spun off,0
+15,30,Mauro Baldi,Arrows,51,26,Throttle,0
+16,31,Jean-Pierre Jarier,Osella,37,14,Broken wing,0
+17,22,Andrea de Cesaris,Alfa Romeo,34,6,Gearbox,0
+18,4,Brian Henton,Tyrrell,33,20,Engine,0
+19,3,Michele Alboreto,Tyrrell,29,5,Engine,0
+20,35,Derek Warwick,Toleman,29,19,Transmission,0
+21,36,Teo Fabi,Toleman,13,21,Brakes,0
+22,12,Nigel Mansell,Team Lotus,9,7,Clutch,0
+23,16,René Arnoux,Renault,7,2,Turbo,0
+24,9,Manfred Winkelhock,ATS,0,12,Clutch,0
+25,23,Bruno Giacomelli,Alfa Romeo,0,15,Collision,0
+26,10,Eliseo Salazar,ATS,0,18,Collision,0
+27,28,Didier Pironi,Ferrari,0,0,Withdrew,0
+28,27,Gilles Villeneuve,Ferrari,0,0,Accident,0
+29,14,Roberto Guerrero,Ensign,0,0,Did not qualify,0
+30,33,Jan Lammers,Theodore,0,0,Did not qualify,0

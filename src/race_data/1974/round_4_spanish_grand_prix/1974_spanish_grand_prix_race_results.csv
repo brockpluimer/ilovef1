@@ -1,0 +1,28 @@
+position,number,driver,constructor,laps,grid,status,points
+1,12,Niki Lauda,Ferrari,84,1,Finished,9
+2,11,Clay Regazzoni,Ferrari,84,3,Finished,6
+3,5,Emerson Fittipaldi,McLaren,83,4,+1 Lap,4
+4,9,Hans-Joachim Stuck,March,82,13,+2 Laps,3
+5,3,Jody Scheckter,Tyrrell,82,9,+2 Laps,2
+6,6,Denny Hulme,McLaren,82,8,+2 Laps,1
+7,16,Brian Redman,Shadow,81,21,+3 Laps,0
+8,4,Patrick Depailler,Tyrrell,81,16,+3 Laps,0
+9,33,Mike Hailwood,McLaren,81,17,+3 Laps,0
+10,24,James Hunt,Hesketh,81,10,+3 Laps,0
+11,28,John Watson,Brabham,80,15,+4 Laps,0
+12,15,Henri Pescarolo,BRM,80,20,+4 Laps,0
+13,18,Carlos Pace,Surtees,78,14,+6 Laps,0
+14,23,Tim Schenken,Trojan,76,25,Spun off,0
+15,17,Jean-Pierre Jarier,Shadow,73,12,Not classified,0
+16,26,Graham Hill,Lola,43,19,Engine,0
+17,20,Arturo Merzario,Iso Marlboro,37,7,Accident,0
+18,19,Jochen Mass,Surtees,35,18,Gearbox,0
+19,37,François Migault,BRM,27,22,Engine,0
+20,2,Jacky Ickx,Team Lotus,26,5,Brakes,0
+21,1,Ronnie Peterson,Team Lotus,23,2,Engine,0
+22,30,Chris Amon,Amon,22,23,Brakes,0
+23,8,Rikky von Opel,Brabham,14,24,Oil leak,0
+24,7,Carlos Reutemann,Brabham,12,6,Spun off,0
+25,14,Jean-Pierre Beltoise,BRM,2,11,Engine,0
+26,27,Guy Edwards,Lola,0,0,Did not qualify,0
+27,21,Tom Belsø,Iso Marlboro,0,0,Did not qualify,0

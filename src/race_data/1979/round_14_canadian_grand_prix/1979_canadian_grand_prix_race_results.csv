@@ -1,0 +1,31 @@
+position,number,driver,constructor,laps,grid,status,points
+1,27,Alan Jones,Williams,72,1,Finished,9
+2,12,Gilles Villeneuve,Ferrari,72,2,Finished,6
+3,28,Clay Regazzoni,Williams,72,3,Finished,4
+4,11,Jody Scheckter,Ferrari,71,9,+1 Lap,3
+5,3,Didier Pironi,Tyrrell,71,6,+1 Lap,2
+6,7,John Watson,McLaren,70,17,+2 Laps,1
+7,5,Ricardo Zunino,Brabham-Ford,68,17,+4 Laps,0
+8,14,Emerson Fittipaldi,Fittipaldi,67,15,+5 Laps,0
+9,17,Jan Lammers,Shadow,67,21,+5 Laps,0
+10,1,Mario Andretti,Team Lotus,66,10,Out of fuel,0
+11,6,Nelson Piquet,Brabham-Ford,61,4,Gearbox,0
+12,36,Vittorio Brambilla,Alfa Romeo,52,18,Fuel system,0
+13,25,Jacky Ickx,Ligier,47,16,Gearbox,0
+14,4,Jean-Pierre Jarier,Tyrrell,33,13,Engine,0
+15,33,Derek Daly,Tyrrell,28,24,Engine,0
+16,31,Hector Rebaque,Rebaque,26,22,Chassis,0
+17,15,Jean-Pierre Jabouille,Renault,24,7,Brakes,0
+18,18,Elio de Angelis,Shadow,24,23,Ignition,0
+19,2,Carlos Reutemann,Team Lotus,23,11,Suspension,0
+20,29,Riccardo Patrese,Arrows,20,14,Spun off,0
+21,8,Patrick Tambay,McLaren,19,20,Engine,0
+22,16,René Arnoux,Renault,14,8,Accident,0
+23,9,Hans-Joachim Stuck,ATS,14,12,Accident,0
+24,26,Jacques Laffite,Ligier,10,5,Engine,0
+25,30,Jochen Mass,Arrows,0,0,Did not qualify,0
+26,22,Marc Surer,Ensign,0,0,Did not qualify,0
+27,20,Keke Rosberg,Wolf,0,0,Did not qualify,0
+28,19,Alex Ribeiro,Fittipaldi,0,0,Did not qualify,0
+29,24,Arturo Merzario,Merzario,0,0,Did not qualify,0
+30,5,Niki Lauda,Brabham-Ford,0,0,Withdrew,0

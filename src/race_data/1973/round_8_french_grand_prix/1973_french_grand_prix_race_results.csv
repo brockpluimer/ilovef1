@@ -1,0 +1,26 @@
+position,number,driver,constructor,laps,grid,status,points
+1,2,Ronnie Peterson,Team Lotus,54,5,Finished,9
+2,6,François Cevert,Tyrrell,54,4,Finished,6
+3,10,Carlos Reutemann,Brabham,54,8,Finished,4
+4,5,Jackie Stewart,Tyrrell,54,1,Finished,3
+5,3,Jacky Ickx,Ferrari,54,12,Finished,2
+6,27,James Hunt,March,54,14,Finished,1
+7,4,Arturo Merzario,Ferrari,54,10,Finished,0
+8,7,Denny Hulme,McLaren,54,6,Finished,0
+9,21,Niki Lauda,BRM,54,17,Finished,0
+10,12,Graham Hill,Shadow,53,16,+1 Lap,0
+11,20,Jean-Pierre Beltoise,BRM,53,15,+1 Lap,0
+12,19,Clay Regazzoni,BRM,53,9,+1 Lap,0
+13,24,Carlos Pace,Surtees,51,18,+3 Laps,0
+14,25,Howden Ganley,Iso Marlboro,51,24,+3 Laps,0
+15,29,Rikky von Opel,Ensign,51,25,+3 Laps,0
+16,11,Wilson Fittipaldi,Brabham,50,19,+4 Laps,0
+17,8,Jody Scheckter,McLaren,43,2,Accident,0
+18,1,Emerson Fittipaldi,Team Lotus,41,3,Accident,0
+19,23,Mike Hailwood,Surtees,29,11,Oil leak,0
+20,9,Andrea de Adamich,Brabham,28,13,Halfshaft,0
+21,15,Reine Wisell,March,20,22,Overheating,0
+22,16,George Follmer,Shadow,16,20,Fuel system,0
+23,26,Henri Pescarolo,Iso Marlboro,16,23,Overheating,0
+24,14,Jean-Pierre Jarier,March,7,7,Halfshaft,0
+25,17,Jackie Oliver,Shadow,0,21,Clutch,0

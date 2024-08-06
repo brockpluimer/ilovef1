@@ -1,0 +1,25 @@
+position,number,driver,constructor,laps,grid,status,points
+1,2,Lewis Hamilton,McLaren,44,2,Finished,25
+2,6,Mark Webber,Red Bull,44,1,Finished,18
+3,11,Robert Kubica,Renault,44,3,Finished,15
+4,7,Felipe Massa,Ferrari,44,6,Finished,12
+5,14,Adrian Sutil,Force India,44,8,Finished,10
+6,4,Nico Rosberg,Mercedes,44,14,Finished,8
+7,3,Michael Schumacher,Mercedes,44,21,Finished,6
+8,23,Kamui Kobayashi,Sauber,44,17,Finished,4
+9,12,Vitaly Petrov,Renault,44,23,Finished,2
+10,15,Vitantonio Liuzzi,Force India,44,12,Finished,1
+11,22,Pedro de la Rosa,Sauber,44,24,Finished,0
+12,16,Sébastien Buemi,Toro Rosso,44,16,Finished,0
+13,17,Jaime Alguersuari,Toro Rosso,44,11,Finished,0
+14,10,Nico Hülkenberg,Williams,43,9,+1 Lap,0
+15,5,Sebastian Vettel,Red Bull,43,4,+1 Lap,0
+16,19,Heikki Kovalainen,Lotus,43,13,+1 Lap,0
+17,25,Lucas di Grassi,Virgin,43,22,+1 Lap,0
+18,24,Timo Glock,Virgin,43,20,+1 Lap,0
+19,18,Jarno Trulli,Lotus,43,15,+1 Lap,0
+20,20,Sakon Yamamoto,HRT,42,19,+2 Laps,0
+21,8,Fernando Alonso,Ferrari,37,10,Accident,0
+22,1,Jenson Button,McLaren,15,5,Collision,0
+23,21,Bruno Senna,HRT,5,18,Retired,0
+24,9,Rubens Barrichello,Williams,0,7,Collision,0

@@ -1,0 +1,18 @@
+position,number,driver,constructor,laps,grid,status,points
+1,5,Denny Hulme,McLaren-Ford,65,4,Finished,9
+2,7,Jacky Ickx,Brabham-Ford,65,2,Finished,6
+3,8,Jack Brabham,Brabham-Ford,65,1,Finished,4
+4,3,Jackie Stewart,Matra-Ford,65,3,Finished,3
+5,4,Jean-Pierre Beltoise,Matra-Ford,65,8,Finished,2
+6,15,Jackie Oliver,BRM,63,12,+2 Laps,1
+7,12,Pedro Rodríguez,Ferrari,63,15,+2 Laps,0
+8,16,Johnny Servoz-Gavin,Matra-Ford,63,14,+2 Laps,0
+9,21,Pete Lovely,Lotus-Ford,62,16,+3 Laps,0
+10,18,Piers Courage,Brabham-Ford,61,9,+4 Laps,0
+11,19,Silvio Moser,Brabham-Ford,60,13,Fuel leak,0
+12,14,John Surtees,BRM,53,10,Gearbox,0
+13,2,Jochen Rindt,Lotus-Ford,21,6,Suspension,0
+14,22,George Eaton,BRM,6,17,Gearbox,0
+15,10,Jo Siffert,Lotus-Ford,4,5,Accident,0
+16,9,John Miles,Lotus-Ford,3,11,Fuel pump,0
+17,6,Bruce McLaren,McLaren-Ford,0,7,Withdrew,0

@@ -1,0 +1,25 @@
+position,number,driver,constructor,laps,grid,status,points
+1,2,Denny Hulme,Brabham-Repco,15,2,Finished,9
+2,1,Jack Brabham,Brabham-Repco,15,7,Finished,6
+3,8,Chris Amon,Ferrari,15,8,Finished,4
+4,7,John Surtees,Honda,15,6,Finished,3
+5,24,Jackie Oliver,Lotus-Ford,15,19,Finished,0
+6,16,Jo Bonnier,Cooper-Maserati,15,16,Finished,2
+7,22,Alan Rees,Brabham-Ford,15,20,Finished,0
+8,15,Guy Ligier,Brabham-Repco,14,17,+1 Lap,1
+9,18,Chris Irwin,BRM,13,15,+2 Laps,0
+10,27,David Hobbs,Lola,13,22,+2 Laps,0
+11,6,Pedro Rodríguez,Cooper-Maserati,13,10,+2 Laps,0
+12,9,Dan Gurney,Eagle-Weslake,12,4,Halfshaft,0
+13,29,Jacky Ickx,Matra,12,18,Suspension,0
+14,25,Brian Hart,Protos,12,25,+3 Laps,0
+15,14,Jo Siffert,Cooper-Maserati,12,12,Fuel pump,0
+16,4,Graham Hill,Lotus-Ford,8,13,Suspension,0
+17,17,Hubert Hahne,Lola,6,14,Suspension,0
+18,11,Jackie Stewart,BRM,5,3,Differential,0
+19,3,Jim Clark,Lotus-Ford,4,1,Suspension,0
+20,5,Jochen Rindt,Cooper-Maserati,4,9,Radiator,0
+21,26,Kurt Ahrens,Protos,4,23,Radiator,0
+22,10,Bruce McLaren,Eagle-Weslake,3,5,Oil leak,0
+23,12,Mike Spence,BRM,3,11,Differential,0
+24,23,Jo Schlesser,Matra,2,21,Engine,0

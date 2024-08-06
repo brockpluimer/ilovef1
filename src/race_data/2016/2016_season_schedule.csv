@@ -1,0 +1,22 @@
+round,raceName,date,time,circuit,country
+1,Australian Grand Prix,2016-03-20,05:00:00Z,Albert Park Grand Prix Circuit,Australia
+2,Bahrain Grand Prix,2016-04-03,15:00:00Z,Bahrain International Circuit,Bahrain
+3,Chinese Grand Prix,2016-04-17,06:00:00Z,Shanghai International Circuit,China
+4,Russian Grand Prix,2016-05-01,12:00:00Z,Sochi Autodrom,Russia
+5,Spanish Grand Prix,2016-05-15,12:00:00Z,Circuit de Barcelona-Catalunya,Spain
+6,Monaco Grand Prix,2016-05-29,12:00:00Z,Circuit de Monaco,Monaco
+7,Canadian Grand Prix,2016-06-12,18:00:00Z,Circuit Gilles Villeneuve,Canada
+8,European Grand Prix,2016-06-19,13:00:00Z,Baku City Circuit,Azerbaijan
+9,Austrian Grand Prix,2016-07-03,12:00:00Z,Red Bull Ring,Austria
+10,British Grand Prix,2016-07-10,12:00:00Z,Silverstone Circuit,UK
+11,Hungarian Grand Prix,2016-07-24,12:00:00Z,Hungaroring,Hungary
+12,German Grand Prix,2016-07-31,12:00:00Z,Hockenheimring,Germany
+13,Belgian Grand Prix,2016-08-28,12:00:00Z,Circuit de Spa-Francorchamps,Belgium
+14,Italian Grand Prix,2016-09-04,12:00:00Z,Autodromo Nazionale di Monza,Italy
+15,Singapore Grand Prix,2016-09-18,12:00:00Z,Marina Bay Street Circuit,Singapore
+16,Malaysian Grand Prix,2016-10-02,07:00:00Z,Sepang International Circuit,Malaysia
+17,Japanese Grand Prix,2016-10-09,05:00:00Z,Suzuka Circuit,Japan
+18,United States Grand Prix,2016-10-23,19:00:00Z,Circuit of the Americas,USA
+19,Mexican Grand Prix,2016-10-30,19:00:00Z,Autódromo Hermanos Rodríguez,Mexico
+20,Brazilian Grand Prix,2016-11-13,16:00:00Z,Autódromo José Carlos Pace,Brazil
+21,Abu Dhabi Grand Prix,2016-11-27,13:00:00Z,Yas Marina Circuit,UAE

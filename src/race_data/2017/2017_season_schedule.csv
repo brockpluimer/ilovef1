@@ -1,0 +1,21 @@
+round,raceName,date,time,circuit,country
+1,Australian Grand Prix,2017-03-26,05:00:00Z,Albert Park Grand Prix Circuit,Australia
+2,Chinese Grand Prix,2017-04-09,06:00:00Z,Shanghai International Circuit,China
+3,Bahrain Grand Prix,2017-04-16,15:00:00Z,Bahrain International Circuit,Bahrain
+4,Russian Grand Prix,2017-04-30,12:00:00Z,Sochi Autodrom,Russia
+5,Spanish Grand Prix,2017-05-14,12:00:00Z,Circuit de Barcelona-Catalunya,Spain
+6,Monaco Grand Prix,2017-05-28,12:00:00Z,Circuit de Monaco,Monaco
+7,Canadian Grand Prix,2017-06-11,18:00:00Z,Circuit Gilles Villeneuve,Canada
+8,Azerbaijan Grand Prix,2017-06-25,13:00:00Z,Baku City Circuit,Azerbaijan
+9,Austrian Grand Prix,2017-07-09,12:00:00Z,Red Bull Ring,Austria
+10,British Grand Prix,2017-07-16,12:00:00Z,Silverstone Circuit,UK
+11,Hungarian Grand Prix,2017-07-30,12:00:00Z,Hungaroring,Hungary
+12,Belgian Grand Prix,2017-08-27,12:00:00Z,Circuit de Spa-Francorchamps,Belgium
+13,Italian Grand Prix,2017-09-03,12:00:00Z,Autodromo Nazionale di Monza,Italy
+14,Singapore Grand Prix,2017-09-17,12:00:00Z,Marina Bay Street Circuit,Singapore
+15,Malaysian Grand Prix,2017-10-01,07:00:00Z,Sepang International Circuit,Malaysia
+16,Japanese Grand Prix,2017-10-08,05:00:00Z,Suzuka Circuit,Japan
+17,United States Grand Prix,2017-10-22,19:00:00Z,Circuit of the Americas,USA
+18,Mexican Grand Prix,2017-10-29,19:00:00Z,Autódromo Hermanos Rodríguez,Mexico
+19,Brazilian Grand Prix,2017-11-12,16:00:00Z,Autódromo José Carlos Pace,Brazil
+20,Abu Dhabi Grand Prix,2017-11-26,13:00:00Z,Yas Marina Circuit,UAE

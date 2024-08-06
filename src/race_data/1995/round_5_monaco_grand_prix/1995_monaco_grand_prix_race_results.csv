@@ -1,0 +1,27 @@
+position,number,driver,constructor,laps,grid,status,points
+1,1,Michael Schumacher,Benetton,78,2,Finished,10
+2,5,Damon Hill,Williams,78,1,Finished,6
+3,28,Gerhard Berger,Ferrari,78,4,Finished,4
+4,2,Johnny Herbert,Benetton,77,7,+1 Lap,3
+5,7,Mark Blundell,McLaren,77,10,+1 Lap,2
+6,30,Heinz-Harald Frentzen,Sauber,76,14,+2 Laps,1
+7,23,Pierluigi Martini,Minardi,76,18,+2 Laps,0
+8,29,Jean-Christophe Boullion,Sauber,74,19,+4 Laps,0
+9,9,Gianni Morbidelli,Footwork,74,13,+4 Laps,0
+10,21,Pedro Diniz,Forti,72,22,+6 Laps,0
+11,24,Luca Badoer,Minardi,68,16,Suspension,0
+12,26,Olivier Panis,Ligier,65,12,Spun off,0
+13,4,Mika Salo,Tyrrell,63,17,Gearbox,0
+14,14,Rubens Barrichello,Jordan,60,11,Throttle,0
+15,16,Bertrand Gachot,Pacific,42,21,Gearbox,0
+16,27,Jean Alesi,Ferrari,41,5,Spun off,0
+17,25,Martin Brundle,Ligier,40,8,Spun off,0
+18,10,Taki Inoue,Footwork,27,26,Gearbox,0
+19,3,Ukyo Katayama,Tyrrell,26,15,Spun off,0
+20,17,Andrea Montermini,Pacific,23,25,Disqualified,0
+21,15,Eddie Irvine,Jordan,22,9,Spun off,0
+22,6,David Coulthard,Williams,16,3,Gearbox,0
+23,22,Roberto Moreno,Forti,9,24,Brakes,0
+24,8,Mika Häkkinen,McLaren,8,6,Engine,0
+25,12,Jos Verstappen,Simtek,0,23,Gearbox,0
+26,11,Domenico Schiattarella,Simtek,0,20,Withdrew,0

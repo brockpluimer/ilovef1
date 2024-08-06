@@ -1,0 +1,31 @@
+position,number,driver,constructor,laps,grid,status,points
+1,20,Nelson Piquet,Benetton,53,6,Finished,9
+2,19,Roberto Moreno,Benetton,53,8,Finished,6
+3,30,Aguri Suzuki,Larrousse,53,9,Finished,4
+4,6,Riccardo Patrese,Williams,53,7,Finished,3
+5,5,Thierry Boutsen,Williams,53,5,Finished,2
+6,3,Satoru Nakajima,Tyrrell,53,14,Finished,1
+7,25,Nicola Larini,Ligier,52,17,+1 Lap,0
+8,23,Pierluigi Martini,Minardi,52,10,+1 Lap,0
+9,10,Alex Caffi,Arrows,52,23,+1 Lap,0
+10,26,Philippe Alliot,Ligier,52,25,+1 Lap,0
+11,11,Derek Warwick,Team Lotus,38,11,Gearbox,0
+12,12,Johnny Herbert,Team Lotus,31,12,Engine,0
+13,9,Michele Alboreto,Arrows,28,24,Engine,0
+14,2,Nigel Mansell,Ferrari,26,3,Transmission,0
+15,21,Emanuele Pirro,Dallara,24,19,Alternator,0
+16,29,Éric Bernard,Larrousse,24,18,Engine,0
+17,24,Gianni Morbidelli,Minardi,18,20,Spun off,0
+18,16,Ivan Capelli,Leyton House,16,13,Ignition,0
+19,22,Andrea de Cesaris,Dallara,13,26,Spun off,0
+20,15,Maurício Gugelmin,Leyton House,5,16,Engine,0
+21,7,David Brabham,Brabham,5,21,Clutch,0
+22,28,Gerhard Berger,McLaren,1,4,Spun off,0
+23,27,Ayrton Senna,McLaren,0,1,Collision,0
+24,1,Alain Prost,Ferrari,0,2,Collision,0
+25,8,Stefano Modena,Brabham,0,22,Collision,0
+26,4,Jean Alesi,Tyrrell,0,7,Withdrew,0
+27,14,Olivier Grouillard,Osella,0,0,Did not qualify,0
+28,17,Gabriele Tarquini,AGS,0,0,Did not qualify,0
+29,18,Yannick Dalmas,AGS,0,0,Did not qualify,0
+30,31,Bertrand Gachot,Coloni,0,0,Did not qualify,0

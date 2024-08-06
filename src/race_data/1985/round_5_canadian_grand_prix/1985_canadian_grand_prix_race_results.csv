@@ -1,0 +1,26 @@
+position,number,driver,constructor,laps,grid,status,points
+1,27,Michele Alboreto,Ferrari,70,3,Finished,9
+2,28,Stefan Johansson,Ferrari,70,4,Finished,6
+3,2,Alain Prost,McLaren,70,5,Finished,4
+4,6,Keke Rosberg,Williams,70,8,Finished,3
+5,11,Elio de Angelis,Team Lotus,70,1,Finished,2
+6,5,Nigel Mansell,Williams,70,16,Finished,1
+7,15,Patrick Tambay,Renault,69,10,+1 Lap,0
+8,26,Jacques Laffite,Ligier,69,19,+1 Lap,0
+9,18,Thierry Boutsen,Arrows,68,7,+2 Laps,0
+10,22,Riccardo Patrese,Alfa Romeo,68,13,+2 Laps,0
+11,4,Stefan Bellof,Tyrrell,68,23,+2 Laps,0
+12,3,Martin Brundle,Tyrrell,68,24,+2 Laps,0
+13,17,Gerhard Berger,Arrows,67,12,+3 Laps,0
+14,25,Andrea de Cesaris,Ligier,67,15,+3 Laps,0
+15,8,Marc Surer,Brabham,67,20,+3 Laps,0
+16,12,Ayrton Senna,Team Lotus,65,2,+5 Laps,0
+17,23,Eddie Cheever,Alfa Romeo,64,11,+6 Laps,0
+18,29,Pierluigi Martini,Minardi,57,25,Accident,0
+19,1,Niki Lauda,McLaren,37,17,Engine,0
+20,24,Piercarlo Ghinzani,Osella,35,22,Engine,0
+21,10,Philippe Alliot,RAM,28,21,Accident,0
+22,16,Derek Warwick,Renault,25,6,Accident,0
+23,9,Manfred Winkelhock,RAM,5,14,Accident,0
+24,19,Teo Fabi,Toleman,3,18,Turbo,0
+25,7,Nelson Piquet,Brabham,0,9,Transmission,0

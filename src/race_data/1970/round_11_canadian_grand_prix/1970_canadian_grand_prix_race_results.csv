@@ -1,0 +1,21 @@
+position,number,driver,constructor,laps,grid,status,points
+1,18,Jacky Ickx,Ferrari,90,2,Finished,9
+2,19,Clay Regazzoni,Ferrari,90,3,Finished,6
+3,20,Chris Amon,March,90,6,Finished,4
+4,14,Pedro Rodríguez,BRM,89,7,+1 Lap,3
+5,4,John Surtees,Surtees,89,5,+1 Lap,2
+6,6,Peter Gethin,McLaren-Ford,88,11,+2 Laps,1
+7,24,Henri Pescarolo,Matra,87,8,+3 Laps,0
+8,23,Jean-Pierre Beltoise,Matra,85,13,Clutch,0
+9,2,François Cevert,March,85,4,+5 Laps,0
+10,16,George Eaton,BRM,85,9,+5 Laps,0
+11,10,Tim Schenken,De Tomaso,79,17,Not classified,0
+12,9,Graham Hill,Team Lotus,77,20,Not classified,0
+13,8,Andrea de Adamich,McLaren-Alfa Romeo,69,12,Oil pressure,0
+14,26,Ronnie Peterson,March,65,16,Not classified,0
+15,5,Denny Hulme,McLaren-Ford,58,15,Engine,0
+16,11,Jack Brabham,Brabham,57,19,Oil leak,0
+17,15,Jackie Oliver,BRM,52,10,Not classified,0
+18,3,Jackie Stewart,Tyrrell,31,1,Axle,0
+19,12,Rolf Stommelen,Brabham,22,18,Handling,0
+20,21,Jo Siffert,March,21,14,Engine,0

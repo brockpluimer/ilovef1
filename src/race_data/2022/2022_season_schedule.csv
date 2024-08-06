@@ -1,0 +1,23 @@
+round,raceName,date,time,circuit,country
+1,Bahrain Grand Prix,2022-03-20,15:00:00Z,Bahrain International Circuit,Bahrain
+2,Saudi Arabian Grand Prix,2022-03-27,17:00:00Z,Jeddah Corniche Circuit,Saudi Arabia
+3,Australian Grand Prix,2022-04-10,05:00:00Z,Albert Park Grand Prix Circuit,Australia
+4,Emilia Romagna Grand Prix,2022-04-24,13:00:00Z,Autodromo Enzo e Dino Ferrari,Italy
+5,Miami Grand Prix,2022-05-08,19:30:00Z,Miami International Autodrome,USA
+6,Spanish Grand Prix,2022-05-22,13:00:00Z,Circuit de Barcelona-Catalunya,Spain
+7,Monaco Grand Prix,2022-05-29,13:00:00Z,Circuit de Monaco,Monaco
+8,Azerbaijan Grand Prix,2022-06-12,11:00:00Z,Baku City Circuit,Azerbaijan
+9,Canadian Grand Prix,2022-06-19,18:00:00Z,Circuit Gilles Villeneuve,Canada
+10,British Grand Prix,2022-07-03,14:00:00Z,Silverstone Circuit,UK
+11,Austrian Grand Prix,2022-07-10,13:00:00Z,Red Bull Ring,Austria
+12,French Grand Prix,2022-07-24,13:00:00Z,Circuit Paul Ricard,France
+13,Hungarian Grand Prix,2022-07-31,13:00:00Z,Hungaroring,Hungary
+14,Belgian Grand Prix,2022-08-28,13:00:00Z,Circuit de Spa-Francorchamps,Belgium
+15,Dutch Grand Prix,2022-09-04,13:00:00Z,Circuit Park Zandvoort,Netherlands
+16,Italian Grand Prix,2022-09-11,13:00:00Z,Autodromo Nazionale di Monza,Italy
+17,Singapore Grand Prix,2022-10-02,12:00:00Z,Marina Bay Street Circuit,Singapore
+18,Japanese Grand Prix,2022-10-09,05:00:00Z,Suzuka Circuit,Japan
+19,United States Grand Prix,2022-10-23,19:00:00Z,Circuit of the Americas,USA
+20,Mexico City Grand Prix,2022-10-30,20:00:00Z,Autódromo Hermanos Rodríguez,Mexico
+21,São Paulo Grand Prix,2022-11-13,18:00:00Z,Autódromo José Carlos Pace,Brazil
+22,Abu Dhabi Grand Prix,2022-11-20,13:00:00Z,Yas Marina Circuit,UAE

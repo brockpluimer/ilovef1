@@ -1,0 +1,24 @@
+position,number,driver,constructor,laps,grid,status,points
+1,18,Juan Fangio,Mercedes,50,1,Finished,8
+2,14,Piero Taruffi,Mercedes,50,9,Finished,6
+3,4,Eugenio Castellotti,Ferrari,50,4,Finished,4
+4,36,Jean Behra,Maserati,50,6,Finished,3
+5,34,Carlos Menditeguy,Maserati,49,16,+1 Lap,2
+6,12,Umberto Maglioli,Ferrari,49,12,+1 Lap,0
+7,28,Roberto Mieres,Maserati,48,7,+2 Laps,0
+8,8,Maurice Trintignant,Ferrari,47,15,+3 Laps,0
+9,40,John Fitch,Maserati,46,20,+4 Laps,0
+10,6,Mike Hawthorn,Ferrari,38,14,Gearbox,0
+11,20,Karl Kling,Mercedes,32,3,Gearbox,0
+12,30,Luigi Musso,Maserati,31,10,Gearbox,0
+13,38,Horace Gould,Maserati,31,21,Suspension,0
+14,16,Stirling Moss,Mercedes,27,2,Engine,1
+15,26,Jacques Pollet,Gordini,26,19,Engine,0
+16,22,Hernando da Silva Ramos,Gordini,23,18,Fuel system,0
+17,32,Peter Collins,Maserati,22,11,Suspension,0
+18,42,Harry Schell,Vanwall,7,13,Suspension,0
+19,24,Jean Lucas,Gordini,7,22,Engine,0
+20,44,Ken Wharton,Vanwall,0,17,Injection,0
+21,2,Nino Farina,Ferrari,0,5,Withdrew,0
+22,10,Luigi Villoresi,Ferrari,0,8,Withdrew,0
+23,46,Luigi Piotti,Arzani-Volpini,0,0,Withdrew,0

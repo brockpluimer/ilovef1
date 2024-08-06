@@ -1,0 +1,21 @@
+position,number,driver,constructor,laps,grid,status,points
+1,8,Jim Clark,Lotus-Climax,100,1,Finished,9
+2,4,Graham Hill,BRM,100,3,Finished,6
+3,21,Bruce McLaren,Cooper-Climax,99,6,+1 Lap,4
+4,17,Jack Brabham,Brabham,99,5,+1 Lap,3
+5,10,Dan Gurney,Porsche,99,4,+1 Lap,2
+6,16,Masten Gregory,Lotus-BRM,99,7,+1 Lap,1
+7,22,Tony Maggs,Cooper-Climax,97,10,+3 Laps,0
+8,15,Innes Ireland,Lotus-Climax,96,16,+4 Laps,0
+9,14,Roger Penske,Lotus-Climax,96,13,+4 Laps,0
+10,26,Rob Schroeder,Lotus-Climax,93,17,+7 Laps,0
+11,24,Hap Sharp,Cooper-Climax,91,15,+9 Laps,0
+12,9,Trevor Taylor,Lotus-Climax,85,8,+15 Laps,0
+13,11,Jo Bonnier,Porsche,79,9,+21 Laps,0
+14,5,Richie Ginther,BRM,35,2,Engine,0
+15,6,Maurice Trintignant,Lotus-Climax,32,19,Brakes,0
+16,23,Timmy Mayer,Cooper-Climax,31,12,Ignition,0
+17,18,John Surtees,Lola,19,20,Engine,0
+18,12,Carel Godin de Beaufort,Porsche,9,14,Accident,0
+19,19,Roy Salvadori,Lola,0,0,Withdrew,0
+20,25,Jim Hall,Lotus-Climax,0,0,Withdrew,0

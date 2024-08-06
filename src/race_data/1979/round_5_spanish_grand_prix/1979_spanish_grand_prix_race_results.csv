@@ -1,0 +1,28 @@
+position,number,driver,constructor,laps,grid,status,points
+1,25,Patrick Depailler,Ligier,75,2,Finished,9
+2,2,Carlos Reutemann,Team Lotus,75,8,Finished,6
+3,1,Mario Andretti,Team Lotus,75,4,Finished,4
+4,11,Jody Scheckter,Ferrari,75,5,Finished,3
+5,4,Jean-Pierre Jarier,Tyrrell,75,12,Finished,2
+6,3,Didier Pironi,Tyrrell,75,10,Finished,1
+7,12,Gilles Villeneuve,Ferrari,75,3,Finished,0
+8,30,Jochen Mass,Arrows,75,17,Finished,0
+9,16,René Arnoux,Renault,74,11,+1 Lap,0
+10,29,Riccardo Patrese,Arrows,74,16,+1 Lap,0
+11,14,Emerson Fittipaldi,Fittipaldi,74,19,+1 Lap,0
+12,17,Jan Lammers,Shadow,73,24,+2 Laps,0
+13,8,Patrick Tambay,McLaren,72,20,+3 Laps,0
+14,9,Hans-Joachim Stuck,ATS,69,21,+6 Laps,0
+15,5,Niki Lauda,Brabham-Alfa Romeo,63,6,Water leak,0
+16,31,Hector Rebaque,Team Lotus,58,23,Engine,0
+17,27,Alan Jones,Williams,54,13,Gearbox,0
+18,18,Elio de Angelis,Shadow,52,22,Engine,0
+19,28,Clay Regazzoni,Williams,32,14,Engine,0
+20,20,James Hunt,Wolf,26,15,Brakes,0
+21,15,Jean-Pierre Jabouille,Renault,21,9,Turbo,0
+22,7,John Watson,McLaren,21,18,Engine,0
+23,26,Jacques Laffite,Ligier,15,1,Engine,0
+24,6,Nelson Piquet,Brabham-Alfa Romeo,15,7,Injection,0
+25,22,Derek Daly,Ensign,0,0,Did not qualify,0
+26,24,Arturo Merzario,Merzario,0,0,Did not qualify,0
+27,36,Gianfranco Brancatelli,Kauhsen,0,0,Did not qualify,0

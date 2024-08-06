@@ -1,0 +1,31 @@
+position,number,driver,constructor,laps,grid,status,points
+1,15,Alain Prost,Renault,72,1,Finished,9
+2,5,Nelson Piquet,Brabham,72,3,Finished,6
+3,1,Alan Jones,Williams,72,4,Finished,4
+4,6,Hector Rebaque,Brabham,71,15,+1 Lap,3
+5,11,Elio de Angelis,Team Lotus,71,9,+1 Lap,2
+6,14,Eliseo Salazar,Ensign,70,24,+2 Laps,1
+7,30,Siegfried Stohr,Arrows,69,21,+3 Laps,0
+8,33,Marc Surer,Theodore,69,20,+3 Laps,0
+9,4,Michele Alboreto,Tyrrell,68,25,Engine,0
+10,9,Slim Borgudd,ATS,68,23,+4 Laps,0
+11,22,Mario Andretti,Alfa Romeo,62,7,Accident,0
+12,7,John Watson,McLaren,50,8,Ignition,0
+13,3,Eddie Cheever,Tyrrell,46,22,Suspension,0
+14,32,Jean-Pierre Jarier,Osella,29,18,Transmission,0
+15,16,René Arnoux,Renault,21,2,Engine,0
+16,23,Bruno Giacomelli,Alfa Romeo,19,14,Tyre,0
+17,26,Jacques Laffite,Ligier,18,6,Collision,0
+18,2,Carlos Reutemann,Williams,18,5,Collision,0
+19,29,Riccardo Patrese,Arrows,16,10,Suspension,0
+20,17,Derek Daly,March,5,19,Suspension,0
+21,28,Didier Pironi,Ferrari,4,12,Collision,0
+22,12,Nigel Mansell,Team Lotus,1,17,Engine,0
+23,25,Patrick Tambay,Ligier,1,11,Collision,0
+24,27,Gilles Villeneuve,Ferrari,0,16,Collision,0
+25,8,Andrea de Cesaris,McLaren,0,0,Withdrew,0
+26,35,Brian Henton,Toleman,0,0,Did not qualify,0
+27,20,Keke Rosberg,Fittipaldi,0,0,Did not qualify,0
+28,21,Chico Serra,Fittipaldi,0,0,Did not qualify,0
+29,31,Beppe Gabbiani,Osella,0,0,Did not qualify,0
+30,36,Derek Warwick,Toleman,0,0,Did not qualify,0

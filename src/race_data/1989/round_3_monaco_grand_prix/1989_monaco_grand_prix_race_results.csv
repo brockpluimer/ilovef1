@@ -1,0 +1,31 @@
+position,number,driver,constructor,laps,grid,status,points
+1,1,Ayrton Senna,McLaren,77,1,Finished,9
+2,2,Alain Prost,McLaren,77,2,Finished,6
+3,8,Stefano Modena,Brabham,76,8,+1 Lap,4
+4,21,Alex Caffi,Dallara,75,9,+2 Laps,3
+5,4,Michele Alboreto,Tyrrell,75,12,+2 Laps,2
+6,7,Martin Brundle,Brabham,75,4,+2 Laps,1
+7,10,Eddie Cheever,Arrows,75,20,+2 Laps,0
+8,19,Alessandro Nannini,Benetton,74,15,+3 Laps,0
+9,3,Jonathan Palmer,Tyrrell,74,23,+3 Laps,0
+10,5,Thierry Boutsen,Williams,74,3,+3 Laps,0
+11,16,Ivan Capelli,March,73,22,+4 Laps,0
+12,25,René Arnoux,Ligier,73,21,+4 Laps,0
+13,22,Andrea de Cesaris,Dallara,73,10,+4 Laps,0
+14,20,Johnny Herbert,Benetton,73,24,+4 Laps,0
+15,6,Riccardo Patrese,Williams,73,7,+4 Laps,0
+16,24,Luis Pérez-Sala,Minardi,48,26,Overheating,0
+17,40,Gabriele Tarquini,AGS,46,13,Electrical,0
+18,31,Roberto Moreno,Coloni,44,25,Gearbox,0
+19,30,Philippe Alliot,Larrousse,38,17,Engine,0
+20,15,Maurício Gugelmin,March,36,14,Engine,0
+21,11,Nelson Piquet,Team Lotus,32,19,Collision,0
+22,27,Nigel Mansell,Ferrari,30,5,Gearbox,0
+23,32,Pierre-Henri Raphanel,Coloni,19,18,Gearbox,0
+24,26,Olivier Grouillard,Ligier,4,16,Gearbox,0
+25,23,Pierluigi Martini,Minardi,3,11,Clutch,0
+26,9,Derek Warwick,Arrows,2,6,Electrical,0
+27,38,Christian Danner,Rial,0,0,Did not qualify,0
+28,29,Yannick Dalmas,Larrousse,0,0,Did not qualify,0
+29,12,Satoru Nakajima,Team Lotus,0,0,Did not qualify,0
+30,18,Piercarlo Ghinzani,Osella,0,0,Did not prequalify,0

@@ -1,0 +1,31 @@
+position,number,driver,constructor,laps,grid,status,points
+1,1,Ayrton Senna,McLaren,73,1,Finished,9
+2,28,Gerhard Berger,Ferrari,73,2,Finished,6
+3,2,Alain Prost,McLaren,73,3,Finished,4
+4,4,Jean Alesi,Tyrrell,72,9,+1 Lap,3
+5,6,Riccardo Patrese,Williams,72,6,+1 Lap,2
+6,30,Philippe Alliot,Larrousse,72,5,+1 Lap,1
+7,22,Andrea de Cesaris,Dallara,72,15,+1 Lap,0
+8,11,Nelson Piquet,Team Lotus,71,7,+2 Laps,0
+9,9,Derek Warwick,Arrows,71,16,+2 Laps,0
+10,3,Jonathan Palmer,Tyrrell,71,13,+2 Laps,0
+11,10,Eddie Cheever,Arrows,61,22,Engine,0
+12,20,Emanuele Pirro,Benetton,59,10,Spun off,0
+13,21,Alex Caffi,Dallara,55,23,Engine,0
+14,7,Martin Brundle,Brabham,51,8,Spun off,0
+15,15,Maurício Gugelmin,March,47,26,Collision,0
+16,24,Luis Pérez-Sala,Minardi,47,20,Spun off,0
+17,5,Thierry Boutsen,Williams,40,21,Fuel pump,0
+18,26,Olivier Grouillard,Ligier,34,24,Engine,0
+19,23,Pierluigi Martini,Minardi,27,4,Spun off,0
+20,16,Ivan Capelli,March,23,19,Transmission,0
+21,37,Jyrki Järvilehto,Onyx,20,17,Gearbox,0
+22,18,Piercarlo Ghinzani,Osella,17,25,Gearbox,0
+23,19,Alessandro Nannini,Benetton,14,14,Spun off,0
+24,8,Stefano Modena,Brabham,11,12,Electrical,0
+25,17,Nicola Larini,Osella,6,11,Suspension,0
+26,12,Satoru Nakajima,Team Lotus,0,18,Collision,0
+27,25,René Arnoux,Ligier,0,0,Did not qualify,0
+28,39,Pierre-Henri Raphanel,Rial,0,0,Did not qualify,0
+29,38,Gregor Foitek,Rial,0,0,Did not qualify,0
+30,40,Gabriele Tarquini,AGS,0,0,Did not prequalify,0

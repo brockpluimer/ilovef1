@@ -1,0 +1,31 @@
+position,number,driver,constructor,laps,grid,status,points
+1,11,Alain Prost,McLaren,70,1,Finished,9
+2,16,Ivan Capelli,March,70,3,Finished,6
+3,20,Thierry Boutsen,Benetton,70,13,Finished,4
+4,17,Derek Warwick,Arrows,70,10,Finished,3
+5,27,Michele Alboreto,Ferrari,70,7,Finished,2
+6,12,Ayrton Senna,McLaren,70,2,Finished,1
+7,36,Alex Caffi,Dallara,69,17,+1 Lap,0
+8,24,Luis Pérez-Sala,Minardi,68,19,+2 Laps,0
+9,14,Philippe Streiff,AGS,68,21,+2 Laps,0
+10,25,René Arnoux,Ligier,68,23,+2 Laps,0
+11,31,Gabriele Tarquini,Coloni,65,26,+5 Laps,0
+12,21,Nicola Larini,Osella,63,25,+7 Laps,0
+13,15,Maurício Gugelmin,March,59,5,Engine,0
+14,5,Nigel Mansell,Williams,54,6,Spun off,0
+15,3,Jonathan Palmer,Tyrrell,53,22,Overheating,0
+16,19,Alessandro Nannini,Benetton,52,9,Handling,0
+17,28,Gerhard Berger,Ferrari,35,4,Spun off,0
+18,1,Nelson Piquet,Team Lotus,34,8,Clutch,0
+19,6,Riccardo Patrese,Williams,29,11,Radiator,0
+20,23,Pierluigi Martini,Minardi,27,14,Engine,0
+21,29,Yannick Dalmas,Larrousse,20,15,Alternator,0
+22,2,Satoru Nakajima,Team Lotus,16,16,Spun off,0
+23,22,Andrea de Cesaris,Rial,11,12,Halfshaft,0
+24,18,Eddie Cheever,Arrows,10,18,Turbo,0
+25,30,Philippe Alliot,Larrousse,7,20,Engine,0
+26,26,Stefan Johansson,Ligier,4,24,Engine,0
+27,4,Julian Bailey,Tyrrell,0,0,Did not qualify,0
+28,9,Piercarlo Ghinzani,Zakspeed,0,0,Did not qualify,0
+29,33,Stefano Modena,Euro Brun,0,0,Did not qualify,0
+30,10,Bernd Schneider,Zakspeed,0,0,Did not qualify,0

@@ -1,0 +1,20 @@
+round,raceName,date,time,circuit,country
+1,Australian Grand Prix,2005-03-06,14:00:00Z,Albert Park Grand Prix Circuit,Australia
+2,Malaysian Grand Prix,2005-03-20,15:00:00Z,Sepang International Circuit,Malaysia
+3,Bahrain Grand Prix,2005-04-03,14:30:00Z,Bahrain International Circuit,Bahrain
+4,San Marino Grand Prix,2005-04-24,14:00:00Z,Autodromo Enzo e Dino Ferrari,Italy
+5,Spanish Grand Prix,2005-05-08,14:00:00Z,Circuit de Barcelona-Catalunya,Spain
+6,Monaco Grand Prix,2005-05-22,14:00:00Z,Circuit de Monaco,Monaco
+7,European Grand Prix,2005-05-29,14:00:00Z,Nürburgring,Germany
+8,Canadian Grand Prix,2005-06-12,13:00:00Z,Circuit Gilles Villeneuve,Canada
+9,United States Grand Prix,2005-06-19,14:00:00Z,Indianapolis Motor Speedway,USA
+10,French Grand Prix,2005-07-03,14:00:00Z,Circuit de Nevers Magny-Cours,France
+11,British Grand Prix,2005-07-10,14:00:00Z,Silverstone Circuit,UK
+12,German Grand Prix,2005-07-24,14:00:00Z,Hockenheimring,Germany
+13,Hungarian Grand Prix,2005-07-31,14:00:00Z,Hungaroring,Hungary
+14,Turkish Grand Prix,2005-08-21,15:00:00Z,Istanbul Park,Turkey
+15,Italian Grand Prix,2005-09-04,14:00:00Z,Autodromo Nazionale di Monza,Italy
+16,Belgian Grand Prix,2005-09-11,14:00:00Z,Circuit de Spa-Francorchamps,Belgium
+17,Brazilian Grand Prix,2005-09-25,14:00:00Z,Autódromo José Carlos Pace,Brazil
+18,Japanese Grand Prix,2005-10-09,14:00:00Z,Suzuka Circuit,Japan
+19,Chinese Grand Prix,2005-10-16,14:00:00Z,Shanghai International Circuit,China

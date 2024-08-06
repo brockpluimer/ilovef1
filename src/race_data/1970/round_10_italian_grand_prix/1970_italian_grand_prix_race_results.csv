@@ -1,0 +1,28 @@
+position,number,driver,constructor,laps,grid,status,points
+1,4,Clay Regazzoni,Ferrari,68,3,Finished,9
+2,18,Jackie Stewart,March,68,4,Finished,6
+3,40,Jean-Pierre Beltoise,Matra,68,14,Finished,4
+4,30,Denny Hulme,McLaren-Ford,68,9,Finished,3
+5,46,Rolf Stommelen,Brabham,68,17,Finished,2
+6,20,François Cevert,March,68,11,Finished,1
+7,48,Chris Amon,March,67,18,+1 Lap,0
+8,34,Andrea de Adamich,McLaren-Alfa Romeo,61,12,+7 Laps,0
+9,32,Peter Gethin,McLaren-Ford,60,16,Not classified,0
+10,8,Jackie Oliver,BRM,36,6,Engine,0
+11,52,Ronnie Peterson,March,35,13,Engine,0
+12,44,Jack Brabham,Brabham,31,8,Accident,0
+13,2,Jacky Ickx,Ferrari,25,1,Clutch,0
+14,12,George Eaton,BRM,21,20,Overheating,0
+15,54,Tim Schenken,De Tomaso,17,19,Engine,0
+16,6,Ignazio Giunti,Ferrari,14,15,Fuel system,0
+17,42,Henri Pescarolo,Matra,14,5,Engine,0
+18,10,Pedro Rodríguez,BRM,12,2,Engine,0
+19,50,Jo Siffert,March,3,7,Engine,0
+20,14,John Surtees,Surtees,0,10,Electrical,0
+21,28,Graham Hill,Team Lotus,0,0,Withdrew,0
+22,24,John Miles,Team Lotus,0,0,Withdrew,0
+23,22,Jochen Rindt,Team Lotus,0,0,Fatal accident,0
+24,38,Jo Bonnier,McLaren-Ford,0,0,Did not qualify,0
+25,26,Emerson Fittipaldi,Team Lotus,0,0,Withdrew,0
+26,36,Nanni Galli,McLaren-Alfa Romeo,0,0,Did not qualify,0
+27,56,Silvio Moser,Bellasi,0,0,Did not qualify,0

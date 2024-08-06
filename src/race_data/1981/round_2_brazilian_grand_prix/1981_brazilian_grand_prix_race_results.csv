@@ -1,0 +1,31 @@
+position,number,driver,constructor,laps,grid,status,points
+1,2,Carlos Reutemann,Williams,62,2,Finished,9
+2,1,Alan Jones,Williams,62,3,Finished,6
+3,29,Riccardo Patrese,Arrows,62,4,Finished,4
+4,14,Marc Surer,Ensign,62,18,Finished,3
+5,11,Elio de Angelis,Team Lotus,62,10,Finished,2
+6,26,Jacques Laffite,Ligier,62,16,Finished,1
+7,25,Jean-Pierre Jarier,Ligier,62,23,Finished,0
+8,7,John Watson,McLaren,61,15,+1 Lap,0
+9,20,Keke Rosberg,Fittipaldi,61,12,+1 Lap,0
+10,33,Patrick Tambay,Theodore,61,19,+1 Lap,0
+11,12,Nigel Mansell,Team Lotus,61,13,+1 Lap,0
+12,5,Nelson Piquet,Brabham,60,1,+2 Laps,0
+13,4,Ricardo Zunino,Tyrrell,57,24,+5 Laps,0
+14,3,Eddie Cheever,Tyrrell,49,14,Not classified,0
+15,23,Bruno Giacomelli,Alfa Romeo,40,6,Not classified,0
+16,27,Gilles Villeneuve,Ferrari,25,7,Turbo,0
+17,6,Hector Rebaque,Brabham,22,11,Spun off,0
+18,15,Alain Prost,Renault,20,5,Collision,0
+19,30,Siegfried Stohr,Arrows,20,21,Accident,0
+20,28,Didier Pironi,Ferrari,19,17,Collision,0
+21,8,Andrea de Cesaris,McLaren,9,20,Engine,0
+22,16,René Arnoux,Renault,0,8,Collision,0
+23,22,Mario Andretti,Alfa Romeo,0,9,Collision,0
+24,21,Chico Serra,Fittipaldi,0,22,Collision,0
+25,9,Jan Lammers,ATS,0,0,Did not qualify,0
+26,32,Beppe Gabbiani,Osella,0,0,Did not qualify,0
+27,31,Miguel Ángel Guerra,Osella,0,0,Did not qualify,0
+28,18,Eliseo Salazar,Osella,0,0,Did not qualify,0
+29,17,Derek Daly,March,0,0,Did not qualify,0
+30,14,Ricardo Londoño,Ensign,0,0,Withdrew,0

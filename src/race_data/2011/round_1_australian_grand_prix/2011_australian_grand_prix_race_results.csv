@@ -1,0 +1,25 @@
+position,number,driver,constructor,laps,grid,status,points
+1,1,Sebastian Vettel,Red Bull,58,1,Finished,25
+2,3,Lewis Hamilton,McLaren,58,2,Finished,18
+3,10,Vitaly Petrov,Renault,58,6,Finished,15
+4,5,Fernando Alonso,Ferrari,58,5,Finished,12
+5,2,Mark Webber,Red Bull,58,3,Finished,10
+6,4,Jenson Button,McLaren,58,4,Finished,8
+7,6,Felipe Massa,Ferrari,58,8,Finished,6
+8,18,Sébastien Buemi,Toro Rosso,57,10,+1 Lap,4
+9,14,Adrian Sutil,Force India,57,16,+1 Lap,2
+10,15,Paul di Resta,Force India,57,14,+1 Lap,1
+11,19,Jaime Alguersuari,Toro Rosso,57,12,+1 Lap,0
+12,9,Nick Heidfeld,Renault,57,18,+1 Lap,0
+13,21,Jarno Trulli,Lotus,56,20,+2 Laps,0
+14,25,Jérôme d'Ambrosio,Virgin,54,22,+4 Laps,0
+15,24,Timo Glock,Virgin,49,21,+9 Laps,0
+16,11,Rubens Barrichello,Williams,48,17,Transmission,0
+17,8,Nico Rosberg,Mercedes,22,7,Collision,0
+18,20,Heikki Kovalainen,Lotus,19,19,Water leak,0
+19,7,Michael Schumacher,Mercedes,19,11,Collision,0
+20,12,Pastor Maldonado,Williams,9,15,Transmission,0
+21,16,Kamui Kobayashi,Sauber,58,9,Disqualified,0
+22,17,Sergio Pérez,Sauber,58,13,Disqualified,0
+23,23,Vitantonio Liuzzi,HRT,0,0,Did not qualify,0
+24,22,Narain Karthikeyan,HRT,0,0,Did not qualify,0

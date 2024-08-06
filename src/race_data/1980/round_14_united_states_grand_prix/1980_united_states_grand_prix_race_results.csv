@@ -1,0 +1,28 @@
+position,number,driver,constructor,laps,grid,status,points
+1,27,Alan Jones,Williams,59,5,Finished,9
+2,28,Carlos Reutemann,Williams,59,3,Finished,6
+3,25,Didier Pironi,Ligier,59,7,Finished,4
+4,12,Elio de Angelis,Team Lotus,59,4,Finished,3
+5,26,Jacques Laffite,Ligier,58,12,+1 Lap,2
+6,11,Mario Andretti,Team Lotus,58,11,+1 Lap,1
+7,16,René Arnoux,Renault,58,6,+1 Lap,0
+8,9,Marc Surer,ATS,57,17,+2 Laps,0
+9,50,Rupert Keegan,Williams,57,15,+2 Laps,0
+10,21,Keke Rosberg,Fittipaldi,57,14,+2 Laps,0
+11,1,Jody Scheckter,Ferrari,56,23,+3 Laps,0
+12,7,John Watson,McLaren,50,9,+9 Laps,0
+13,2,Gilles Villeneuve,Ferrari,49,18,Accident,0
+14,3,Jean-Pierre Jarier,Tyrrell,40,22,Not classified,0
+15,30,Jochen Mass,Arrows,36,24,Transmission,0
+16,23,Bruno Giacomelli,Alfa Romeo,31,1,Electrical,0
+17,5,Nelson Piquet,Brabham,25,2,Spun off,0
+18,6,Hector Rebaque,Brabham,20,8,Engine,0
+19,31,Eddie Cheever,Osella,20,16,Suspension,0
+20,29,Riccardo Patrese,Arrows,16,20,Spun off,0
+21,14,Jan Lammers,Ensign,16,25,Steering,0
+22,20,Emerson Fittipaldi,Fittipaldi,15,19,Suspension,0
+23,4,Derek Daly,Tyrrell,3,21,Spun off,0
+24,22,Andrea de Cesaris,Alfa Romeo,2,10,Accident,0
+25,8,Alain Prost,McLaren,0,13,Withdrew,0
+26,43,Mike Thackwell,Tyrrell,0,0,Did not qualify,0
+27,51,Geoff Lees,Williams,0,0,Did not qualify,0

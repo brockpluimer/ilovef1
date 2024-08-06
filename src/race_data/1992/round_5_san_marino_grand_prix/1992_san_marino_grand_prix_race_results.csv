@@ -1,0 +1,31 @@
+position,number,driver,constructor,laps,grid,status,points
+1,5,Nigel Mansell,Williams,60,1,Finished,10
+2,6,Riccardo Patrese,Williams,60,2,Finished,6
+3,1,Ayrton Senna,McLaren,60,3,Finished,4
+4,20,Martin Brundle,Benetton,60,6,Finished,3
+5,9,Michele Alboreto,Footwork,59,9,+1 Lap,2
+6,22,Pierluigi Martini,Dallara,59,15,+1 Lap,1
+7,33,Maurício Gugelmin,Jordan,58,16,+2 Laps,0
+8,3,Olivier Grouillard,Tyrrell,58,20,+2 Laps,0
+9,26,Érik Comas,Ligier,58,13,+2 Laps,0
+10,10,Aguri Suzuki,Footwork,58,11,+2 Laps,0
+11,21,Jyrki Järvilehto,Dallara,57,16,Engine,0
+12,16,Karl Wendlinger,March,57,12,+3 Laps,0
+13,17,Paul Belmondo,March,57,24,+3 Laps,0
+14,4,Andrea de Cesaris,Tyrrell,55,14,Fuel system,0
+15,30,Ukyo Katayama,Larrousse,40,17,Spun off,0
+16,27,Jean Alesi,Ferrari,39,7,Collision,0
+17,2,Gerhard Berger,McLaren,39,4,Collision,0
+18,29,Bertrand Gachot,Larrousse,32,19,Spun off,0
+19,25,Thierry Boutsen,Ligier,29,10,Engine,0
+20,32,Stefano Modena,Jordan,25,23,Gearbox,0
+21,24,Gianni Morbidelli,Minardi,24,21,Engine,0
+22,15,Gabriele Tarquini,Fondmetal,24,22,Engine,0
+23,19,Michael Schumacher,Benetton,20,5,Spun off,0
+24,28,Ivan Capelli,Ferrari,11,8,Spun off,0
+25,23,Christian Fittipaldi,Minardi,8,25,Gearbox,0
+26,12,Johnny Herbert,Team Lotus,8,26,Gearbox,0
+27,11,Mika Häkkinen,Team Lotus,0,0,Did not qualify,0
+28,14,Andrea Chiesa,Fondmetal,0,0,Did not qualify,0
+29,8,Damon Hill,Brabham,0,0,Did not qualify,0
+30,7,Eric van de Poele,Brabham,0,0,Did not qualify,0

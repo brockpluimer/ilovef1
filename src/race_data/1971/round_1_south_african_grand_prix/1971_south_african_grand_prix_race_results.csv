@@ -1,0 +1,26 @@
+position,number,driver,constructor,laps,grid,status,points
+1,6,Mario Andretti,Ferrari,79,4,Finished,9
+2,9,Jackie Stewart,Tyrrell,79,1,Finished,6
+3,5,Clay Regazzoni,Ferrari,79,3,Finished,4
+4,3,Reine Wisell,Lotus-Ford,79,14,Finished,3
+5,19,Chris Amon,Matra,78,2,+1 Lap,2
+6,11,Denny Hulme,McLaren,78,7,+1 Lap,1
+7,28,Brian Redman,Surtees,78,17,+1 Lap,0
+8,4,Jacky Ickx,Ferrari,78,8,+1 Lap,0
+9,14,Graham Hill,Brabham,77,19,+2 Laps,0
+10,7,Ronnie Peterson,March-Ford,77,13,+2 Laps,0
+11,22,Henri Pescarolo,March-Ford,77,18,+2 Laps,0
+12,21,Rolf Stommelen,Surtees,77,15,+2 Laps,0
+13,8,Andrea de Adamich,March-Alfa Romeo,75,22,+4 Laps,0
+14,2,Emerson Fittipaldi,Lotus-Ford,58,5,Engine,0
+15,20,John Surtees,Surtees,56,6,Gearbox,0
+16,10,François Cevert,Tyrrell,45,9,Accident,0
+17,27,Howden Ganley,BRM,42,24,Physical,0
+18,16,Pedro Rodríguez,BRM,33,10,Overheating,0
+19,15,Dave Charlton,Brabham,31,16,Engine,0
+20,17,Jo Siffert,BRM,31,12,Overheating,0
+21,24,John Love,March-Ford,30,21,Differential,0
+22,25,Jackie Pretorius,Brabham,22,20,Engine,0
+23,12,Peter Gethin,McLaren,7,11,Fuel leak,0
+24,23,Jo Bonnier,McLaren,5,23,Suspension,0
+25,26,Alex Soler-Roig,March-Ford,5,25,Engine,0

@@ -1,0 +1,24 @@
+position,number,driver,constructor,laps,grid,status,points
+1,8,Carlos Pace,Brabham,40,6,Finished,9
+2,1,Emerson Fittipaldi,McLaren,40,2,Finished,6
+3,2,Jochen Mass,McLaren,40,10,Finished,4
+4,11,Clay Regazzoni,Ferrari,40,5,Finished,3
+5,12,Niki Lauda,Ferrari,40,4,Finished,2
+6,24,James Hunt,Hesketh,40,7,Finished,1
+7,27,Mario Andretti,Parnelli,40,18,Finished,0
+8,7,Carlos Reutemann,Brabham,40,3,Finished,0
+9,6,Jacky Ickx,Team Lotus,40,12,Finished,0
+10,18,John Watson,Surtees,40,13,Finished,0
+11,21,Jacques Laffite,Williams,39,11,+1 Lap,0
+12,22,Graham Hill,Lola,39,20,+1 Lap,0
+13,30,Wilson Fittipaldi,Fittipaldi,39,21,+1 Lap,0
+14,23,Rolf Stommelen,Lola,39,23,+1 Lap,0
+15,5,Ronnie Peterson,Team Lotus,38,16,+2 Laps,0
+16,17,Jean-Pierre Jarier,Shadow-Ford,32,1,Fuel system,0
+17,4,Patrick Depailler,Tyrrell,31,9,Suspension,0
+18,16,Tom Pryce,Shadow-Ford,31,14,Accident,0
+19,20,Arturo Merzario,Williams,24,11,Fuel system,0
+20,28,Mark Donohue,Penske,22,15,Handling,0
+21,14,Mike Wilds,BRM,22,22,Electrical,0
+22,3,Jody Scheckter,Tyrrell,18,8,Oil leak,0
+23,9,Vittorio Brambilla,March,1,17,Engine,0

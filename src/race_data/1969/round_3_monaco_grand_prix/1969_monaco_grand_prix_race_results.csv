@@ -1,0 +1,17 @@
+position,number,driver,constructor,laps,grid,status,points
+1,1,Graham Hill,Lotus-Ford,80,4,Finished,9
+2,16,Piers Courage,Brabham-Ford,80,9,Finished,6
+3,9,Jo Siffert,Lotus-Ford,80,5,Finished,4
+4,2,Richard Attwood,Lotus-Ford,80,10,Finished,3
+5,4,Bruce McLaren,McLaren-Ford,79,11,+1 Lap,2
+6,3,Denny Hulme,McLaren-Ford,78,12,+2 Laps,1
+7,12,Vic Elford,Cooper-Maserati,74,16,+6 Laps,0
+8,6,Jacky Ickx,Brabham-Ford,48,7,Suspension,0
+9,7,Jackie Stewart,Matra-Ford,22,1,Halfshaft,0
+10,8,Jean-Pierre Beltoise,Matra-Ford,20,3,Halfshaft,0
+11,11,Chris Amon,Ferrari,16,2,Differential,0
+12,10,Pedro Rodríguez,BRM,15,14,Engine,0
+13,17,Silvio Moser,Brabham-Ford,15,15,Halfshaft,0
+14,14,John Surtees,BRM,9,6,Gearbox,0
+15,5,Jack Brabham,Brabham-Ford,9,8,Accident,0
+16,15,Jackie Oliver,BRM,0,13,Accident,0

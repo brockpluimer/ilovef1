@@ -1,0 +1,27 @@
+position,number,driver,constructor,laps,grid,status,points
+1,6,Nelson Piquet,Williams,44,4,Finished,9
+2,2,Stefan Johansson,McLaren,44,8,Finished,6
+3,12,Ayrton Senna,Team Lotus,43,2,+1 Lap,4
+4,4,Philippe Streiff,Tyrrell,43,22,+1 Lap,3
+5,3,Jonathan Palmer,Tyrrell,43,23,+1 Lap,2
+6,30,Philippe Alliot,Larrousse,42,21,+2 Laps,1
+7,1,Alain Prost,McLaren,39,3,Electrical,0
+8,9,Martin Brundle,Zakspeed,34,19,Not classified,0
+9,26,Piercarlo Ghinzani,Ligier,32,17,Engine,0
+10,23,Adrián Campos,Minardi,28,18,Engine,0
+11,20,Thierry Boutsen,Benetton,26,6,Engine,0
+12,5,Nigel Mansell,Williams,25,1,Engine,0
+13,24,Alessandro Nannini,Minardi,25,16,Engine,0
+14,17,Derek Warwick,Arrows,23,13,Turbo,0
+15,10,Christian Danner,Zakspeed,21,20,Halfshaft,0
+16,28,Gerhard Berger,Ferrari,19,10,Turbo,0
+17,19,Teo Fabi,Benetton,18,9,Engine,0
+18,21,Alex Caffi,Osella,17,26,Engine,0
+19,8,Andrea de Cesaris,Brabham,12,7,Engine,0
+20,27,Michele Alboreto,Ferrari,10,5,Turbo,0
+21,14,Pascal Fabre,AGS,10,25,Engine,0
+22,18,Eddie Cheever,Arrows,9,15,Throttle,0
+23,11,Satoru Nakajima,Team Lotus,9,14,Turbo,0
+24,16,Ivan Capelli,March,7,24,Engine,0
+25,25,René Arnoux,Ligier,6,12,Ignition,0
+26,7,Riccardo Patrese,Brabham,5,11,Ignition,0

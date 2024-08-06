@@ -1,0 +1,24 @@
+position,number,driver,constructor,laps,grid,status,points
+1,5,Jochen Rindt,Team Lotus,80,1,Finished,9
+2,17,Jack Brabham,Brabham,80,2,Finished,6
+3,9,Denny Hulme,McLaren-Ford,80,5,Finished,4
+4,4,Clay Regazzoni,Ferrari,80,6,Finished,3
+5,16,Chris Amon,March,79,17,+1 Lap,2
+6,14,Graham Hill,Team Lotus,79,22,+1 Lap,1
+7,2,François Cevert,March,79,14,+1 Lap,0
+8,28,Emerson Fittipaldi,Team Lotus,78,21,+2 Laps,0
+9,27,Ronnie Peterson,March,72,13,+8 Laps,0
+10,29,Pete Lovely,Team Lotus,69,23,Not classified,0
+11,32,Dan Gurney,McLaren-Ford,60,11,Oil pressure,0
+12,22,Pedro Rodríguez,BRM,58,15,Accident,0
+13,23,Jackie Oliver,BRM,54,4,Engine,0
+14,1,Jackie Stewart,March,52,8,Clutch,0
+15,20,John Surtees,Surtees,51,19,Oil pressure,0
+16,8,Henri Pescarolo,Matra,41,12,Accident,0
+17,7,Jean-Pierre Beltoise,Matra,24,10,Wheel,0
+18,26,Mario Andretti,March,21,9,Suspension,0
+19,15,Jo Siffert,March,19,20,Suspension,0
+20,6,John Miles,Team Lotus,15,7,Engine,0
+21,24,George Eaton,BRM,10,16,Oil pressure,0
+22,3,Jacky Ickx,Ferrari,6,3,Transmission,0
+23,11,Andrea de Adamich,McLaren-Alfa Romeo,0,18,Fuel leak,0

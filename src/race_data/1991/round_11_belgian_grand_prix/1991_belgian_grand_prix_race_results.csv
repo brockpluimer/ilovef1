@@ -1,0 +1,31 @@
+position,number,driver,constructor,laps,grid,status,points
+1,1,Ayrton Senna,McLaren,44,1,Finished,10
+2,2,Gerhard Berger,McLaren,44,4,Finished,6
+3,20,Nelson Piquet,Benetton,44,6,Finished,4
+4,19,Roberto Moreno,Benetton,44,8,Finished,3
+5,6,Riccardo Patrese,Williams,44,17,Finished,2
+6,8,Mark Blundell,Brabham,44,13,Finished,1
+7,12,Johnny Herbert,Team Lotus,44,21,Finished,0
+8,21,Emanuele Pirro,Dallara,43,25,+1 Lap,0
+9,7,Martin Brundle,Brabham,43,16,+1 Lap,0
+10,14,Olivier Grouillard,Fondmetal,43,23,+1 Lap,0
+11,25,Thierry Boutsen,Ligier,43,18,+1 Lap,0
+12,23,Pierluigi Martini,Minardi,42,9,Gearbox,0
+13,33,Andrea de Cesaris,Jordan,41,11,Engine,0
+14,4,Stefano Modena,Tyrrell,33,10,Oil leak,0
+15,22,Jyrki Järvilehto,Dallara,33,14,Oil pressure,0
+16,28,Jean Alesi,Ferrari,30,5,Engine,0
+17,24,Gianni Morbidelli,Minardi,29,19,Gearbox,0
+18,11,Mika Häkkinen,Team Lotus,25,24,Engine,0
+19,26,Érik Comas,Ligier,25,26,Engine,0
+20,5,Nigel Mansell,Williams,22,3,Electrical,0
+21,29,Éric Bernard,Lola,21,20,Gearbox,0
+22,16,Ivan Capelli,Leyton House,13,12,Engine,0
+23,3,Satoru Nakajima,Tyrrell,7,22,Spun off,0
+24,27,Alain Prost,Ferrari,2,2,Fuel leak,0
+25,15,Maurício Gugelmin,Leyton House,1,15,Engine,0
+26,32,Michael Schumacher,Jordan,0,7,Clutch,0
+27,30,Aguri Suzuki,Lola,0,0,Did not qualify,0
+28,34,Nicola Larini,Lambo,0,0,Did not qualify,0
+29,10,Alex Caffi,Footwork,0,0,Did not qualify,0
+30,35,Eric van de Poele,Lambo,0,0,Did not qualify,0

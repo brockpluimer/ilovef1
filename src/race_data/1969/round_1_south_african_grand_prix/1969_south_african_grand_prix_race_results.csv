@@ -1,0 +1,19 @@
+position,number,driver,constructor,laps,grid,status,points
+1,7,Jackie Stewart,Matra-Ford,80,4,Finished,9
+2,1,Graham Hill,Lotus-Ford,80,7,Finished,6
+3,5,Denny Hulme,McLaren-Ford,80,3,Finished,4
+4,4,Jo Siffert,Lotus-Ford,80,12,Finished,3
+5,6,Bruce McLaren,McLaren-Ford,79,8,+1 Lap,2
+6,8,Jean-Pierre Beltoise,Matra-Ford,78,11,+2 Laps,1
+7,11,Jackie Oliver,BRM,77,14,+3 Laps,0
+8,17,Sam Tingle,Brabham-Repco,73,17,+7 Laps,0
+9,19,Peter de Klerk,Brabham-Repco,67,16,Not classified,0
+10,2,Jochen Rindt,Lotus-Ford,44,2,Fuel pump,0
+11,10,John Surtees,BRM,40,18,Engine,0
+12,12,Pedro Rodríguez,BRM,38,15,Water leak,0
+13,9,Chris Amon,Ferrari,34,5,Engine,0
+14,14,Jack Brabham,Brabham-Ford,32,1,Handling,0
+15,3,Mario Andretti,Lotus-Ford,31,6,Gearbox,0
+16,16,John Love,Lotus-Ford,31,10,Ignition,0
+17,15,Jacky Ickx,Brabham-Ford,20,13,Ignition,0
+18,18,Basil van Rooyen,McLaren-Ford,12,9,Brakes,0

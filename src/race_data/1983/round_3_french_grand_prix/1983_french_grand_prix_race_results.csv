@@ -1,0 +1,30 @@
+position,number,driver,constructor,laps,grid,status,points
+1,15,Alain Prost,Renault,54,1,Finished,9
+2,5,Nelson Piquet,Brabham,54,6,Finished,6
+3,16,Eddie Cheever,Renault,54,2,Finished,4
+4,27,Patrick Tambay,Ferrari,54,11,Finished,3
+5,1,Keke Rosberg,Williams,53,16,+1 Lap,2
+6,2,Jacques Laffite,Williams,53,19,+1 Lap,1
+7,28,René Arnoux,Ferrari,53,4,+1 Lap,0
+8,3,Michele Alboreto,Tyrrell,53,15,+1 Lap,0
+9,25,Jean-Pierre Jarier,Ligier,53,20,+1 Lap,0
+10,29,Marc Surer,Arrows,53,21,+1 Lap,0
+11,34,Johnny Cecotto,Theodore,52,17,+2 Laps,0
+12,22,Andrea de Cesaris,Alfa Romeo,50,7,+4 Laps,0
+13,36,Bruno Giacomelli,Toleman,49,13,Gearbox,0
+14,26,Raul Boesel,Ligier,47,25,Engine,0
+15,31,Corrado Fabi,Osella,36,23,Engine,0
+16,9,Manfred Winkelhock,ATS,36,10,Turbo,0
+17,8,Niki Lauda,McLaren,29,12,Wheel bearing,0
+18,23,Mauro Baldi,Alfa Romeo,28,8,Spun off,0
+19,30,Chico Serra,Arrows,26,26,Gearbox,0
+20,33,Roberto Guerrero,Theodore,23,22,Engine,0
+21,4,Danny Sullivan,Tyrrell,21,24,Clutch,0
+22,11,Elio de Angelis,Team Lotus,20,5,Electrical,0
+23,6,Riccardo Patrese,Brabham,19,3,Water leak,0
+24,35,Derek Warwick,Toleman,14,9,Engine,0
+25,12,Nigel Mansell,Team Lotus,6,18,Physical,0
+26,7,John Watson,McLaren,3,14,Engine,0
+27,17,Eliseo Salazar,RAM,0,0,Did not qualify,0
+28,32,Piercarlo Ghinzani,Osella,0,0,Did not qualify,0
+29,18,Jean-Louis Schlesser,RAM,0,0,Did not qualify,0

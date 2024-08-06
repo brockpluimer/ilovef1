@@ -1,0 +1,24 @@
+position,number,driver,constructor,laps,grid,status,points
+1,11,Niki Lauda,Ferrari,78,3,Finished,9
+2,20,Jody Scheckter,Wolf,78,5,Finished,6
+3,4,Patrick Depailler,Tyrrell,78,4,Finished,4
+4,1,James Hunt,McLaren,78,1,Finished,3
+5,2,Jochen Mass,McLaren,78,12,Finished,2
+6,7,John Watson,Brabham,78,11,Finished,1
+7,19,Vittorio Brambilla,Surtees,78,14,Finished,0
+8,12,Carlos Reutemann,Ferrari,78,8,Finished,0
+9,22,Clay Regazzoni,Ensign,78,16,Finished,0
+10,28,Emerson Fittipaldi,Fittipaldi,78,9,Finished,0
+11,18,Hans Binder,Surtees,77,19,+1 Lap,0
+12,6,Gunnar Nilsson,Team Lotus,77,10,+1 Lap,0
+13,8,Carlos Pace,Brabham,76,2,+2 Laps,0
+14,30,Brett Lunger,March,76,23,+2 Laps,0
+15,14,Larry Perkins,BRM,73,22,+5 Laps,0
+16,9,Alex Ribeiro,March,66,17,Engine,0
+17,10,Hans-Joachim Stuck,March,55,18,Engine,0
+18,5,Mario Andretti,Team Lotus,43,6,Accident,0
+19,33,Boy Lunger,March,33,21,Gearbox,0
+20,26,Jacques Laffite,Ligier,22,12,Accident,0
+21,16,Tom Pryce,Shadow,22,15,Accident,0
+22,17,Renzo Zorzi,Shadow,21,20,Fuel leak,0
+23,3,Ronnie Peterson,Tyrrell,5,7,Fuel system,0

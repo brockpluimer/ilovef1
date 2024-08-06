@@ -1,0 +1,28 @@
+position,number,driver,constructor,laps,grid,status,points
+1,5,Alberto Ascari,Ferrari,90,1,Finished,8.5
+2,23,Juan Fangio,Maserati,90,4,Finished,6
+3,6,Nino Farina,Ferrari,88,5,+2 Laps,4
+4,24,José Froilán González,Maserati,88,2,+2 Laps,3.5
+5,8,Mike Hawthorn,Ferrari,87,3,+3 Laps,2
+6,25,Felice Bonetto,Maserati,82,16,+8 Laps,0
+7,10,Prince Bira,Connaught,82,19,+8 Laps,0
+8,16,Ken Wharton,Cooper,80,11,+10 Laps,0
+9,20,Peter Whitehead,Cooper,79,14,+11 Laps,0
+10,9,Louis Rosier,Ferrari,78,24,+12 Laps,0
+11,18,Jimmy Stewart,Cooper,79,15,Spun off,0
+12,14,Tony Rolt,Connaught,70,10,Halfshaft,0
+13,7,Luigi Villoresi,Ferrari,65,6,Axle,0
+14,26,Onofre Marimón,Maserati,65,7,Engine,0
+15,19,Alan Brown,Cooper,56,21,Overheating,0
+16,2,Peter Collins,HWM,56,23,Spun off,0
+17,4,Jack Fairman,HWM,54,27,Clutch,0
+18,12,Roy Salvadori,Connaught,50,28,Wheel,0
+19,31,Toulo de Graffenried,Maserati,34,26,Clutch,0
+20,1,Lance Macklin,HWM,31,12,Clutch,0
+21,30,Jean Behra,Gordini,30,22,Fuel pump,0
+22,15,Ian Stewart,Connaught,24,20,Ignition,0
+23,29,Maurice Trintignant,Gordini,14,8,Axle,0
+24,3,Duncan Hamilton,HWM,14,17,Clutch,0
+25,28,Harry Schell,Gordini,5,9,Electrical,0
+26,11,Kenneth McAlpine,Connaught,0,13,Retired,0
+27,22,Tony Crook,Cooper,0,25,Fuel system,0

@@ -1,0 +1,19 @@
+position,number,driver,constructor,Q1,Q2,Q3
+1,6,Nico Rosberg,Mercedes,1:10.347,1:10.303,1:10.023
+2,44,Lewis Hamilton,Mercedes,1:10.457,1:10.712,1:10.056
+3,19,Felipe Massa,Williams,1:10.602,1:10.343,1:10.247
+4,77,Valtteri Bottas,Williams,1:10.832,1:10.421,1:10.305
+5,22,Jenson Button,McLaren,1:11.097,1:11.127,1:10.930
+6,1,Sebastian Vettel,Red Bull,1:11.880,1:11.129,1:10.938
+7,20,Kevin Magnussen,McLaren,1:11.134,1:11.211,1:10.969
+8,14,Fernando Alonso,Ferrari,1:11.558,1:11.215,1:10.977
+9,3,Daniel Ricciardo,Red Bull,1:11.593,1:11.208,1:11.075
+10,7,Kimi Räikkönen,Ferrari,1:11.193,1:11.188,1:11.099
+11,21,Esteban Gutiérrez,Sauber,1:11.520,1:11.591,
+12,27,Nico Hülkenberg,Force India,1:11.848,1:11.976,
+13,99,Adrian Sutil,Sauber,1:11.943,1:12.099,
+14,26,Daniil Kvyat,Toro Rosso,1:11.423,,
+15,8,Romain Grosjean,Lotus F1,1:12.037,,
+16,25,Jean-Éric Vergne,Toro Rosso,1:12.040,,
+17,11,Sergio Pérez,Force India,1:12.076,,
+18,13,Pastor Maldonado,Lotus F1,1:12.233,,

@@ -1,0 +1,31 @@
+position,number,driver,constructor,laps,grid,status,points
+1,1,Alain Prost,Ferrari,80,4,Finished,9
+2,16,Ivan Capelli,Leyton House,80,7,Finished,6
+3,27,Ayrton Senna,McLaren,80,3,Finished,4
+4,20,Nelson Piquet,Benetton,80,9,Finished,3
+5,28,Gerhard Berger,McLaren,80,2,Finished,2
+6,6,Riccardo Patrese,Williams,80,6,Finished,1
+7,30,Aguri Suzuki,Larrousse,79,14,+1 Lap,0
+8,29,Éric Bernard,Larrousse,79,11,+1 Lap,0
+9,26,Philippe Alliot,Ligier,79,12,+1 Lap,0
+10,9,Michele Alboreto,Arrows,79,18,+1 Lap,0
+11,11,Derek Warwick,Team Lotus,79,16,+1 Lap,0
+12,12,Martin Donnelly,Team Lotus,79,17,+1 Lap,0
+13,8,Stefano Modena,Brabham,78,20,+2 Laps,0
+14,25,Nicola Larini,Ligier,78,19,+2 Laps,0
+15,7,David Brabham,Brabham,77,25,+3 Laps,0
+16,19,Alessandro Nannini,Benetton,75,5,Electrical,0
+17,18,Yannick Dalmas,AGS,75,26,+5 Laps,0
+18,2,Nigel Mansell,Ferrari,72,1,Engine,0
+19,22,Andrea de Cesaris,Dallara,78,21,Disqualified,0
+20,3,Satoru Nakajima,Tyrrell,63,15,Gearbox,0
+21,15,Maurício Gugelmin,Leyton House,58,10,Engine,0
+22,23,Pierluigi Martini,Minardi,40,23,Electrical,0
+23,4,Jean Alesi,Tyrrell,23,13,Differential,0
+24,10,Alex Caffi,Arrows,22,22,Suspension,0
+25,5,Thierry Boutsen,Williams,7,8,Engine,0
+26,21,Emanuele Pirro,Dallara,7,24,Brakes,0
+27,24,Paolo Barilla,Minardi,0,0,Did not qualify,0
+28,17,Gabriele Tarquini,AGS,0,0,Did not qualify,0
+29,35,Gregor Foitek,Onyx,0,0,Did not qualify,0
+30,36,Jyrki Järvilehto,Onyx,0,0,Did not qualify,0

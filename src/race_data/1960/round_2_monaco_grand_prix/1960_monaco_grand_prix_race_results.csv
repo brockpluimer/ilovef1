@@ -1,0 +1,25 @@
+position,number,driver,constructor,laps,grid,status,points
+1,28,Stirling Moss,Team Lotus,100,1,Finished,8
+2,10,Bruce McLaren,Cooper-Climax,100,11,Finished,6
+3,36,Phil Hill,Ferrari,100,10,Finished,4
+4,18,Tony Brooks,Cooper-Climax,99,3,+1 Lap,3
+5,2,Jo Bonnier,BRM,83,5,+17 Laps,2
+6,34,Richie Ginther,Ferrari,70,9,+30 Laps,1
+7,6,Graham Hill,BRM,66,6,Spun off,0
+8,38,Wolfgang von Trips,Ferrari,61,8,Clutch,0
+9,22,Innes Ireland,Team Lotus,56,7,+44 Laps,0
+10,4,Dan Gurney,BRM,44,14,Suspension,0
+11,8,Jack Brabham,Cooper-Climax,40,2,Disqualified,0
+12,14,Roy Salvadori,Cooper-Climax,29,12,Overheating,0
+13,24,Alan Stacey,Team Lotus,23,13,Chassis,0
+14,16,Chris Bristow,Cooper-Climax,17,4,Gearbox,0
+15,26,John Surtees,Team Lotus,17,15,Transmission,0
+16,44,Maurice Trintignant,Cooper-Maserati,4,16,Gearbox,0
+17,12,Bruce Halford,Cooper-Climax,0,0,Did not qualify,0
+18,32,Cliff Allison,Ferrari,0,0,Did not qualify,0
+19,20,Brian Naylor,JBW,0,0,Did not qualify,0
+20,40,Masten Gregory,Cooper-Maserati,0,0,Did not qualify,0
+21,46,Chuck Daigh,Scarab,0,0,Did not qualify,0
+22,30,Giorgio Scarlatti,Cooper-Castellotti,0,0,Did not qualify,0
+23,48,Lance Reventlow,Scarab,0,0,Did not qualify,0
+24,42,Ian Burgess,Cooper-Maserati,0,0,Did not qualify,0

@@ -1,0 +1,23 @@
+position,number,driver,constructor,laps,grid,status,points
+1,14,Jo Siffert,BRM,54,1,Finished,9
+2,2,Emerson Fittipaldi,Lotus-Ford,54,5,Finished,6
+3,8,Tim Schenken,Brabham,54,7,Finished,4
+4,3,Reine Wisell,Lotus-Ford,54,10,Finished,3
+5,7,Graham Hill,Brabham,54,8,Finished,2
+6,25,Henri Pescarolo,March-Ford,54,13,Finished,1
+7,24,Rolf Stommelen,Surtees,54,12,Finished,0
+8,17,Ronnie Peterson,March-Ford,53,11,+1 Lap,0
+9,10,Jackie Oliver,McLaren,53,22,+1 Lap,0
+10,23,Peter Gethin,BRM,52,16,+2 Laps,0
+11,16,Helmut Marko,BRM,52,17,+2 Laps,0
+12,19,Nanni Galli,March-Alfa Romeo,51,15,+3 Laps,0
+13,27,Mike Beuttler,March-Ford,47,19,Not classified,0
+14,12,François Cevert,Tyrrell,42,3,Engine,0
+15,11,Jackie Stewart,Tyrrell,35,2,Halfshaft,0
+16,4,Jacky Ickx,Ferrari,31,6,Engine,0
+17,26,Niki Lauda,March-Ford,20,21,Handling,0
+18,22,John Surtees,Surtees,12,18,Engine,0
+19,5,Clay Regazzoni,Ferrari,8,4,Engine,0
+20,15,Howden Ganley,BRM,5,14,Ignition,0
+21,9,Denny Hulme,McLaren,4,9,Engine,0
+22,28,Jo Bonnier,McLaren,0,20,Fuel leak,0

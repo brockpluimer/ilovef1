@@ -1,0 +1,25 @@
+position,number,driver,constructor,laps,grid,status,points
+1,10,David Coulthard,McLaren,58,4,Finished,10
+2,5,Michael Schumacher,Ferrari,58,3,Finished,6
+3,9,Mika Häkkinen,McLaren,58,6,Finished,4
+4,8,Gerhard Berger,Benetton,58,10,Finished,3
+5,14,Olivier Panis,Prost,58,9,Finished,2
+6,17,Nicola Larini,Sauber,58,13,Finished,1
+7,15,Shinji Nakano,Prost,56,16,+2 Laps,0
+8,4,Heinz-Harald Frentzen,Williams,55,2,Brakes,0
+9,21,Jarno Trulli,Minardi,55,17,+3 Laps,0
+10,2,Pedro Diniz,Arrows,54,22,+4 Laps,0
+11,22,Rubens Barrichello,Stewart,49,11,Engine,0
+12,19,Mika Salo,Tyrrell,42,18,Engine,0
+13,23,Jan Magnussen,Stewart,36,19,Suspension,0
+14,7,Jean Alesi,Benetton,34,8,Fuel,0
+15,20,Ukyo Katayama,Minardi,32,15,Electrical,0
+16,12,Giancarlo Fisichella,Jordan,14,14,Spun off,0
+17,18,Jos Verstappen,Tyrrell,2,21,Spun off,0
+18,11,Ralf Schumacher,Jordan,1,12,Gearbox,0
+19,3,Jacques Villeneuve,Williams,0,1,Collision,0
+20,6,Eddie Irvine,Ferrari,0,5,Collision,0
+21,16,Johnny Herbert,Sauber,0,7,Collision,0
+22,1,Damon Hill,Arrows,0,20,Throttle,0
+23,24,Vincenzo Sospiri,Lola,0,23,Did not qualify,0
+24,25,Ricardo Rosset,Lola,0,24,Did not qualify,0

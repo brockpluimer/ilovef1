@@ -1,0 +1,30 @@
+position,number,driver,constructor,laps,grid,status,points
+1,15,Alain Prost,Renault,67,3,Finished,9
+2,5,Nelson Piquet,Brabham,67,6,Finished,6
+3,27,Patrick Tambay,Ferrari,67,2,Finished,4
+4,12,Nigel Mansell,Team Lotus,67,18,Finished,3
+5,28,René Arnoux,Ferrari,67,1,Finished,2
+6,8,Niki Lauda,McLaren,66,15,+1 Lap,1
+7,23,Mauro Baldi,Alfa Romeo,66,11,+1 Lap,0
+8,22,Andrea de Cesaris,Alfa Romeo,66,9,+1 Lap,0
+9,7,John Watson,McLaren,66,24,+1 Lap,0
+10,25,Jean-Pierre Jarier,Ligier,65,25,+2 Laps,0
+11,1,Keke Rosberg,Williams,65,13,+2 Laps,0
+12,2,Jacques Laffite,Williams,65,20,+2 Laps,0
+13,3,Michele Alboreto,Tyrrell,65,16,+2 Laps,0
+14,4,Danny Sullivan,Tyrrell,65,23,+2 Laps,0
+15,30,Thierry Boutsen,Arrows,65,17,+2 Laps,0
+16,33,Roberto Guerrero,Theodore,64,21,+3 Laps,0
+17,29,Marc Surer,Arrows,64,19,+3 Laps,0
+18,9,Manfred Winkelhock,ATS,49,8,Engine,0
+19,26,Raul Boesel,Ligier,48,22,Suspension,0
+20,32,Piercarlo Ghinzani,Osella,46,26,Fuel system,0
+21,35,Derek Warwick,Toleman,27,10,Gearbox,0
+22,6,Riccardo Patrese,Brabham,9,5,Turbo,0
+23,40,Stefan Johansson,Spirit,5,15,Fuel system,0
+24,16,Eddie Cheever,Renault,3,7,Engine,0
+25,36,Bruno Giacomelli,Toleman,3,12,Turbo,0
+26,11,Elio de Angelis,Team Lotus,1,4,Turbo,0
+27,34,Johnny Cecotto,Theodore,0,0,Did not qualify,0
+28,31,Corrado Fabi,Osella,0,0,Did not qualify,0
+29,17,Kenny Acheson,RAM,0,0,Did not qualify,0

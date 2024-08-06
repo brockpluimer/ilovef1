@@ -1,0 +1,23 @@
+position,number,driver,constructor,laps,grid,status,points
+1,1,Mika Häkkinen,McLaren,71,1,Finished,10
+2,2,David Coulthard,McLaren,71,2,Finished,6
+3,4,Rubens Barrichello,Ferrari,71,3,Finished,4
+4,22,Jacques Villeneuve,BAR,70,7,+1 Lap,3
+5,10,Jenson Button,Williams,70,18,+1 Lap,2
+6,17,Mika Salo,Sauber,70,9,+1 Lap,1
+7,8,Johnny Herbert,Jaguar,70,16,+1 Lap,0
+8,20,Marc Gené,Minardi,70,20,+1 Lap,0
+9,16,Pedro Diniz,Sauber,70,11,+1 Lap,0
+10,12,Alexander Wurz,Benetton,70,14,+1 Lap,0
+11,7,Luciano Burti,Jaguar,69,21,+2 Laps,0
+12,21,Gastón Mazzacane,Minardi,68,22,+3 Laps,0
+13,23,Ricardo Zonta,BAR,58,6,Engine,0
+14,9,Ralf Schumacher,Williams,52,19,Brakes,0
+15,15,Nick Heidfeld,Prost,41,13,Collision,0
+16,14,Jean Alesi,Prost,41,17,Collision,0
+17,18,Pedro de la Rosa,Arrows,32,12,Gearbox,0
+18,19,Jos Verstappen,Arrows,14,10,Engine,0
+19,5,Heinz-Harald Frentzen,Jordan,4,15,Oil leak,0
+20,3,Michael Schumacher,Ferrari,0,4,Collision,0
+21,6,Jarno Trulli,Jordan,0,5,Collision,0
+22,11,Giancarlo Fisichella,Benetton,0,8,Collision,0

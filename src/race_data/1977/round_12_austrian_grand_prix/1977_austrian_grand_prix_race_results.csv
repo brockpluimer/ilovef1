@@ -1,0 +1,31 @@
+position,number,driver,constructor,laps,grid,status,points
+1,17,Alan Jones,Shadow,54,14,Finished,9
+2,11,Niki Lauda,Ferrari,54,1,Finished,6
+3,8,Hans-Joachim Stuck,Brabham,54,4,Finished,4
+4,12,Carlos Reutemann,Ferrari,54,5,Finished,3
+5,3,Ronnie Peterson,Tyrrell,54,15,Finished,2
+6,2,Jochen Mass,McLaren,53,9,+1 Lap,1
+7,24,Rupert Keegan,Hesketh,53,20,+1 Lap,0
+8,7,John Watson,Brabham,53,12,+1 Lap,0
+9,27,Patrick Nève,March,53,22,+1 Lap,0
+10,30,Brett Lunger,McLaren,53,17,+1 Lap,0
+11,28,Emerson Fittipaldi,Fittipaldi,53,23,+1 Lap,0
+12,33,Hans Binder,Penske,53,19,+1 Lap,0
+13,4,Patrick Depailler,Tyrrell,53,10,+1 Lap,0
+14,34,Jean-Pierre Jarier,Penske,52,18,+2 Laps,0
+15,19,Vittorio Brambilla,Surtees,52,13,+2 Laps,0
+16,18,Vern Schuppan,Surtees,52,25,+2 Laps,0
+17,36,Emilio de Villota,McLaren,50,26,Accident,0
+18,20,Jody Scheckter,Wolf,45,8,Spun off,0
+19,1,James Hunt,McLaren,43,2,Engine,0
+20,23,Patrick Tambay,Ensign,41,7,Engine,0
+21,6,Gunnar Nilsson,Team Lotus,38,16,Engine,0
+22,16,Arturo Merzario,Shadow,29,21,Gearbox,0
+23,26,Jacques Laffite,Ligier,21,6,Oil leak,0
+24,5,Mario Andretti,Team Lotus,11,3,Engine,0
+25,10,Ian Scheckter,March,2,24,Accident,0
+26,22,Clay Regazzoni,Ensign,0,11,Accident,0
+27,38,Brian Henton,March,0,0,Did not qualify,0
+28,39,Ian Ashley,Hesketh,0,0,Did not qualify,0
+29,25,Hector Rebaque,Hesketh,0,0,Did not qualify,0
+30,9,Alex Ribeiro,March,0,0,Did not qualify,0

@@ -1,0 +1,23 @@
+position,number,driver,constructor,laps,grid,status,points
+1,3,Jacques Villeneuve,Williams,59,1,Finished,10
+2,7,Jean Alesi,Benetton,59,11,Finished,6
+3,8,Alexander Wurz,Benetton,59,8,Finished,4
+4,10,David Coulthard,McLaren,59,6,Finished,3
+5,11,Ralf Schumacher,Jordan,59,5,Finished,2
+6,1,Damon Hill,Arrows,59,12,Finished,1
+7,12,Giancarlo Fisichella,Jordan,58,10,+1 Lap,0
+8,14,Jarno Trulli,Prost,58,13,+1 Lap,0
+9,17,Norberto Fontana,Sauber,58,14,+1 Lap,0
+10,21,Tarso Marques,Minardi,58,21,+1 Lap,0
+11,15,Shinji Nakano,Prost,57,15,Engine,0
+12,9,Mika Häkkinen,McLaren,52,3,Engine,0
+13,23,Jan Magnussen,Stewart,50,16,Engine,0
+14,18,Jos Verstappen,Tyrrell,45,20,Engine,0
+15,6,Eddie Irvine,Ferrari,44,7,Halfshaft,0
+16,19,Mika Salo,Tyrrell,44,18,Engine,0
+17,16,Johnny Herbert,Sauber,42,9,Electrical,0
+18,5,Michael Schumacher,Ferrari,38,4,Wheel,0
+19,22,Rubens Barrichello,Stewart,37,22,Engine,0
+20,2,Pedro Diniz,Arrows,29,17,Engine,0
+21,4,Heinz-Harald Frentzen,Williams,0,2,Collision,0
+22,20,Ukyo Katayama,Minardi,0,19,Spun off,0

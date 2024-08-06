@@ -1,0 +1,23 @@
+position,number,driver,constructor,laps,grid,status,points
+1,44,Lewis Hamilton,Mercedes,60,1,Finished,25
+2,1,Sebastian Vettel,Red Bull,60,4,Finished,18
+3,3,Daniel Ricciardo,Red Bull,60,3,Finished,15
+4,14,Fernando Alonso,Ferrari,60,5,Finished,12
+5,19,Felipe Massa,Williams,60,6,Finished,10
+6,25,Jean-Éric Vergne,Toro Rosso,60,12,Finished,8
+7,11,Sergio Pérez,Force India,60,15,Finished,6
+8,7,Kimi Räikkönen,Ferrari,60,7,Finished,4
+9,27,Nico Hülkenberg,Force India,60,13,Finished,2
+10,20,Kevin Magnussen,McLaren,60,9,Finished,1
+11,77,Valtteri Bottas,Williams,60,8,Finished,0
+12,13,Pastor Maldonado,Lotus F1,60,18,Finished,0
+13,8,Romain Grosjean,Lotus F1,60,16,Finished,0
+14,26,Daniil Kvyat,Toro Rosso,60,10,Finished,0
+15,9,Marcus Ericsson,Caterham,60,22,Finished,0
+16,17,Jules Bianchi,Marussia,60,19,Finished,0
+17,4,Max Chilton,Marussia,59,21,+1 Lap,0
+18,22,Jenson Button,McLaren,52,11,Retired,0
+19,99,Adrian Sutil,Sauber,40,17,Water pressure,0
+20,21,Esteban Gutiérrez,Sauber,17,14,Electrical,0
+21,6,Nico Rosberg,Mercedes,13,2,Electrical,0
+22,10,Kamui Kobayashi,Caterham,0,20,Power Unit,0

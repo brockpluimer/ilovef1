@@ -1,0 +1,28 @@
+position,number,driver,constructor,laps,grid,status,points
+1,12,Niki Lauda,Ferrari,75,1,Finished,9
+2,11,Clay Regazzoni,Ferrari,75,2,Finished,6
+3,5,Emerson Fittipaldi,McLaren,75,3,Finished,4
+4,33,Mike Hailwood,McLaren,75,4,Finished,3
+5,3,Jody Scheckter,Tyrrell,75,5,Finished,2
+6,4,Patrick Depailler,Tyrrell,75,8,Finished,1
+7,28,John Watson,Brabham,75,13,Finished,0
+8,1,Ronnie Peterson,Team Lotus,73,10,+2 Laps,0
+9,8,Rikky von Opel,Brabham,73,23,+2 Laps,0
+10,10,Vittorio Brambilla,March,72,15,+3 Laps,0
+11,2,Jacky Ickx,Team Lotus,71,18,+4 Laps,0
+12,7,Carlos Reutemann,Brabham,71,12,+4 Laps,0
+13,22,Vern Schuppan,Ensign,69,17,Disqualified,0
+14,6,Denny Hulme,McLaren,65,9,Ignition,0
+15,37,François Migault,BRM,60,25,Gearbox,0
+16,20,Arturo Merzario,Iso Marlboro,54,21,Gearbox,0
+17,27,Guy Edwards,Lola,36,14,Fuel system,0
+18,17,Jean-Pierre Jarier,Shadow,28,7,Clutch,0
+19,14,Jean-Pierre Beltoise,BRM,18,16,Gearbox,0
+20,26,Graham Hill,Lola,16,19,Gearbox,0
+21,15,Henri Pescarolo,BRM,15,24,Handling,0
+22,19,Jochen Mass,Surtees,8,20,Transmission,0
+23,24,James Hunt,Hesketh,2,6,Collision,0
+24,16,Tom Pryce,Shadow,0,11,Collision,0
+25,9,Hans-Joachim Stuck,March,0,22,Accident,0
+26,23,Tim Schenken,Trojan,0,0,Did not qualify,0
+27,21,Gijs van Lennep,Iso Marlboro,0,0,Did not qualify,0

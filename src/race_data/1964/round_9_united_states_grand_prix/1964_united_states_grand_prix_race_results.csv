@@ -1,0 +1,21 @@
+position,number,driver,constructor,laps,grid,status,points
+1,3,Graham Hill,BRM,110,4,Finished,9
+2,7,John Surtees,Ferrari,110,2,Finished,6
+3,22,Jo Siffert,Brabham-BRM,109,12,+1 Lap,4
+4,4,Richie Ginther,BRM,107,13,+3 Laps,3
+5,17,Walt Hansgen,Lotus-Climax,107,17,+3 Laps,2
+6,12,Trevor Taylor,BRP,106,15,+4 Laps,1
+7,1,Jim Clark,Lotus-Climax,102,1,Out of fuel,0
+8,14,Mike Hailwood,Lotus-BRM,101,15,Oil pipe,0
+9,6,Dan Gurney,Brabham-Climax,69,3,Oil pressure,0
+10,23,Hap Sharp,Brabham-BRM,65,18,Not classified,0
+11,8,Lorenzo Bandini,Ferrari,58,8,Engine,0
+12,2,Mike Spence,Lotus-Climax,54,1,Injection,0
+12,2,Jim Clark,Lotus-Climax,54,1,Injection,0
+13,25,Ronnie Bucknum,Honda,50,14,Overheating,0
+14,15,Chris Amon,Lotus-BRM,47,11,Engine,0
+15,16,Jo Bonnier,Brabham-Climax,37,9,Wheel,0
+16,9,Bruce McLaren,Cooper-Climax,27,5,Engine,0
+17,5,Jack Brabham,Brabham-Climax,14,7,Engine,0
+18,10,Phil Hill,Cooper-Climax,4,19,Ignition,0
+19,11,Innes Ireland,BRP,2,10,Gearbox,0

@@ -1,0 +1,26 @@
+position,number,driver,constructor,laps,grid,status,points
+1,2,Alain Prost,McLaren,61,6,Finished,9
+2,27,Michele Alboreto,Ferrari,61,1,Finished,6
+3,11,Elio de Angelis,Team Lotus,60,3,+1 Lap,4
+4,28,René Arnoux,Ferrari,59,7,+2 Laps,3
+5,15,Patrick Tambay,Renault,59,11,+2 Laps,2
+6,26,Jacques Laffite,Ligier,59,15,+2 Laps,1
+7,4,Stefan Johansson,Tyrrell,58,23,+3 Laps,0
+8,3,Martin Brundle,Tyrrell,58,21,+3 Laps,0
+9,10,Philippe Alliot,RAM,58,20,+3 Laps,0
+10,16,Derek Warwick,Renault,57,10,+4 Laps,0
+11,18,Thierry Boutsen,Arrows,57,12,+4 Laps,0
+12,24,Piercarlo Ghinzani,Osella,57,22,+4 Laps,0
+13,9,Manfred Winkelhock,RAM,57,16,+4 Laps,0
+14,17,Gerhard Berger,Arrows,51,19,Suspension,0
+15,12,Ayrton Senna,Team Lotus,48,4,Electrical,0
+16,23,Eddie Cheever,Alfa Romeo,42,18,Engine,0
+17,29,Pierluigi Martini,Minardi,41,25,Engine,0
+18,1,Niki Lauda,McLaren,27,9,Fuel system,0
+19,25,Andrea de Cesaris,Ligier,26,13,Accident,0
+20,22,Riccardo Patrese,Alfa Romeo,20,14,Puncture,0
+21,6,Keke Rosberg,Williams,10,2,Turbo,0
+22,8,François Hesnault,Brabham,9,17,Accident,0
+23,5,Nigel Mansell,Williams,8,5,Exhaust,0
+24,21,Mauro Baldi,Spirit,7,24,Turbo,0
+25,7,Nelson Piquet,Brabham,2,8,Transmission,0

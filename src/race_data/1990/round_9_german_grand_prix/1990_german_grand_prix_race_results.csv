@@ -1,0 +1,31 @@
+position,number,driver,constructor,laps,grid,status,points
+1,27,Ayrton Senna,McLaren,45,1,Finished,9
+2,19,Alessandro Nannini,Benetton,45,9,Finished,6
+3,28,Gerhard Berger,McLaren,45,2,Finished,4
+4,1,Alain Prost,Ferrari,45,3,Finished,3
+5,6,Riccardo Patrese,Williams,45,5,Finished,2
+6,5,Thierry Boutsen,Williams,45,6,Finished,1
+7,16,Ivan Capelli,Leyton House,44,10,+1 Lap,0
+8,11,Derek Warwick,Team Lotus,44,16,+1 Lap,0
+9,10,Alex Caffi,Arrows,44,18,+1 Lap,0
+10,25,Nicola Larini,Ligier,43,22,+2 Laps,0
+11,4,Jean Alesi,Tyrrell,40,8,Transmission,0
+12,36,Jyrki Järvilehto,Onyx,39,25,Not classified,0
+13,29,Éric Bernard,Larrousse,35,12,Fuel pump,0
+14,30,Aguri Suzuki,Larrousse,33,11,Clutch,0
+15,3,Satoru Nakajima,Tyrrell,24,13,Engine,0
+16,20,Nelson Piquet,Benetton,23,7,Engine,0
+17,23,Pierluigi Martini,Minardi,20,15,Engine,0
+18,35,Gregor Foitek,Onyx,19,26,Spun off,0
+19,2,Nigel Mansell,Ferrari,15,4,Broken wing,0
+20,15,Maurício Gugelmin,Leyton House,12,14,Engine,0
+21,7,David Brabham,Brabham,12,21,Engine,0
+22,9,Michele Alboreto,Arrows,10,19,Engine,0
+23,12,Martin Donnelly,Team Lotus,1,20,Clutch,0
+24,8,Stefano Modena,Brabham,0,17,Clutch,0
+25,21,Emanuele Pirro,Dallara,0,23,Collision,0
+26,26,Philippe Alliot,Ligier,0,24,Disqualified,0
+27,14,Olivier Grouillard,Osella,0,0,Did not qualify,0
+28,24,Paolo Barilla,Minardi,0,0,Did not qualify,0
+29,18,Yannick Dalmas,AGS,0,0,Did not qualify,0
+30,22,Andrea de Cesaris,Dallara,0,0,Did not qualify,0

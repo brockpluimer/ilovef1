@@ -1,0 +1,30 @@
+position,number,driver,constructor,laps,grid,status,points
+1,7,John Watson,McLaren,62,17,Finished,9
+2,25,Eddie Cheever,Ligier,62,9,Finished,6
+3,28,Didier Pironi,Ferrari,62,4,Finished,4
+4,6,Keke Rosberg,Williams,62,3,Finished,3
+5,5,Derek Daly,Williams,62,12,Finished,2
+6,26,Jacques Laffite,Ligier,61,13,+1 Lap,1
+7,17,Jochen Mass,March,61,18,+1 Lap,0
+8,29,Marc Surer,Arrows,61,19,+1 Lap,0
+9,4,Brian Henton,Tyrrell,60,20,+2 Laps,0
+10,16,René Arnoux,Renault,59,15,+3 Laps,0
+11,20,Chico Serra,Fittipaldi,59,26,+3 Laps,0
+12,15,Alain Prost,Renault,54,1,Not classified,0
+13,12,Nigel Mansell,Team Lotus,44,7,Engine,0
+14,8,Niki Lauda,McLaren,40,10,Collision,0
+15,3,Michele Alboreto,Tyrrell,40,16,Spun off,0
+16,23,Bruno Giacomelli,Alfa Romeo,30,6,Collision,0
+17,11,Elio de Angelis,Team Lotus,17,8,Gearbox,0
+18,10,Eliseo Salazar,ATS,13,25,Spun off,0
+19,14,Roberto Guerrero,Ensign,6,11,Collision,0
+20,2,Riccardo Patrese,Brabham,6,14,Collision,0
+21,22,Andrea de Cesaris,Alfa Romeo,2,2,Transmission,0
+22,31,Jean-Pierre Jarier,Osella,2,22,Ignition,0
+23,9,Manfred Winkelhock,ATS,1,5,Spun off,0
+24,18,Raul Boesel,March,0,21,Collision,0
+25,30,Mauro Baldi,Arrows,0,24,Collision,0
+26,32,Riccardo Paletti,Osella,0,23,Retired,0
+27,19,Emilio de Villota,March,0,0,Did not qualify,0
+28,1,Nelson Piquet,Brabham,0,0,Did not qualify,0
+29,33,Jan Lammers,Theodore,0,0,Did not qualify,0

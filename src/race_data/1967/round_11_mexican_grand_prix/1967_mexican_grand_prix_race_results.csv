@@ -1,0 +1,20 @@
+position,number,driver,constructor,laps,grid,status,points
+1,5,Jim Clark,Lotus-Ford,65,1,Finished,9
+2,1,Jack Brabham,Brabham-Repco,65,5,Finished,6
+3,2,Denny Hulme,Brabham-Repco,64,6,+1 Lap,4
+4,3,John Surtees,Honda,64,7,+1 Lap,3
+5,8,Mike Spence,BRM,63,11,+2 Laps,2
+6,21,Pedro Rodríguez,Cooper-Maserati,63,13,+2 Laps,1
+7,22,Jean-Pierre Beltoise,McLaren-Ford,63,14,+2 Laps,0
+8,12,Jonathan Williams,Ferrari,63,16,+2 Laps,0
+9,9,Chris Amon,Ferrari,62,2,Out of fuel,0
+10,16,Jo Bonnier,Cooper-Maserati,61,17,+4 Laps,0
+11,19,Guy Ligier,Brabham-Repco,41,19,+4 Laps,0
+12,15,Jo Siffert,Cooper-Maserati,59,10,Overheating,0
+13,14,Bruce McLaren,McLaren-BRM,45,8,Oil pressure,0
+14,17,Chris Irwin,BRM,33,15,Oil leak,0
+15,7,Jackie Stewart,BRM,24,12,Engine,0
+16,6,Graham Hill,Lotus-Ford,18,4,Halfshaft,0
+17,18,Moisés Solana,Lotus-BRM,12,9,Suspension,0
+18,11,Dan Gurney,Eagle-Climax,4,3,Radiator,0
+19,10,Mike Fisher,Lotus-BRM,0,10,Fuel system,0

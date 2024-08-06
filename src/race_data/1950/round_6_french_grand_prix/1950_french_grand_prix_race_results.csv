@@ -1,0 +1,21 @@
+position,number,driver,constructor,laps,grid,status,points
+1,6,Juan Fangio,Alfa Romeo,64,1,Finished,9
+2,4,Luigi Fagioli,Alfa Romeo,64,3,Finished,6
+3,14,Peter Whitehead,Ferrari,61,18,+3 Laps,4
+4,44,Robert Manzon,Simca,61,12,+3 Laps,3
+5,16,Philippe Étancelin,Talbot-Lago,59,4,+5 Laps,1
+5,16,Eugène Chaboud,Talbot-Lago,59,4,+5 Laps,1
+6,26,Charles Pozzi,Talbot-Lago,56,15,+8 Laps,0
+6,26,Louis Rosier,Talbot-Lago,56,15,+8 Laps,0
+7,2,Nino Farina,Alfa Romeo,55,2,Fuel pump,0
+8,18,Yves Cabantous,Talbot-Lago,52,5,+12 Laps,0
+9,22,Pierre Levegh,Talbot-Lago,36,9,Engine,0
+10,40,Felice Bonetto,Maserati,14,10,Engine,0
+11,42,Johnny Claes,Talbot-Lago,11,14,Overheating,0
+12,20,Louis Rosier,Talbot-Lago,10,6,Overheating,0
+13,32,Reg Parnell,Maserati,9,11,Engine,0
+14,28,Franco Rol,Maserati,6,7,Engine,0
+15,30,Louis Chiron,Maserati,6,13,Engine,0
+16,34,David Hampshire,Maserati,5,17,Engine,0
+17,12,Raymond Sommer,Talbot-Lago,4,16,Overheating,0
+18,36,José Froilán González,Maserati,3,8,Engine,0

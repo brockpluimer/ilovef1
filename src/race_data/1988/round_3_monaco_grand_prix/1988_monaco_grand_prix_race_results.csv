@@ -1,0 +1,31 @@
+position,number,driver,constructor,laps,grid,status,points
+1,11,Alain Prost,McLaren,78,2,Finished,9
+2,28,Gerhard Berger,Ferrari,78,3,Finished,6
+3,27,Michele Alboreto,Ferrari,78,4,Finished,4
+4,17,Derek Warwick,Arrows,77,7,+1 Lap,3
+5,3,Jonathan Palmer,Tyrrell,77,10,+1 Lap,2
+6,6,Riccardo Patrese,Williams,77,8,+1 Lap,1
+7,29,Yannick Dalmas,Larrousse,77,21,+1 Lap,0
+8,20,Thierry Boutsen,Benetton,76,16,+2 Laps,0
+9,21,Nicola Larini,Osella,75,25,+3 Laps,0
+10,16,Ivan Capelli,March,72,22,+6 Laps,0
+11,12,Ayrton Senna,McLaren,66,1,Spun off,0
+12,30,Philippe Alliot,Larrousse,50,13,Collision,0
+13,15,Maurício Gugelmin,March,45,14,Fuel system,0
+14,9,Piercarlo Ghinzani,Zakspeed,43,23,Gearbox,0
+15,19,Alessandro Nannini,Benetton,38,6,Gearbox,0
+16,24,Luis Pérez-Sala,Minardi,36,15,Halfshaft,0
+17,5,Nigel Mansell,Williams,32,5,Collision,0
+18,22,Andrea de Cesaris,Rial,28,19,Engine,0
+19,25,René Arnoux,Ligier,17,20,Engine,0
+20,32,Oscar Larrauri,Euro Brun,14,18,Brakes,0
+21,18,Eddie Cheever,Arrows,8,9,Engine,0
+22,26,Stefan Johansson,Ligier,6,26,Engine,0
+23,31,Gabriele Tarquini,Coloni,5,24,Suspension,0
+24,1,Nelson Piquet,Team Lotus,1,11,Collision,0
+25,36,Alex Caffi,Dallara,0,17,Spun off,0
+26,14,Philippe Streiff,AGS,0,12,Throttle,0
+27,2,Satoru Nakajima,Team Lotus,0,0,Did not qualify,0
+28,10,Bernd Schneider,Zakspeed,0,0,Did not qualify,0
+29,23,Adrián Campos,Minardi,0,0,Did not qualify,0
+30,4,Julian Bailey,Tyrrell,0,0,Did not qualify,0

@@ -1,0 +1,31 @@
+position,number,driver,constructor,laps,grid,status,points
+1,19,Alessandro Nannini,Benetton,53,6,Finished,9
+2,6,Riccardo Patrese,Williams,53,5,Finished,6
+3,5,Thierry Boutsen,Williams,53,7,Finished,4
+4,11,Nelson Piquet,Team Lotus,53,11,Finished,3
+5,7,Martin Brundle,Brabham,52,13,+1 Lap,2
+6,9,Derek Warwick,Arrows,52,25,+1 Lap,1
+7,15,Maurício Gugelmin,March,52,20,+1 Lap,0
+8,10,Eddie Cheever,Arrows,52,24,+1 Lap,0
+9,21,Alex Caffi,Dallara,52,15,+1 Lap,0
+10,22,Andrea de Cesaris,Dallara,51,16,+2 Laps,0
+11,1,Ayrton Senna,McLaren,53,1,Disqualified,0
+12,2,Alain Prost,McLaren,46,2,Collision,0
+13,8,Stefano Modena,Brabham,46,9,Engine,0
+14,27,Nigel Mansell,Ferrari,43,4,Engine,0
+15,12,Satoru Nakajima,Team Lotus,41,12,Engine,0
+16,4,Jean Alesi,Tyrrell,37,18,Gearbox,0
+17,30,Philippe Alliot,Larrousse,36,8,Engine,0
+18,28,Gerhard Berger,Ferrari,34,3,Gearbox,0
+19,20,Emanuele Pirro,Benetton,33,22,Collision,0
+20,26,Olivier Grouillard,Ligier,31,23,Engine,0
+21,16,Ivan Capelli,March,27,17,Suspension,0
+22,17,Nicola Larini,Osella,21,10,Brakes,0
+23,3,Jonathan Palmer,Tyrrell,20,26,Fuel leak,0
+24,34,Bernd Schneider,Zakspeed,1,21,Gearbox,0
+25,24,Luis Pérez-Sala,Minardi,0,14,Collision,0
+26,23,Paolo Barilla,Minardi,0,19,Clutch,0
+27,25,René Arnoux,Ligier,0,0,Did not qualify,0
+28,29,Michele Alboreto,Larrousse,0,0,Did not qualify,0
+29,38,Pierre-Henri Raphanel,Rial,0,0,Did not qualify,0
+30,39,Bertrand Gachot,Rial,0,0,Did not qualify,0

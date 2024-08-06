@@ -1,0 +1,28 @@
+position,number,driver,constructor,laps,grid,status,points
+1,24,Emerson Fittipaldi,Team Lotus,108,3,Finished,9
+2,19,Pedro Rodríguez,BRM,108,4,Finished,6
+3,23,Reine Wisell,Team Lotus,108,9,Finished,4
+4,3,Jacky Ickx,Ferrari,107,1,+1 Lap,3
+5,12,Chris Amon,March,107,5,+1 Lap,2
+6,18,Derek Bell,Surtees,107,13,+1 Lap,1
+7,8,Denny Hulme,McLaren-Ford,106,11,+2 Laps,0
+8,7,Henri Pescarolo,Matra,105,12,+3 Laps,0
+9,11,Jo Siffert,March,105,23,+3 Laps,0
+10,15,Jack Brabham,Brabham,105,16,+3 Laps,0
+11,29,Ronnie Peterson,March,104,15,+4 Laps,0
+12,16,Rolf Stommelen,Brabham,104,19,+4 Laps,0
+13,4,Clay Regazzoni,Ferrari,101,6,+7 Laps,0
+14,9,Peter Gethin,McLaren-Ford,100,21,+8 Laps,0
+15,1,Jackie Stewart,Tyrrell,82,2,Oil leak,0
+16,14,Graham Hill,Team Lotus,72,10,Clutch,0
+17,2,François Cevert,March,62,17,Wheel,0
+18,30,Tim Schenken,De Tomaso,61,20,Suspension,0
+19,27,Jo Bonnier,McLaren-Ford,50,24,Water pipe,0
+20,6,Jean-Pierre Beltoise,Matra,27,18,Handling,0
+21,31,Gus Hutchison,Brabham,21,22,Fuel leak,0
+22,20,Jackie Oliver,BRM,14,7,Engine,0
+23,21,George Eaton,BRM,10,14,Engine,0
+24,17,John Surtees,Surtees,6,8,Engine,0
+25,32,Peter Westbury,BRM,0,0,Did not qualify,0
+26,28,Pete Lovely,Team Lotus,0,0,Did not qualify,0
+27,10,Andrea de Adamich,McLaren-Alfa Romeo,0,0,Did not qualify,0

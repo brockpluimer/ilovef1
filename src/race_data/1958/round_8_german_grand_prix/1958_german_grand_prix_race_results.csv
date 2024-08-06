@@ -1,0 +1,27 @@
+position,number,driver,constructor,laps,grid,status,points
+1,8,Tony Brooks,Vanwall,15,2,Finished,8
+2,10,Roy Salvadori,Cooper,15,6,Finished,6
+3,11,Maurice Trintignant,Cooper,15,7,Finished,4
+4,4,Wolfgang von Trips,Ferrari,15,5,Finished,3
+5,20,Bruce McLaren,Cooper,15,12,Finished,0
+6,21,Edgar Barth,Porsche,15,13,Finished,0
+7,26,Ian Burgess,Cooper,15,11,Finished,0
+8,30,Tony Marsh,Cooper,15,14,Finished,0
+9,23,Phil Hill,Ferrari,15,10,Finished,0
+10,12,Cliff Allison,Team Lotus,13,24,+2 Laps,0
+11,28,Ivor Bueb,Team Lotus,13,16,+2 Laps,0
+12,3,Mike Hawthorn,Ferrari,11,1,Clutch,0
+13,2,Peter Collins,Ferrari,10,4,Accident,0
+14,22,Wolfgang Seidel,Cooper,9,17,Suspension,0
+15,6,Harry Schell,BRM,9,8,Brakes,0
+16,27,Christian Goethals,Cooper,4,23,Fuel pump,0
+17,25,Graham Hill,Team Lotus,4,22,Oil pipe,0
+18,5,Jean Behra,BRM,4,9,Suspension,0
+19,18,Carel Godin de Beaufort,Porsche,3,15,Engine,0
+20,17,Hans Herrmann,Maserati,3,20,Engine,0
+21,7,Stirling Moss,Vanwall,3,3,Magneto,1
+22,19,Dick Gibson,Cooper,2,18,Engine,0
+23,29,Brian Naylor,Cooper,1,25,Fuel pump,0
+24,24,Jack Brabham,Cooper,1,19,Collision,0
+25,16,Jo Bonnier,Maserati,1,21,Accident,0
+26,14,Troy Ruttman,Maserati,0,0,Engine,0

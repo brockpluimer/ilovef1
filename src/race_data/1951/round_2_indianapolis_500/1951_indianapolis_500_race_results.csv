@@ -1,0 +1,31 @@
+position,number,driver,constructor,laps,grid,status,points
+1,99,Lee Wallard,Kurtis Kraft,200,2,Finished,9
+2,83,Mike Nazaruk,Kurtis Kraft,200,7,Finished,6
+3,9,Jack McGrath,Kurtis Kraft,200,3,Finished,2
+3,9,Manny Ayulo,Kurtis Kraft,200,3,Finished,2
+4,57,Andy Linden,Sherman,200,31,Finished,3
+5,52,Bobby Ball,Schroeder,200,29,Finished,2
+6,1,Henry Banks,Moore,200,17,Finished,0
+7,68,Carl Forberg,Kurtis Kraft,193,24,+7 Laps,0
+8,27,Duane Carter,Deidt,180,4,+20 Laps,0
+9,5,Tony Bettenhausen,Deidt,178,9,Spun off,0
+10,18,Duke Nalon,Kurtis Kraft,151,1,Retired,0
+11,69,Gene Force,Kurtis Kraft,142,22,Engine,0
+12,25,Sam Hanks,Kurtis Kraft,135,12,Engine,0
+13,10,Bill Schindler,Kurtis Kraft,129,16,Engine,0
+14,16,Mauri Rose,Deidt,126,5,Accident,0
+15,2,Walt Faulkner,Kuzma,123,14,Engine,0
+16,76,Jimmy Davies,Pawl,110,27,Axle,0
+17,59,Fred Agabashian,Kurtis Kraft,109,11,Clutch,0
+18,73,Carl Scarborough,Kurtis Kraft,93,15,Heat shield fire,0
+19,71,Bill Mackey,Hall,97,33,Clutch,0
+20,8,Chuck Stevenson,Marchese,93,19,Heat shield fire,0
+21,3,Johnnie Parsons,Kurtis Kraft,87,8,Magneto,0
+22,4,Cecil Green,Kurtis Kraft,80,10,Engine,0
+23,98,Troy Ruttman,Kurtis Kraft,78,6,Engine,0
+24,6,Duke Dinsmore,Schroeder,73,32,Overheating,0
+25,32,Chet Miller,Kurtis Kraft,56,28,Ignition,0
+26,44,Walt Brown,Kurtis Kraft,55,13,Magneto,0
+27,48,Rodger Ward,Bromme,34,25,Oil pipe,0
+28,23,Cliff Griffith,Kurtis Kraft,30,18,Axle,0
+29,81,Bill Vukovich,Trevis,29,20,Oil leak,0

@@ -1,0 +1,23 @@
+position,number,driver,constructor,laps,grid,status,points
+1,1,Juan Fangio,Ferrari,22,1,Finished,9
+2,7,Stirling Moss,Maserati,22,4,Finished,6
+3,6,Jean Behra,Maserati,22,8,Finished,4
+4,20,Paco Godia,Maserati,20,16,+2 Laps,3
+5,15,Louis Rosier,Maserati,19,14,+3 Laps,2
+6,21,Bruce Halford,Maserati,20,11,Disqualified,0
+7,22,Ottorino Volonterio,Maserati,16,19,+6 Laps,0
+8,11,André Milhoux,Gordini,15,21,Engine,0
+9,5,Alfonso de Portago,Ferrari,14,10,Accident,0
+10,12,Harry Schell,Maserati,13,12,Overheating,0
+11,18,Luigi Villoresi,Maserati,13,20,Engine,0
+12,4,Luigi Musso,Ferrari,11,5,Accident,0
+13,2,Peter Collins,Ferrari,8,2,Fuel leak,0
+14,3,Eugenio Castellotti,Ferrari,5,3,Electrical,0
+15,8,Umberto Maglioli,Maserati,3,7,Steering,0
+16,19,Horace Gould,Maserati,3,13,Oil pressure,0
+17,16,Roy Salvadori,Maserati,2,9,Suspension,0
+18,10,Robert Manzon,Gordini,0,15,Suspension,0
+19,14,Giorgio Scarlatti,Ferrari,0,17,Engine,0
+20,8,Cesare Perdisa,Maserati,0,0,Withdrew,0
+21,11,André Pilette,Gordini,0,0,Withdrew,0
+22,18,Luigi Piotti,Maserati,0,0,Withdrew,0

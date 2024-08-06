@@ -1,0 +1,19 @@
+position,number,driver,constructor,laps,grid,status,points
+1,5,Bruce McLaren,McLaren-Ford,28,6,Finished,9
+2,11,Pedro Rodríguez,BRM,28,8,Finished,6
+3,23,Jacky Ickx,Ferrari,28,3,Finished,4
+4,7,Jackie Stewart,Matra-Ford,27,2,Out of fuel,3
+5,2,Jackie Oliver,Lotus-Ford,26,15,Transmission,2
+6,15,Lucien Bianchi,Cooper-BRM,26,12,+2 Laps,1
+7,3,Jo Siffert,Lotus-Ford,25,9,Oil pressure,0
+8,10,Jean-Pierre Beltoise,Matra,25,13,+3 Laps,0
+9,14,Piers Courage,BRM,22,7,Engine,0
+10,6,Denny Hulme,McLaren-Ford,18,5,Halfshaft,0
+11,20,John Surtees,Honda,11,4,Suspension,0
+12,22,Chris Amon,Ferrari,8,1,Radiator,0
+13,16,Brian Redman,Cooper-BRM,6,11,Spun off,0
+14,12,Richard Attwood,BRM,6,18,Oil pipe,0
+15,18,Jack Brabham,Brabham-Repco,6,10,Throttle,0
+16,1,Graham Hill,Lotus-Ford,5,14,Halfshaft,0
+17,19,Jochen Rindt,Brabham-Repco,5,17,Engine,0
+18,17,Jo Bonnier,McLaren-BRM,1,16,Wheel,0

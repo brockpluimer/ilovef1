@@ -1,0 +1,27 @@
+position,number,driver,constructor,laps,grid,status,points
+1,26,Jacques Laffite,Ligier,45,5,Finished,9
+2,28,Carlos Reutemann,Williams,45,4,Finished,6
+3,27,Alan Jones,Williams,45,1,Finished,4
+4,5,Nelson Piquet,Brabham,45,6,Finished,3
+5,23,Bruno Giacomelli,Alfa Romeo,45,19,Finished,2
+6,2,Gilles Villeneuve,Ferrari,45,16,Finished,1
+7,11,Mario Andretti,Team Lotus,45,9,Finished,0
+8,30,Jochen Mass,Arrows,45,17,Finished,0
+9,29,Riccardo Patrese,Arrows,44,10,+1 Lap,0
+10,4,Derek Daly,Tyrrell,44,22,+1 Lap,0
+11,8,Alain Prost,McLaren,44,14,+1 Lap,0
+12,9,Marc Surer,ATS,44,13,+1 Lap,0
+13,1,Jody Scheckter,Ferrari,44,21,+1 Lap,0
+14,14,Jan Lammers,Ensign,44,24,+1 Lap,0
+15,3,Jean-Pierre Jarier,Tyrrell,44,23,+1 Lap,0
+16,12,Elio de Angelis,Team Lotus,43,11,Wheel bearing,0
+17,7,John Watson,McLaren,39,20,Engine,0
+18,15,Jean-Pierre Jabouille,Renault,27,2,Engine,0
+19,16,René Arnoux,Renault,26,3,Engine,0
+20,31,Eddie Cheever,Osella,23,18,Gearbox,0
+21,25,Didier Pironi,Ligier,18,7,Transmission,0
+22,20,Emerson Fittipaldi,Fittipaldi,18,12,Brakes,0
+23,21,Keke Rosberg,Fittipaldi,8,8,Wheel bearing,0
+24,6,Hector Rebaque,Brabham,4,15,Gearbox,0
+25,50,Rupert Keegan,Williams,0,0,Did not qualify,0
+26,10,Harald Ertl,ATS,0,0,Did not qualify,0

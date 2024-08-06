@@ -1,0 +1,27 @@
+position,number,driver,constructor,laps,grid,status,points
+1,1,Alain Prost,McLaren,60,4,Finished,9
+2,6,Nelson Piquet,Williams,60,2,Finished,6
+3,20,Gerhard Berger,Benetton,59,9,+1 Lap,4
+4,28,Stefan Johansson,Ferrari,59,7,+1 Lap,3
+5,2,Keke Rosberg,McLaren,58,6,Out of fuel,2
+6,7,Riccardo Patrese,Brabham,58,16,Out of fuel,1
+7,18,Thierry Boutsen,Arrows,58,12,+2 Laps,0
+8,3,Martin Brundle,Tyrrell,58,13,+2 Laps,0
+9,17,Marc Surer,Arrows,57,15,+3 Laps,0
+10,27,Michele Alboreto,Ferrari,56,5,Turbo,0
+11,21,Piercarlo Ghinzani,Osella,52,26,Out of fuel,0
+12,25,René Arnoux,Ligier,46,8,Wheel,0
+13,4,Philippe Streiff,Tyrrell,41,22,Transmission,0
+14,19,Teo Fabi,Benetton,39,10,Engine,0
+15,14,Jonathan Palmer,Zakspeed,38,20,Brakes,0
+16,22,Christian Danner,Osella,31,25,Electrical,0
+17,15,Alan Jones,Lola,28,21,Overheating,0
+18,23,Andrea de Cesaris,Minardi,20,23,Engine,0
+19,8,Elio de Angelis,Brabham,19,19,Engine,0
+20,26,Jacques Laffite,Ligier,14,14,Transmission,0
+21,12,Ayrton Senna,Team Lotus,11,1,Wheel bearing,0
+22,5,Nigel Mansell,Williams,8,3,Engine,0
+23,11,Johnny Dumfries,Team Lotus,8,17,Wheel bearing,0
+24,29,Huub Rothengatter,Zakspeed,7,24,Turbo,0
+25,16,Patrick Tambay,Lola,5,11,Engine,0
+26,24,Alessandro Nannini,Minardi,0,18,Accident,0

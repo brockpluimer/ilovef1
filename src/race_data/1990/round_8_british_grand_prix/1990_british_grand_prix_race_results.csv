@@ -1,0 +1,31 @@
+position,number,driver,constructor,laps,grid,status,points
+1,1,Alain Prost,Ferrari,64,5,Finished,9
+2,5,Thierry Boutsen,Williams,64,4,Finished,6
+3,27,Ayrton Senna,McLaren,64,2,Finished,4
+4,29,Éric Bernard,Larrousse,64,8,Finished,3
+5,20,Nelson Piquet,Benetton,64,11,Finished,2
+6,30,Aguri Suzuki,Larrousse,63,9,+1 Lap,1
+7,10,Alex Caffi,Arrows,63,17,+1 Lap,0
+8,4,Jean Alesi,Tyrrell,63,6,+1 Lap,0
+9,8,Stefano Modena,Brabham,62,20,+2 Laps,0
+10,25,Nicola Larini,Ligier,62,21,+2 Laps,0
+11,21,Emanuele Pirro,Dallara,62,19,+2 Laps,0
+12,24,Paolo Barilla,Minardi,62,24,+2 Laps,0
+13,26,Philippe Alliot,Ligier,61,22,+3 Laps,0
+14,28,Gerhard Berger,McLaren,60,3,Throttle,0
+15,2,Nigel Mansell,Ferrari,55,1,Gearbox,0
+16,16,Ivan Capelli,Leyton House,48,10,Fuel leak,0
+17,12,Martin Donnelly,Team Lotus,48,14,Engine,0
+18,11,Derek Warwick,Team Lotus,46,16,Engine,0
+19,17,Gabriele Tarquini,AGS,41,26,Engine,0
+20,9,Michele Alboreto,Arrows,37,25,Engine,0
+21,6,Riccardo Patrese,Williams,26,7,Chassis,0
+22,3,Satoru Nakajima,Tyrrell,20,12,Electrical,0
+23,19,Alessandro Nannini,Benetton,15,13,Collision,0
+24,22,Andrea de Cesaris,Dallara,12,23,Fuel system,0
+25,23,Pierluigi Martini,Minardi,3,18,Alternator,0
+26,15,Maurício Gugelmin,Leyton House,0,15,Fuel pump,0
+27,14,Olivier Grouillard,Osella,0,0,Did not qualify,0
+28,7,David Brabham,Brabham,0,0,Did not qualify,0
+29,36,Jyrki Järvilehto,Onyx,0,0,Did not qualify,0
+30,35,Gregor Foitek,Onyx,0,0,Did not qualify,0

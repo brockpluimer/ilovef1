@@ -1,0 +1,29 @@
+position,number,driver,constructor,laps,grid,status,points
+1,6,Nelson Piquet,Williams,50,1,Finished,9
+2,12,Ayrton Senna,Team Lotus,50,4,Finished,6
+3,5,Nigel Mansell,Williams,50,2,Finished,4
+4,28,Gerhard Berger,Ferrari,50,3,Finished,3
+5,20,Thierry Boutsen,Benetton,50,6,Finished,2
+6,2,Stefan Johansson,McLaren,50,11,Finished,1
+7,19,Teo Fabi,Benetton,49,7,+1 Lap,0
+8,26,Piercarlo Ghinzani,Ligier,48,19,+2 Laps,0
+9,10,Christian Danner,Zakspeed,48,16,+2 Laps,0
+10,25,René Arnoux,Ligier,48,15,+2 Laps,0
+11,11,Satoru Nakajima,Team Lotus,47,14,+3 Laps,0
+12,4,Philippe Streiff,Tyrrell,47,24,+3 Laps,0
+13,16,Ivan Capelli,March,47,25,+3 Laps,0
+14,3,Jonathan Palmer,Tyrrell,47,22,+3 Laps,0
+15,1,Alain Prost,McLaren,46,5,+4 Laps,0
+16,24,Alessandro Nannini,Minardi,45,18,+5 Laps,0
+17,9,Martin Brundle,Zakspeed,43,17,Gearbox,0
+18,30,Philippe Alliot,Larrousse,37,23,Spun off,0
+19,23,Adrián Campos,Minardi,34,20,Engine,0
+20,18,Eddie Cheever,Arrows,27,13,Halfshaft,0
+21,22,Franco Forini,Osella,27,26,Turbo,0
+22,21,Alex Caffi,Osella,16,21,Suspension,0
+23,27,Michele Alboreto,Ferrari,13,8,Turbo,0
+24,17,Derek Warwick,Arrows,9,12,Electrical,0
+25,8,Andrea de Cesaris,Brabham,7,10,Suspension,0
+26,7,Riccardo Patrese,Brabham,5,9,Engine,0
+27,32,Nicola Larini,Coloni,0,0,Did not qualify,0
+28,14,Pascal Fabre,AGS,0,0,Did not qualify,0

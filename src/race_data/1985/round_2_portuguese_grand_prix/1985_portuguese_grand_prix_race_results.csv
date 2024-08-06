@@ -1,0 +1,27 @@
+position,number,driver,constructor,laps,grid,status,points
+1,12,Ayrton Senna,Team Lotus,67,1,Finished,9
+2,27,Michele Alboreto,Ferrari,67,5,Finished,6
+3,15,Patrick Tambay,Renault,66,12,+1 Lap,4
+4,11,Elio de Angelis,Team Lotus,66,4,+1 Lap,3
+5,5,Nigel Mansell,Williams,65,9,+2 Laps,2
+6,4,Stefan Bellof,Tyrrell,65,21,+2 Laps,1
+7,16,Derek Warwick,Renault,65,6,+2 Laps,0
+8,28,Stefan Johansson,Ferrari,62,11,+5 Laps,0
+9,24,Piercarlo Ghinzani,Osella,61,26,+6 Laps,0
+10,9,Manfred Winkelhock,RAM,50,15,Not classified,0
+11,1,Niki Lauda,McLaren,49,7,Engine,0
+12,23,Eddie Cheever,Alfa Romeo,36,14,Engine,0
+13,2,Alain Prost,McLaren,30,2,Spun off,0
+14,25,Andrea de Cesaris,Ligier,29,8,Tyre,0
+15,7,Nelson Piquet,Brabham,28,16,Tyre,0
+16,18,Thierry Boutsen,Arrows,28,10,Electrical,0
+17,3,Martin Brundle,Tyrrell,20,22,Transmission,0
+18,21,Mauro Baldi,Spirit,19,29,Spun off,0
+19,6,Keke Rosberg,Williams,16,3,Spun off,0
+20,26,Jacques Laffite,Ligier,15,18,Tyre,0
+21,17,Gerhard Berger,Arrows,12,17,Spun off,0
+22,29,Pierluigi Martini,Minardi,12,25,Spun off,0
+23,22,Riccardo Patrese,Alfa Romeo,4,13,Spun off,0
+24,10,Philippe Alliot,RAM,3,20,Spun off,0
+25,8,François Hesnault,Brabham,3,19,Electrical,0
+26,30,Jonathan Palmer,Zakspeed,2,23,Suspension,0

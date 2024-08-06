@@ -1,0 +1,25 @@
+position,number,driver,constructor,laps,grid,status,points
+1,4,Lewis Hamilton,McLaren,53,1,Finished,25
+2,15,Sergio Pérez,Sauber,53,12,Finished,18
+3,5,Fernando Alonso,Ferrari,53,10,Finished,15
+4,6,Felipe Massa,Ferrari,53,3,Finished,12
+5,9,Kimi Räikkönen,Lotus F1,53,7,Finished,10
+6,7,Michael Schumacher,Mercedes,53,4,Finished,8
+7,8,Nico Rosberg,Mercedes,53,6,Finished,6
+8,11,Paul di Resta,Force India,53,9,Finished,4
+9,14,Kamui Kobayashi,Sauber,53,8,Finished,2
+10,19,Bruno Senna,Williams,53,13,Finished,1
+11,18,Pastor Maldonado,Williams,53,22,Finished,0
+12,16,Daniel Ricciardo,Toro Rosso,53,14,Finished,0
+13,10,Jérôme d'Ambrosio,Lotus F1,53,15,Finished,0
+14,20,Heikki Kovalainen,Caterham,52,17,+1 Lap,0
+15,21,Vitaly Petrov,Caterham,52,18,+1 Lap,0
+16,25,Charles Pic,Marussia,52,20,+1 Lap,0
+17,24,Timo Glock,Marussia,52,19,+1 Lap,0
+18,22,Pedro de la Rosa,HRT,52,23,+1 Lap,0
+19,23,Narain Karthikeyan,HRT,52,21,+1 Lap,0
+20,2,Mark Webber,Red Bull,51,11,Vibrations,0
+21,12,Nico Hülkenberg,Force India,50,24,Brakes,0
+22,1,Sebastian Vettel,Red Bull,47,5,Alternator,0
+23,3,Jenson Button,McLaren,32,2,Fuel pressure,0
+24,17,Jean-Éric Vergne,Toro Rosso,8,16,Suspension,0

@@ -1,0 +1,31 @@
+position,number,driver,constructor,laps,grid,status,points
+1,11,Alain Prost,McLaren,82,2,Finished,9
+2,12,Ayrton Senna,McLaren,82,1,Finished,6
+3,1,Nelson Piquet,Team Lotus,82,5,Finished,4
+4,6,Riccardo Patrese,Williams,82,6,Finished,3
+5,20,Thierry Boutsen,Benetton,81,10,+1 Lap,2
+6,16,Ivan Capelli,March,81,9,+1 Lap,1
+7,23,Pierluigi Martini,Minardi,80,14,+2 Laps,0
+8,22,Andrea de Cesaris,Rial,77,15,Out of fuel,0
+9,26,Stefan Johansson,Ligier,76,22,Out of fuel,0
+10,30,Philippe Alliot,Larrousse,75,24,Out of fuel,0
+11,14,Philippe Streiff,AGS,73,16,Electrical,0
+12,9,Piercarlo Ghinzani,Zakspeed,69,26,Fuel system,0
+13,5,Nigel Mansell,Williams,65,3,Spun off,0
+14,19,Alessandro Nannini,Benetton,63,8,Spun off,0
+15,33,Stefano Modena,Euro Brun,63,20,Halfshaft,0
+16,17,Derek Warwick,Arrows,52,7,Engine,0
+17,18,Eddie Cheever,Arrows,51,18,Engine,0
+18,15,Maurício Gugelmin,March,46,19,Collision,0
+19,2,Satoru Nakajima,Team Lotus,45,13,Collision,0
+20,24,Luis Pérez-Sala,Minardi,41,21,Engine,0
+21,36,Alex Caffi,Dallara,32,11,Clutch,0
+22,28,Gerhard Berger,Ferrari,25,4,Collision,0
+23,25,René Arnoux,Ligier,24,23,Collision,0
+24,3,Jonathan Palmer,Tyrrell,16,17,Transmission,0
+25,32,Oscar Larrauri,Euro Brun,12,25,Halfshaft,0
+26,27,Michele Alboreto,Ferrari,0,12,Collision,0
+27,31,Gabriele Tarquini,Coloni,0,0,Did not qualify,0
+28,4,Julian Bailey,Tyrrell,0,0,Did not qualify,0
+29,29,Pierre-Henri Raphanel,Larrousse,0,0,Did not qualify,0
+30,10,Bernd Schneider,Zakspeed,0,0,Did not qualify,0

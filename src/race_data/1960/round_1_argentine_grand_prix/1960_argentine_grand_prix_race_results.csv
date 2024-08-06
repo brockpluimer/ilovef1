@@ -1,0 +1,24 @@
+position,number,driver,constructor,laps,grid,status,points
+1,16,Bruce McLaren,Cooper-Climax,80,13,Finished,8
+2,24,Cliff Allison,Ferrari,80,7,Finished,6
+3,38,Stirling Moss,Cooper-Climax,80,8,Finished,0
+3,38,Maurice Trintignant,Cooper-Climax,80,8,Finished,0
+4,6,Carlos Menditeguy,Cooper-Maserati,80,12,Finished,3
+5,30,Wolfgang von Trips,Ferrari,79,5,+1 Lap,2
+6,20,Innes Ireland,Team Lotus,79,2,+1 Lap,1
+7,40,Jo Bonnier,BRM,79,4,+1 Lap,0
+8,26,Phil Hill,Ferrari,77,6,+3 Laps,0
+9,46,Alberto Rodriguez Larreta,Team Lotus,77,15,+3 Laps,0
+10,32,José Froilán González,Ferrari,77,11,+3 Laps,0
+11,4,Roberto Bonomi,Cooper-Maserati,76,17,+4 Laps,0
+12,2,Masten Gregory,Behra-Porsche,76,16,+4 Laps,0
+13,14,Gino Munaron,Maserati,72,19,+8 Laps,0
+14,10,Nasif Estéfano,Maserati,70,20,+10 Laps,0
+15,34,Harry Schell,Cooper-Climax,63,9,Fuel pump,0
+16,18,Jack Brabham,Cooper-Climax,42,10,Gearbox,0
+17,36,Stirling Moss,Cooper-Climax,40,1,Suspension,0
+18,42,Graham Hill,BRM,37,3,Overheating,0
+19,22,Alan Stacey,Team Lotus,24,14,Physical,0
+20,44,Ettore Chimeri,Maserati,23,21,Physical,0
+21,12,Antonio Creus,Maserati,16,22,Physical,0
+22,8,Giorgio Scarlatti,Maserati,11,18,Overheating,0

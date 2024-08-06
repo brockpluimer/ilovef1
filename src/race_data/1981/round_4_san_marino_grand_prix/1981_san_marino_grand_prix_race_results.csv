@@ -1,0 +1,31 @@
+position,number,driver,constructor,laps,grid,status,points
+1,5,Nelson Piquet,Brabham,60,5,Finished,9
+2,29,Riccardo Patrese,Arrows,60,9,Finished,6
+3,2,Carlos Reutemann,Williams,60,2,Finished,4
+4,6,Hector Rebaque,Brabham,60,13,Finished,3
+5,28,Didier Pironi,Ferrari,60,6,Finished,2
+6,8,Andrea de Cesaris,McLaren,60,14,Finished,1
+7,27,Gilles Villeneuve,Ferrari,60,1,Finished,0
+8,16,René Arnoux,Renault,59,3,+1 Lap,0
+9,14,Marc Surer,Ensign,59,21,+1 Lap,0
+10,7,John Watson,McLaren,58,7,+2 Laps,0
+11,33,Patrick Tambay,Theodore,58,16,+2 Laps,0
+12,1,Alan Jones,Williams,58,8,+2 Laps,0
+13,10,Slim Borgudd,ATS,57,24,+3 Laps,0
+14,25,Jean-Pierre Jabouille,Ligier,45,18,Not classified,0
+15,17,Eliseo Salazar,March,38,23,Spun off,0
+16,4,Michele Alboreto,Tyrrell,31,17,Collision,0
+17,32,Beppe Gabbiani,Osella,31,20,Collision,0
+18,23,Bruno Giacomelli,Alfa Romeo,28,11,Collision,0
+19,3,Eddie Cheever,Tyrrell,28,19,Collision,0
+20,22,Mario Andretti,Alfa Romeo,26,12,Gearbox,0
+21,20,Keke Rosberg,Fittipaldi,14,15,Engine,0
+22,26,Jacques Laffite,Ligier,7,10,Suspension,0
+23,15,Alain Prost,Renault,3,4,Gearbox,0
+24,31,Miguel Ángel Guerra,Osella,0,22,Accident,0
+25,30,Siegfried Stohr,Arrows,0,0,Did not qualify,0
+26,18,Derek Daly,March,0,0,Did not qualify,0
+27,9,Jan Lammers,ATS,0,0,Retired,0
+28,21,Chico Serra,Fittipaldi,0,0,Did not qualify,0
+29,36,Derek Warwick,Toleman,0,0,Did not qualify,0
+30,35,Brian Henton,Toleman,0,0,Did not qualify,0

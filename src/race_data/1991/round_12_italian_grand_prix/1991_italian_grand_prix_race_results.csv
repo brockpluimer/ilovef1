@@ -1,0 +1,31 @@
+position,number,driver,constructor,laps,grid,status,points
+1,5,Nigel Mansell,Williams,53,2,Finished,10
+2,1,Ayrton Senna,McLaren,53,1,Finished,6
+3,27,Alain Prost,Ferrari,53,5,Finished,4
+4,2,Gerhard Berger,McLaren,53,3,Finished,3
+5,19,Michael Schumacher,Benetton,53,7,Finished,2
+6,20,Nelson Piquet,Benetton,53,8,Finished,1
+7,33,Andrea de Cesaris,Jordan,53,14,Finished,0
+8,16,Ivan Capelli,Leyton House,53,12,Finished,0
+9,24,Gianni Morbidelli,Minardi,52,17,+1 Lap,0
+10,21,Emanuele Pirro,Dallara,52,16,+1 Lap,0
+11,26,Érik Comas,Ligier,52,22,+1 Lap,0
+12,8,Mark Blundell,Brabham,52,11,+1 Lap,0
+13,7,Martin Brundle,Brabham,52,19,+1 Lap,0
+14,11,Mika Häkkinen,Team Lotus,49,25,+4 Laps,0
+15,15,Maurício Gugelmin,Leyton House,49,18,+4 Laps,0
+16,34,Nicola Larini,Lambo,48,23,+5 Laps,0
+17,14,Olivier Grouillard,Fondmetal,46,26,Engine,0
+18,22,Jyrki Järvilehto,Dallara,35,20,Overheating,0
+19,4,Stefano Modena,Tyrrell,32,13,Engine,0
+20,28,Jean Alesi,Ferrari,29,6,Engine,0
+21,6,Riccardo Patrese,Williams,27,4,Gearbox,0
+22,3,Satoru Nakajima,Tyrrell,24,15,Throttle,0
+23,29,Éric Bernard,Lola,21,24,Engine,0
+24,23,Pierluigi Martini,Minardi,8,10,Spun off,0
+25,32,Roberto Moreno,Jordan,2,9,Spun off,0
+26,25,Thierry Boutsen,Ligier,1,21,Spun off,0
+27,9,Michele Alboreto,Footwork,0,0,Did not qualify,0
+28,12,Michael Bartels,Team Lotus,0,0,Did not qualify,0
+29,35,Eric van de Poele,Lambo,0,0,Did not qualify,0
+30,30,Aguri Suzuki,Lola,0,0,Did not qualify,0

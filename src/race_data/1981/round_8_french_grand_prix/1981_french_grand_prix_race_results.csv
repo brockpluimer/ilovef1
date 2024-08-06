@@ -1,0 +1,30 @@
+position,number,driver,constructor,laps,grid,status,points
+1,15,Alain Prost,Renault,80,3,Finished,9
+2,7,John Watson,McLaren,80,2,Finished,6
+3,5,Nelson Piquet,Brabham,80,4,Finished,4
+4,16,René Arnoux,Renault,80,1,Finished,3
+5,28,Didier Pironi,Ferrari,79,14,+1 Lap,2
+6,11,Elio de Angelis,Team Lotus,79,8,+1 Lap,1
+7,12,Nigel Mansell,Team Lotus,79,13,+1 Lap,0
+8,22,Mario Andretti,Alfa Romeo,79,10,+1 Lap,0
+9,6,Hector Rebaque,Brabham,78,15,+2 Laps,0
+10,2,Carlos Reutemann,Williams,78,7,+2 Laps,0
+11,8,Andrea de Cesaris,McLaren,78,5,+2 Laps,0
+12,33,Marc Surer,Theodore,78,21,+2 Laps,0
+13,3,Eddie Cheever,Tyrrell,77,19,+3 Laps,0
+14,29,Riccardo Patrese,Arrows,77,18,+3 Laps,0
+15,23,Bruno Giacomelli,Alfa Romeo,77,12,+3 Laps,0
+16,4,Michele Alboreto,Tyrrell,77,23,+3 Laps,0
+17,1,Alan Jones,Williams,76,9,Collision,0
+18,26,Jacques Laffite,Ligier,57,6,Suspension,0
+19,17,Derek Daly,March,55,20,Engine,0
+20,27,Gilles Villeneuve,Ferrari,41,11,Electrical,0
+21,25,Patrick Tambay,Ligier,30,16,Wheel bearing,0
+22,20,Keke Rosberg,Fittipaldi,11,17,Suspension,0
+23,14,Eliseo Salazar,Ensign,6,22,Suspension,0
+24,21,Chico Serra,Fittipaldi,0,24,Withdrew,0
+25,30,Siegfried Stohr,Arrows,0,0,Did not qualify,0
+26,35,Brian Henton,Toleman,0,0,Did not qualify,0
+27,9,Slim Borgudd,ATS,0,0,Did not qualify,0
+28,31,Beppe Gabbiani,Osella,0,0,Did not qualify,0
+29,36,Derek Warwick,Toleman,0,0,Did not qualify,0

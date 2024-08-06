@@ -1,0 +1,28 @@
+position,number,driver,constructor,laps,grid,status,points
+1,11,Carlos Reutemann,Ferrari,59,2,Finished,9
+2,27,Alan Jones,Williams,59,3,Finished,6
+3,20,Jody Scheckter,Wolf,59,11,Finished,4
+4,15,Jean-Pierre Jabouille,Renault,59,9,Finished,3
+5,14,Emerson Fittipaldi,Fittipaldi,59,13,Finished,2
+6,8,Patrick Tambay,McLaren,59,18,Finished,1
+7,7,James Hunt,McLaren,58,6,+1 Lap,0
+8,22,Derek Daly,Ensign,58,19,+1 Lap,0
+9,18,René Arnoux,Martini,58,21,+1 Lap,0
+10,3,Didier Pironi,Tyrrell,58,16,+1 Lap,0
+11,26,Jacques Laffite,Ligier,58,10,+1 Lap,0
+12,21,Bobby Rahal,Wolf,58,20,+1 Lap,0
+13,23,Brett Lunger,Ensign,58,24,+1 Lap,0
+14,17,Clay Regazzoni,Shadow,56,17,+3 Laps,0
+15,55,Jean-Pierre Jarier,Team Lotus,55,8,Out of fuel,0
+16,36,Rolf Stommelen,Arrows,54,22,+5 Laps,0
+17,37,Arturo Merzario,Merzario,46,26,Gearbox,0
+18,9,Michael Bleekemolen,ATS,43,25,Oil leak,0
+19,1,Niki Lauda,Brabham,28,5,Engine,0
+20,5,Mario Andretti,Team Lotus,27,1,Engine,0
+21,2,John Watson,Brabham,25,7,Engine,0
+22,4,Patrick Depailler,Tyrrell,23,12,Wheel,0
+23,12,Gilles Villeneuve,Ferrari,22,4,Engine,0
+24,10,Keke Rosberg,ATS,21,15,Transmission,0
+25,16,Hans-Joachim Stuck,Shadow,1,14,Fuel system,0
+26,25,Hector Rebaque,Team Lotus,0,23,Clutch,0
+27,19,Beppe Gabbiani,Surtees,0,0,Did not qualify,0

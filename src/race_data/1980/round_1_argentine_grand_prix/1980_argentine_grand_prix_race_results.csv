@@ -1,0 +1,29 @@
+position,number,driver,constructor,laps,grid,status,points
+1,27,Alan Jones,Williams,53,1,Finished,9
+2,5,Nelson Piquet,Brabham,53,4,Finished,6
+3,21,Keke Rosberg,Fittipaldi,53,13,Finished,4
+4,4,Derek Daly,Tyrrell,53,22,Finished,3
+5,23,Bruno Giacomelli,Alfa Romeo,52,20,+1 Lap,2
+6,8,Alain Prost,McLaren,52,12,+1 Lap,1
+7,6,Ricardo Zunino,Brabham,51,16,+2 Laps,0
+8,22,Patrick Depailler,Alfa Romeo,46,23,Engine,0
+9,1,Jody Scheckter,Ferrari,45,11,Engine,0
+10,14,Clay Regazzoni,Ensign,44,15,Not classified,0
+11,20,Emerson Fittipaldi,Fittipaldi,37,24,Not classified,0
+12,2,Gilles Villeneuve,Ferrari,36,8,Accident,0
+13,26,Jacques Laffite,Ligier,30,2,Engine,0
+14,29,Riccardo Patrese,Arrows,27,7,Engine,0
+15,9,Marc Surer,ATS,27,21,Heat shield fire,0
+16,11,Mario Andretti,Team Lotus,20,6,Fuel system,0
+17,30,Jochen Mass,Arrows,20,14,Gearbox,0
+18,28,Carlos Reutemann,Williams,12,10,Engine,0
+19,12,Elio de Angelis,Team Lotus,7,5,Suspension,0
+20,7,John Watson,McLaren,5,17,Gearbox,0
+21,15,Jean-Pierre Jabouille,Renault,3,9,Gearbox,0
+22,16,René Arnoux,Renault,2,19,Suspension,0
+23,25,Didier Pironi,Ligier,1,3,Engine,0
+24,3,Jean-Pierre Jarier,Tyrrell,1,18,Collision,0
+25,18,Dave Kennedy,Shadow,0,0,Did not qualify,0
+26,17,Stefan Johansson,Shadow,0,0,Did not qualify,0
+27,10,Jan Lammers,ATS,0,0,Did not qualify,0
+28,31,Eddie Cheever,Osella,0,0,Did not qualify,0

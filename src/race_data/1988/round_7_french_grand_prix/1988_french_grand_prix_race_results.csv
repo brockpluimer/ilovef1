@@ -1,0 +1,31 @@
+position,number,driver,constructor,laps,grid,status,points
+1,11,Alain Prost,McLaren,80,1,Finished,9
+2,12,Ayrton Senna,McLaren,80,2,Finished,6
+3,27,Michele Alboreto,Ferrari,80,4,Finished,4
+4,28,Gerhard Berger,Ferrari,79,3,+1 Lap,3
+5,1,Nelson Piquet,Team Lotus,79,7,+1 Lap,2
+6,19,Alessandro Nannini,Benetton,79,6,+1 Lap,1
+7,2,Satoru Nakajima,Team Lotus,79,8,+1 Lap,0
+8,15,Maurício Gugelmin,March,79,16,+1 Lap,0
+9,16,Ivan Capelli,March,79,10,+1 Lap,0
+10,22,Andrea de Cesaris,Rial,78,12,+2 Laps,0
+11,18,Eddie Cheever,Arrows,78,13,+2 Laps,0
+12,36,Alex Caffi,Dallara,78,14,+2 Laps,0
+13,29,Yannick Dalmas,Larrousse,78,19,+2 Laps,0
+14,33,Stefano Modena,Euro Brun,77,20,+3 Laps,0
+15,23,Pierluigi Martini,Minardi,77,22,+3 Laps,0
+16,24,Luis Pérez-Sala,Minardi,70,25,Not classified,0
+17,32,Oscar Larrauri,Euro Brun,64,26,Clutch,0
+18,21,Nicola Larini,Osella,56,24,Halfshaft,0
+19,10,Bernd Schneider,Zakspeed,55,21,Gearbox,0
+20,5,Nigel Mansell,Williams,48,9,Suspension,0
+21,30,Philippe Alliot,Larrousse,46,18,Electrical,0
+22,3,Jonathan Palmer,Tyrrell,40,23,Engine,0
+23,6,Riccardo Patrese,Williams,35,15,Brakes,0
+24,20,Thierry Boutsen,Benetton,28,5,Engine,0
+25,14,Philippe Streiff,AGS,20,17,Fuel leak,0
+26,17,Derek Warwick,Arrows,11,11,Spun off,0
+27,25,René Arnoux,Ligier,0,0,Did not qualify,0
+28,4,Julian Bailey,Tyrrell,0,0,Did not qualify,0
+29,26,Stefan Johansson,Ligier,0,0,Did not qualify,0
+30,31,Gabriele Tarquini,Coloni,0,0,Did not prequalify,0

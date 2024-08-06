@@ -1,0 +1,25 @@
+position,number,driver,constructor,laps,grid,status,points
+1,10,Jochen Rindt,Team Lotus,80,1,Finished,9
+2,5,Jackie Stewart,March,80,2,Finished,6
+3,25,Jacky Ickx,Ferrari,79,3,+1 Lap,4
+4,26,Clay Regazzoni,Ferrari,79,6,+1 Lap,3
+5,23,Jean-Pierre Beltoise,Matra,79,10,+1 Lap,2
+6,16,John Surtees,McLaren-Ford,79,14,+1 Lap,1
+7,12,John Miles,Team Lotus,78,8,+2 Laps,0
+8,24,Henri Pescarolo,Matra,78,13,+2 Laps,0
+9,22,Ronnie Peterson,March,78,16,+2 Laps,0
+10,1,Pedro Rodríguez,BRM,77,7,+3 Laps,0
+11,18,Jack Brabham,Brabham,76,12,+4 Laps,0
+12,15,Graham Hill,Team Lotus,71,20,Not classified,0
+13,6,François Cevert,March,31,15,Engine,0
+14,3,George Eaton,BRM,26,18,Oil leak,0
+15,2,Jackie Oliver,BRM,23,5,Engine,0
+16,4,Piers Courage,De Tomaso,22,9,Accident,0
+17,9,Jo Siffert,March,22,17,Engine,0
+18,20,Peter Gethin,McLaren-Ford,18,11,Accident,0
+19,32,Dan Gurney,McLaren-Ford,2,19,Engine,0
+20,8,Chris Amon,March,1,4,Clutch,0
+21,21,Andrea de Adamich,McLaren-Alfa Romeo,0,0,Did not qualify,0
+22,19,Rolf Stommelen,Brabham,0,0,Did not qualify,0
+23,31,Pete Lovely,Team Lotus,0,0,Did not qualify,0
+24,29,Silvio Moser,Bellasi,0,0,Did not qualify,0

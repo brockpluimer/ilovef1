@@ -1,0 +1,31 @@
+position,number,driver,constructor,laps,grid,status,points
+1,11,James Hunt,McLaren,75,1,Finished,9
+2,1,Niki Lauda,Ferrari,75,2,Finished,6
+3,6,Gunnar Nilsson,Team Lotus,75,7,Finished,4
+4,7,Carlos Reutemann,Brabham-Alfa Romeo,74,12,+1 Lap,3
+5,22,Chris Amon,Ensign,74,10,+1 Lap,2
+6,8,Carlos Pace,Brabham-Alfa Romeo,74,11,+1 Lap,1
+7,20,Jacky Ickx,Wolf,74,21,+1 Lap,0
+8,16,Tom Pryce,Shadow,74,22,+1 Lap,0
+9,19,Alan Jones,Surtees,74,20,+1 Lap,0
+10,21,Michel Leclère,Wolf,73,23,+2 Laps,0
+11,2,Clay Regazzoni,Ferrari,72,5,+3 Laps,0
+12,26,Jacques Laffite,Ligier,72,8,+3 Laps,0
+13,37,Larry Perkins,Boro,72,24,+3 Laps,0
+14,12,Jochen Mass,McLaren,65,4,Engine,0
+15,17,Jean-Pierre Jarier,Shadow,61,15,Electrical,0
+16,3,Jody Scheckter,Tyrrell,53,14,Engine,0
+17,28,John Watson,Penske,51,13,Engine,0
+18,35,Arturo Merzario,March,36,18,Gearbox,0
+19,5,Mario Andretti,Team Lotus,34,9,Gearbox,0
+20,4,Patrick Depailler,Tyrrell,25,3,Accident,0
+21,9,Vittorio Brambilla,March,21,6,Suspension,0
+22,34,Hans-Joachim Stuck,March,16,17,Gearbox,0
+23,10,Ronnie Peterson,March,11,16,Transmission,0
+24,30,Emerson Fittipaldi,Fittipaldi,3,19,Transmission,0
+25,18,Brett Lunger,Surtees,0,0,Did not qualify,0
+26,32,Loris Kessel,Brabham-Ford,0,0,Did not qualify,0
+27,25,Emilio Zapico,Williams,0,0,Did not qualify,0
+28,33,Emilio de Villota,Brabham-Ford,0,0,Did not qualify,0
+29,24,Harald Ertl,Hesketh,0,0,Did not qualify,0
+30,31,Ingo Hoffmann,Fittipaldi,0,0,Did not qualify,0

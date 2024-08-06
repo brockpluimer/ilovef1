@@ -1,0 +1,29 @@
+position,number,driver,constructor,laps,grid,status,points
+1,2,Ronnie Peterson,Team Lotus,59,1,Finished,9
+2,27,James Hunt,March,59,4,Finished,6
+3,10,Carlos Reutemann,Brabham,59,2,Finished,4
+4,7,Denny Hulme,McLaren,59,8,Finished,3
+5,8,Peter Revson,McLaren,59,7,Finished,2
+6,1,Emerson Fittipaldi,Team Lotus,59,3,Finished,1
+7,26,Jacky Ickx,Iso Marlboro,58,23,+1 Lap,0
+8,19,Clay Regazzoni,BRM,58,15,+1 Lap,0
+9,20,Jean-Pierre Beltoise,BRM,58,14,+1 Lap,0
+10,15,Mike Beuttler,March,58,26,+1 Lap,0
+11,18,Jean-Pierre Jarier,March,57,17,Accident,0
+12,25,Howden Ganley,Iso Marlboro,57,19,+2 Laps,0
+13,12,Graham Hill,Shadow,57,18,+2 Laps,0
+14,16,George Follmer,Shadow,57,20,+2 Laps,0
+15,17,Jackie Oliver,Shadow,55,22,+4 Laps,0
+16,4,Arturo Merzario,Ferrari,55,11,+4 Laps,0
+17,11,Wilson Fittipaldi,Brabham,52,25,Not classified,0
+18,0,Jody Scheckter,McLaren,39,10,Suspension,0
+19,30,Jochen Mass,Surtees,35,16,Engine,0
+20,21,Niki Lauda,BRM,35,21,Fuel pump,0
+21,23,Mike Hailwood,Surtees,34,6,Suspension,0
+22,24,Carlos Pace,Surtees,32,9,Suspension,0
+23,9,John Watson,Brabham,7,24,Engine,0
+24,31,Brian Redman,Shadow,5,13,Disqualified,0
+25,28,Rikky von Opel,Ensign,0,27,Throttle,0
+26,5,Jackie Stewart,Tyrrell,0,5,Withdrew,0
+27,29,Chris Amon,Tyrrell,0,12,Withdrew,0
+28,6,François Cevert,Tyrrell,0,0,Accident,0

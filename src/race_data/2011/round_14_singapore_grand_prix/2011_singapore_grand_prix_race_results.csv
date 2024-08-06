@@ -1,0 +1,25 @@
+position,number,driver,constructor,laps,grid,status,points
+1,1,Sebastian Vettel,Red Bull,61,1,Finished,25
+2,4,Jenson Button,McLaren,61,3,Finished,18
+3,2,Mark Webber,Red Bull,61,2,Finished,15
+4,5,Fernando Alonso,Ferrari,61,5,Finished,12
+5,3,Lewis Hamilton,McLaren,61,4,Finished,10
+6,15,Paul di Resta,Force India,61,10,Finished,8
+7,8,Nico Rosberg,Mercedes,60,7,+1 Lap,6
+8,14,Adrian Sutil,Force India,60,9,+1 Lap,4
+9,6,Felipe Massa,Ferrari,60,6,+1 Lap,2
+10,17,Sergio Pérez,Sauber,60,11,+1 Lap,1
+11,12,Pastor Maldonado,Williams,60,13,+1 Lap,0
+12,18,Sébastien Buemi,Toro Rosso,60,14,+1 Lap,0
+13,11,Rubens Barrichello,Williams,60,12,+1 Lap,0
+14,16,Kamui Kobayashi,Sauber,59,17,+2 Laps,0
+15,9,Bruno Senna,Renault,59,15,+2 Laps,0
+16,20,Heikki Kovalainen,Lotus,59,19,+2 Laps,0
+17,10,Vitaly Petrov,Renault,59,18,+2 Laps,0
+18,25,Jérôme d'Ambrosio,Virgin,59,22,+2 Laps,0
+19,22,Daniel Ricciardo,HRT,57,23,+4 Laps,0
+20,23,Vitantonio Liuzzi,HRT,57,24,+4 Laps,0
+21,19,Jaime Alguersuari,Toro Rosso,56,16,Accident,0
+22,21,Jarno Trulli,Lotus,47,20,Gearbox,0
+23,7,Michael Schumacher,Mercedes,28,8,Accident,0
+24,24,Timo Glock,Virgin,9,21,Accident,0

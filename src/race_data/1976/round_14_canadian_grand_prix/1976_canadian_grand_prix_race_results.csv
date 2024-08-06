@@ -1,0 +1,28 @@
+position,number,driver,constructor,laps,grid,status,points
+1,11,James Hunt,McLaren,80,1,Finished,9
+2,4,Patrick Depailler,Tyrrell,80,4,Finished,6
+3,5,Mario Andretti,Team Lotus,80,5,Finished,4
+4,3,Jody Scheckter,Tyrrell,80,7,Finished,3
+5,12,Jochen Mass,McLaren,80,11,Finished,2
+6,2,Clay Regazzoni,Ferrari,80,12,Finished,1
+7,8,Carlos Pace,Brabham-Alfa Romeo,80,10,Finished,0
+8,1,Niki Lauda,Ferrari,80,6,Finished,0
+9,10,Ronnie Peterson,March,79,2,+1 Lap,0
+10,28,John Watson,Penske,79,14,+1 Lap,0
+11,16,Tom Pryce,Shadow,79,13,+1 Lap,0
+12,6,Gunnar Nilsson,Team Lotus,79,15,+1 Lap,0
+13,22,Jacky Ickx,Ensign,79,16,+1 Lap,0
+14,9,Vittorio Brambilla,March,79,3,+1 Lap,0
+15,18,Brett Lunger,Surtees,78,22,+2 Laps,0
+16,19,Alan Jones,Surtees,78,20,+2 Laps,0
+17,7,Larry Perkins,Brabham-Alfa Romeo,78,19,+2 Laps,0
+18,17,Jean-Pierre Jarier,Shadow,77,18,+3 Laps,0
+19,38,Henri Pescarolo,Surtees,77,21,+3 Laps,0
+20,25,Guy Edwards,Hesketh,75,23,+5 Laps,0
+21,26,Jacques Laffite,Ligier,43,9,Oil pressure,0
+22,30,Emerson Fittipaldi,Fittipaldi,41,17,Exhaust,0
+23,34,Hans-Joachim Stuck,March,36,8,Handling,0
+24,20,Arturo Merzario,Wolf,11,24,Accident,0
+25,24,Harald Ertl,Hesketh,0,0,Accident,0
+26,21,Chris Amon,Wolf,0,0,Accident,0
+27,39,Otto Stuppacher,Tyrrell,0,0,Did not qualify,0

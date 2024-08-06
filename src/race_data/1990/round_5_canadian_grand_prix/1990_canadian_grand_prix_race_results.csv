@@ -1,0 +1,31 @@
+position,number,driver,constructor,laps,grid,status,points
+1,27,Ayrton Senna,McLaren,70,1,Finished,9
+2,20,Nelson Piquet,Benetton,70,5,Finished,6
+3,2,Nigel Mansell,Ferrari,70,7,Finished,4
+4,28,Gerhard Berger,McLaren,70,2,Finished,3
+5,1,Alain Prost,Ferrari,70,3,Finished,2
+6,11,Derek Warwick,Team Lotus,68,11,+2 Laps,1
+7,8,Stefano Modena,Brabham,68,10,+2 Laps,0
+8,10,Alex Caffi,Arrows,68,26,+2 Laps,0
+9,29,Éric Bernard,Larrousse,67,23,+3 Laps,0
+10,16,Ivan Capelli,Leyton House,67,24,+3 Laps,0
+11,3,Satoru Nakajima,Tyrrell,67,13,+3 Laps,0
+12,30,Aguri Suzuki,Larrousse,66,18,+4 Laps,0
+13,14,Olivier Grouillard,Osella,65,15,+5 Laps,0
+14,12,Martin Donnelly,Team Lotus,57,12,Engine,0
+15,35,Gregor Foitek,Onyx,53,21,Engine,0
+16,22,Andrea de Cesaris,Dallara,50,25,Gearbox,0
+17,36,Jyrki Järvilehto,Onyx,46,22,Engine,0
+18,6,Riccardo Patrese,Williams,44,9,Brakes,0
+19,26,Philippe Alliot,Ligier,34,17,Engine,0
+20,4,Jean Alesi,Tyrrell,26,8,Spun off,0
+21,19,Alessandro Nannini,Benetton,21,4,Spun off,0
+22,5,Thierry Boutsen,Williams,19,6,Collision,0
+23,25,Nicola Larini,Ligier,18,20,Collision,0
+24,21,Emanuele Pirro,Dallara,11,19,Collision,0
+25,9,Michele Alboreto,Arrows,11,14,Collision,0
+26,23,Pierluigi Martini,Minardi,0,16,Spun off,0
+27,33,Roberto Moreno,Euro Brun,0,0,Did not qualify,0
+28,15,Maurício Gugelmin,Leyton House,0,0,Did not qualify,0
+29,24,Paolo Barilla,Minardi,0,0,Did not qualify,0
+30,7,David Brabham,Brabham,0,0,Did not qualify,0

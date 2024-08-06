@@ -1,0 +1,28 @@
+position,number,driver,constructor,laps,grid,status,points
+1,2,Clay Regazzoni,Ferrari,80,1,Finished,9
+2,1,Niki Lauda,Ferrari,80,4,Finished,6
+3,4,Patrick Depailler,Tyrrell,80,2,Finished,4
+4,26,Jacques Laffite,Ligier,80,12,Finished,3
+5,12,Jochen Mass,McLaren,80,14,Finished,2
+6,30,Emerson Fittipaldi,Fittipaldi,79,16,+1 Lap,1
+7,17,Jean-Pierre Jarier,Shadow,79,7,+1 Lap,0
+8,22,Chris Amon,Ensign,78,17,+2 Laps,0
+9,8,Carlos Pace,Brabham-Alfa Romeo,77,13,+3 Laps,0
+10,10,Ronnie Peterson,March,77,6,+3 Laps,0
+11,19,Alan Jones,Surtees,70,19,Not classified,0
+12,28,John Watson,Penske,69,9,Not classified,0
+13,3,Jody Scheckter,Tyrrell,34,11,Suspension,0
+14,16,Tom Pryce,Shadow,32,5,Halfshaft,0
+15,27,Mario Andretti,Parnelli,15,15,Water leak,0
+16,11,James Hunt,McLaren,3,3,Accident,0
+17,34,Hans-Joachim Stuck,March,2,18,Accident,0
+18,9,Vittorio Brambilla,March,0,20,Accident,0
+19,7,Carlos Reutemann,Brabham-Alfa Romeo,0,10,Accident,0
+20,6,Gunnar Nilsson,Team Lotus,0,8,Suspension,0
+21,21,Michel Leclère,Wolf,0,0,Did not qualify,0
+22,31,Ingo Hoffmann,Fittipaldi,0,0,Did not qualify,0
+23,35,Arturo Merzario,March,0,0,Did not qualify,0
+24,5,Bob Evans,Team Lotus,0,0,Did not qualify,0
+25,20,Jacky Ickx,Wolf,0,0,Did not qualify,0
+26,24,Harald Ertl,Hesketh,0,0,Did not qualify,0
+27,18,Brett Lunger,Surtees,0,0,Did not qualify,0

@@ -1,0 +1,27 @@
+position,number,driver,constructor,laps,grid,status,points
+1,20,Jody Scheckter,Wolf,76,2,Finished,9
+2,11,Niki Lauda,Ferrari,76,6,Finished,6
+3,12,Carlos Reutemann,Ferrari,76,3,Finished,4
+4,2,Jochen Mass,McLaren,76,9,Finished,3
+5,5,Mario Andretti,Team Lotus,76,10,Finished,2
+6,17,Alan Jones,Shadow,76,11,Finished,1
+7,26,Jacques Laffite,Ligier,76,16,Finished,0
+8,19,Vittorio Brambilla,Surtees,76,14,Finished,0
+9,16,Riccardo Patrese,Shadow,75,15,+1 Lap,0
+10,22,Jacky Ickx,Ensign,75,17,+1 Lap,0
+11,34,Jean-Pierre Jarier,Penske,74,12,+2 Laps,0
+12,24,Rupert Keegan,Hesketh,73,20,+3 Laps,0
+13,6,Gunnar Nilsson,Team Lotus,51,13,Gearbox,0
+14,7,John Watson,Brabham,48,1,Gearbox,0
+15,4,Patrick Depailler,Tyrrell,46,8,Gearbox,0
+16,18,Hans Binder,Surtees,41,19,Fuel system,0
+17,28,Emerson Fittipaldi,Fittipaldi,37,18,Engine,0
+18,1,James Hunt,McLaren,25,7,Engine,0
+19,8,Hans-Joachim Stuck,Brabham,19,5,Electrical,0
+20,3,Ronnie Peterson,Tyrrell,10,4,Brakes,0
+21,37,Arturo Merzario,March,0,0,Did not qualify,0
+22,33,Boy Lunger,March,0,0,Did not qualify,0
+23,25,Harald Ertl,Hesketh,0,0,Did not qualify,0
+24,22,Clay Regazzoni,Ensign,0,0,Did not qualify,0
+25,9,Alex Ribeiro,March,0,0,Did not qualify,0
+26,10,Ian Scheckter,March,0,0,Did not qualify,0

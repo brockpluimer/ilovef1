@@ -1,0 +1,31 @@
+position,number,driver,constructor,laps,grid,status,points
+1,8,Pat Flaherty,Watson,200,1,Finished,8
+2,4,Sam Hanks,Kurtis Kraft,200,13,Finished,6
+3,16,Don Freeland,Phillips,200,26,Finished,4
+4,98,Johnnie Parsons,Kurtis Kraft,200,6,Finished,3
+5,73,Dick Rathmann,Kurtis Kraft,200,4,Finished,2
+6,1,Bob Sweikert,Kuzma,200,10,Finished,0
+7,14,Bob Veith,Kurtis Kraft,200,23,Finished,0
+8,19,Rodger Ward,Kurtis Kraft,200,15,Finished,0
+9,26,Jimmy Reece,Lesovsky,200,21,Finished,0
+10,27,Cliff Griffith,Stevens,199,30,+1 Lap,0
+11,82,Gene Hartley,Kuzma,196,22,+4 Laps,0
+12,42,Fred Agabashian,Kurtis Kraft,196,7,+4 Laps,0
+13,57,Bob Christie,Kurtis Kraft,196,25,+4 Laps,0
+14,55,Al Keller,Kurtis Kraft,195,28,+5 Laps,0
+15,81,Eddie Johnson,Kuzma,195,32,+5 Laps,0
+16,41,Billy Garrett,Kuzma,194,29,+6 Laps,0
+17,64,Duke Dinsmore,Kurtis Kraft,191,33,+9 Laps,0
+18,7,Pat O'Connor,Kurtis Kraft,187,3,+13 Laps,0
+19,2,Jimmy Bryan,Kuzma,185,19,+15 Laps,0
+20,24,Jim Rathmann,Kurtis Kraft,175,2,Engine,0
+21,34,Johnnie Tolan,Kurtis Kraft,173,31,Engine,0
+22,99,Tony Bettenhausen,Kurtis Kraft,160,5,Accident,0
+23,10,Ed Elisian,Kurtis Kraft,160,14,Brakes,0
+23,10,Eddie Russo,Kurtis Kraft,160,14,Brakes,0
+24,48,Jimmy Daywalt,Kurtis Kraft,134,16,Accident,0
+25,54,Jack Turner,Kurtis Kraft,131,24,Engine,0
+26,89,Keith Andrews,Kurtis Kraft,94,20,Transmission,0
+27,5,Andy Linden,Kurtis Kraft,90,9,Oil leak,0
+28,12,Al Herman,Kurtis Kraft,74,27,Accident,0
+29,49,Ray Crawford,Kurtis Kraft,49,17,Accident,0

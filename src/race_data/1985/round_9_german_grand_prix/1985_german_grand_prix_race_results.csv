@@ -1,0 +1,28 @@
+position,number,driver,constructor,laps,grid,status,points
+1,27,Michele Alboreto,Ferrari,67,8,Finished,9
+2,2,Alain Prost,McLaren,67,3,Finished,6
+3,26,Jacques Laffite,Ligier,67,13,Finished,4
+4,18,Thierry Boutsen,Arrows,67,15,Finished,3
+5,1,Niki Lauda,McLaren,67,12,Finished,2
+6,5,Nigel Mansell,Williams,67,10,Finished,1
+7,17,Gerhard Berger,Arrows,66,17,+1 Lap,0
+8,3,Stefan Bellof,Tyrrell,66,19,+1 Lap,0
+9,28,Stefan Johansson,Ferrari,66,2,+1 Lap,0
+10,4,Martin Brundle,Tyrrell,63,26,+4 Laps,0
+11,29,Pierluigi Martini,Minardi,62,27,Engine,0
+12,6,Keke Rosberg,Williams,61,4,Brakes,0
+13,23,Eddie Cheever,Alfa Romeo,45,18,Turbo,0
+14,11,Elio de Angelis,Team Lotus,40,7,Engine,0
+15,24,Huub Rothengatter,Osella,32,25,Gearbox,0
+16,19,Teo Fabi,Toleman,29,1,Clutch,0
+17,12,Ayrton Senna,Team Lotus,27,5,CV joint,0
+18,16,Derek Warwick,Renault,25,20,Ignition,0
+19,7,Nelson Piquet,Brabham,23,6,Turbo,0
+20,15,Patrick Tambay,Renault,19,16,Spun off,0
+21,8,Marc Surer,Brabham,15,11,Engine,0
+22,9,Manfred Winkelhock,RAM,8,22,Engine,0
+23,22,Riccardo Patrese,Alfa Romeo,8,9,Gearbox,0
+24,14,François Hesnault,Renault,8,23,Clutch,0
+25,10,Philippe Alliot,RAM,8,21,Oil pressure,0
+26,30,Jonathan Palmer,Zakspeed,7,24,Alternator,0
+27,25,Andrea de Cesaris,Ligier,0,14,Collision,0

@@ -1,0 +1,27 @@
+position,number,driver,constructor,laps,grid,status,points
+1,6,Riccardo Patrese,Williams,53,2,Finished,10
+2,2,Gerhard Berger,McLaren,53,4,Finished,6
+3,20,Martin Brundle,Benetton,53,13,Finished,4
+4,4,Andrea de Cesaris,Tyrrell,52,9,+1 Lap,3
+5,27,Jean Alesi,Ferrari,52,15,+1 Lap,2
+6,23,Christian Fittipaldi,Minardi,52,12,+1 Lap,1
+7,32,Stefano Modena,Jordan,52,17,+1 Lap,0
+8,10,Aguri Suzuki,Footwork,52,16,+1 Lap,0
+9,21,Jyrki Järvilehto,Dallara,52,22,+1 Lap,0
+10,22,Pierluigi Martini,Dallara,52,19,+1 Lap,0
+11,30,Ukyo Katayama,Larrousse,52,20,+1 Lap,0
+12,28,Nicola Larini,Ferrari,52,11,+1 Lap,0
+13,17,Emanuele Naspetti,March,51,26,+2 Laps,0
+14,24,Gianni Morbidelli,Minardi,51,14,+2 Laps,0
+15,9,Michele Alboreto,Footwork,51,24,+2 Laps,0
+16,5,Nigel Mansell,Williams,44,1,Engine,0
+17,11,Mika Häkkinen,Team Lotus,44,7,Engine,0
+18,29,Bertrand Gachot,Larrousse,39,18,Collision,0
+19,26,Érik Comas,Ligier,36,8,Engine,0
+20,16,Jan Lammers,March,27,23,Clutch,0
+21,33,Maurício Gugelmin,Jordan,22,25,Spun off,0
+22,12,Johnny Herbert,Team Lotus,15,6,Gearbox,0
+23,19,Michael Schumacher,Benetton,13,5,Gearbox,0
+24,3,Olivier Grouillard,Tyrrell,6,21,Spun off,0
+25,25,Thierry Boutsen,Ligier,3,10,Gearbox,0
+26,1,Ayrton Senna,McLaren,2,3,Engine,0

@@ -1,0 +1,29 @@
+position,number,driver,constructor,laps,grid,status,points
+1,11,Jody Scheckter,Ferrari,70,7,Finished,9
+2,26,Jacques Laffite,Ligier,70,1,Finished,6
+3,3,Didier Pironi,Tyrrell,70,12,Finished,4
+4,2,Carlos Reutemann,Team Lotus,70,10,Finished,3
+5,29,Riccardo Patrese,Arrows,70,16,Finished,2
+6,7,John Watson,McLaren,70,19,Finished,1
+7,12,Gilles Villeneuve,Ferrari,69,6,+1 Lap,0
+8,9,Hans-Joachim Stuck,ATS,69,20,+1 Lap,0
+9,14,Emerson Fittipaldi,Fittipaldi,68,23,+2 Laps,0
+10,17,Jan Lammers,Shadow,68,21,+2 Laps,0
+11,4,Jean-Pierre Jarier,Tyrrell,67,11,+3 Laps,0
+12,25,Patrick Depailler,Ligier,46,2,Accident,0
+13,20,James Hunt,Wolf,40,9,Accident,0
+14,27,Alan Jones,Williams,39,4,Electrical,0
+15,1,Mario Andretti,Team Lotus,27,5,Brakes,0
+16,6,Nelson Piquet,Brabham-Alfa Romeo,23,3,Engine,0
+17,5,Niki Lauda,Brabham-Alfa Romeo,23,13,Engine,0
+18,16,René Arnoux,Renault,22,18,Turbo,0
+19,35,Bruno Giacomelli,Alfa Romeo,21,14,Accident,0
+20,18,Elio de Angelis,Shadow,21,24,Accident,0
+21,30,Jochen Mass,Arrows,17,22,Spun off,0
+22,31,Hector Rebaque,Team Lotus,13,15,Transmission,0
+23,15,Jean-Pierre Jabouille,Renault,13,17,Turbo,0
+24,28,Clay Regazzoni,Williams,1,8,Accident,0
+25,8,Patrick Tambay,McLaren,0,0,Did not qualify,0
+26,24,Arturo Merzario,Merzario,0,0,Did not qualify,0
+27,22,Derek Daly,Ensign,0,0,Did not qualify,0
+28,36,Gianfranco Brancatelli,Kauhsen,0,0,Did not qualify,0

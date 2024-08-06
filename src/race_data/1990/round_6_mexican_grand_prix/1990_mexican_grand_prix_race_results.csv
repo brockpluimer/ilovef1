@@ -1,0 +1,31 @@
+position,number,driver,constructor,laps,grid,status,points
+1,1,Alain Prost,Ferrari,69,13,Finished,9
+2,2,Nigel Mansell,Ferrari,69,4,Finished,6
+3,28,Gerhard Berger,McLaren,69,1,Finished,4
+4,19,Alessandro Nannini,Benetton,69,14,Finished,3
+5,5,Thierry Boutsen,Williams,69,5,Finished,2
+6,20,Nelson Piquet,Benetton,69,8,Finished,1
+7,4,Jean Alesi,Tyrrell,69,6,Finished,0
+8,12,Martin Donnelly,Team Lotus,69,12,Finished,0
+9,6,Riccardo Patrese,Williams,69,2,Finished,0
+10,11,Derek Warwick,Team Lotus,68,11,+1 Lap,0
+11,8,Stefano Modena,Brabham,68,10,+1 Lap,0
+12,23,Pierluigi Martini,Minardi,68,7,+1 Lap,0
+13,22,Andrea de Cesaris,Dallara,68,15,+1 Lap,0
+14,24,Paolo Barilla,Minardi,67,16,+2 Laps,0
+15,35,Gregor Foitek,Onyx,67,23,+2 Laps,0
+16,25,Nicola Larini,Ligier,67,24,+2 Laps,0
+17,9,Michele Alboreto,Arrows,66,17,+3 Laps,0
+18,26,Philippe Alliot,Ligier,66,22,+3 Laps,0
+19,14,Olivier Grouillard,Osella,65,20,+4 Laps,0
+20,27,Ayrton Senna,McLaren,63,3,Tyre,0
+21,36,Jyrki Järvilehto,Onyx,26,26,Engine,0
+22,29,Éric Bernard,Larrousse,12,25,Brakes,0
+23,30,Aguri Suzuki,Larrousse,11,19,Collision,0
+24,3,Satoru Nakajima,Tyrrell,11,9,Collision,0
+25,7,David Brabham,Brabham,11,21,Electrical,0
+26,21,Emanuele Pirro,Dallara,10,18,Engine,0
+27,33,Roberto Moreno,Euro Brun,0,0,Disqualified,0
+28,16,Ivan Capelli,Leyton House,0,0,Did not qualify,0
+29,15,Maurício Gugelmin,Leyton House,0,0,Did not qualify,0
+30,10,Alex Caffi,Arrows,0,0,Did not qualify,0

@@ -1,0 +1,31 @@
+position,number,driver,constructor,laps,grid,status,points
+1,1,Ayrton Senna,McLaren,45,1,Finished,9
+2,2,Alain Prost,McLaren,45,2,Finished,6
+3,27,Nigel Mansell,Ferrari,45,3,Finished,4
+4,6,Riccardo Patrese,Williams,44,5,+1 Lap,3
+5,11,Nelson Piquet,Team Lotus,44,8,+1 Lap,2
+6,9,Derek Warwick,Arrows,44,17,+1 Lap,1
+7,22,Andrea de Cesaris,Dallara,44,21,+1 Lap,0
+8,7,Martin Brundle,Brabham,44,12,+1 Lap,0
+9,23,Pierluigi Martini,Minardi,44,13,+1 Lap,0
+10,4,Jean Alesi,Tyrrell,43,10,+2 Laps,0
+11,25,René Arnoux,Ligier,42,23,+3 Laps,0
+12,10,Eddie Cheever,Arrows,40,25,Fuel system,0
+13,8,Stefano Modena,Brabham,37,16,Engine,0
+14,12,Satoru Nakajima,Team Lotus,36,18,Spun off,0
+15,16,Ivan Capelli,March,32,22,Electrical,0
+16,15,Maurício Gugelmin,March,28,14,Gearbox,0
+17,20,Emanuele Pirro,Benetton,26,9,Spun off,0
+18,30,Philippe Alliot,Larrousse,20,15,Oil leak,0
+19,3,Jonathan Palmer,Tyrrell,16,19,Engine,0
+20,28,Gerhard Berger,Ferrari,13,4,Spun off,0
+21,36,Stefan Johansson,Onyx,8,24,Overheating,0
+22,19,Alessandro Nannini,Benetton,6,7,Electrical,0
+23,5,Thierry Boutsen,Williams,4,6,Collision,0
+24,21,Alex Caffi,Dallara,2,20,Engine,0
+25,29,Michele Alboreto,Larrousse,1,26,Electrical,0
+26,26,Olivier Grouillard,Ligier,0,11,Gearbox,0
+27,24,Luis Pérez-Sala,Minardi,0,0,Did not qualify,0
+28,37,Bertrand Gachot,Onyx,0,0,Did not qualify,0
+29,38,Christian Danner,Rial,0,0,Did not qualify,0
+30,39,Volker Weidler,Rial,0,0,Disqualified,0

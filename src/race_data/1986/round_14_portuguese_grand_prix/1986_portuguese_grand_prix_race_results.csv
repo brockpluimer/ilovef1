@@ -1,0 +1,28 @@
+position,number,driver,constructor,laps,grid,status,points
+1,5,Nigel Mansell,Williams,70,2,Finished,9
+2,1,Alain Prost,McLaren,70,3,Finished,6
+3,6,Nelson Piquet,Williams,70,6,Finished,4
+4,12,Ayrton Senna,Team Lotus,69,1,Out of fuel,3
+5,27,Michele Alboreto,Ferrari,69,13,+1 Lap,2
+6,28,Stefan Johansson,Ferrari,69,8,+1 Lap,1
+7,25,René Arnoux,Ligier,69,10,+1 Lap,0
+8,19,Teo Fabi,Benetton,68,5,+2 Laps,0
+9,11,Johnny Dumfries,Team Lotus,68,15,+2 Laps,0
+10,18,Thierry Boutsen,Arrows,67,21,+3 Laps,0
+11,17,Christian Danner,Arrows,67,22,+3 Laps,0
+12,14,Jonathan Palmer,Zakspeed,67,20,+3 Laps,0
+13,22,Allen Berg,Osella,63,27,+7 Laps,0
+14,7,Riccardo Patrese,Brabham,62,9,Engine,0
+15,16,Patrick Tambay,Lola,62,14,Not classified,0
+16,24,Alessandro Nannini,Minardi,60,18,Not classified,0
+17,20,Gerhard Berger,Benetton,44,4,Spun off,0
+18,23,Andrea de Cesaris,Minardi,43,16,Spun off,0
+19,2,Keke Rosberg,McLaren,41,7,Electrical,0
+20,8,Derek Warwick,Brabham,41,12,Electrical,0
+21,26,Philippe Alliot,Ligier,39,11,Engine,0
+22,4,Philippe Streiff,Tyrrell,28,23,Engine,0
+23,3,Martin Brundle,Tyrrell,18,19,Engine,0
+24,15,Alan Jones,Lola,10,17,Brakes,0
+25,29,Huub Rothengatter,Zakspeed,9,26,Transmission,0
+26,21,Piercarlo Ghinzani,Osella,8,24,Engine,0
+27,31,Ivan Capelli,AGS,6,25,Transmission,0

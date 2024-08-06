@@ -1,0 +1,31 @@
+position,number,driver,constructor,laps,grid,status,points
+1,15,Alain Prost,Renault,63,1,Finished,9
+2,7,John Watson,McLaren,63,12,Finished,6
+3,12,Nigel Mansell,Team Lotus,63,14,Finished,4
+4,3,Michele Alboreto,Tyrrell,63,13,Finished,3
+5,9,Manfred Winkelhock,ATS,62,15,+1 Lap,2
+6,28,Didier Pironi,Ferrari,62,8,+1 Lap,1
+7,4,Slim Borgudd,Tyrrell,61,21,+2 Laps,0
+8,17,Jochen Mass,March,61,22,+2 Laps,0
+9,31,Jean-Pierre Jarier,Osella,60,23,+3 Laps,0
+10,30,Mauro Baldi,Arrows,57,19,+6 Laps,0
+11,1,Nelson Piquet,Brabham,63,7,Disqualified,0
+12,6,Keke Rosberg,Williams,63,3,Disqualified,0
+13,10,Eliseo Salazar,ATS,38,18,Engine,0
+14,20,Chico Serra,Fittipaldi,36,25,Suspension,0
+15,2,Riccardo Patrese,Brabham,34,9,Physical,0
+16,27,Gilles Villeneuve,Ferrari,29,2,Spun off,0
+17,8,Niki Lauda,McLaren,22,5,Collision,0
+18,16,René Arnoux,Renault,21,4,Collision,0
+19,5,Carlos Reutemann,Williams,21,6,Collision,0
+20,11,Elio de Angelis,Team Lotus,21,11,Collision,0
+21,25,Eddie Cheever,Ligier,19,26,Water leak,0
+22,23,Bruno Giacomelli,Alfa Romeo,16,16,Clutch,0
+23,26,Jacques Laffite,Ligier,15,24,Chassis,0
+24,22,Andrea de Cesaris,Alfa Romeo,14,10,Chassis,0
+25,33,Derek Daly,Theodore,12,20,Spun off,0
+26,18,Raul Boesel,March,11,17,Spun off,0
+27,36,Teo Fabi,Toleman,0,0,Did not qualify,0
+28,29,Brian Henton,Arrows,0,0,Did not qualify,0
+29,35,Derek Warwick,Toleman,0,0,Did not qualify,0
+30,14,Roberto Guerrero,Ensign,0,0,Did not qualify,0

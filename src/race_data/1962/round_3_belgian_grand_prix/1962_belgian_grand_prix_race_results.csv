@@ -1,0 +1,27 @@
+position,number,driver,constructor,laps,grid,status,points
+1,16,Jim Clark,Lotus-Climax,32,13,Finished,9
+2,1,Graham Hill,BRM,32,1,Finished,6
+3,9,Phil Hill,Ferrari,32,4,Finished,4
+4,12,Ricardo Rodríguez,Ferrari,32,7,Finished,3
+5,5,John Surtees,Lola,31,11,+1 Lap,2
+6,15,Jack Brabham,Lotus-Climax,30,15,+2 Laps,1
+7,7,Carel Godin de Beaufort,Porsche,30,13,+2 Laps,0
+8,18,Maurice Trintignant,Lotus-Climax,30,16,+2 Laps,0
+9,19,Lucien Bianchi,Lotus-Climax,29,18,+3 Laps,0
+10,22,Jo Siffert,Lotus-Climax,29,17,+3 Laps,0
+11,4,John Campbell-Jones,Lotus-Climax,16,19,+16 Laps,0
+12,17,Trevor Taylor,Lotus-Climax,25,3,Accident,0
+13,10,Willy Mairesse,Ferrari,25,6,Accident,0
+14,2,Richie Ginther,BRM,22,9,Gearbox,0
+15,26,Tony Maggs,Cooper-Climax,22,10,Gearbox,0
+16,25,Bruce McLaren,Cooper-Climax,19,2,Wheel bearing,0
+17,21,Masten Gregory,Lotus-BRM,13,8,Withdrew,0
+18,20,Innes Ireland,Lotus-Climax,8,5,Suspension,0
+19,11,Giancarlo Baghetti,Ferrari,3,14,Ignition,0
+20,23,Dan Gurney,Lotus-BRM,0,0,Withdrew,0
+21,3,Tony Marsh,BRM,0,0,Withdrew,0
+22,4,Jackie Lewis,BRM,0,0,Withdrew,0
+23,4,Gerry Ashmore,BRM,0,0,Withdrew,0
+24,6,Roy Salvadori,Lola,0,0,Withdrew,0
+25,8,Heinz Schiller,Porsche,0,0,Withdrew,0
+26,24,Jo Bonnier,Porsche,0,0,Withdrew,0

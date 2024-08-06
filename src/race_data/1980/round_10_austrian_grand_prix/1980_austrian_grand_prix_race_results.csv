@@ -1,0 +1,27 @@
+position,number,driver,constructor,laps,grid,status,points
+1,15,Jean-Pierre Jabouille,Renault,54,2,Finished,9
+2,27,Alan Jones,Williams,54,3,Finished,6
+3,28,Carlos Reutemann,Williams,54,4,Finished,4
+4,26,Jacques Laffite,Ligier,54,5,Finished,3
+5,5,Nelson Piquet,Brabham,54,7,Finished,2
+6,12,Elio de Angelis,Team Lotus,54,9,Finished,1
+7,8,Alain Prost,McLaren,54,12,Finished,0
+8,2,Gilles Villeneuve,Ferrari,53,15,+1 Lap,0
+9,16,René Arnoux,Renault,53,1,+1 Lap,0
+10,6,Hector Rebaque,Brabham,53,14,+1 Lap,0
+11,20,Emerson Fittipaldi,Fittipaldi,53,23,+1 Lap,0
+12,9,Marc Surer,ATS,53,16,+1 Lap,0
+13,1,Jody Scheckter,Ferrari,53,22,+1 Lap,0
+14,29,Riccardo Patrese,Arrows,53,18,+1 Lap,0
+15,50,Rupert Keegan,Williams,52,20,+2 Laps,0
+16,21,Keke Rosberg,Fittipaldi,52,11,+2 Laps,0
+17,43,Nigel Mansell,Team Lotus,40,24,Engine,0
+18,7,John Watson,McLaren,34,21,Engine,0
+19,23,Bruno Giacomelli,Alfa Romeo,28,8,Wheel,0
+20,25,Didier Pironi,Ligier,25,13,Handling,0
+21,3,Jean-Pierre Jarier,Tyrrell,25,6,Electrical,0
+22,31,Eddie Cheever,Osella,23,19,Wheel bearing,0
+23,4,Derek Daly,Tyrrell,12,10,Brakes,0
+24,11,Mario Andretti,Team Lotus,6,17,Engine,0
+25,14,Jan Lammers,Ensign,0,0,Did not qualify,0
+26,30,Jochen Mass,Arrows,0,0,Did not qualify,0

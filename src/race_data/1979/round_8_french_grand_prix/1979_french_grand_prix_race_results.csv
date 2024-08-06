@@ -1,0 +1,28 @@
+position,number,driver,constructor,laps,grid,status,points
+1,15,Jean-Pierre Jabouille,Renault,80,1,Finished,9
+2,12,Gilles Villeneuve,Ferrari,80,3,Finished,6
+3,16,René Arnoux,Renault,80,2,Finished,4
+4,27,Alan Jones,Williams,80,7,Finished,3
+5,4,Jean-Pierre Jarier,Tyrrell,80,10,Finished,2
+6,28,Clay Regazzoni,Williams,80,9,Finished,1
+7,11,Jody Scheckter,Ferrari,79,5,+1 Lap,0
+8,26,Jacques Laffite,Ligier,79,8,+1 Lap,0
+9,20,Keke Rosberg,Wolf,79,16,+1 Lap,0
+10,8,Patrick Tambay,McLaren,78,20,+2 Laps,0
+11,7,John Watson,McLaren,78,15,+2 Laps,0
+12,31,Hector Rebaque,Team Lotus,78,23,+2 Laps,0
+13,2,Carlos Reutemann,Team Lotus,77,13,+3 Laps,0
+14,29,Riccardo Patrese,Arrows,77,19,+3 Laps,0
+15,30,Jochen Mass,Arrows,75,22,+5 Laps,0
+16,18,Elio de Angelis,Shadow,75,24,+5 Laps,0
+17,35,Bruno Giacomelli,Alfa Romeo,75,17,+5 Laps,0
+18,17,Jan Lammers,Shadow,73,21,+7 Laps,0
+19,3,Didier Pironi,Tyrrell,71,11,Suspension,0
+20,14,Emerson Fittipaldi,Fittipaldi,53,18,Engine,0
+21,6,Nelson Piquet,Brabham-Alfa Romeo,52,4,Accident,0
+22,1,Mario Andretti,Team Lotus,51,12,Brakes,0
+23,25,Jacky Ickx,Ligier,45,14,Engine,0
+24,5,Niki Lauda,Brabham-Alfa Romeo,23,6,Spun off,0
+25,9,Hans-Joachim Stuck,ATS,0,0,Withdrew,0
+26,22,Patrick Gaillard,Ensign,0,0,Did not qualify,0
+27,24,Arturo Merzario,Merzario,0,0,Did not qualify,0

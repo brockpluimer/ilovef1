@@ -1,0 +1,26 @@
+position,number,driver,constructor,laps,grid,status,points
+1,2,Ronnie Peterson,Team Lotus,55,1,Finished,9
+2,1,Emerson Fittipaldi,Team Lotus,55,4,Finished,6
+3,8,Peter Revson,McLaren,55,2,Finished,4
+4,5,Jackie Stewart,Tyrrell,55,6,Finished,3
+5,6,François Cevert,Tyrrell,55,11,Finished,2
+6,10,Carlos Reutemann,Brabham,55,10,Finished,1
+7,23,Mike Hailwood,Surtees,55,8,Finished,0
+8,3,Jacky Ickx,Ferrari,54,14,+1 Lap,0
+9,29,David Purley,March,54,24,+1 Lap,0
+10,16,George Follmer,Shadow,54,21,+1 Lap,0
+11,17,Jackie Oliver,Shadow,54,19,+1 Lap,0
+12,9,Rolf Stommelen,Brabham,54,9,+1 Lap,0
+13,20,Jean-Pierre Beltoise,BRM,54,13,+1 Lap,0
+14,12,Graham Hill,Shadow,54,22,+1 Lap,0
+15,7,Denny Hulme,McLaren,53,3,+2 Laps,0
+16,25,Howden Ganley,Iso Marlboro,44,20,Not classified,0
+17,15,Mike Beuttler,March,34,12,Gearbox,0
+18,21,Niki Lauda,BRM,33,15,Accident,0
+19,19,Clay Regazzoni,BRM,30,18,Ignition,0
+20,24,Carlos Pace,Surtees,17,5,Tyre,0
+21,26,Gijs van Lennep,Iso Marlboro,14,23,Overheating,0
+22,28,Rikky von Opel,Ensign,10,17,Overheating,0
+23,11,Wilson Fittipaldi,Brabham,6,16,Brakes,0
+24,4,Arturo Merzario,Ferrari,2,7,Suspension,0
+25,27,James Hunt,March,0,0,Accident,0

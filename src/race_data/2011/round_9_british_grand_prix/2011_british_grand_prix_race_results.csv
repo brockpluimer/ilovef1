@@ -1,0 +1,25 @@
+position,number,driver,constructor,laps,grid,status,points
+1,5,Fernando Alonso,Ferrari,52,3,Finished,25
+2,1,Sebastian Vettel,Red Bull,52,2,Finished,18
+3,2,Mark Webber,Red Bull,52,1,Finished,15
+4,3,Lewis Hamilton,McLaren,52,10,Finished,12
+5,6,Felipe Massa,Ferrari,52,4,Finished,10
+6,8,Nico Rosberg,Mercedes,52,9,Finished,8
+7,17,Sergio Pérez,Sauber,52,12,Finished,6
+8,9,Nick Heidfeld,Renault,52,16,Finished,4
+9,7,Michael Schumacher,Mercedes,52,13,Finished,2
+10,19,Jaime Alguersuari,Toro Rosso,52,18,Finished,1
+11,14,Adrian Sutil,Force India,52,11,Finished,0
+12,10,Vitaly Petrov,Renault,52,14,Finished,0
+13,11,Rubens Barrichello,Williams,51,15,+1 Lap,0
+14,12,Pastor Maldonado,Williams,51,7,+1 Lap,0
+15,15,Paul di Resta,Force India,51,6,+1 Lap,0
+16,24,Timo Glock,Virgin,50,20,+2 Laps,0
+17,25,Jérôme d'Ambrosio,Virgin,50,22,+2 Laps,0
+18,23,Vitantonio Liuzzi,HRT,50,23,+2 Laps,0
+19,22,Daniel Ricciardo,HRT,49,24,+3 Laps,0
+20,4,Jenson Button,McLaren,39,5,Wheel nut,0
+21,18,Sébastien Buemi,Toro Rosso,25,19,Accident,0
+22,16,Kamui Kobayashi,Sauber,23,8,Engine,0
+23,21,Jarno Trulli,Lotus,10,21,Oil leak,0
+24,20,Heikki Kovalainen,Lotus,2,17,Gearbox,0

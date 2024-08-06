@@ -1,0 +1,25 @@
+position,number,driver,constructor,laps,grid,status,points
+1,2,Mark Webber,Red Bull,78,1,Finished,25
+2,8,Nico Rosberg,Mercedes,78,2,Finished,18
+3,5,Fernando Alonso,Ferrari,78,5,Finished,15
+4,1,Sebastian Vettel,Red Bull,78,9,Finished,12
+5,4,Lewis Hamilton,McLaren,78,3,Finished,10
+6,6,Felipe Massa,Ferrari,78,7,Finished,8
+7,11,Paul di Resta,Force India,78,14,Finished,6
+8,12,Nico Hülkenberg,Force India,78,10,Finished,4
+9,9,Kimi Räikkönen,Lotus F1,78,8,Finished,2
+10,19,Bruno Senna,Williams,78,13,Finished,1
+11,15,Sergio Pérez,Sauber,77,23,+1 Lap,0
+12,17,Jean-Éric Vergne,Toro Rosso,77,16,+1 Lap,0
+13,20,Heikki Kovalainen,Caterham,77,17,+1 Lap,0
+14,24,Timo Glock,Marussia,77,19,+1 Lap,0
+15,23,Narain Karthikeyan,HRT,76,22,+2 Laps,0
+16,3,Jenson Button,McLaren,70,12,Collision,0
+17,16,Daniel Ricciardo,Toro Rosso,65,15,Retired,0
+18,25,Charles Pic,Marussia,64,21,Retired,0
+19,7,Michael Schumacher,Mercedes,63,6,Fuel pressure,0
+20,21,Vitaly Petrov,Caterham,15,18,Electrical,0
+21,14,Kamui Kobayashi,Sauber,5,11,Accident,0
+22,22,Pedro de la Rosa,HRT,0,20,Accident,0
+23,18,Pastor Maldonado,Williams,0,24,Accident,0
+24,10,Romain Grosjean,Lotus F1,0,4,Accident,0

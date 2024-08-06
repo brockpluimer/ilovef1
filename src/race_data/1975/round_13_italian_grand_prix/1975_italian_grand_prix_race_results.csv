@@ -1,0 +1,29 @@
+position,number,driver,constructor,laps,grid,status,points
+1,11,Clay Regazzoni,Ferrari,52,2,Finished,9
+2,1,Emerson Fittipaldi,McLaren,52,3,Finished,6
+3,12,Niki Lauda,Ferrari,52,1,Finished,4
+4,7,Carlos Reutemann,Brabham,52,7,Finished,3
+5,24,James Hunt,Hesketh,52,8,Finished,2
+6,16,Tom Pryce,Shadow-Ford,52,14,Finished,1
+7,4,Patrick Depailler,Tyrrell,51,12,+1 Lap,0
+8,3,Jody Scheckter,Tyrrell,51,4,+1 Lap,0
+9,34,Harald Ertl,Hesketh,51,17,+1 Lap,0
+10,25,Brett Lunger,Hesketh,50,21,+2 Laps,0
+11,30,Arturo Merzario,Fittipaldi,48,26,+4 Laps,0
+12,32,Chris Amon,Ensign,48,19,+4 Laps,0
+13,6,Jim Crawford,Team Lotus,46,25,+6 Laps,0
+14,20,Renzo Zorzi,Williams,46,22,+6 Laps,0
+15,17,Jean-Pierre Jarier,Shadow-Matra,32,13,Fuel pump,0
+16,29,Lella Lombardi,March,21,24,Accident,0
+17,10,Hans-Joachim Stuck,March,15,16,Accident,0
+18,21,Jacques Laffite,Williams,7,18,Gearbox,0
+19,8,Carlos Pace,Brabham,6,10,Throttle,0
+20,22,Rolf Stommelen,Embassy Hill,3,23,Accident,0
+21,2,Jochen Mass,McLaren,2,5,Accident,0
+22,5,Ronnie Peterson,Team Lotus,1,11,Engine,0
+23,23,Tony Brise,Embassy Hill,1,6,Accident,0
+24,27,Mario Andretti,Parnelli,1,15,Accident,0
+25,9,Vittorio Brambilla,March,1,9,Clutch,0
+26,14,Bob Evans,BRM,0,20,Electrical,0
+27,31,Roelof Wunderink,Ensign,0,0,Did not qualify,0
+28,35,Tony Trimmer,Maki,0,0,Did not qualify,0

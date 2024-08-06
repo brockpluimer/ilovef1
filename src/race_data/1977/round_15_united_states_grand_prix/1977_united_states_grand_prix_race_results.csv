@@ -1,0 +1,28 @@
+position,number,driver,constructor,laps,grid,status,points
+1,1,James Hunt,McLaren,59,1,Finished,9
+2,5,Mario Andretti,Team Lotus,59,4,Finished,6
+3,20,Jody Scheckter,Wolf,59,9,Finished,4
+4,11,Niki Lauda,Ferrari,59,7,Finished,3
+5,22,Clay Regazzoni,Ensign,59,19,Finished,2
+6,12,Carlos Reutemann,Ferrari,58,6,+1 Lap,1
+7,26,Jacques Laffite,Ligier,58,10,+1 Lap,0
+8,24,Rupert Keegan,Hesketh,58,20,+1 Lap,0
+9,16,Jean-Pierre Jarier,Shadow,58,16,+1 Lap,0
+10,30,Brett Lunger,McLaren,57,17,+2 Laps,0
+11,18,Hans Binder,Surtees,57,25,+2 Laps,0
+12,7,John Watson,Brabham,57,3,+2 Laps,0
+13,28,Emerson Fittipaldi,Fittipaldi,57,18,+2 Laps,0
+14,4,Patrick Depailler,Tyrrell,56,8,+3 Laps,0
+15,9,Alex Ribeiro,March,56,23,+3 Laps,0
+16,3,Ronnie Peterson,Tyrrell,56,5,+3 Laps,0
+17,25,Ian Ashley,Hesketh,55,22,+4 Laps,0
+18,27,Patrick Nève,March,55,24,+4 Laps,0
+19,19,Vittorio Brambilla,Surtees,54,11,+5 Laps,0
+20,15,Jean-Pierre Jabouille,Renault,30,14,Alternator,0
+21,6,Gunnar Nilsson,Team Lotus,17,12,Accident,0
+22,8,Hans-Joachim Stuck,Brabham,14,2,Accident,0
+23,10,Ian Scheckter,March,10,21,Accident,0
+24,2,Jochen Mass,McLaren,8,15,Fuel pump,0
+25,14,Danny Ongais,Penske,6,26,Accident,0
+26,17,Alan Jones,Shadow,3,13,Accident,0
+27,23,Patrick Tambay,Ensign,0,0,Did not qualify,0

@@ -1,0 +1,28 @@
+position,number,driver,constructor,laps,grid,status,points
+1,7,Alain Prost,McLaren,71,1,Finished,9
+2,8,Niki Lauda,McLaren,71,6,Finished,6
+3,12,Nigel Mansell,Team Lotus,71,12,Finished,4
+4,11,Elio de Angelis,Team Lotus,70,3,+1 Lap,3
+5,2,Teo Fabi,Brabham,70,10,+1 Lap,2
+6,15,Patrick Tambay,Renault,70,5,+1 Lap,1
+7,25,François Hesnault,Ligier,69,20,+2 Laps,0
+8,6,Keke Rosberg,Williams,68,7,Out of fuel,0
+9,10,Jonathan Palmer,RAM,67,22,+4 Laps,0
+10,9,Philippe Alliot,RAM,67,26,+4 Laps,0
+11,28,René Arnoux,Ferrari,66,15,Electrical,0
+12,30,Jo Gartner,Osella,66,23,+5 Laps,0
+13,23,Eddie Cheever,Alfa Romeo,65,17,Out of fuel,0
+14,4,Stefan Bellof,Tyrrell,69,26,Disqualified,0
+15,3,Stefan Johansson,Tyrrell,69,25,Disqualified,0
+16,18,Thierry Boutsen,Arrows,59,11,Accident,0
+17,21,Huub Rothengatter,Spirit,53,27,Throttle,0
+18,22,Riccardo Patrese,Alfa Romeo,51,11,Engine,0
+19,26,Andrea de Cesaris,Ligier,31,14,Engine,0
+20,5,Jacques Laffite,Williams,23,8,Engine,0
+21,16,Derek Warwick,Renault,23,4,Spun off,0
+22,14,Manfred Winkelhock,ATS,22,16,Spun off,0
+23,19,Ayrton Senna,Toleman,19,13,Engine,0
+24,17,Marc Surer,Arrows,17,19,Wheel,0
+25,1,Nelson Piquet,Brabham,10,2,Oil pressure,0
+26,24,Piercarlo Ghinzani,Osella,8,21,Fuel pump,0
+27,27,Michele Alboreto,Ferrari,7,9,Engine,0

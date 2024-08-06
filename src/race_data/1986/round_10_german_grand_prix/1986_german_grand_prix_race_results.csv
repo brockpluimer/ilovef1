@@ -1,0 +1,27 @@
+position,number,driver,constructor,laps,grid,status,points
+1,6,Nelson Piquet,Williams,44,5,Finished,9
+2,12,Ayrton Senna,Team Lotus,44,3,Finished,6
+3,5,Nigel Mansell,Williams,44,6,Finished,4
+4,25,René Arnoux,Ligier,44,8,Finished,3
+5,2,Keke Rosberg,McLaren,43,1,Out of fuel,2
+6,1,Alain Prost,McLaren,43,2,Out of fuel,1
+7,8,Derek Warwick,Brabham,43,20,+1 Lap,0
+8,16,Patrick Tambay,Lola,43,13,+1 Lap,0
+9,15,Alan Jones,Lola,42,19,+2 Laps,0
+10,20,Gerhard Berger,Benetton,42,4,+2 Laps,0
+11,28,Stefan Johansson,Ferrari,41,11,Broken wing,0
+12,22,Allen Berg,Osella,40,26,+4 Laps,0
+13,17,Christian Danner,Arrows,38,17,Turbo,0
+14,29,Huub Rothengatter,Zakspeed,38,24,Gearbox,0
+15,14,Jonathan Palmer,Zakspeed,37,16,Engine,0
+16,3,Martin Brundle,Tyrrell,34,15,Electrical,0
+17,7,Riccardo Patrese,Brabham,22,7,Turbo,0
+18,23,Andrea de Cesaris,Minardi,20,23,Gearbox,0
+19,24,Alessandro Nannini,Minardi,19,22,Overheating,0
+20,11,Johnny Dumfries,Team Lotus,17,12,Radiator,0
+21,18,Thierry Boutsen,Arrows,13,21,Turbo,0
+22,26,Philippe Alliot,Ligier,11,14,Engine,0
+23,21,Piercarlo Ghinzani,Osella,10,25,Clutch,0
+24,4,Philippe Streiff,Tyrrell,7,18,Engine,0
+25,27,Michele Alboreto,Ferrari,6,10,Transmission,0
+26,19,Teo Fabi,Benetton,0,9,Accident,0

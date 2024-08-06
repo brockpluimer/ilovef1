@@ -1,0 +1,31 @@
+position,number,driver,constructor,laps,grid,status,points
+1,12,Gilles Villeneuve,Ferrari,59,3,Finished,9
+2,16,René Arnoux,Renault,59,7,Finished,6
+3,3,Didier Pironi,Tyrrell,59,10,Finished,4
+4,18,Elio de Angelis,Shadow,59,20,Finished,3
+5,9,Hans-Joachim Stuck,ATS,59,14,Finished,2
+6,7,John Watson,McLaren,58,13,+1 Lap,1
+7,14,Emerson Fittipaldi,Fittipaldi,54,23,+5 Laps,0
+8,6,Nelson Piquet,Brabham-Ford,53,2,Transmission,0
+9,33,Derek Daly,Tyrrell,52,15,Spun off,0
+10,11,Jody Scheckter,Ferrari,48,16,Tyre,0
+11,29,Riccardo Patrese,Arrows,44,19,Suspension,0
+12,27,Alan Jones,Williams,36,1,Wheel,0
+13,22,Marc Surer,Ensign,32,21,Engine,0
+14,28,Clay Regazzoni,Williams,29,5,Accident,0
+15,5,Ricardo Zunino,Brabham-Ford,25,9,Spun off,0
+16,15,Jean-Pierre Jabouille,Renault,24,8,Engine,0
+17,20,Keke Rosberg,Wolf,20,12,Accident,0
+18,8,Patrick Tambay,McLaren,20,22,Engine,0
+19,4,Jean-Pierre Jarier,Tyrrell,18,11,Accident,0
+20,1,Mario Andretti,Team Lotus,16,17,Gearbox,0
+21,2,Carlos Reutemann,Team Lotus,6,6,Spun off,0
+22,26,Jacques Laffite,Ligier,3,4,Spun off,0
+23,25,Jacky Ickx,Ligier,2,24,Spun off,0
+24,35,Bruno Giacomelli,Alfa Romeo,0,18,Spun off,0
+25,36,Vittorio Brambilla,Alfa Romeo,0,0,Did not qualify,0
+26,30,Jochen Mass,Arrows,0,0,Did not qualify,0
+27,17,Jan Lammers,Shadow,0,0,Did not qualify,0
+28,31,Hector Rebaque,Rebaque,0,0,Did not qualify,0
+29,19,Alex Ribeiro,Fittipaldi,0,0,Did not qualify,0
+30,24,Arturo Merzario,Merzario,0,0,Did not qualify,0

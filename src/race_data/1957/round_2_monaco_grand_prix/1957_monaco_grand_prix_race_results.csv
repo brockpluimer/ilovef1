@@ -1,0 +1,24 @@
+position,number,driver,constructor,laps,grid,status,points
+1,32,Juan Fangio,Maserati,105,1,Finished,9
+2,20,Tony Brooks,Vanwall,105,4,Finished,6
+3,2,Masten Gregory,Maserati,103,10,+2 Laps,4
+4,10,Stuart Lewis-Evans,Connaught,102,13,+3 Laps,3
+5,30,Maurice Trintignant,Ferrari,100,6,+5 Laps,2
+6,14,Jack Brabham,Cooper,100,15,+5 Laps,0
+7,24,Mike Hawthorn,Ferrari,95,9,Engine,0
+7,24,Wolfgang von Trips,Ferrari,95,9,Engine,0
+8,34,Giorgio Scarlatti,Maserati,64,14,Oil leak,0
+8,34,Harry Schell,Maserati,64,14,Oil leak,0
+9,6,Ron Flockhart,BRM,60,11,Engine,0
+10,36,Carlos Menditeguy,Maserati,51,7,Spun off,0
+11,12,Ivor Bueb,Connaught,47,16,Fuel leak,0
+12,38,Harry Schell,Maserati,23,8,Suspension,0
+13,22,Horace Gould,Maserati,10,12,Accident,0
+14,26,Peter Collins,Ferrari,4,2,Accident,0
+15,18,Stirling Moss,Vanwall,4,3,Accident,0
+16,28,Mike Hawthorn,Ferrari,4,5,Accident,0
+17,8,Roy Salvadori,BRM,0,0,Did not qualify,0
+18,40,Hans Herrmann,Maserati,0,0,Did not qualify,0
+19,4,André Simon,Maserati,0,0,Did not qualify,0
+20,42,Luigi Piotti,Maserati,0,0,Did not qualify,0
+21,16,Les Leston,Cooper,0,0,Did not qualify,0

@@ -1,0 +1,29 @@
+position,number,driver,constructor,laps,grid,status,points
+1,16,René Arnoux,Renault,40,6,Finished,9
+2,12,Elio de Angelis,Team Lotus,40,7,Finished,6
+3,27,Alan Jones,Williams,40,10,Finished,4
+4,25,Didier Pironi,Ligier,40,2,Finished,3
+5,8,Alain Prost,McLaren,40,13,Finished,2
+6,29,Riccardo Patrese,Arrows,39,14,+1 Lap,1
+7,9,Marc Surer,ATS,39,20,+1 Lap,0
+8,6,Ricardo Zunino,Brabham,39,18,+1 Lap,0
+9,21,Keke Rosberg,Fittipaldi,39,15,+1 Lap,0
+10,30,Jochen Mass,Arrows,39,16,+1 Lap,0
+11,7,John Watson,McLaren,39,23,+1 Lap,0
+12,3,Jean-Pierre Jarier,Tyrrell,39,22,+1 Lap,0
+13,23,Bruno Giacomelli,Alfa Romeo,39,17,+1 Lap,0
+14,4,Derek Daly,Tyrrell,38,24,+2 Laps,0
+15,20,Emerson Fittipaldi,Fittipaldi,38,19,+2 Laps,0
+16,2,Gilles Villeneuve,Ferrari,36,3,Throttle,0
+17,22,Patrick Depailler,Alfa Romeo,33,21,Electrical,0
+18,15,Jean-Pierre Jabouille,Renault,25,1,Turbo,0
+19,5,Nelson Piquet,Brabham,14,9,Suspension,0
+20,26,Jacques Laffite,Ligier,13,5,Electrical,0
+21,14,Clay Regazzoni,Ensign,13,12,Engine,0
+22,1,Jody Scheckter,Ferrari,10,8,Engine,0
+23,11,Mario Andretti,Team Lotus,1,11,Spun off,0
+24,28,Carlos Reutemann,Williams,1,4,Halfshaft,0
+25,10,Jan Lammers,ATS,0,0,Did not qualify,0
+26,18,Dave Kennedy,Shadow,0,0,Did not qualify,0
+27,17,Stefan Johansson,Shadow,0,0,Did not qualify,0
+28,31,Eddie Cheever,Osella,0,0,Did not qualify,0

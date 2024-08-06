@@ -1,0 +1,16 @@
+position,number,driver,constructor,laps,grid,status,points
+1,3,Jack Brabham,Brabham-Repco,80,2,Finished,9
+2,4,Denny Hulme,Brabham-Repco,80,6,Finished,6
+3,10,Jackie Stewart,BRM,79,10,+1 Lap,4
+4,18,Jo Siffert,Cooper-Maserati,77,11,+3 Laps,3
+5,15,Chris Irwin,BRM,76,9,Engine,2
+6,14,Pedro Rodríguez,Cooper-Maserati,76,13,+4 Laps,1
+7,16,Guy Ligier,Cooper-Maserati,68,15,Not classified,0
+8,2,Chris Amon,Ferrari,47,7,Throttle,0
+9,9,Dan Gurney,Eagle-Weslake,40,3,Fuel leak,0
+10,12,Jochen Rindt,Cooper-Maserati,33,8,Engine,0
+11,8,Bruce McLaren,Eagle-Weslake,26,5,Ignition,0
+12,6,Jim Clark,Lotus-Ford,23,4,Differential,0
+13,17,Bob Anderson,Brabham-Climax,16,14,Ignition,0
+14,7,Graham Hill,Lotus-Ford,13,1,Differential,0
+15,11,Mike Spence,BRM,9,12,Halfshaft,0

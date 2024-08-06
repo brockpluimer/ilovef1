@@ -1,0 +1,31 @@
+position,number,driver,constructor,laps,grid,status,points
+1,5,Nigel Mansell,Williams,45,1,Finished,10
+2,1,Ayrton Senna,McLaren,45,3,Finished,6
+3,19,Michael Schumacher,Benetton,45,6,Finished,4
+4,20,Martin Brundle,Benetton,45,9,Finished,3
+5,27,Jean Alesi,Ferrari,45,5,Finished,2
+6,26,Érik Comas,Ligier,45,7,Finished,1
+7,25,Thierry Boutsen,Ligier,45,8,Finished,0
+8,6,Riccardo Patrese,Williams,44,2,Spun off,0
+9,9,Michele Alboreto,Footwork,44,17,+1 Lap,0
+10,21,Jyrki Järvilehto,Dallara,44,21,+1 Lap,0
+11,22,Pierluigi Martini,Dallara,44,18,+1 Lap,0
+12,24,Gianni Morbidelli,Minardi,44,26,+1 Lap,0
+13,17,Paul Belmondo,March,44,22,+1 Lap,0
+14,29,Bertrand Gachot,Larrousse,44,25,+1 Lap,0
+15,33,Maurício Gugelmin,Jordan,43,23,+2 Laps,0
+16,16,Karl Wendlinger,March,42,10,+3 Laps,0
+17,15,Gabriele Tarquini,Fondmetal,33,19,Engine,0
+18,4,Andrea de Cesaris,Tyrrell,25,20,Engine,0
+19,12,Johnny Herbert,Team Lotus,23,11,Engine,0
+20,28,Ivan Capelli,Ferrari,21,12,Engine,0
+21,11,Mika Häkkinen,Team Lotus,21,13,Engine,0
+22,2,Gerhard Berger,McLaren,16,4,Electrical,0
+23,3,Olivier Grouillard,Tyrrell,8,14,Engine,0
+24,30,Ukyo Katayama,Larrousse,8,16,Spun off,0
+25,10,Aguri Suzuki,Footwork,1,15,Spun off,0
+26,23,Alessandro Zanardi,Minardi,1,24,Gearbox,0
+27,32,Stefano Modena,Jordan,0,0,Did not qualify,0
+28,7,Eric van de Poele,Brabham,0,0,Did not qualify,0
+29,14,Andrea Chiesa,Fondmetal,0,0,Did not qualify,0
+30,8,Damon Hill,Brabham,0,0,Did not qualify,0

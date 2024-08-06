@@ -1,0 +1,25 @@
+position,number,driver,constructor,laps,grid,status,points
+1,5,Fernando Alonso,Ferrari,67,1,Finished,25
+2,3,Jenson Button,McLaren,67,6,Finished,18
+3,9,Kimi Räikkönen,Lotus F1,67,10,Finished,15
+4,14,Kamui Kobayashi,Sauber,67,12,Finished,12
+5,1,Sebastian Vettel,Red Bull,67,2,Finished,10
+6,15,Sergio Pérez,Sauber,67,17,Finished,8
+7,7,Michael Schumacher,Mercedes,67,3,Finished,6
+8,2,Mark Webber,Red Bull,67,8,Finished,4
+9,12,Nico Hülkenberg,Force India,67,4,Finished,2
+10,8,Nico Rosberg,Mercedes,67,21,Finished,1
+11,11,Paul di Resta,Force India,67,9,Finished,0
+12,6,Felipe Massa,Ferrari,67,13,Finished,0
+13,16,Daniel Ricciardo,Toro Rosso,67,11,Finished,0
+14,17,Jean-Éric Vergne,Toro Rosso,67,15,Finished,0
+15,18,Pastor Maldonado,Williams,66,5,+1 Lap,0
+16,21,Vitaly Petrov,Caterham,66,18,+1 Lap,0
+17,19,Bruno Senna,Williams,66,14,+1 Lap,0
+18,10,Romain Grosjean,Lotus F1,66,19,+1 Lap,0
+19,20,Heikki Kovalainen,Caterham,65,16,+2 Laps,0
+20,25,Charles Pic,Marussia,65,20,+2 Laps,0
+21,22,Pedro de la Rosa,HRT,64,23,+3 Laps,0
+22,24,Timo Glock,Marussia,64,22,+3 Laps,0
+23,23,Narain Karthikeyan,HRT,64,24,+3 Laps,0
+24,4,Lewis Hamilton,McLaren,56,7,Puncture,0

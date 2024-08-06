@@ -1,0 +1,22 @@
+position,number,driver,constructor,laps,grid,status,points
+1,15,Innes Ireland,Lotus-Climax,100,8,Finished,9
+2,12,Dan Gurney,Porsche,100,7,Finished,6
+3,5,Tony Brooks,BRM,100,5,Finished,4
+4,2,Bruce McLaren,Cooper-Climax,100,4,Finished,3
+5,4,Graham Hill,BRM,99,2,+1 Lap,2
+6,11,Jo Bonnier,Porsche,98,10,+2 Laps,1
+7,14,Jim Clark,Lotus-Climax,96,6,+4 Laps,0
+8,6,Roger Penske,Cooper-Climax,96,16,+4 Laps,0
+9,16,Peter Ryan,Lotus-Climax,96,13,+4 Laps,0
+10,3,Hap Sharp,Cooper-Climax,93,17,+7 Laps,0
+11,21,Olivier Gendebien,Lotus-Climax,92,15,+8 Laps,0
+11,21,Masten Gregory,Lotus-Climax,92,15,+8 Laps,0
+12,19,Roy Salvadori,Cooper-Climax,96,12,Engine,0
+13,17,Jim Hall,Lotus-Climax,76,18,Fuel leak,0
+14,26,Lloyd Ruby,Lotus-Climax,76,19,Magneto,0
+15,7,Stirling Moss,Lotus-Climax,58,3,Engine,0
+16,1,Jack Brabham,Cooper-Climax,57,1,Overheating,0
+17,22,Masten Gregory,Lotus-Climax,23,11,Gearbox,0
+18,60,Walt Hansgen,Cooper-Climax,14,14,Accident,0
+19,18,John Surtees,Cooper-Climax,0,9,Engine,0
+20,23,Ken Miles,Lotus-Climax,0,0,Withdrew,0

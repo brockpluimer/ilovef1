@@ -1,0 +1,18 @@
+position,number,driver,constructor,laps,grid,status,points
+1,20,Phil Hill,Ferrari,50,1,Finished,8
+2,18,Richie Ginther,Ferrari,50,2,Finished,6
+3,16,Willy Mairesse,Ferrari,49,3,+1 Lap,4
+4,2,Giulio Cabianca,Cooper-Castellotti,48,4,+2 Laps,3
+5,22,Wolfgang von Trips,Ferrari,48,6,+2 Laps,2
+6,26,Hans Herrmann,Porsche,47,10,+3 Laps,1
+7,24,Edgar Barth,Porsche,47,12,+3 Laps,0
+8,12,Piero Drogo,Cooper-Climax,45,15,+5 Laps,0
+9,10,Wolfgang Seidel,Cooper-Climax,44,13,+6 Laps,0
+10,28,Fred Gamble,Behra-Porsche,41,14,+9 Laps,0
+11,6,Brian Naylor,JBW,41,7,Gearbox,0
+12,34,Alfonso Thiele,Cooper-Maserati,32,9,Gearbox,0
+13,4,Gino Munaron,Cooper-Castellotti,27,8,Engine,0
+14,36,Giorgio Scarlatti,Cooper-Maserati,26,5,Engine,0
+15,30,Vic Wilson,Cooper-Climax,23,16,Engine,0
+16,8,Arthur Owen,Cooper-Climax,0,11,Accident,0
+17,14,Horace Gould,Maserati,0,0,Fuel system,0

@@ -1,0 +1,27 @@
+position,number,driver,constructor,laps,grid,status,points
+1,1,Michael Schumacher,Benetton,71,2,Finished,10
+2,6,David Coulthard,Williams,71,3,Finished,6
+3,28,Gerhard Berger,Ferrari,70,5,+1 Lap,4
+4,8,Mika Häkkinen,McLaren,70,7,+1 Lap,3
+5,27,Jean Alesi,Ferrari,70,6,+1 Lap,2
+6,7,Mark Blundell,McLaren,70,9,+1 Lap,1
+7,4,Mika Salo,Tyrrell,69,12,+2 Laps,0
+8,25,Aguri Suzuki,Ligier,69,15,+2 Laps,0
+9,17,Andrea Montermini,Pacific,65,22,+6 Laps,0
+10,21,Pedro Diniz,Forti,64,25,+7 Laps,0
+11,9,Gianni Morbidelli,Footwork,62,13,Engine,0
+12,10,Taki Inoue,Footwork,48,21,Engine,0
+13,24,Luca Badoer,Minardi,47,18,Engine,0
+14,22,Roberto Moreno,Forti,47,23,Spun off,0
+15,29,Karl Wendlinger,Sauber,41,19,Electrical,0
+16,5,Damon Hill,Williams,30,1,Gearbox,0
+17,2,Johnny Herbert,Benetton,30,4,Collision,0
+18,16,Bertrand Gachot,Pacific,23,20,Gearbox,0
+19,14,Rubens Barrichello,Jordan,16,16,Gearbox,0
+20,12,Jos Verstappen,Simtek,16,24,Gearbox,0
+21,3,Ukyo Katayama,Tyrrell,15,11,Spun off,0
+22,15,Eddie Irvine,Jordan,15,8,Clutch,0
+23,11,Domenico Schiattarella,Simtek,12,26,Steering,0
+24,30,Heinz-Harald Frentzen,Sauber,10,14,Electrical,0
+25,26,Olivier Panis,Ligier,0,10,Collision,0
+26,23,Pierluigi Martini,Minardi,0,17,Gearbox,0

@@ -1,0 +1,25 @@
+position,number,driver,constructor,laps,grid,status,points
+1,3,Lewis Hamilton,McLaren,55,2,Finished,25
+2,5,Fernando Alonso,Ferrari,55,5,Finished,18
+3,4,Jenson Button,McLaren,55,3,Finished,15
+4,2,Mark Webber,Red Bull,55,4,Finished,12
+5,6,Felipe Massa,Ferrari,55,6,Finished,10
+6,8,Nico Rosberg,Mercedes,55,7,Finished,8
+7,7,Michael Schumacher,Mercedes,55,8,Finished,6
+8,14,Adrian Sutil,Force India,55,9,Finished,4
+9,15,Paul di Resta,Force India,55,10,Finished,2
+10,16,Kamui Kobayashi,Sauber,54,16,+1 Lap,1
+11,17,Sergio Pérez,Sauber,54,11,+1 Lap,0
+12,11,Rubens Barrichello,Williams,54,24,+1 Lap,0
+13,10,Vitaly Petrov,Renault,54,12,+1 Lap,0
+14,12,Pastor Maldonado,Williams,54,23,+1 Lap,0
+15,19,Jaime Alguersuari,Toro Rosso,54,15,+1 Lap,0
+16,9,Bruno Senna,Renault,54,14,+1 Lap,0
+17,20,Heikki Kovalainen,Lotus,54,17,+1 Lap,0
+18,21,Jarno Trulli,Lotus,53,18,+2 Laps,0
+19,24,Timo Glock,Virgin,53,19,+2 Laps,0
+20,23,Vitantonio Liuzzi,HRT,53,22,+2 Laps,0
+21,22,Daniel Ricciardo,HRT,48,20,Mechanical,0
+22,18,Sébastien Buemi,Toro Rosso,19,13,Hydraulics,0
+23,25,Jérôme d'Ambrosio,Virgin,18,21,Brakes,0
+24,1,Sebastian Vettel,Red Bull,1,1,Puncture,0

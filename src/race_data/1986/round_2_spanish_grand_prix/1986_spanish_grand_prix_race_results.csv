@@ -1,0 +1,26 @@
+position,number,driver,constructor,laps,grid,status,points
+1,12,Ayrton Senna,Team Lotus,72,1,Finished,9
+2,5,Nigel Mansell,Williams,72,3,Finished,6
+3,1,Alain Prost,McLaren,72,4,Finished,4
+4,2,Keke Rosberg,McLaren,71,5,+1 Lap,3
+5,19,Teo Fabi,Benetton,71,9,+1 Lap,2
+6,20,Gerhard Berger,Benetton,71,7,+1 Lap,1
+7,18,Thierry Boutsen,Arrows,68,19,+4 Laps,0
+8,16,Patrick Tambay,Lola,66,18,+6 Laps,0
+9,11,Johnny Dumfries,Team Lotus,52,10,Gearbox,0
+10,3,Martin Brundle,Tyrrell,41,12,Engine,0
+11,26,Jacques Laffite,Ligier,40,8,Halfshaft,0
+12,17,Marc Surer,Arrows,39,22,Fuel system,0
+13,6,Nelson Piquet,Williams,39,2,Engine,0
+14,8,Elio de Angelis,Brabham,29,15,Gearbox,0
+15,25,René Arnoux,Ligier,29,6,Halfshaft,0
+16,27,Michele Alboreto,Ferrari,22,13,Wheel bearing,0
+17,4,Philippe Streiff,Tyrrell,22,20,Engine,0
+18,22,Christian Danner,Osella,14,23,Engine,0
+19,28,Stefan Johansson,Ferrari,11,11,Brakes,0
+20,21,Piercarlo Ghinzani,Osella,10,21,Engine,0
+21,7,Riccardo Patrese,Brabham,8,14,Gearbox,0
+22,23,Andrea de Cesaris,Minardi,1,24,Differential,0
+23,14,Jonathan Palmer,Zakspeed,0,16,Collision,0
+24,15,Alan Jones,Lola,0,17,Collision,0
+25,24,Alessandro Nannini,Minardi,0,25,Differential,0

@@ -1,0 +1,31 @@
+position,number,driver,constructor,laps,grid,status,points
+1,5,Mario Andretti,Team Lotus,45,1,Finished,9
+2,20,Jody Scheckter,Wolf,45,4,Finished,6
+3,26,Jacques Laffite,Ligier,45,7,Finished,4
+4,14,Emerson Fittipaldi,Fittipaldi,45,10,Finished,3
+5,3,Didier Pironi,Tyrrell,45,16,Finished,2
+6,25,Hector Rebaque,Team Lotus,45,18,Finished,1
+7,2,John Watson,Brabham,45,5,Finished,0
+8,12,Gilles Villeneuve,Ferrari,45,15,Finished,0
+9,35,Riccardo Patrese,Arrows,44,14,+1 Lap,0
+10,32,Keke Rosberg,Wolf,42,19,+3 Laps,0
+11,23,Harald Ertl,Ensign,41,17,Engine,0
+12,36,Rolf Stommelen,Arrows,42,23,Disqualified,0
+13,6,Ronnie Peterson,Team Lotus,36,2,Gearbox,0
+14,7,James Hunt,McLaren,34,8,Disqualified,0
+15,27,Alan Jones,Williams,31,6,Fuel system,0
+16,22,Nelson Piquet,Ensign,31,21,Engine,0
+17,19,Vittorio Brambilla,Surtees,24,20,Fuel system,0
+18,8,Patrick Tambay,McLaren,16,11,Accident,0
+19,11,Carlos Reutemann,Ferrari,14,12,Fuel system,0
+20,1,Niki Lauda,Brabham,11,3,Engine,0
+21,15,Jean-Pierre Jabouille,Renault,5,9,Engine,0
+22,9,Jochen Mass,ATS,1,22,Accident,0
+23,16,Hans-Joachim Stuck,Shadow,1,24,Accident,0
+24,4,Patrick Depailler,Tyrrell,0,13,Accident,0
+25,17,Clay Regazzoni,Shadow,0,0,Did not qualify,0
+26,10,Jean-Pierre Jarier,ATS,0,0,Did not qualify,0
+27,18,Rupert Keegan,Surtees,0,0,Did not qualify,0
+28,37,Arturo Merzario,Merzario,0,0,Did not qualify,0
+29,31,René Arnoux,Martini,0,0,Did not prequalify,0
+30,30,Brett Lunger,McLaren,0,0,Did not prequalify,0

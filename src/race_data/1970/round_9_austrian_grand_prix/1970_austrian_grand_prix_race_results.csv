@@ -1,0 +1,25 @@
+position,number,driver,constructor,laps,grid,status,points
+1,12,Jacky Ickx,Ferrari,60,3,Finished,9
+2,27,Clay Regazzoni,Ferrari,60,2,Finished,6
+3,11,Rolf Stommelen,Brabham,60,17,Finished,4
+4,17,Pedro Rodríguez,BRM,59,22,+1 Lap,3
+5,16,Jackie Oliver,BRM,59,14,+1 Lap,2
+6,19,Jean-Pierre Beltoise,Matra,59,7,+1 Lap,1
+7,14,Ignazio Giunti,Ferrari,59,5,+1 Lap,0
+8,4,Chris Amon,March,59,5,+1 Lap,0
+9,3,Jo Siffert,March,59,20,+1 Lap,0
+10,23,Peter Gethin,McLaren-Ford,59,21,+1 Lap,0
+11,18,George Eaton,BRM,58,23,+2 Laps,0
+12,22,Andrea de Adamich,McLaren-Alfa Romeo,57,15,+3 Laps,0
+13,10,Jack Brabham,Brabham,56,8,+4 Laps,0
+14,20,Henri Pescarolo,Matra,56,13,+4 Laps,0
+15,8,Emerson Fittipaldi,Team Lotus,55,16,+5 Laps,0
+16,21,Denny Hulme,McLaren-Ford,30,11,Engine,0
+17,15,John Surtees,Surtees,27,12,Engine,0
+18,26,Tim Schenken,De Tomaso,25,19,Engine,0
+19,6,Jochen Rindt,Team Lotus,21,1,Engine,0
+20,5,Mario Andretti,March,13,18,Accident,0
+21,24,Silvio Moser,Bellasi,13,24,Radiator,0
+22,1,Jackie Stewart,March,7,4,Fuel pipe,0
+23,7,John Miles,Team Lotus,4,10,Brakes,0
+24,2,François Cevert,March,0,9,Engine,0

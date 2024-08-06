@@ -1,0 +1,19 @@
+position,number,driver,constructor,laps,grid,status,points
+1,6,John Surtees,Ferrari,28,1,Finished,9
+2,19,Jochen Rindt,Cooper-Maserati,28,2,Finished,6
+3,7,Lorenzo Bandini,Ferrari,27,5,+1 Lap,4
+4,3,Jack Brabham,Brabham-Repco,26,4,+2 Laps,3
+5,18,Richie Ginther,Cooper-Maserati,25,8,+3 Laps,2
+6,22,Guy Ligier,Cooper-Maserati,24,12,Not classified,0
+7,27,Dan Gurney,Eagle-Climax,23,15,Not classified,0
+8,15,Jackie Stewart,BRM,0,3,Accident,0
+9,20,Jo Bonnier,Cooper-Maserati,0,6,Accident,0
+10,16,Mike Spence,Lotus-BRM,0,7,Accident,0
+11,14,Graham Hill,BRM,0,9,Accident,0
+12,10,Jim Clark,Lotus-Climax,0,10,Engine,0
+13,8,Bob Bondurant,BRM,0,11,Accident,0
+14,4,Denny Hulme,Brabham-Climax,0,13,Accident,0
+15,21,Jo Siffert,Cooper-Maserati,0,14,Accident,0
+16,24,Bruce McLaren,McLaren-Serenissima,0,0,Withdrew,0
+17,11,Peter Arundell,Lotus-BRM,0,0,Engine,0
+18,8,Vic Wilson,BRM,0,0,Withdrew,0

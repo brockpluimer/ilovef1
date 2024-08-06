@@ -1,0 +1,18 @@
+position,number,driver,constructor,laps,grid,status,points
+1,3,Wolfgang von Trips,Ferrari,75,2,Finished,9
+2,1,Phil Hill,Ferrari,75,1,Finished,6
+3,15,Jim Clark,Lotus-Climax,75,11,Finished,4
+4,14,Stirling Moss,Lotus-Climax,75,4,Finished,3
+5,2,Richie Ginther,Ferrari,75,3,Finished,2
+6,10,Jack Brabham,Cooper-Climax,75,7,Finished,1
+7,12,John Surtees,Cooper-Climax,75,9,Finished,0
+8,4,Graham Hill,BRM,75,5,Finished,0
+9,5,Tony Brooks,BRM,74,8,+1 Lap,0
+10,7,Dan Gurney,Porsche,74,6,+1 Lap,0
+11,6,Jo Bonnier,Porsche,73,12,+2 Laps,0
+12,11,Bruce McLaren,Cooper-Climax,73,14,+2 Laps,0
+13,16,Trevor Taylor,Lotus-Climax,73,16,+2 Laps,0
+14,8,Carel Godin de Beaufort,Porsche,72,17,+3 Laps,0
+15,9,Hans Herrmann,Porsche,72,13,+3 Laps,0
+16,17,Masten Gregory,Cooper-Climax,0,0,Withdrew,0
+17,18,Ian Burgess,Lotus-Climax,0,0,Withdrew,0

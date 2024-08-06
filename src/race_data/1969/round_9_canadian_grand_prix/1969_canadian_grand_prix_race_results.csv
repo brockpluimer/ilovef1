@@ -1,0 +1,21 @@
+position,number,driver,constructor,laps,grid,status,points
+1,11,Jacky Ickx,Brabham-Ford,90,1,Finished,9
+2,12,Jack Brabham,Brabham-Ford,90,6,Finished,6
+3,2,Jochen Rindt,Lotus-Ford,90,3,Finished,4
+4,18,Jean-Pierre Beltoise,Matra-Ford,89,2,+1 Lap,3
+5,4,Bruce McLaren,McLaren-Ford,87,9,+3 Laps,2
+6,19,Johnny Servoz-Gavin,Matra-Ford,84,15,+6 Laps,1
+7,25,Pete Lovely,Lotus-Ford,81,16,+9 Laps,0
+8,16,Bill Brack,BRM,80,18,Not classified,0
+9,1,Graham Hill,Lotus-Ford,42,7,Engine,0
+10,9,Jo Siffert,Lotus-Ford,40,8,Halfshaft,0
+11,3,John Miles,Lotus-Ford,40,11,Gearbox,0
+12,6,Pedro Rodríguez,Ferrari,37,13,Oil pressure,0
+13,17,Jackie Stewart,Matra-Ford,32,4,Collision,0
+14,69,Al Pease,Eagle-Climax,22,17,Disqualified,0
+15,14,John Surtees,BRM,15,14,Engine,0
+16,21,Piers Courage,Brabham-Ford,13,10,Fuel leak,0
+17,26,John Cordts,Brabham-Climax,10,19,Oil leak,0
+18,5,Denny Hulme,McLaren-Ford,9,5,Distributor,0
+19,15,Jackie Oliver,BRM,2,12,Engine,0
+20,20,Silvio Moser,Brabham-Ford,0,20,Accident,0

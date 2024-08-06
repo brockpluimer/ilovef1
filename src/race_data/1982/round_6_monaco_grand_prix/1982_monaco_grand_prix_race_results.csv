@@ -1,0 +1,31 @@
+position,number,driver,constructor,laps,grid,status,points
+1,2,Riccardo Patrese,Brabham,76,2,Finished,9
+2,28,Didier Pironi,Ferrari,75,5,Out of fuel,6
+3,22,Andrea de Cesaris,Alfa Romeo,75,7,Out of fuel,4
+4,12,Nigel Mansell,Team Lotus,75,11,+1 Lap,3
+5,11,Elio de Angelis,Team Lotus,75,15,+1 Lap,2
+6,5,Derek Daly,Williams,74,8,Gearbox,1
+7,15,Alain Prost,Renault,73,4,Spun off,0
+8,4,Brian Henton,Tyrrell,72,17,+4 Laps,0
+9,29,Marc Surer,Arrows,70,19,+6 Laps,0
+10,3,Michele Alboreto,Tyrrell,69,9,Suspension,0
+11,6,Keke Rosberg,Williams,64,6,Collision,0
+12,8,Niki Lauda,McLaren,56,12,Engine,0
+13,1,Nelson Piquet,Brabham,49,13,Turbo,0
+14,7,John Watson,McLaren,35,10,Electrical,0
+15,9,Manfred Winkelhock,ATS,31,14,Differential,0
+16,26,Jacques Laffite,Ligier,29,18,Handling,0
+17,25,Eddie Cheever,Ligier,27,16,Oil leak,0
+18,10,Eliseo Salazar,ATS,22,20,Mechanical,0
+19,16,René Arnoux,Renault,14,1,Spun off,0
+20,23,Bruno Giacomelli,Alfa Romeo,4,3,Halfshaft,0
+21,30,Mauro Baldi,Arrows,0,0,Did not qualify,0
+22,33,Jan Lammers,Theodore,0,0,Did not qualify,0
+23,17,Jochen Mass,March,0,0,Did not qualify,0
+24,35,Derek Warwick,Toleman,0,0,Did not qualify,0
+25,31,Jean-Pierre Jarier,Osella,0,0,Did not qualify,0
+26,14,Roberto Guerrero,Ensign,0,0,Did not qualify,0
+27,36,Teo Fabi,Toleman,0,0,Did not prequalify,0
+28,32,Riccardo Paletti,Osella,0,0,Did not prequalify,0
+29,18,Raul Boesel,March,0,0,Did not prequalify,0
+30,20,Chico Serra,Fittipaldi,0,0,Did not prequalify,0

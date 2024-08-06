@@ -1,0 +1,27 @@
+position,number,driver,constructor,laps,grid,status,points
+1,5,Michael Schumacher,Benetton,78,1,Finished,10
+2,8,Martin Brundle,McLaren,78,8,Finished,6
+3,28,Gerhard Berger,Ferrari,78,3,Finished,4
+4,15,Andrea de Cesaris,Jordan,77,14,+1 Lap,3
+5,27,Jean Alesi,Ferrari,77,5,+1 Lap,2
+6,24,Michele Alboreto,Minardi,77,12,+1 Lap,1
+7,6,Jyrki Järvilehto,Benetton,77,17,+1 Lap,0
+8,19,Olivier Beretta,Larrousse,76,18,+2 Laps,0
+9,26,Olivier Panis,Ligier,76,20,+2 Laps,0
+10,20,Érik Comas,Larrousse,75,13,+3 Laps,0
+11,11,Pedro Lamy,Team Lotus,73,19,+5 Laps,0
+12,12,Johnny Herbert,Team Lotus,68,16,Gearbox,0
+13,33,Paul Belmondo,Pacific,53,24,Physical,0
+14,34,Bertrand Gachot,Pacific,49,23,Gearbox,0
+15,9,Christian Fittipaldi,Footwork,47,6,Gearbox,0
+16,31,David Brabham,Simtek,45,22,Engine,0
+17,4,Mark Blundell,Tyrrell,40,10,Engine,0
+18,3,Ukyo Katayama,Tyrrell,38,11,Gearbox,0
+19,25,Éric Bernard,Ligier,34,21,Spun off,0
+20,14,Rubens Barrichello,Jordan,27,15,Electrical,0
+21,7,Mika Häkkinen,McLaren,0,2,Collision,0
+22,0,Damon Hill,Williams,0,4,Collision,0
+23,10,Gianni Morbidelli,Footwork,0,7,Collision,0
+24,23,Pierluigi Martini,Minardi,0,9,Collision,0
+25,30,Heinz-Harald Frentzen,Sauber,0,0,Withdrew,0
+26,29,Karl Wendlinger,Sauber,0,0,Injury,0

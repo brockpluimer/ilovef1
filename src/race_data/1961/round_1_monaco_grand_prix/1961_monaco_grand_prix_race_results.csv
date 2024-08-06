@@ -1,0 +1,22 @@
+position,number,driver,constructor,laps,grid,status,points
+1,20,Stirling Moss,Lotus-Climax,100,1,Finished,9
+2,36,Richie Ginther,Ferrari,100,2,Finished,6
+3,38,Phil Hill,Ferrari,100,5,Finished,4
+4,40,Wolfgang von Trips,Ferrari,98,6,Accident,3
+5,4,Dan Gurney,Porsche,98,11,+2 Laps,2
+6,26,Bruce McLaren,Cooper-Climax,95,7,+5 Laps,1
+7,42,Maurice Trintignant,Cooper-Maserati,95,16,+5 Laps,0
+8,32,Cliff Allison,Lotus-Climax,93,15,+7 Laps,0
+9,6,Hans Herrmann,Porsche,91,13,+9 Laps,0
+10,28,Jim Clark,Lotus-Climax,89,3,+11 Laps,0
+11,22,John Surtees,Cooper-Climax,68,12,Engine,0
+12,2,Jo Bonnier,Porsche,59,9,Injection,0
+13,16,Tony Brooks,BRM,54,8,Engine,0
+14,8,Michael May,Lotus-Climax,42,14,Oil pipe,0
+15,24,Jack Brabham,Cooper-Climax,38,21,Ignition,0
+16,18,Graham Hill,BRM,11,4,Fuel pump,0
+17,30,Innes Ireland,Lotus-Climax,0,0,Withdrew,0
+18,34,Henry Taylor,Lotus-Climax,0,0,Did not qualify,0
+19,14,Masten Gregory,Cooper-Climax,0,0,Did not qualify,0
+20,10,Lucien Bianchi,Emeryson,0,0,Did not qualify,0
+21,12,Olivier Gendebien,Emeryson,0,0,Did not qualify,0

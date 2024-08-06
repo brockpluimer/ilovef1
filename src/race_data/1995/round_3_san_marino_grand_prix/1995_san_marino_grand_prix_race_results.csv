@@ -1,0 +1,27 @@
+position,number,driver,constructor,laps,grid,status,points
+1,5,Damon Hill,Williams,63,4,Finished,10
+2,27,Jean Alesi,Ferrari,63,5,Finished,6
+3,28,Gerhard Berger,Ferrari,63,2,Finished,4
+4,6,David Coulthard,Williams,63,3,Finished,3
+5,8,Mika Häkkinen,McLaren,62,6,+1 Lap,2
+6,30,Heinz-Harald Frentzen,Sauber,62,14,+1 Lap,1
+7,2,Johnny Herbert,Benetton,61,8,+2 Laps,0
+8,15,Eddie Irvine,Jordan,61,7,+2 Laps,0
+9,26,Olivier Panis,Ligier,61,12,+2 Laps,0
+10,7,Nigel Mansell,McLaren,61,9,+2 Laps,0
+11,25,Aguri Suzuki,Ligier,60,16,+3 Laps,0
+12,23,Pierluigi Martini,Minardi,59,18,+4 Laps,0
+13,9,Gianni Morbidelli,Footwork,59,11,+4 Laps,0
+14,24,Luca Badoer,Minardi,59,20,+4 Laps,0
+15,21,Pedro Diniz,Forti,56,26,Not classified,0
+16,22,Roberto Moreno,Forti,56,25,Not classified,0
+17,29,Karl Wendlinger,Sauber,43,21,Wheel,0
+18,16,Bertrand Gachot,Pacific,36,22,Gearbox,0
+19,11,Domenico Schiattarella,Simtek,35,23,Suspension,0
+20,14,Rubens Barrichello,Jordan,31,10,Transmission,0
+21,3,Ukyo Katayama,Tyrrell,23,15,Spun off,0
+22,4,Mika Salo,Tyrrell,19,13,Engine,0
+23,17,Andrea Montermini,Pacific,15,24,Gearbox,0
+24,12,Jos Verstappen,Simtek,14,17,Gearbox,0
+25,10,Taki Inoue,Footwork,12,19,Spun off,0
+26,1,Michael Schumacher,Benetton,10,1,Spun off,0

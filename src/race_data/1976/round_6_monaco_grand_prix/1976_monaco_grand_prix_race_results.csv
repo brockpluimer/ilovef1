@@ -1,0 +1,26 @@
+position,number,driver,constructor,laps,grid,status,points
+1,1,Niki Lauda,Ferrari,78,1,Finished,9
+2,3,Jody Scheckter,Tyrrell,78,5,Finished,6
+3,4,Patrick Depailler,Tyrrell,78,4,Finished,4
+4,34,Hans-Joachim Stuck,March,77,6,+1 Lap,3
+5,12,Jochen Mass,McLaren,77,11,+1 Lap,2
+6,30,Emerson Fittipaldi,Fittipaldi,77,7,+1 Lap,1
+7,16,Tom Pryce,Shadow,77,15,+1 Lap,0
+8,17,Jean-Pierre Jarier,Shadow,76,10,+2 Laps,0
+9,8,Carlos Pace,Brabham-Alfa Romeo,76,13,+2 Laps,0
+10,28,John Watson,Penske,76,17,+2 Laps,0
+11,21,Michel Leclère,Wolf,76,18,+2 Laps,0
+12,26,Jacques Laffite,Ligier,75,8,Accident,0
+13,22,Chris Amon,Ensign,74,12,+4 Laps,0
+14,2,Clay Regazzoni,Ferrari,73,2,Accident,0
+15,6,Gunnar Nilsson,Team Lotus,39,16,Engine,0
+16,10,Ronnie Peterson,March,26,3,Accident,0
+17,11,James Hunt,McLaren,24,14,Engine,0
+18,9,Vittorio Brambilla,March,9,9,Suspension,0
+19,19,Alan Jones,Surtees,1,19,Collision,0
+20,7,Carlos Reutemann,Brabham-Alfa Romeo,0,20,Accident,0
+21,20,Jacky Ickx,Wolf,0,0,Did not qualify,0
+22,38,Henri Pescarolo,Surtees,0,0,Did not qualify,0
+23,37,Larry Perkins,Boro,0,0,Did not qualify,0
+24,24,Harald Ertl,Hesketh,0,0,Did not qualify,0
+25,35,Arturo Merzario,March,0,0,Did not qualify,0

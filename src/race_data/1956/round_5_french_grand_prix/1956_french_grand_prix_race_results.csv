@@ -1,0 +1,23 @@
+position,number,driver,constructor,laps,grid,status,points
+1,14,Peter Collins,Ferrari,61,3,Finished,8
+2,12,Eugenio Castellotti,Ferrari,61,2,Finished,6
+3,4,Jean Behra,Maserati,61,7,Finished,4
+4,10,Juan Fangio,Ferrari,61,1,Finished,4
+5,6,Stirling Moss,Maserati,59,13,+2 Laps,1
+5,6,Cesare Perdisa,Maserati,59,13,+2 Laps,1
+6,36,Louis Rosier,Maserati,58,12,+3 Laps,0
+7,40,Paco Godia,Maserati,57,17,+4 Laps,0
+8,32,Hernando da Silva Ramos,Gordini,57,14,+4 Laps,0
+9,30,Robert Manzon,Gordini,56,15,+5 Laps,0
+10,24,Mike Hawthorn,Vanwall,56,6,+5 Laps,0
+10,24,Harry Schell,Vanwall,56,6,+5 Laps,0
+11,34,André Pilette,Gordini,55,19,+6 Laps,0
+12,42,André Simon,Maserati,41,20,Engine,0
+13,8,Hernando da Silva Ramos,Maserati,40,16,Engine,0
+14,44,Olivier Gendebien,Ferrari,38,11,Clutch,0
+15,38,Luigi Villoresi,Maserati,23,10,Brakes,0
+16,16,Alfonso de Portago,Ferrari,20,9,Gearbox,0
+17,28,Maurice Trintignant,Bugatti,18,18,Throttle,0
+18,2,Stirling Moss,Maserati,12,8,Gearbox,0
+19,22,Harry Schell,Vanwall,5,4,Engine,0
+20,26,Colin Chapman,Vanwall,0,5,Accident,0

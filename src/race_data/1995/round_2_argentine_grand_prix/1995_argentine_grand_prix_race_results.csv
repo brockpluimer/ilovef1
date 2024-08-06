@@ -1,0 +1,27 @@
+position,number,driver,constructor,laps,grid,status,points
+1,5,Damon Hill,Williams,72,2,Finished,10
+2,27,Jean Alesi,Ferrari,72,6,Finished,6
+3,1,Michael Schumacher,Benetton,72,3,Finished,4
+4,2,Johnny Herbert,Benetton,71,11,+1 Lap,3
+5,30,Heinz-Harald Frentzen,Sauber,70,9,+2 Laps,2
+6,28,Gerhard Berger,Ferrari,70,8,+2 Laps,1
+7,26,Olivier Panis,Ligier,70,18,+2 Laps,0
+8,3,Ukyo Katayama,Tyrrell,69,15,+3 Laps,0
+9,11,Domenico Schiattarella,Simtek,68,20,+4 Laps,0
+10,21,Pedro Diniz,Forti,63,25,Not classified,0
+11,22,Roberto Moreno,Forti,63,24,Not classified,0
+12,4,Mika Salo,Tyrrell,48,7,Collision,0
+13,25,Aguri Suzuki,Ligier,47,19,Collision,0
+14,23,Pierluigi Martini,Minardi,44,16,Spun off,0
+15,9,Gianni Morbidelli,Footwork,43,12,Electrical,0
+16,10,Taki Inoue,Footwork,40,26,Spun off,0
+17,14,Rubens Barrichello,Jordan,33,10,Oil pressure,0
+18,12,Jos Verstappen,Simtek,23,14,Gearbox,0
+19,6,David Coulthard,Williams,16,1,Electrical,0
+20,7,Mark Blundell,McLaren,9,17,Oil leak,0
+21,15,Eddie Irvine,Jordan,6,4,Engine,0
+22,17,Andrea Montermini,Pacific,1,22,Collision,0
+23,8,Mika Häkkinen,McLaren,0,5,Collision,0
+24,16,Bertrand Gachot,Pacific,0,23,Collision,0
+25,29,Karl Wendlinger,Sauber,0,21,Collision,0
+26,24,Luca Badoer,Minardi,0,13,Collision,0

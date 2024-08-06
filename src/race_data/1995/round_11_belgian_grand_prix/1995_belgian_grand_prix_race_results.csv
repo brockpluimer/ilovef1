@@ -1,0 +1,25 @@
+position,number,driver,constructor,laps,grid,status,points
+1,1,Michael Schumacher,Benetton,44,16,Finished,10
+2,5,Damon Hill,Williams,44,8,Finished,6
+3,25,Martin Brundle,Ligier,44,13,Finished,4
+4,30,Heinz-Harald Frentzen,Sauber,44,10,Finished,3
+5,7,Mark Blundell,McLaren,44,6,Finished,2
+6,14,Rubens Barrichello,Jordan,44,12,Finished,1
+7,2,Johnny Herbert,Benetton,44,4,Finished,0
+8,4,Mika Salo,Tyrrell,44,11,Finished,0
+9,26,Olivier Panis,Ligier,44,9,Finished,0
+10,23,Pedro Lamy,Minardi,44,17,Finished,0
+11,29,Jean-Christophe Boullion,Sauber,43,14,+1 Lap,0
+12,10,Taki Inoue,Footwork,43,18,+1 Lap,0
+13,21,Pedro Diniz,Forti,42,24,+2 Laps,0
+14,22,Roberto Moreno,Forti,42,22,+2 Laps,0
+15,3,Ukyo Katayama,Tyrrell,28,15,Spun off,0
+16,16,Giovanni Lavaggi,Pacific,27,23,Gearbox,0
+17,24,Luca Badoer,Minardi,23,19,Spun off,0
+18,28,Gerhard Berger,Ferrari,22,1,Electrical,0
+19,15,Eddie Irvine,Jordan,21,7,Heat shield fire,0
+20,9,Massimiliano Papis,Footwork,20,20,Spun off,0
+21,17,Andrea Montermini,Pacific,18,21,Out of fuel,0
+22,6,David Coulthard,Williams,13,5,Gearbox,0
+23,27,Jean Alesi,Ferrari,4,2,Suspension,0
+24,8,Mika Häkkinen,McLaren,1,3,Spun off,0

@@ -1,0 +1,25 @@
+position,number,driver,constructor,laps,grid,status,points
+1,4,Lewis Hamilton,McLaren,69,1,Finished,25
+2,9,Kimi Räikkönen,Lotus F1,69,5,Finished,18
+3,10,Romain Grosjean,Lotus F1,69,2,Finished,15
+4,1,Sebastian Vettel,Red Bull,69,3,Finished,12
+5,5,Fernando Alonso,Ferrari,69,6,Finished,10
+6,3,Jenson Button,McLaren,69,4,Finished,8
+7,19,Bruno Senna,Williams,69,9,Finished,6
+8,2,Mark Webber,Red Bull,69,11,Finished,4
+9,6,Felipe Massa,Ferrari,69,7,Finished,2
+10,8,Nico Rosberg,Mercedes,69,13,Finished,1
+11,12,Nico Hülkenberg,Force India,69,10,Finished,0
+12,11,Paul di Resta,Force India,69,12,Finished,0
+13,18,Pastor Maldonado,Williams,69,8,Finished,0
+14,15,Sergio Pérez,Sauber,69,14,Finished,0
+15,16,Daniel Ricciardo,Toro Rosso,68,18,+1 Lap,0
+16,17,Jean-Éric Vergne,Toro Rosso,68,16,+1 Lap,0
+17,20,Heikki Kovalainen,Caterham,68,19,+1 Lap,0
+18,14,Kamui Kobayashi,Sauber,67,15,+2 Laps,0
+19,21,Vitaly Petrov,Caterham,67,20,+2 Laps,0
+20,25,Charles Pic,Marussia,67,21,+2 Laps,0
+21,24,Timo Glock,Marussia,66,22,+3 Laps,0
+22,22,Pedro de la Rosa,HRT,66,23,+3 Laps,0
+23,23,Narain Karthikeyan,HRT,60,24,Suspension,0
+24,7,Michael Schumacher,Mercedes,58,17,+11 Laps,0

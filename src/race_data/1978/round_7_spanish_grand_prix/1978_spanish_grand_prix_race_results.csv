@@ -1,0 +1,30 @@
+position,number,driver,constructor,laps,grid,status,points
+1,5,Mario Andretti,Team Lotus,75,1,Finished,9
+2,6,Ronnie Peterson,Team Lotus,75,2,Finished,6
+3,26,Jacques Laffite,Ligier,75,10,Finished,4
+4,20,Jody Scheckter,Wolf,75,9,Finished,3
+5,2,John Watson,Brabham,75,7,Finished,2
+6,7,James Hunt,McLaren,74,4,+1 Lap,1
+7,19,Vittorio Brambilla,Surtees,74,16,+1 Lap,0
+8,27,Alan Jones,Williams,74,18,+1 Lap,0
+9,9,Jochen Mass,ATS,74,17,+1 Lap,0
+10,12,Gilles Villeneuve,Ferrari,74,5,+1 Lap,0
+11,18,Rupert Keegan,Surtees,73,23,+2 Laps,0
+12,3,Didier Pironi,Tyrrell,71,13,+4 Laps,0
+13,15,Jean-Pierre Jabouille,Renault,71,11,+4 Laps,0
+14,36,Rolf Stommelen,Arrows,71,19,+4 Laps,0
+15,17,Clay Regazzoni,Shadow,67,22,Fuel pipe,0
+16,22,Jacky Ickx,Ensign,64,21,Engine,0
+17,14,Emerson Fittipaldi,Fittipaldi,62,15,Throttle,0
+18,11,Carlos Reutemann,Ferrari,57,3,Accident,0
+19,1,Niki Lauda,Brabham,56,6,Engine,0
+20,4,Patrick Depailler,Tyrrell,51,12,Engine,0
+21,16,Hans-Joachim Stuck,Shadow,45,24,Suspension,0
+22,35,Riccardo Patrese,Arrows,21,8,Engine,0
+23,25,Hector Rebaque,Team Lotus,21,20,Exhaust,0
+24,8,Patrick Tambay,McLaren,16,14,Spun off,0
+25,37,Arturo Merzario,Merzario,0,0,Did not qualify,0
+26,30,Brett Lunger,McLaren,0,0,Did not qualify,0
+27,28,Emilio de Villota,McLaren,0,0,Did not qualify,0
+28,10,Alberto Colombo,ATS,0,0,Did not qualify,0
+29,32,Keke Rosberg,Theodore,0,0,Did not prequalify,0

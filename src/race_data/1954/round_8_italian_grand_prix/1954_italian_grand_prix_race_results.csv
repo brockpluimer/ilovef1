@@ -1,0 +1,23 @@
+position,number,driver,constructor,laps,grid,status,points
+1,16,Juan Fangio,Mercedes,80,1,Finished,8
+2,40,Mike Hawthorn,Ferrari,79,7,+1 Lap,6
+3,38,Umberto Maglioli,Ferrari,78,13,+2 Laps,2
+3,38,José Froilán González,Ferrari,78,13,+2 Laps,3
+4,12,Hans Herrmann,Mercedes,77,8,+3 Laps,3
+5,30,Maurice Trintignant,Ferrari,75,11,+5 Laps,2
+6,42,Fred Wacker,Gordini,75,18,+5 Laps,0
+7,10,Peter Collins,Vanwall,75,16,+5 Laps,0
+8,26,Louis Rosier,Maserati,74,20,+6 Laps,0
+9,18,Sergio Mantovani,Maserati,74,9,+6 Laps,0
+10,28,Stirling Moss,Maserati,71,3,+9 Laps,0
+11,8,Jorge Daponte,Maserati,70,19,+10 Laps,0
+12,34,Alberto Ascari,Ferrari,48,2,Engine,0
+13,22,Luigi Villoresi,Maserati,42,6,Clutch,0
+14,14,Karl Kling,Mercedes,36,4,Accident,0
+15,24,Roberto Mieres,Maserati,34,10,Suspension,0
+16,20,Luigi Musso,Maserati,32,14,Transmission,0
+17,32,José Froilán González,Ferrari,16,5,Gearbox,0
+18,6,Robert Manzon,Ferrari,16,15,Engine,0
+19,46,Clemar Bucci,Gordini,13,17,Transmission,0
+20,44,Jean Behra,Gordini,2,12,Engine,0
+21,20,Giovanni de Riu,Maserati,0,21,Did not qualify,0

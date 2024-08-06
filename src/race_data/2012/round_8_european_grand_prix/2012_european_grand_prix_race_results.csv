@@ -1,0 +1,25 @@
+position,number,driver,constructor,laps,grid,status,points
+1,5,Fernando Alonso,Ferrari,57,11,Finished,25
+2,9,Kimi Räikkönen,Lotus F1,57,5,Finished,18
+3,7,Michael Schumacher,Mercedes,57,12,Finished,15
+4,2,Mark Webber,Red Bull,57,19,Finished,12
+5,12,Nico Hülkenberg,Force India,57,8,Finished,10
+6,8,Nico Rosberg,Mercedes,57,6,Finished,8
+7,11,Paul di Resta,Force India,57,10,Finished,6
+8,3,Jenson Button,McLaren,57,9,Finished,4
+9,15,Sergio Pérez,Sauber,57,15,Finished,2
+10,19,Bruno Senna,Williams,57,14,Finished,1
+11,16,Daniel Ricciardo,Toro Rosso,57,17,Finished,0
+12,18,Pastor Maldonado,Williams,57,3,Finished,0
+13,21,Vitaly Petrov,Caterham,57,20,Finished,0
+14,20,Heikki Kovalainen,Caterham,57,16,Finished,0
+15,25,Charles Pic,Marussia,57,23,Finished,0
+16,6,Felipe Massa,Ferrari,56,13,+1 Lap,0
+17,22,Pedro de la Rosa,HRT,56,21,+1 Lap,0
+18,23,Narain Karthikeyan,HRT,56,22,+1 Lap,0
+19,4,Lewis Hamilton,McLaren,55,2,Collision,0
+20,10,Romain Grosjean,Lotus F1,40,4,Electronics,0
+21,1,Sebastian Vettel,Red Bull,33,1,Gearbox,0
+22,14,Kamui Kobayashi,Sauber,33,7,Collision,0
+23,17,Jean-Éric Vergne,Toro Rosso,26,18,Collision,0
+24,24,Timo Glock,Marussia,0,0,Withdrew,0

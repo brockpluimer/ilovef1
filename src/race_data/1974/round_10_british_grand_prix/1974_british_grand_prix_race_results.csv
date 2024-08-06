@@ -1,0 +1,31 @@
+position,number,driver,constructor,laps,grid,status,points
+1,3,Jody Scheckter,Tyrrell,75,3,Finished,9
+2,5,Emerson Fittipaldi,McLaren,75,8,Finished,6
+3,2,Jacky Ickx,Team Lotus,75,12,Finished,4
+4,11,Clay Regazzoni,Ferrari,75,7,Finished,3
+5,12,Niki Lauda,Ferrari,74,1,+1 Lap,2
+6,7,Carlos Reutemann,Brabham,74,4,+1 Lap,1
+7,6,Denny Hulme,McLaren,74,19,+1 Lap,0
+8,16,Tom Pryce,Shadow,74,5,+1 Lap,0
+9,8,Carlos Pace,Brabham,74,20,+1 Lap,0
+10,1,Ronnie Peterson,Team Lotus,73,2,+2 Laps,0
+11,28,John Watson,Brabham,73,13,+2 Laps,0
+12,14,Jean-Pierre Beltoise,BRM,72,23,+3 Laps,0
+13,26,Graham Hill,Lola,69,22,+6 Laps,0
+14,19,Jochen Mass,Surtees,68,17,+7 Laps,0
+15,15,Henri Pescarolo,BRM,64,24,Engine,0
+16,37,François Migault,BRM,62,14,Not classified,0
+17,33,Mike Hailwood,McLaren,57,11,Spun off,0
+18,17,Jean-Pierre Jarier,Shadow,45,16,Suspension,0
+19,9,Hans-Joachim Stuck,March,36,9,Accident,0
+20,4,Patrick Depailler,Tyrrell,35,10,Engine,0
+21,20,Arturo Merzario,Iso Marlboro,25,15,Engine,0
+22,10,Vittorio Brambilla,March,17,16,Fuel system,0
+23,23,Tim Schenken,Trojan,6,25,Suspension,0
+24,24,James Hunt,Hesketh,2,6,Suspension,0
+25,27,Peter Gethin,Lola,0,21,Physical,0
+26,42,David Purley,Token,0,0,Did not qualify,0
+27,18,Derek Bell,Surtees,0,0,Did not qualify,0
+28,21,Tom Belsø,Iso Marlboro,0,0,Did not qualify,0
+29,208,Lella Lombardi,Brabham,0,0,Did not qualify,0
+30,22,Vern Schuppan,Ensign,0,0,Did not qualify,0

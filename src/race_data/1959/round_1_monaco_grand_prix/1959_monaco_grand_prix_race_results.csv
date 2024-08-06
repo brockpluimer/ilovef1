@@ -1,0 +1,25 @@
+position,number,driver,constructor,laps,grid,status,points
+1,24,Jack Brabham,Cooper-Climax,100,3,Finished,9
+2,50,Tony Brooks,Ferrari,100,4,Finished,6
+3,32,Maurice Trintignant,Cooper-Climax,98,6,+2 Laps,4
+4,48,Phil Hill,Ferrari,97,5,+3 Laps,3
+5,22,Bruce McLaren,Cooper-Climax,96,13,+4 Laps,2
+6,38,Roy Salvadori,Cooper-Maserati,83,8,+17 Laps,0
+7,30,Stirling Moss,Cooper-Climax,81,1,Transmission,0
+8,20,Ron Flockhart,BRM,64,10,Spun off,0
+9,16,Harry Schell,BRM,48,9,Accident,0
+10,18,Jo Bonnier,BRM,44,7,Brakes,0
+11,46,Jean Behra,Ferrari,24,2,Engine,0
+12,40,Graham Hill,Team Lotus,21,14,Heat shield fire,0
+13,26,Masten Gregory,Cooper-Climax,6,11,Gearbox,0
+14,6,Wolfgang von Trips,Porsche,1,12,Collision,0
+15,52,Cliff Allison,Ferrari,1,15,Collision,0
+16,44,Bruce Halford,Team Lotus,1,16,Collision,0
+17,34,Ivor Bueb,Cooper-Climax,0,0,Did not qualify,0
+18,54,Giorgio Scarlatti,Maserati,0,0,Did not qualify,0
+19,12,Alain de Changy,Cooper-Climax,0,0,Did not qualify,0
+20,10,Lucien Bianchi,Cooper-Climax,0,0,Did not qualify,0
+21,4,Maria de Filippis,Porsche,0,0,Did not qualify,0
+22,42,Pete Lovely,Team Lotus,0,0,Did not qualify,0
+23,14,Jean Lucienbonnet,Cooper-Climax,0,0,Did not qualify,0
+24,56,André Testut,Maserati,0,0,Did not qualify,0

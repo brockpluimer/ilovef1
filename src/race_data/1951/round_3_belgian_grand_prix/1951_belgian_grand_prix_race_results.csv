@@ -1,0 +1,14 @@
+position,number,driver,constructor,laps,grid,status,points
+1,4,Nino Farina,Alfa Romeo,36,2,Finished,8
+2,8,Alberto Ascari,Ferrari,36,4,Finished,6
+3,10,Luigi Villoresi,Ferrari,36,3,Finished,4
+4,14,Louis Rosier,Talbot-Lago,34,7,+2 Laps,3
+5,22,Yves Cabantous,Talbot-Lago,34,8,+2 Laps,2
+6,24,André Pilette,Talbot-Lago,33,12,+3 Laps,0
+7,16,Johnny Claes,Talbot-Lago,33,11,+3 Laps,0
+8,26,Pierre Levegh,Talbot-Lago,32,13,+4 Laps,0
+9,2,Juan Fangio,Alfa Romeo,32,1,+4 Laps,1
+10,18,Louis Chiron,Talbot-Lago,28,9,Engine,0
+11,6,Consalvo Sanesi,Alfa Romeo,11,6,Radiator,0
+12,12,Piero Taruffi,Ferrari,8,5,Transmission,0
+13,20,Philippe Étancelin,Talbot-Lago,0,10,Transmission,0

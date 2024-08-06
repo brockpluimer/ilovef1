@@ -1,0 +1,25 @@
+position,number,driver,constructor,laps,grid,status,points
+1,2,Lewis Hamilton,McLaren,70,1,Finished,25
+2,1,Jenson Button,McLaren,70,4,Finished,18
+3,8,Fernando Alonso,Ferrari,70,3,Finished,15
+4,5,Sebastian Vettel,Red Bull,70,2,Finished,12
+5,6,Mark Webber,Red Bull,70,7,Finished,10
+6,4,Nico Rosberg,Mercedes,70,10,Finished,8
+7,11,Robert Kubica,Renault,70,8,Finished,6
+8,16,Sébastien Buemi,Toro Rosso,69,15,+1 Lap,4
+9,15,Vitantonio Liuzzi,Force India,69,5,+1 Lap,2
+10,14,Adrian Sutil,Force India,69,9,+1 Lap,1
+11,3,Michael Schumacher,Mercedes,69,13,+1 Lap,0
+12,17,Jaime Alguersuari,Toro Rosso,69,16,+1 Lap,0
+13,10,Nico Hülkenberg,Williams,69,12,+1 Lap,0
+14,9,Rubens Barrichello,Williams,69,11,+1 Lap,0
+15,7,Felipe Massa,Ferrari,69,6,+1 Lap,0
+16,19,Heikki Kovalainen,Lotus,68,19,+2 Laps,0
+17,12,Vitaly Petrov,Renault,68,14,+2 Laps,0
+18,20,Karun Chandhok,HRT,66,24,+4 Laps,0
+19,25,Lucas di Grassi,Virgin,65,23,+5 Laps,0
+20,24,Timo Glock,Virgin,55,21,Mechanical,0
+21,18,Jarno Trulli,Lotus,47,20,Brakes,0
+22,22,Pedro de la Rosa,Sauber,31,17,Engine,0
+23,21,Bruno Senna,HRT,14,22,Hydraulics,0
+24,23,Kamui Kobayashi,Sauber,1,18,Accident,0

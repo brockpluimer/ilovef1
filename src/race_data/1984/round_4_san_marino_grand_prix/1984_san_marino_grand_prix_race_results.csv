@@ -1,0 +1,29 @@
+position,number,driver,constructor,laps,grid,status,points
+1,7,Alain Prost,McLaren,60,2,Finished,9
+2,28,René Arnoux,Ferrari,60,6,Finished,6
+3,11,Elio de Angelis,Team Lotus,59,11,Out of fuel,4
+4,16,Derek Warwick,Renault,59,4,+1 Lap,3
+5,18,Thierry Boutsen,Arrows,59,20,+1 Lap,2
+6,26,Andrea de Cesaris,Ligier,58,12,Out of fuel,1
+7,23,Eddie Cheever,Alfa Romeo,58,8,Out of fuel,0
+8,21,Mauro Baldi,Spirit,58,24,+2 Laps,0
+9,10,Jonathan Palmer,RAM,57,25,+3 Laps,0
+10,4,Stefan Bellof,Tyrrell,59,21,Disqualified,0
+11,3,Martin Brundle,Tyrrell,55,22,Disqualified,0
+12,9,Philippe Alliot,RAM,53,23,Turbo,0
+13,20,Johnny Cecotto,Toleman,52,19,Not classified,0
+14,1,Nelson Piquet,Brabham,48,1,Turbo,0
+15,2,Teo Fabi,Brabham,48,9,Turbo,0
+16,30,Jo Gartner,Osella,46,26,Engine,0
+17,17,Marc Surer,Arrows,40,16,Turbo,0
+18,14,Manfred Winkelhock,ATS,31,7,Turbo,0
+19,27,Michele Alboreto,Ferrari,23,13,Exhaust,0
+20,8,Niki Lauda,McLaren,15,5,Engine,0
+21,5,Jacques Laffite,Williams,11,15,Engine,0
+22,22,Riccardo Patrese,Alfa Romeo,6,10,Electrical,0
+23,12,Nigel Mansell,Team Lotus,2,18,Spun off,0
+24,6,Keke Rosberg,Williams,2,3,Electrical,0
+25,15,Patrick Tambay,Renault,0,14,Collision,0
+26,25,François Hesnault,Ligier,0,17,Collision,0
+27,24,Piercarlo Ghinzani,Osella,0,0,Did not qualify,0
+28,19,Ayrton Senna,Toleman,0,0,Did not qualify,0

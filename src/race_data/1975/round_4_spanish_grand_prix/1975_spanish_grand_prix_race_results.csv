@@ -1,0 +1,27 @@
+position,number,driver,constructor,laps,grid,status,points
+1,2,Jochen Mass,McLaren,29,11,Finished,4.5
+2,6,Jacky Ickx,Team Lotus,29,16,Finished,3
+3,7,Carlos Reutemann,Brabham,28,15,+1 Lap,2
+4,17,Jean-Pierre Jarier,Shadow-Ford,28,10,+1 Lap,1.5
+5,9,Vittorio Brambilla,March,28,5,+1 Lap,1
+6,10,Lella Lombardi,March,27,24,+2 Laps,0.5
+7,21,Tony Brise,Williams,27,18,+2 Laps,0
+8,18,John Watson,Surtees,26,6,+3 Laps,0
+9,11,Clay Regazzoni,Ferrari,25,2,Not classified,0
+10,22,Rolf Stommelen,Lola,25,9,Accident,0
+11,8,Carlos Pace,Brabham,25,14,Accident,0
+12,16,Tom Pryce,Shadow-Ford,23,8,Accident,0
+13,5,Ronnie Peterson,Team Lotus,23,12,Suspension,0
+14,31,Roelof Wunderink,Ensign,20,19,Transmission,0
+15,23,François Migault,Lola,18,22,Not classified,0
+16,27,Mario Andretti,Parnelli,16,4,Suspension,0
+17,14,Bob Evans,BRM,7,23,Fuel system,0
+18,24,James Hunt,Hesketh,6,3,Accident,0
+19,3,Jody Scheckter,Tyrrell,3,13,Engine,0
+20,28,Mark Donohue,Penske,3,17,Accident,0
+21,25,Alan Jones,Hesketh,3,20,Accident,0
+22,4,Patrick Depailler,Tyrrell,1,7,Accident,0
+23,30,Wilson Fittipaldi,Fittipaldi,1,21,Withdrew,0
+24,20,Arturo Merzario,Williams,1,25,Withdrew,0
+25,12,Niki Lauda,Ferrari,0,1,Accident,0
+26,1,Emerson Fittipaldi,McLaren,0,26,Withdrew,0

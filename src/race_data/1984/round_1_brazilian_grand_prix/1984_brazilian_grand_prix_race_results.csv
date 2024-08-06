@@ -1,0 +1,28 @@
+position,number,driver,constructor,laps,grid,status,points
+1,7,Alain Prost,McLaren,61,4,Finished,9
+2,6,Keke Rosberg,Williams,61,9,Finished,6
+3,11,Elio de Angelis,Team Lotus,61,1,Finished,4
+4,23,Eddie Cheever,Alfa Romeo,60,12,+1 Lap,3
+5,15,Patrick Tambay,Renault,59,8,Out of fuel,2
+6,18,Thierry Boutsen,Arrows,59,20,+2 Laps,1
+7,17,Marc Surer,Arrows,59,24,+2 Laps,0
+8,10,Jonathan Palmer,RAM,58,26,+3 Laps,0
+9,3,Martin Brundle,Tyrrell,60,18,Disqualified,0
+10,16,Derek Warwick,Renault,51,3,Suspension,0
+11,26,Andrea de Cesaris,Ligier,42,14,Gearbox,0
+12,22,Riccardo Patrese,Alfa Romeo,41,11,Gearbox,0
+13,8,Niki Lauda,McLaren,38,6,Electrical,0
+14,12,Nigel Mansell,Team Lotus,35,5,Accident,0
+15,1,Nelson Piquet,Brabham,32,7,Engine,0
+16,2,Teo Fabi,Brabham,32,15,Turbo,0
+17,28,René Arnoux,Ferrari,30,10,Battery,0
+18,24,Piercarlo Ghinzani,Osella,28,21,Gearbox,0
+19,25,François Hesnault,Ligier,25,19,Overheating,0
+20,9,Philippe Alliot,RAM,24,25,Battery,0
+21,20,Johnny Cecotto,Toleman,18,17,Turbo,0
+22,5,Jacques Laffite,Williams,15,13,Electrical,0
+23,27,Michele Alboreto,Ferrari,14,2,Brakes,0
+24,21,Mauro Baldi,Spirit,12,23,Distributor,0
+25,4,Stefan Bellof,Tyrrell,11,22,Disqualified,0
+26,19,Ayrton Senna,Toleman,8,16,Turbo,0
+27,14,Manfred Winkelhock,ATS,0,0,Disqualified,0

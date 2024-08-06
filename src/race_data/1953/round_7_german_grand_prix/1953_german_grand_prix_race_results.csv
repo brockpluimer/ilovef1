@@ -1,0 +1,31 @@
+position,number,driver,constructor,laps,grid,status,points
+1,12,Nino Farina,Ferrari,18,3,Finished,8
+2,5,Juan Fangio,Maserati,18,2,Finished,6
+3,3,Mike Hawthorn,Ferrari,18,4,Finished,4
+4,7,Felice Bonetto,Maserati,18,7,Finished,3
+5,17,Toulo de Graffenried,Maserati,17,11,+1 Lap,2
+6,19,Stirling Moss,Cooper,17,12,+1 Lap,0
+7,18,Jacques Swaters,Ferrari,17,19,+1 Lap,0
+8,1,Alberto Ascari,Ferrari,17,1,+1 Lap,0
+8,1,Luigi Villoresi,Ferrari,17,1,+1 Lap,0
+9,31,Hans Herrmann,Veritas,17,14,+1 Lap,0
+10,20,Louis Rosier,Ferrari,17,22,+1 Lap,0
+11,40,Rodney Nuckey,Cooper,16,20,+2 Laps,0
+12,24,Theo Helfrich,Veritas,16,28,+2 Laps,0
+13,16,Kenneth McAlpine,Connaught,16,16,+2 Laps,0
+14,36,Rudolf Krause,BMW,16,26,+2 Laps,0
+15,37,Ernst Klodwig,BMW,15,32,+3 Laps,0
+16,22,Wolfgang Seidel,Veritas,14,29,+4 Laps,0
+17,4,Luigi Villoresi,Ferrari,15,6,Engine,0
+17,4,Alberto Ascari,Ferrari,15,6,Engine,1
+18,38,Alan Brown,Cooper,15,17,Engine,0
+19,8,Onofre Marimón,Maserati,13,8,Suspension,0
+20,35,Edgar Barth,EMW,12,24,Exhaust,0
+21,12,Johnny Claes,Connaught,12,25,Retired,0
+22,26,Oswald Karch,Veritas,10,34,Retired,0
+23,23,Willi Heeks,Veritas,8,18,Retired,0
+24,9,Jean Behra,Gordini,7,9,Gearbox,0
+25,11,Harry Schell,Gordini,6,10,Engine,0
+26,14,Prince Bira,Connaught,6,15,Suspension,0
+27,28,Theo Fitzau,AFM,3,21,Retired,0
+28,34,Kurt Adolff,Ferrari,3,27,Retired,0

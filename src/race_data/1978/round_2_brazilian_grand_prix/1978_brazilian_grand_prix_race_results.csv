@@ -1,0 +1,29 @@
+position,number,driver,constructor,laps,grid,status,points
+1,11,Carlos Reutemann,Ferrari,63,4,Finished,9
+2,14,Emerson Fittipaldi,Fittipaldi,63,7,Finished,6
+3,1,Niki Lauda,Brabham,63,10,Finished,4
+4,5,Mario Andretti,Team Lotus,63,3,Finished,3
+5,17,Clay Regazzoni,Shadow,62,15,+1 Lap,2
+6,3,Didier Pironi,Tyrrell,62,19,+1 Lap,1
+7,9,Jochen Mass,ATS,62,20,+1 Lap,0
+8,2,John Watson,Brabham,61,21,+2 Laps,0
+9,26,Jacques Laffite,Ligier,61,14,+2 Laps,0
+10,36,Riccardo Patrese,Arrows,59,18,+4 Laps,0
+11,27,Alan Jones,Williams,58,8,+5 Laps,0
+12,25,Hector Rebaque,Team Lotus,40,22,Physical,0
+13,12,Gilles Villeneuve,Ferrari,35,6,Spun off,0
+14,8,Patrick Tambay,McLaren,34,5,Spun off,0
+15,7,James Hunt,McLaren,25,2,Spun off,0
+16,16,Hans-Joachim Stuck,Shadow,25,9,Fuel system,0
+17,20,Jody Scheckter,Wolf,16,12,Accident,0
+18,6,Ronnie Peterson,Team Lotus,15,1,Collision,0
+19,22,Danny Ongais,Ensign,13,23,Brakes,0
+20,30,Brett Lunger,McLaren,11,13,Overheating,0
+21,4,Patrick Depailler,Tyrrell,8,11,Accident,0
+22,18,Rupert Keegan,Surtees,5,24,Accident,0
+23,23,Lamberto Leoni,Ensign,0,17,Transmission,0
+24,10,Jean-Pierre Jarier,ATS,0,16,Withdrew,0
+25,37,Arturo Merzario,Merzario,0,0,Did not qualify,0
+26,32,Eddie Cheever,Theodore,0,0,Did not qualify,0
+27,19,Vittorio Brambilla,Surtees,0,0,Did not qualify,0
+28,24,Divina Galica,Hesketh,0,0,Did not qualify,0

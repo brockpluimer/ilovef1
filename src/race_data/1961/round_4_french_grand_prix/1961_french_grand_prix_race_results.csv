@@ -1,0 +1,31 @@
+position,number,driver,constructor,laps,grid,status,points
+1,50,Giancarlo Baghetti,Ferrari,52,12,Finished,9
+2,12,Dan Gurney,Porsche,52,5,Finished,6
+3,8,Jim Clark,Lotus-Climax,52,9,Finished,4
+4,6,Innes Ireland,Lotus-Climax,52,10,Finished,3
+5,4,Bruce McLaren,Cooper-Climax,52,8,Finished,2
+6,22,Graham Hill,BRM,52,6,Finished,1
+7,10,Jo Bonnier,Porsche,52,13,Finished,0
+8,42,Roy Salvadori,Cooper-Climax,51,15,+1 Lap,0
+9,16,Phil Hill,Ferrari,50,1,+2 Laps,0
+10,30,Henry Taylor,Lotus-Climax,49,25,+3 Laps,0
+11,46,Michael May,Lotus-Climax,48,22,+4 Laps,0
+12,36,Masten Gregory,Cooper-Climax,43,16,+9 Laps,0
+13,32,Maurice Trintignant,Cooper-Maserati,42,23,+10 Laps,0
+14,38,Ian Burgess,Lotus-Climax,42,24,+10 Laps,0
+15,18,Richie Ginther,Ferrari,40,3,Oil pressure,0
+16,26,Stirling Moss,Lotus-Climax,31,4,Brakes,0
+17,48,Willy Mairesse,Lotus-Climax,27,20,Engine,0
+18,14,Carel Godin de Beaufort,Porsche,23,17,Overheating,0
+19,28,Lucien Bianchi,Lotus-Climax,21,19,Overheating,0
+20,20,Wolfgang von Trips,Ferrari,18,2,Engine,0
+21,34,Giorgio Scarlatti,De Tomaso-Osca,15,26,Engine,0
+22,2,Jack Brabham,Cooper-Climax,14,14,Oil pressure,0
+23,52,Bernard Collomb,Cooper-Climax,6,21,Engine,0
+24,40,John Surtees,Cooper-Climax,4,7,Accident,0
+25,24,Tony Brooks,BRM,4,11,Overheating,0
+26,44,Jackie Lewis,Cooper-Climax,4,18,Overheating,0
+27,46,Wolfgang Seidel,Lotus-Climax,0,0,Withdrew,0
+28,,Juan Manuel Bordeu,Lotus-Climax,0,0,Withdrew,0
+29,14,Hans Herrmann,Porsche,0,0,Withdrew,0
+30,46,Olivier Gendebien,Emeryson,0,0,Withdrew,0

@@ -1,0 +1,25 @@
+position,number,driver,constructor,laps,grid,status,points
+1,2,Mark Webber,Red Bull,71,2,Finished,25
+2,1,Sebastian Vettel,Red Bull,71,1,Finished,18
+3,4,Jenson Button,McLaren,71,3,Finished,15
+4,5,Fernando Alonso,Ferrari,71,5,Finished,12
+5,6,Felipe Massa,Ferrari,71,7,Finished,10
+6,14,Adrian Sutil,Force India,70,8,+1 Lap,8
+7,8,Nico Rosberg,Mercedes,70,6,+1 Lap,6
+8,15,Paul di Resta,Force India,70,11,+1 Lap,4
+9,16,Kamui Kobayashi,Sauber,70,16,+1 Lap,2
+10,10,Vitaly Petrov,Renault,70,15,+1 Lap,1
+11,19,Jaime Alguersuari,Toro Rosso,70,13,+1 Lap,0
+12,18,Sébastien Buemi,Toro Rosso,70,14,+1 Lap,0
+13,17,Sergio Pérez,Sauber,70,17,+1 Lap,0
+14,11,Rubens Barrichello,Williams,70,12,+1 Lap,0
+15,7,Michael Schumacher,Mercedes,70,10,+1 Lap,0
+16,20,Heikki Kovalainen,Lotus,69,19,+2 Laps,0
+17,9,Bruno Senna,Renault,69,9,+2 Laps,0
+18,21,Jarno Trulli,Lotus,69,20,+2 Laps,0
+19,25,Jérôme d'Ambrosio,Virgin,68,23,+3 Laps,0
+20,22,Daniel Ricciardo,HRT,68,22,+3 Laps,0
+21,23,Vitantonio Liuzzi,HRT,61,21,Retired,0
+22,3,Lewis Hamilton,McLaren,46,4,Gearbox,0
+23,12,Pastor Maldonado,Williams,26,18,Retired,0
+24,24,Timo Glock,Virgin,21,24,Retired,0

@@ -1,0 +1,31 @@
+position,number,driver,constructor,laps,grid,status,points
+1,19,Michael Schumacher,Benetton,44,3,Finished,10
+2,5,Nigel Mansell,Williams,44,1,Finished,6
+3,6,Riccardo Patrese,Williams,44,4,Finished,4
+4,20,Martin Brundle,Benetton,44,9,Finished,3
+5,1,Ayrton Senna,McLaren,44,2,Finished,2
+6,11,Mika Häkkinen,Team Lotus,44,8,Finished,1
+7,21,Jyrki Järvilehto,Dallara,44,16,Finished,0
+8,4,Andrea de Cesaris,Tyrrell,43,13,+1 Lap,0
+9,10,Aguri Suzuki,Footwork,43,25,+1 Lap,0
+10,14,Eric van de Poele,Fondmetal,43,15,+1 Lap,0
+11,16,Karl Wendlinger,March,43,18,+1 Lap,0
+12,17,Emanuele Naspetti,March,43,21,+1 Lap,0
+13,12,Johnny Herbert,Team Lotus,43,10,Engine,0
+14,33,Maurício Gugelmin,Jordan,42,24,+2 Laps,0
+15,32,Stefano Modena,Jordan,42,17,+2 Laps,0
+16,24,Gianni Morbidelli,Minardi,42,23,+2 Laps,0
+17,30,Ukyo Katayama,Larrousse,42,26,+2 Laps,0
+18,29,Bertrand Gachot,Larrousse,40,20,Spun off,0
+19,25,Thierry Boutsen,Ligier,27,7,Spun off,0
+20,28,Ivan Capelli,Ferrari,25,12,Engine,0
+21,15,Gabriele Tarquini,Fondmetal,25,11,Engine,0
+22,9,Michele Alboreto,Footwork,20,14,Gearbox,0
+23,27,Jean Alesi,Ferrari,7,5,Puncture,0
+24,3,Olivier Grouillard,Tyrrell,1,22,Accident,0
+25,2,Gerhard Berger,McLaren,0,6,Transmission,0
+26,22,Pierluigi Martini,Dallara,0,19,Spun off,0
+27,23,Christian Fittipaldi,Minardi,0,0,Did not qualify,0
+28,34,Roberto Moreno,Andrea Moda,0,0,Did not qualify,0
+29,35,Perry McCarthy,Andrea Moda,0,0,Did not qualify,0
+30,26,Érik Comas,Ligier,0,0,Withdrew,0

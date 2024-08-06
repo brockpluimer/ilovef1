@@ -1,0 +1,24 @@
+position,number,driver,constructor,laps,grid,status,points
+1,7,John Surtees,Ferrari,15,1,Finished,9
+2,3,Graham Hill,BRM,15,5,Finished,6
+3,8,Lorenzo Bandini,Ferrari,15,4,Finished,4
+4,19,Jo Siffert,Brabham-BRM,15,10,Finished,3
+5,22,Maurice Trintignant,BRM,14,14,Battery,2
+6,26,Tony Maggs,BRM,14,16,+1 Lap,1
+7,4,Richie Ginther,BRM,14,11,+1 Lap,0
+8,2,Mike Spence,Lotus-Climax,14,17,+1 Lap,0
+9,23,Gerhard Mitter,Lotus-Climax,14,19,+1 Lap,0
+10,5,Dan Gurney,Brabham-Climax,14,3,+1 Lap,0
+11,14,Chris Amon,Lotus-BRM,12,9,Suspension,0
+12,6,Jack Brabham,Brabham-Climax,11,6,Differential,0
+13,20,Ronnie Bucknum,Honda,11,22,Accident,0
+14,27,Peter Revson,Lotus-BRM,10,18,Accident,0
+15,1,Jim Clark,Lotus-Climax,7,2,Engine,0
+16,9,Bruce McLaren,Cooper-Climax,4,7,Engine,0
+17,16,Bob Anderson,Brabham-Climax,4,15,Suspension,0
+18,12,Edgar Barth,Cooper-Climax,3,20,Clutch,0
+19,18,Giancarlo Baghetti,BRM,2,21,Throttle,0
+20,10,Phil Hill,Cooper-Climax,1,8,Engine,0
+21,11,Jo Bonnier,Brabham-BRM,0,12,Electrical,0
+22,15,Mike Hailwood,Lotus-BRM,0,13,Engine,0
+23,28,André Pilette,Scirocco,0,0,Did not qualify,0

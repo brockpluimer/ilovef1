@@ -1,0 +1,19 @@
+position,number,driver,constructor,laps,grid,status,points
+1,14,John Surtees,Honda,68,9,Finished,9
+2,16,Jack Brabham,Brabham-Repco,68,2,Finished,6
+3,20,Jim Clark,Lotus-Ford,68,1,Finished,4
+4,30,Jochen Rindt,Cooper-Maserati,68,11,Finished,3
+5,36,Mike Spence,BRM,67,12,+1 Lap,2
+6,32,Jacky Ickx,Cooper-Maserati,66,15,+2 Laps,1
+7,2,Chris Amon,Ferrari,64,4,+4 Laps,0
+8,22,Graham Hill,Lotus-Ford,58,8,Engine,0
+9,6,Jo Siffert,Cooper-Maserati,50,13,Accident,0
+10,24,Giancarlo Baghetti,Lotus-Ford,50,17,Engine,0
+11,4,Bruce McLaren,McLaren-BRM,46,3,Engine,0
+12,26,Jo Bonnier,Cooper-Maserati,46,14,Overheating,0
+13,34,Jackie Stewart,BRM,45,7,Engine,0
+14,18,Denny Hulme,Brabham-Repco,30,6,Overheating,0
+15,12,Guy Ligier,Brabham-Repco,26,18,Engine,0
+16,38,Chris Irwin,BRM,16,16,Injection,0
+17,10,Ludovico Scarfiotti,Eagle-Weslake,5,10,Engine,0
+18,8,Dan Gurney,Eagle-Weslake,4,5,Engine,0

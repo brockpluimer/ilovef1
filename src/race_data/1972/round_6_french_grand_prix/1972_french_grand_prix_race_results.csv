@@ -1,0 +1,26 @@
+position,number,driver,constructor,laps,grid,status,points
+1,4,Jackie Stewart,Tyrrell,38,3,Finished,9
+2,1,Emerson Fittipaldi,Team Lotus,38,8,Finished,6
+3,9,Chris Amon,Matra,38,1,Finished,4
+4,7,François Cevert,Tyrrell,38,7,Finished,3
+5,12,Ronnie Peterson,March,38,9,Finished,2
+6,26,Mike Hailwood,Surtees,38,10,Finished,1
+7,2,Denny Hulme,McLaren,38,2,Finished,0
+8,19,Wilson Fittipaldi,Brabham,38,14,Finished,0
+9,11,Brian Redman,McLaren,38,13,Finished,0
+10,18,Graham Hill,Brabham,38,20,Finished,0
+11,3,Jacky Ickx,Ferrari,37,4,+1 Lap,0
+12,20,Carlos Reutemann,Brabham,37,17,+1 Lap,0
+13,30,Nanni Galli,Ferrari,37,19,+1 Lap,0
+14,28,Andrea de Adamich,Surtees,37,12,+1 Lap,0
+15,5,Jean-Pierre Beltoise,BRM,37,24,+1 Lap,0
+16,10,Rolf Stommelen,March,37,15,+1 Lap,0
+17,27,Tim Schenken,Surtees,36,5,+2 Laps,0
+18,6,David Walker,Team Lotus,34,22,Halfshaft,0
+19,15,Mike Beuttler,March,33,23,Out of fuel,0
+20,8,Patrick Depailler,Tyrrell,33,16,Not classified,0
+21,24,Reine Wisell,BRM,25,18,Gearbox,0
+22,17,Carlos Pace,March,18,11,Engine,0
+23,25,Helmut Marko,BRM,8,6,Eye injury,0
+24,14,Niki Lauda,March,4,21,Halfshaft,0
+25,29,Dave Charlton,Team Lotus,0,0,Did not qualify,0

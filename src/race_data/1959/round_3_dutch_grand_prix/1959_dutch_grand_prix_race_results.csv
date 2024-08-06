@@ -1,0 +1,16 @@
+position,number,driver,constructor,laps,grid,status,points
+1,7,Jo Bonnier,BRM,75,1,Finished,8
+2,8,Jack Brabham,Cooper-Climax,75,2,Finished,6
+3,9,Masten Gregory,Cooper-Climax,75,7,Finished,4
+4,12,Innes Ireland,Team Lotus,74,9,+1 Lap,3
+5,1,Jean Behra,Ferrari,74,4,+1 Lap,2
+6,3,Phil Hill,Ferrari,73,12,+2 Laps,0
+7,14,Graham Hill,Team Lotus,73,5,+2 Laps,0
+8,10,Maurice Trintignant,Cooper-Climax,73,11,+2 Laps,0
+9,16,Cliff Allison,Ferrari,71,15,+4 Laps,0
+10,15,Carel Godin de Beaufort,Porsche,68,14,+7 Laps,0
+11,11,Stirling Moss,Cooper-Climax,62,3,Gearbox,1
+12,6,Harry Schell,BRM,46,6,Gearbox,0
+13,2,Tony Brooks,Ferrari,42,8,Oil leak,0
+14,5,Carroll Shelby,Aston Martin,25,10,Engine,0
+15,4,Roy Salvadori,Aston Martin,3,13,Engine,0

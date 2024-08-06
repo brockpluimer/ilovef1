@@ -1,0 +1,31 @@
+position,number,driver,constructor,laps,grid,status,points
+1,15,Alberto Ascari,Ferrari,85,2,Finished,9
+2,17,Piero Taruffi,Ferrari,84,3,+1 Lap,6
+3,9,Mike Hawthorn,Cooper,83,7,+2 Laps,4
+4,6,Dennis Poore,Connaught,83,8,+2 Laps,3
+5,5,Eric Thompson,Connaught,82,9,+3 Laps,2
+6,16,Nino Farina,Ferrari,82,1,+3 Laps,0
+7,8,Reg Parnell,Cooper,82,6,+3 Laps,0
+8,14,Roy Salvadori,Ferrari,82,19,+3 Laps,0
+9,4,Ken Downing,Connaught,82,5,+3 Laps,0
+10,21,Peter Whitehead,Ferrari,81,20,+4 Laps,0
+11,26,Prince Bira,Gordini,81,10,+4 Laps,0
+12,1,Graham Whitehead,Alta,80,12,+5 Laps,0
+13,19,Rudi Fischer,Ferrari,80,15,+5 Laps,0
+14,27,Johnny Claes,Simca,79,23,+6 Laps,0
+15,31,Lance Macklin,HWM,79,29,+6 Laps,0
+16,3,Kenneth McAlpine,Connaught,79,17,+6 Laps,0
+17,33,Harry Schell,Maserati,78,32,+7 Laps,0
+18,34,Gino Bianco,Maserati,77,28,+8 Laps,0
+19,32,Toulo de Graffenried,Maserati,76,31,+9 Laps,0
+20,10,Eric Brandon,Cooper,76,18,+9 Laps,0
+21,23,Tony Crook,Frazer Nash,75,25,+10 Laps,0
+22,11,Alan Brown,Cooper,69,13,+16 Laps,0
+23,29,Peter Collins,HWM,73,14,Ignition,0
+24,30,Duncan Hamilton,HWM,44,11,Engine,0
+25,12,Stirling Moss,ERA,36,16,Engine,0
+26,25,Maurice Trintignant,Gordini,21,21,Gearbox,0
+27,28,Tony Gaze,HWM,19,26,Engine,0
+28,7,David Murray,Cooper,14,22,Engine,0
+29,24,Robert Manzon,Gordini,9,4,Clutch,0
+30,20,Peter Hirt,Ferrari,3,24,Brakes,0

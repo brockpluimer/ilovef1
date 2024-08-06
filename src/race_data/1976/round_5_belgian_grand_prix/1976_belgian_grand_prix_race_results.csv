@@ -1,0 +1,30 @@
+position,number,driver,constructor,laps,grid,status,points
+1,1,Niki Lauda,Ferrari,70,1,Finished,9
+2,2,Clay Regazzoni,Ferrari,70,2,Finished,6
+3,26,Jacques Laffite,Ligier,70,4,Finished,4
+4,3,Jody Scheckter,Tyrrell,70,7,Finished,3
+5,19,Alan Jones,Surtees,69,16,+1 Lap,2
+6,12,Jochen Mass,McLaren,69,18,+1 Lap,1
+7,28,John Watson,Penske,69,17,+1 Lap,0
+8,37,Larry Perkins,Boro,69,20,+1 Lap,0
+9,17,Jean-Pierre Jarier,Shadow,69,14,+1 Lap,0
+10,16,Tom Pryce,Shadow,68,13,+2 Laps,0
+11,21,Michel Leclère,Wolf,68,25,+2 Laps,0
+12,32,Loris Kessel,Brabham-Ford,63,23,+7 Laps,0
+13,18,Brett Lunger,Surtees,62,26,Electrical,0
+14,8,Carlos Pace,Brabham-Alfa Romeo,58,9,Electrical,0
+15,22,Chris Amon,Ensign,51,8,Accident,0
+16,11,James Hunt,McLaren,35,3,Gearbox,0
+17,34,Hans-Joachim Stuck,March,33,15,Suspension,0
+18,24,Harald Ertl,Hesketh,31,24,Engine,0
+19,4,Patrick Depailler,Tyrrell,29,4,Engine,0
+20,5,Mario Andretti,Team Lotus,28,11,Halfshaft,0
+21,33,Patrick Nève,Brabham-Ford,26,19,Halfshaft,0
+22,35,Arturo Merzario,March,21,21,Engine,0
+23,7,Carlos Reutemann,Brabham-Alfa Romeo,17,12,Engine,0
+24,10,Ronnie Peterson,March,16,10,Accident,0
+25,6,Gunnar Nilsson,Team Lotus,7,22,Accident,0
+26,9,Vittorio Brambilla,March,6,5,Halfshaft,0
+27,30,Emerson Fittipaldi,Fittipaldi,0,0,Did not qualify,0
+28,20,Jacky Ickx,Wolf,0,0,Did not qualify,0
+29,25,Guy Edwards,Hesketh,0,0,Did not qualify,0

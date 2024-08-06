@@ -1,0 +1,31 @@
+position,number,driver,constructor,laps,grid,status,points
+1,28,Didier Pironi,Ferrari,72,4,Finished,9
+2,1,Nelson Piquet,Brabham,72,3,Finished,6
+3,6,Keke Rosberg,Williams,72,7,Finished,4
+4,8,Niki Lauda,McLaren,72,5,Finished,3
+5,5,Derek Daly,Williams,71,12,+1 Lap,2
+6,30,Mauro Baldi,Arrows,71,16,+1 Lap,1
+7,3,Michele Alboreto,Tyrrell,71,14,+1 Lap,0
+8,27,Patrick Tambay,Ferrari,71,6,+1 Lap,0
+9,7,John Watson,McLaren,71,11,+1 Lap,0
+10,29,Marc Surer,Arrows,71,17,+1 Lap,0
+11,23,Bruno Giacomelli,Alfa Romeo,70,8,+2 Laps,0
+12,9,Manfred Winkelhock,ATS,70,18,+2 Laps,0
+13,10,Eliseo Salazar,ATS,70,25,+2 Laps,0
+14,31,Jean-Pierre Jarier,Osella,69,23,+3 Laps,0
+15,2,Riccardo Patrese,Brabham,69,10,+3 Laps,0
+16,17,Jochen Mass,March,60,24,Engine,0
+17,33,Jan Lammers,Theodore,41,26,Engine,0
+18,11,Elio de Angelis,Team Lotus,40,15,Handling,0
+19,22,Andrea de Cesaris,Alfa Romeo,35,9,Electrical,0
+20,15,Alain Prost,Renault,33,2,Engine,0
+21,16,René Arnoux,Renault,21,1,Spun off,0
+22,4,Brian Henton,Tyrrell,21,20,Throttle,0
+23,18,Raul Boesel,March,21,22,Engine,0
+24,20,Chico Serra,Fittipaldi,18,19,Fuel system,0
+25,35,Derek Warwick,Toleman,15,13,Oil leak,0
+26,26,Jacques Laffite,Ligier,4,21,Handling,0
+27,14,Roberto Guerrero,Ensign,0,0,Did not qualify,0
+28,36,Teo Fabi,Toleman,0,0,Did not qualify,0
+29,25,Eddie Cheever,Ligier,0,0,Did not qualify,0
+30,12,Roberto Moreno,Team Lotus,0,0,Did not qualify,0

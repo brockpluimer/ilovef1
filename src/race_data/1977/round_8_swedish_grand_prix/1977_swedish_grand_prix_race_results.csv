@@ -1,0 +1,31 @@
+position,number,driver,constructor,laps,grid,status,points
+1,26,Jacques Laffite,Ligier,72,8,Finished,9
+2,2,Jochen Mass,McLaren,72,9,Finished,6
+3,12,Carlos Reutemann,Ferrari,72,12,Finished,4
+4,4,Patrick Depailler,Tyrrell,72,6,Finished,3
+5,7,John Watson,Brabham,72,2,Finished,2
+6,5,Mario Andretti,Team Lotus,72,1,Finished,1
+7,22,Clay Regazzoni,Ensign,72,14,Finished,0
+8,34,Jean-Pierre Jarier,Penske,72,17,Finished,0
+9,16,Jackie Oliver,Shadow,72,16,Finished,0
+10,8,Hans-Joachim Stuck,Brabham,71,5,+1 Lap,0
+11,30,Brett Lunger,McLaren,71,22,+1 Lap,0
+12,1,James Hunt,McLaren,71,3,+1 Lap,0
+13,24,Rupert Keegan,Hesketh,71,24,+1 Lap,0
+14,31,David Purley,LEC,70,19,+2 Laps,0
+15,27,Patrick Nève,March,69,20,+3 Laps,0
+16,25,Harald Ertl,Hesketh,68,23,+4 Laps,0
+17,17,Alan Jones,Shadow,67,11,+5 Laps,0
+18,28,Emerson Fittipaldi,Fittipaldi,66,18,+6 Laps,0
+19,6,Gunnar Nilsson,Team Lotus,64,7,Wheel bearing,0
+20,10,Ian Scheckter,March,61,21,Transmission,0
+21,19,Vittorio Brambilla,Surtees,52,13,Fuel pressure,0
+22,11,Niki Lauda,Ferrari,47,15,Handling,0
+23,20,Jody Scheckter,Wolf,29,4,Accident,0
+24,3,Ronnie Peterson,Tyrrell,7,10,Ignition,0
+25,9,Alex Ribeiro,March,0,0,Did not qualify,0
+26,36,Emilio de Villota,McLaren,0,0,Did not qualify,0
+27,18,Larry Perkins,Surtees,0,0,Did not qualify,0
+28,33,Boy Lunger,March,0,0,Did not qualify,0
+29,39,Hector Rebaque,Hesketh,0,0,Did not qualify,0
+30,35,Conny Andersson,BRM,0,0,Did not qualify,0

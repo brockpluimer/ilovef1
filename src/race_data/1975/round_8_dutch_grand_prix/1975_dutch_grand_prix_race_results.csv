@@ -1,0 +1,26 @@
+position,number,driver,constructor,laps,grid,status,points
+1,24,James Hunt,Hesketh,75,3,Finished,9
+2,12,Niki Lauda,Ferrari,75,1,Finished,6
+3,11,Clay Regazzoni,Ferrari,75,2,Finished,4
+4,7,Carlos Reutemann,Brabham,74,5,+1 Lap,3
+5,8,Carlos Pace,Brabham,74,9,+1 Lap,2
+6,16,Tom Pryce,Shadow-Ford,74,12,+1 Lap,1
+7,23,Tony Brise,Embassy Hill,74,7,+1 Lap,0
+8,28,Mark Donohue,Penske,74,18,+1 Lap,0
+9,4,Patrick Depailler,Tyrrell,73,13,+2 Laps,0
+10,31,Gijs van Lennep,Ensign,71,22,+4 Laps,0
+11,30,Wilson Fittipaldi,Fittipaldi,71,24,+4 Laps,0
+12,20,Ian Scheckter,Williams,70,19,+5 Laps,0
+13,22,Alan Jones,Embassy Hill,70,17,+5 Laps,0
+14,10,Lella Lombardi,March,70,23,+5 Laps,0
+15,5,Ronnie Peterson,Team Lotus,69,16,Out of fuel,0
+16,3,Jody Scheckter,Tyrrell,67,4,Engine,0
+17,21,Jacques Laffite,Williams,64,15,Engine,0
+18,2,Jochen Mass,McLaren,61,8,Accident,0
+19,17,Jean-Pierre Jarier,Shadow-Ford,44,10,Tyre,0
+20,18,John Watson,Surtees,43,14,Vibrations,0
+21,1,Emerson Fittipaldi,McLaren,40,6,Engine,0
+22,14,Bob Evans,BRM,23,20,Differential,0
+23,6,Jacky Ickx,Team Lotus,6,21,Engine,0
+24,9,Vittorio Brambilla,March,0,11,Suspension,0
+25,35,Hiroshi Fushida,Maki,0,0,Withdrew,0

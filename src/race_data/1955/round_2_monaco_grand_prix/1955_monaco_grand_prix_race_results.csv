@@ -1,0 +1,27 @@
+position,number,driver,constructor,laps,grid,status,points
+1,44,Maurice Trintignant,Ferrari,100,9,Finished,8
+2,30,Eugenio Castellotti,Lancia,100,4,Finished,6
+3,34,Cesare Perdisa,Maserati,99,5,+1 Lap,2
+3,34,Jean Behra,Maserati,99,5,+1 Lap,2
+4,42,Nino Farina,Ferrari,99,14,+1 Lap,3
+5,28,Luigi Villoresi,Lancia,99,7,+1 Lap,2
+6,32,Louis Chiron,Lancia,95,19,+5 Laps,0
+7,10,Jacques Pollet,Gordini,91,20,+9 Laps,0
+8,48,Piero Taruffi,Ferrari,86,15,+14 Laps,0
+8,48,Paul Frère,Ferrari,86,15,+14 Laps,0
+9,16,Stirling Moss,Mercedes,81,3,+19 Laps,0
+10,40,Cesare Perdisa,Maserati,86,11,Spun off,0
+10,40,Jean Behra,Maserati,86,11,Spun off,0
+11,26,Alberto Ascari,Lancia,80,2,Accident,0
+12,46,Harry Schell,Ferrari,68,18,Engine,0
+13,36,Roberto Mieres,Maserati,64,6,Transmission,0
+14,12,Élie Bayol,Gordini,63,16,Transmission,0
+15,2,Juan Fangio,Mercedes,49,1,Transmission,1
+16,8,Robert Manzon,Gordini,38,13,Gearbox,0
+17,4,André Simon,Mercedes,24,10,Engine,0
+18,18,Mike Hawthorn,Vanwall,22,12,Throttle,0
+19,14,Louis Rosier,Maserati,8,17,Fuel leak,0
+20,38,Luigi Musso,Maserati,7,8,Transmission,0
+21,22,Lance Macklin,Maserati,0,0,Did not qualify,0
+22,24,Ted Whiteaway,HWM,0,0,Did not qualify,0
+23,4,Hans Herrmann,Mercedes,0,0,Did not qualify,0

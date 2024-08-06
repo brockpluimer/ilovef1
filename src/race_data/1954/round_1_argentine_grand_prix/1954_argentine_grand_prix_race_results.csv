@@ -1,0 +1,19 @@
+position,number,driver,constructor,laps,grid,status,points
+1,2,Juan Fangio,Maserati,87,3,Finished,8
+2,10,Nino Farina,Ferrari,87,1,Finished,6
+3,12,José Froilán González,Ferrari,87,2,Finished,5
+4,26,Maurice Trintignant,Ferrari,86,5,+1 Lap,3
+5,20,Élie Bayol,Gordini,85,15,+2 Laps,2
+6,28,Harry Schell,Maserati,84,11,+3 Laps,0
+7,8,Prince Bira,Maserati,83,10,+4 Laps,0
+8,30,Toulo de Graffenried,Maserati,83,13,+4 Laps,0
+9,16,Umberto Maglioli,Ferrari,82,12,+5 Laps,0
+10,18,Jean Behra,Gordini,61,17,Disqualified,0
+11,14,Mike Hawthorn,Ferrari,52,4,Disqualified,0
+12,4,Onofre Marimón,Maserati,48,6,Engine,0
+13,32,Roberto Mieres,Maserati,37,8,Oil leak,0
+14,22,Roger Loyer,Gordini,19,16,Oil pressure,0
+15,34,Jorge Daponte,Maserati,19,18,Gearbox,0
+16,24,Louis Rosier,Ferrari,1,14,Accident,0
+17,6,Luigi Musso,Maserati,0,7,Withdrew,0
+18,36,Carlos Menditeguy,Maserati,0,9,Withdrew,0

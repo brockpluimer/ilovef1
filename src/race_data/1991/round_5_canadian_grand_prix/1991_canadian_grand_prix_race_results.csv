@@ -1,0 +1,31 @@
+position,number,driver,constructor,laps,grid,status,points
+1,20,Nelson Piquet,Benetton,69,8,Finished,10
+2,4,Stefano Modena,Tyrrell,69,9,Finished,6
+3,6,Riccardo Patrese,Williams,69,1,Finished,4
+4,33,Andrea de Cesaris,Jordan,69,11,Finished,3
+5,32,Bertrand Gachot,Jordan,69,14,Finished,2
+6,5,Nigel Mansell,Williams,68,2,Electrical,1
+7,23,Pierluigi Martini,Minardi,68,18,+1 Lap,0
+8,26,Érik Comas,Ligier,68,26,+1 Lap,0
+9,21,Emanuele Pirro,Dallara,68,10,+1 Lap,0
+10,3,Satoru Nakajima,Tyrrell,67,12,+2 Laps,0
+11,15,Maurício Gugelmin,Leyton House,61,23,Engine,0
+12,22,Jyrki Järvilehto,Dallara,50,17,Engine,0
+13,10,Stefan Johansson,Footwork,48,25,Throttle,0
+14,16,Ivan Capelli,Leyton House,42,13,Engine,0
+15,28,Jean Alesi,Ferrari,34,7,Engine,0
+16,29,Éric Bernard,Lola,29,19,Gearbox,0
+17,27,Alain Prost,Ferrari,27,4,Gearbox,0
+18,25,Thierry Boutsen,Ligier,27,16,Engine,0
+19,1,Ayrton Senna,McLaren,25,3,Alternator,0
+20,11,Mika Häkkinen,Team Lotus,21,24,Spun off,0
+21,7,Martin Brundle,Brabham,21,20,Engine,0
+22,24,Gianni Morbidelli,Minardi,20,15,Spun off,0
+23,19,Roberto Moreno,Benetton,10,5,Suspension,0
+24,2,Gerhard Berger,McLaren,4,6,Injection,0
+25,30,Aguri Suzuki,Lola,3,22,Fuel leak,0
+26,9,Michele Alboreto,Footwork,2,21,Throttle,0
+27,18,Fabrizio Barbazza,AGS,0,0,Did not qualify,0
+28,17,Gabriele Tarquini,AGS,0,0,Did not qualify,0
+29,8,Mark Blundell,Brabham,0,0,Did not qualify,0
+30,12,Johnny Herbert,Team Lotus,0,0,Did not qualify,0

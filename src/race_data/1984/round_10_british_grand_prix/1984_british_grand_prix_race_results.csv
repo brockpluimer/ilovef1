@@ -1,0 +1,29 @@
+position,number,driver,constructor,laps,grid,status,points
+1,8,Niki Lauda,McLaren,71,3,Finished,9
+2,16,Derek Warwick,Renault,71,6,Finished,6
+3,19,Ayrton Senna,Toleman,71,7,Finished,4
+4,11,Elio de Angelis,Team Lotus,70,4,+1 Lap,3
+5,27,Michele Alboreto,Ferrari,70,9,+1 Lap,2
+6,28,René Arnoux,Ferrari,70,13,+1 Lap,1
+7,1,Nelson Piquet,Brabham,70,1,+1 Lap,0
+8,15,Patrick Tambay,Renault,69,10,Turbo,0
+9,24,Piercarlo Ghinzani,Osella,68,21,+3 Laps,0
+10,26,Andrea de Cesaris,Ligier,68,19,+3 Laps,0
+11,17,Marc Surer,Arrows,67,15,+4 Laps,0
+12,22,Riccardo Patrese,Alfa Romeo,66,17,+5 Laps,0
+13,4,Stefan Bellof,Tyrrell,68,26,Disqualified,0
+14,21,Huub Rothengatter,Spirit,62,22,Not classified,0
+15,25,François Hesnault,Ligier,43,20,Electrical,0
+16,7,Alain Prost,McLaren,37,2,Gearbox,0
+17,12,Nigel Mansell,Team Lotus,24,8,Gearbox,0
+18,18,Thierry Boutsen,Arrows,24,12,Electrical,0
+19,5,Jacques Laffite,Williams,14,16,Water pump,0
+20,10,Jonathan Palmer,RAM,10,23,Accident,0
+21,2,Teo Fabi,Brabham,9,14,Electrical,0
+22,14,Manfred Winkelhock,ATS,8,11,Spun off,0
+23,6,Keke Rosberg,Williams,5,5,Engine,0
+24,3,Stefan Johansson,Tyrrell,1,25,Disqualified,0
+25,23,Eddie Cheever,Alfa Romeo,0,18,Accident,0
+26,9,Philippe Alliot,RAM,0,24,Accident,0
+27,30,Jo Gartner,Osella,0,27,Accident,0
+28,20,Johnny Cecotto,Toleman,0,0,Did not qualify,0

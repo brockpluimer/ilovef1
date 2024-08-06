@@ -1,0 +1,17 @@
+position,number,driver,constructor,laps,grid,status,points
+1,4,Stirling Moss,Cooper-Climax,62,1,Finished,9
+2,2,Masten Gregory,Cooper-Climax,61,3,+1 Lap,6
+3,16,Dan Gurney,Ferrari,61,6,+1 Lap,4
+4,5,Maurice Trintignant,Cooper-Climax,60,4,+2 Laps,3
+5,6,Harry Schell,BRM,59,9,+3 Laps,2
+6,10,Roy Salvadori,Aston Martin,59,12,+3 Laps,0
+7,8,Ron Flockhart,BRM,59,11,+3 Laps,0
+8,9,Carroll Shelby,Aston Martin,58,13,+4 Laps,0
+9,14,Tony Brooks,Ferrari,57,10,+5 Laps,0
+10,18,Mário de Araújo Cabral,Cooper-Maserati,56,14,+6 Laps,0
+11,3,Bruce McLaren,Cooper-Climax,38,8,Transmission,0
+12,1,Jack Brabham,Cooper-Climax,23,2,Transmission,0
+13,7,Jo Bonnier,BRM,10,5,Engine,0
+14,15,Phil Hill,Ferrari,5,7,Accident,0
+15,11,Graham Hill,Team Lotus,5,15,Accident,0
+16,12,Innes Ireland,Team Lotus,3,16,Gearbox,0

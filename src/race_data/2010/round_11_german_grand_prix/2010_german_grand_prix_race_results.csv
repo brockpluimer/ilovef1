@@ -1,0 +1,25 @@
+position,number,driver,constructor,laps,grid,status,points
+1,8,Fernando Alonso,Ferrari,67,2,Finished,25
+2,7,Felipe Massa,Ferrari,67,3,Finished,18
+3,5,Sebastian Vettel,Red Bull,67,1,Finished,15
+4,2,Lewis Hamilton,McLaren,67,6,Finished,12
+5,1,Jenson Button,McLaren,67,5,Finished,10
+6,6,Mark Webber,Red Bull,67,4,Finished,8
+7,11,Robert Kubica,Renault,66,7,+1 Lap,6
+8,4,Nico Rosberg,Mercedes,66,9,+1 Lap,4
+9,3,Michael Schumacher,Mercedes,66,11,+1 Lap,2
+10,12,Vitaly Petrov,Renault,66,13,+1 Lap,1
+11,23,Kamui Kobayashi,Sauber,66,12,+1 Lap,0
+12,9,Rubens Barrichello,Williams,66,8,+1 Lap,0
+13,10,Nico Hülkenberg,Williams,66,10,+1 Lap,0
+14,22,Pedro de la Rosa,Sauber,66,14,+1 Lap,0
+15,17,Jaime Alguersuari,Toro Rosso,66,15,+1 Lap,0
+16,15,Vitantonio Liuzzi,Force India,65,21,+2 Laps,0
+17,14,Adrian Sutil,Force India,65,19,+2 Laps,0
+18,24,Timo Glock,Virgin,64,23,+3 Laps,0
+19,21,Bruno Senna,HRT,63,20,+4 Laps,0
+20,19,Heikki Kovalainen,Lotus,56,18,Collision,0
+21,25,Lucas di Grassi,Virgin,50,24,Gearbox,0
+22,20,Sakon Yamamoto,HRT,19,22,Engine,0
+23,18,Jarno Trulli,Lotus,3,17,Gearbox,0
+24,16,Sébastien Buemi,Toro Rosso,1,16,Collision,0

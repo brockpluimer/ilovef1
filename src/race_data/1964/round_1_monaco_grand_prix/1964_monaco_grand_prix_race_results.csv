@@ -1,0 +1,24 @@
+position,number,driver,constructor,laps,grid,status,points
+1,8,Graham Hill,BRM,100,3,Finished,9
+2,7,Richie Ginther,BRM,99,8,+1 Lap,6
+3,11,Peter Arundell,Lotus-Climax,97,6,+3 Laps,4
+4,12,Jim Clark,Lotus-Climax,96,1,Engine,3
+5,19,Jo Bonnier,Cooper-Climax,96,11,+4 Laps,2
+6,18,Mike Hailwood,Lotus-BRM,96,15,+4 Laps,1
+7,16,Bob Anderson,Brabham-Climax,86,12,Gearbox,0
+8,24,Jo Siffert,Lotus-BRM,78,16,+22 Laps,0
+9,9,Phil Hill,Cooper-Climax,70,9,Suspension,0
+10,20,Lorenzo Bandini,Ferrari,68,7,Gearbox,0
+11,6,Dan Gurney,Brabham-Climax,62,5,Gearbox,0
+12,4,Maurice Trintignant,BRM,53,13,Overheating,0
+13,5,Jack Brabham,Brabham-Climax,29,2,Injection,0
+14,10,Bruce McLaren,Cooper-Climax,17,10,Wheel bearing,0
+15,21,John Surtees,Ferrari,15,4,Gearbox,0
+16,15,Trevor Taylor,BRP,8,14,Fuel leak,0
+17,17,Chris Amon,Lotus-BRM,0,0,Did not qualify,0
+18,2,Peter Revson,Lotus-BRM,0,0,Did not qualify,0
+19,3,Bernard Collomb,Lotus-BRM,0,0,Did not qualify,0
+20,14,Innes Ireland,Lotus-BRM,0,0,Withdrew,0
+21,1,André Pilette,Scirocco,0,0,Withdrew,0
+22,22,Giancarlo Baghetti,BRM,0,0,Withdrew,0
+23,23,Tony Maggs,BRM,0,0,Withdrew,0

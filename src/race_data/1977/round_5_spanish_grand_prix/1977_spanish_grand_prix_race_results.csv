@@ -1,0 +1,31 @@
+position,number,driver,constructor,laps,grid,status,points
+1,5,Mario Andretti,Team Lotus,75,1,Finished,9
+2,12,Carlos Reutemann,Ferrari,75,4,Finished,6
+3,20,Jody Scheckter,Wolf,75,5,Finished,4
+4,2,Jochen Mass,McLaren,75,9,Finished,3
+5,6,Gunnar Nilsson,Team Lotus,75,12,Finished,2
+6,8,Hans-Joachim Stuck,Brabham,74,13,+1 Lap,1
+7,26,Jacques Laffite,Ligier,74,2,+1 Lap,0
+8,3,Ronnie Peterson,Tyrrell,74,15,+1 Lap,0
+9,18,Hans Binder,Surtees,73,20,+2 Laps,0
+10,30,Brett Lunger,March,72,28,+3 Laps,0
+11,10,Ian Scheckter,March,72,17,+3 Laps,0
+12,27,Patrick Nève,March,71,22,+4 Laps,0
+13,36,Emilio de Villota,McLaren,70,23,+5 Laps,0
+14,28,Emerson Fittipaldi,Fittipaldi,70,19,+5 Laps,0
+15,7,John Watson,Brabham,64,6,Fuel system,0
+16,17,Alan Jones,Shadow,56,14,Accident,0
+17,24,Rupert Keegan,Hesketh,32,16,Accident,0
+18,25,Harald Ertl,Hesketh,29,10,Radiator,0
+19,16,Renzo Zorzi,Shadow,25,24,Engine,0
+20,37,Arturo Merzario,March,16,21,Suspension,0
+21,4,Patrick Depailler,Tyrrell,12,10,Engine,0
+22,1,James Hunt,McLaren,10,7,Engine,0
+23,22,Clay Regazzoni,Ensign,9,8,Accident,0
+24,19,Vittorio Brambilla,Surtees,9,11,Accident,0
+25,11,Niki Lauda,Ferrari,0,3,Injured,0
+26,34,Jean-Pierre Jarier,Penske,0,0,Did not qualify,0
+27,9,Alex Ribeiro,March,0,0,Did not qualify,0
+28,33,Boy Lunger,March,0,0,Did not qualify,0
+29,38,Brian Henton,March,0,0,Did not qualify,0
+30,31,David Purley,LEC,0,0,Did not qualify,0

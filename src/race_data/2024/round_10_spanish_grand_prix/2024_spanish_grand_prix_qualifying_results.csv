@@ -1,0 +1,21 @@
+position,number,driver,constructor,Q1,Q2,Q3
+1,4,Lando Norris,McLaren,1:12.386,1:11.872,1:11.383
+2,1,Max Verstappen,Red Bull,1:12.306,1:11.653,1:11.403
+3,44,Lewis Hamilton,Mercedes,1:12.143,1:11.792,1:11.701
+4,63,George Russell,Mercedes,1:12.456,1:11.812,1:11.703
+5,16,Charles Leclerc,Ferrari,1:12.257,1:12.038,1:11.731
+6,55,Carlos Sainz,Ferrari,1:12.403,1:11.874,1:11.736
+7,10,Pierre Gasly,Alpine F1 Team,1:12.651,1:12.079,1:11.857
+8,11,Sergio Pérez,Red Bull,1:12.477,1:12.054,1:12.061
+9,31,Esteban Ocon,Alpine F1 Team,1:12.691,1:12.109,1:12.125
+10,81,Oscar Piastri,McLaren,1:12.460,1:12.011,
+11,14,Fernando Alonso,Aston Martin,1:12.505,1:12.128,
+12,77,Valtteri Bottas,Sauber,1:12.758,1:12.227,
+13,27,Nico Hülkenberg,Haas F1 Team,1:12.708,1:12.310,
+14,18,Lance Stroll,Aston Martin,1:12.881,1:12.372,
+15,24,Guanyu Zhou,Sauber,1:12.880,1:12.738,
+16,20,Kevin Magnussen,Haas F1 Team,1:12.937,,
+17,22,Yuki Tsunoda,RB F1 Team,1:12.985,,
+18,3,Daniel Ricciardo,RB F1 Team,1:13.075,,
+19,23,Alexander Albon,Williams,1:13.153,,
+20,2,Logan Sargeant,Williams,1:13.509,,

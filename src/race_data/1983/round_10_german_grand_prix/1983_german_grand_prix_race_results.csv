@@ -1,0 +1,30 @@
+position,number,driver,constructor,laps,grid,status,points
+1,28,René Arnoux,Ferrari,45,2,Finished,9
+2,22,Andrea de Cesaris,Alfa Romeo,45,3,Finished,6
+3,6,Riccardo Patrese,Brabham,45,8,Finished,4
+4,15,Alain Prost,Renault,45,5,Finished,3
+5,7,John Watson,McLaren,44,23,+1 Lap,2
+6,2,Jacques Laffite,Williams,44,15,+1 Lap,1
+7,29,Marc Surer,Arrows,44,20,+1 Lap,0
+8,25,Jean-Pierre Jarier,Ligier,44,19,+1 Lap,0
+9,30,Thierry Boutsen,Arrows,44,14,+1 Lap,0
+10,1,Keke Rosberg,Williams,44,12,+1 Lap,0
+11,34,Johnny Cecotto,Theodore,44,22,+1 Lap,0
+12,4,Danny Sullivan,Tyrrell,43,21,+2 Laps,0
+13,5,Nelson Piquet,Brabham,42,4,Heat shield fire,0
+14,8,Niki Lauda,McLaren,44,18,Disqualified,0
+15,16,Eddie Cheever,Renault,38,6,Fuel system,0
+16,32,Piercarlo Ghinzani,Osella,34,26,Oil leak,0
+17,26,Raul Boesel,Ligier,27,25,Engine,0
+18,23,Mauro Baldi,Alfa Romeo,24,7,Turbo,0
+19,36,Bruno Giacomelli,Toleman,19,10,Turbo,0
+20,35,Derek Warwick,Toleman,17,9,Engine,0
+21,40,Stefan Johansson,Spirit,11,13,Engine,0
+22,27,Patrick Tambay,Ferrari,11,1,Engine,0
+23,11,Elio de Angelis,Team Lotus,10,11,Engine,0
+24,3,Michele Alboreto,Tyrrell,4,16,Fuel pump,0
+25,12,Nigel Mansell,Team Lotus,1,17,Engine,0
+26,33,Roberto Guerrero,Theodore,0,24,Engine,0
+27,17,Kenny Acheson,RAM,0,0,Did not qualify,0
+28,31,Corrado Fabi,Osella,0,0,Did not qualify,0
+29,9,Manfred Winkelhock,ATS,0,0,Did not qualify,0

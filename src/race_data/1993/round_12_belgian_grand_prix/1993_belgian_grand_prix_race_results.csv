@@ -1,0 +1,27 @@
+position,number,driver,constructor,laps,grid,status,points
+1,0,Damon Hill,Williams,44,2,Finished,10
+2,5,Michael Schumacher,Benetton,44,3,Finished,6
+3,2,Alain Prost,Williams,44,1,Finished,4
+4,8,Ayrton Senna,McLaren,44,5,Finished,3
+5,12,Johnny Herbert,Team Lotus,43,10,+1 Lap,2
+6,6,Riccardo Patrese,Benetton,43,8,+1 Lap,1
+7,25,Martin Brundle,Ligier,43,11,+1 Lap,0
+8,7,Michael Andretti,McLaren,43,14,+1 Lap,0
+9,30,Jyrki Järvilehto,Sauber,43,9,+1 Lap,0
+10,28,Gerhard Berger,Ferrari,42,16,Collision,0
+11,26,Mark Blundell,Ligier,42,15,Collision,0
+12,19,Philippe Alliot,Larrousse,42,18,+2 Laps,0
+13,22,Luca Badoer,Lola,42,24,+2 Laps,0
+14,21,Michele Alboreto,Lola,41,25,+3 Laps,0
+15,3,Ukyo Katayama,Tyrrell,40,23,+4 Laps,0
+16,20,Érik Comas,Larrousse,37,19,Fuel pump,0
+17,9,Derek Warwick,Footwork,28,7,Engine,0
+18,29,Karl Wendlinger,Sauber,27,12,Engine,0
+19,4,Andrea de Cesaris,Tyrrell,24,17,Engine,0
+20,23,Christian Fittipaldi,Minardi,15,22,Spun off,0
+21,24,Pierluigi Martini,Minardi,15,21,Spun off,0
+22,10,Aguri Suzuki,Footwork,14,6,Gearbox,0
+23,14,Rubens Barrichello,Jordan,11,12,Wheel bearing,0
+24,27,Jean Alesi,Ferrari,4,4,Suspension,0
+25,15,Thierry Boutsen,Jordan,0,20,Gearbox,0
+26,11,Alessandro Zanardi,Team Lotus,0,26,Injury,0

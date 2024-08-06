@@ -1,0 +1,20 @@
+round,raceName,date,time,circuit,country
+1,Australian Grand Prix,2013-03-17,06:00:00Z,Albert Park Grand Prix Circuit,Australia
+2,Malaysian Grand Prix,2013-03-24,08:00:00Z,Sepang International Circuit,Malaysia
+3,Chinese Grand Prix,2013-04-14,07:00:00Z,Shanghai International Circuit,China
+4,Bahrain Grand Prix,2013-04-21,12:00:00Z,Bahrain International Circuit,Bahrain
+5,Spanish Grand Prix,2013-05-12,12:00:00Z,Circuit de Barcelona-Catalunya,Spain
+6,Monaco Grand Prix,2013-05-26,12:00:00Z,Circuit de Monaco,Monaco
+7,Canadian Grand Prix,2013-06-09,18:00:00Z,Circuit Gilles Villeneuve,Canada
+8,British Grand Prix,2013-06-30,12:00:00Z,Silverstone Circuit,UK
+9,German Grand Prix,2013-07-07,12:00:00Z,Nürburgring,Germany
+10,Hungarian Grand Prix,2013-07-28,12:00:00Z,Hungaroring,Hungary
+11,Belgian Grand Prix,2013-08-25,12:00:00Z,Circuit de Spa-Francorchamps,Belgium
+12,Italian Grand Prix,2013-09-08,12:00:00Z,Autodromo Nazionale di Monza,Italy
+13,Singapore Grand Prix,2013-09-22,12:00:00Z,Marina Bay Street Circuit,Singapore
+14,Korean Grand Prix,2013-10-06,06:00:00Z,Korean International Circuit,Korea
+15,Japanese Grand Prix,2013-10-13,06:00:00Z,Suzuka Circuit,Japan
+16,Indian Grand Prix,2013-10-27,09:30:00Z,Buddh International Circuit,India
+17,Abu Dhabi Grand Prix,2013-11-03,13:00:00Z,Yas Marina Circuit,UAE
+18,United States Grand Prix,2013-11-17,19:00:00Z,Circuit of the Americas,USA
+19,Brazilian Grand Prix,2013-11-24,16:00:00Z,Autódromo José Carlos Pace,Brazil

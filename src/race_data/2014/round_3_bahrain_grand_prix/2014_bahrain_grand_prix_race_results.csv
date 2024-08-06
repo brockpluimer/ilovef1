@@ -1,0 +1,23 @@
+position,number,driver,constructor,laps,grid,status,points
+1,44,Lewis Hamilton,Mercedes,57,2,Finished,25
+2,6,Nico Rosberg,Mercedes,57,1,Finished,18
+3,11,Sergio Pérez,Force India,57,4,Finished,15
+4,3,Daniel Ricciardo,Red Bull,57,13,Finished,12
+5,27,Nico Hülkenberg,Force India,57,11,Finished,10
+6,1,Sebastian Vettel,Red Bull,57,10,Finished,8
+7,19,Felipe Massa,Williams,57,7,Finished,6
+8,77,Valtteri Bottas,Williams,57,3,Finished,4
+9,14,Fernando Alonso,Ferrari,57,9,Finished,2
+10,7,Kimi Räikkönen,Ferrari,57,5,Finished,1
+11,26,Daniil Kvyat,Toro Rosso,57,12,Finished,0
+12,8,Romain Grosjean,Lotus F1,57,16,Finished,0
+13,4,Max Chilton,Marussia,57,21,Finished,0
+14,13,Pastor Maldonado,Lotus F1,57,17,Finished,0
+15,10,Kamui Kobayashi,Caterham,57,18,Finished,0
+16,17,Jules Bianchi,Marussia,56,19,+1 Lap,0
+17,22,Jenson Button,McLaren,55,6,Clutch,0
+18,20,Kevin Magnussen,McLaren,40,8,Clutch,0
+19,21,Esteban Gutiérrez,Sauber,39,15,Collision,0
+20,9,Marcus Ericsson,Caterham,33,20,Retired,0
+21,25,Jean-Éric Vergne,Toro Rosso,18,14,Retired,0
+22,99,Adrian Sutil,Sauber,17,22,Collision,0

@@ -1,0 +1,30 @@
+position,number,driver,constructor,laps,grid,status,points
+1,1,Alan Jones,Williams,80,2,Finished,9
+2,2,Carlos Reutemann,Williams,80,3,Finished,6
+3,5,Nelson Piquet,Brabham,80,4,Finished,4
+4,22,Mario Andretti,Alfa Romeo,80,6,Finished,3
+5,3,Eddie Cheever,Tyrrell,80,8,Finished,2
+6,33,Patrick Tambay,Theodore,79,17,+1 Lap,1
+7,21,Chico Serra,Fittipaldi,78,18,+2 Laps,0
+8,16,René Arnoux,Renault,77,20,+3 Laps,0
+9,14,Marc Surer,Ensign,70,19,Fuel system,0
+10,28,Didier Pironi,Ferrari,67,11,Fuel system,0
+11,25,Jean-Pierre Jarier,Ligier,64,10,Fuel pump,0
+12,6,Hector Rebaque,Brabham,49,15,Accident,0
+13,23,Bruno Giacomelli,Alfa Romeo,41,9,Collision,0
+14,26,Jacques Laffite,Ligier,41,12,Collision,0
+15,20,Keke Rosberg,Fittipaldi,41,16,Engine,0
+16,9,Jan Lammers,ATS,41,21,Collision,0
+17,29,Riccardo Patrese,Arrows,33,1,Fuel system,0
+18,32,Beppe Gabbiani,Osella,26,24,Accident,0
+19,12,Nigel Mansell,Team Lotus,25,7,Accident,0
+20,27,Gilles Villeneuve,Ferrari,17,5,Halfshaft,0
+21,7,John Watson,McLaren,16,23,Brakes,0
+22,11,Elio de Angelis,Team Lotus,13,13,Accident,0
+23,15,Alain Prost,Renault,0,14,Collision,0
+24,8,Andrea de Cesaris,McLaren,0,22,Collision,0
+25,4,Kevin Cogan,Tyrrell,0,0,Did not qualify,0
+26,17,Derek Daly,March,0,0,Did not qualify,0
+27,31,Miguel Ángel Guerra,Osella,0,0,Did not qualify,0
+28,30,Siegfried Stohr,Arrows,0,0,Did not qualify,0
+29,18,Eliseo Salazar,March,0,0,Did not qualify,0

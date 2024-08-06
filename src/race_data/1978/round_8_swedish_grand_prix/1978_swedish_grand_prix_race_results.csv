@@ -1,0 +1,28 @@
+position,number,driver,constructor,laps,grid,status,points
+1,1,Niki Lauda,Brabham,70,3,Finished,9
+2,35,Riccardo Patrese,Arrows,70,5,Finished,6
+3,6,Ronnie Peterson,Team Lotus,70,4,Finished,4
+4,8,Patrick Tambay,McLaren,69,15,+1 Lap,3
+5,17,Clay Regazzoni,Shadow,69,16,+1 Lap,2
+6,14,Emerson Fittipaldi,Fittipaldi,69,13,+1 Lap,1
+7,26,Jacques Laffite,Ligier,69,11,+1 Lap,0
+8,7,James Hunt,McLaren,69,14,+1 Lap,0
+9,12,Gilles Villeneuve,Ferrari,69,7,+1 Lap,0
+10,11,Carlos Reutemann,Ferrari,69,8,+1 Lap,0
+11,16,Hans-Joachim Stuck,Shadow,68,20,+2 Laps,0
+12,25,Hector Rebaque,Team Lotus,68,21,+2 Laps,0
+13,9,Jochen Mass,ATS,68,19,+2 Laps,0
+14,36,Rolf Stommelen,Arrows,67,24,+3 Laps,0
+15,10,Keke Rosberg,ATS,63,23,+7 Laps,0
+16,37,Arturo Merzario,Merzario,62,22,+8 Laps,0
+17,5,Mario Andretti,Team Lotus,46,1,Engine,0
+18,27,Alan Jones,Williams,46,9,Wheel,0
+19,4,Patrick Depailler,Tyrrell,42,12,Suspension,0
+20,15,Jean-Pierre Jabouille,Renault,28,10,Engine,0
+21,2,John Watson,Brabham,19,2,Spun off,0
+22,20,Jody Scheckter,Wolf,16,6,Overheating,0
+23,3,Didier Pironi,Tyrrell,8,17,Accident,0
+24,19,Vittorio Brambilla,Surtees,7,18,Accident,0
+25,18,Rupert Keegan,Surtees,0,0,Did not qualify,0
+26,30,Brett Lunger,McLaren,0,0,Did not qualify,0
+27,22,Jacky Ickx,Ensign,0,0,Did not qualify,0

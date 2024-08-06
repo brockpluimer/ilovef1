@@ -1,0 +1,21 @@
+position,number,driver,constructor,laps,grid,status,points
+1,18,Stirling Moss,Vanwall,87,2,Finished,8
+2,2,Juan Fangio,Maserati,87,4,Finished,6
+3,36,Wolfgang von Trips,Ferrari,85,8,+2 Laps,4
+4,26,Masten Gregory,Maserati,84,11,+3 Laps,3
+5,8,Harry Schell,Maserati,84,12,+3 Laps,1
+5,8,Giorgio Scarlatti,Maserati,84,12,+3 Laps,1
+6,34,Mike Hawthorn,Ferrari,83,10,+4 Laps,0
+7,22,Tony Brooks,Vanwall,82,3,+5 Laps,1
+8,32,Luigi Musso,Ferrari,82,9,+5 Laps,0
+9,10,Paco Godia,Maserati,81,15,+6 Laps,0
+10,14,Horace Gould,Maserati,78,18,+9 Laps,0
+11,28,Ottorino Volonterio,Maserati,72,16,+15 Laps,0
+11,28,André Simon,Maserati,72,16,+15 Laps,0
+12,30,Peter Collins,Ferrari,62,7,Engine,0
+13,20,Stuart Lewis-Evans,Vanwall,49,1,Engine,0
+14,6,Jean Behra,Maserati,49,5,Overheating,0
+15,16,Bruce Halford,Maserati,47,14,Engine,0
+16,4,Harry Schell,Maserati,34,6,Oil leak,0
+17,24,Jo Bonnier,Maserati,31,13,Overheating,0
+18,12,Luigi Piotti,Maserati,3,17,Engine,0

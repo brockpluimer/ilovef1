@@ -1,0 +1,27 @@
+position,number,driver,constructor,laps,grid,status,points
+1,8,Peter Revson,McLaren,80,2,Finished,9
+2,1,Emerson Fittipaldi,Team Lotus,80,5,Finished,6
+3,17,Jackie Oliver,Shadow,80,14,Finished,4
+4,20,Jean-Pierre Beltoise,BRM,80,16,Finished,3
+5,5,Jackie Stewart,Tyrrell,79,9,+1 Lap,2
+6,25,Howden Ganley,Iso Marlboro,79,22,+1 Lap,1
+7,27,James Hunt,March,78,15,+2 Laps,0
+8,10,Carlos Reutemann,Brabham,78,4,+2 Laps,0
+9,23,Mike Hailwood,Surtees,78,12,+2 Laps,0
+10,29,Chris Amon,Tyrrell,77,11,+3 Laps,0
+11,11,Wilson Fittipaldi,Brabham,77,10,+3 Laps,0
+12,9,Rolf Stommelen,Brabham,76,18,+4 Laps,0
+13,7,Denny Hulme,McLaren,75,7,+5 Laps,0
+14,26,Tim Schenken,Iso Marlboro,75,24,+5 Laps,0
+15,4,Arturo Merzario,Ferrari,75,20,+5 Laps,0
+16,12,Graham Hill,Shadow,73,17,+7 Laps,0
+17,16,George Follmer,Shadow,73,13,+7 Laps,0
+18,24,Carlos Pace,Surtees,72,19,+8 Laps,0
+19,18,Jean-Pierre Jarier,March,71,23,Not classified,0
+20,28,Rikky von Opel,Ensign,68,26,Not classified,0
+21,21,Niki Lauda,BRM,62,8,Transmission,0
+22,0,Jody Scheckter,McLaren,32,3,Accident,0
+23,6,François Cevert,Tyrrell,32,6,Accident,0
+24,15,Mike Beuttler,March,20,21,Engine,0
+25,2,Ronnie Peterson,Team Lotus,16,1,Suspension,0
+26,19,Peter Gethin,BRM,5,25,Oil pump,0

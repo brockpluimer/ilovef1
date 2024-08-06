@@ -1,0 +1,25 @@
+position,number,driver,constructor,laps,grid,status,points
+1,5,Fernando Alonso,Ferrari,56,8,Finished,25
+2,15,Sergio Pérez,Sauber,56,9,Finished,18
+3,4,Lewis Hamilton,McLaren,56,1,Finished,15
+4,2,Mark Webber,Red Bull,56,4,Finished,12
+5,9,Kimi Räikkönen,Lotus F1,56,10,Finished,10
+6,19,Bruno Senna,Williams,56,13,Finished,8
+7,11,Paul di Resta,Force India,56,14,Finished,6
+8,17,Jean-Éric Vergne,Toro Rosso,56,18,Finished,4
+9,12,Nico Hülkenberg,Force India,56,16,Finished,2
+10,7,Michael Schumacher,Mercedes,56,3,Finished,1
+11,1,Sebastian Vettel,Red Bull,56,5,Finished,0
+12,16,Daniel Ricciardo,Toro Rosso,56,15,Finished,0
+13,8,Nico Rosberg,Mercedes,56,7,Finished,0
+14,3,Jenson Button,McLaren,56,2,Finished,0
+15,6,Felipe Massa,Ferrari,56,12,Finished,0
+16,21,Vitaly Petrov,Caterham,55,19,+1 Lap,0
+17,24,Timo Glock,Marussia,55,20,+1 Lap,0
+18,20,Heikki Kovalainen,Caterham,55,24,+1 Lap,0
+19,18,Pastor Maldonado,Williams,54,11,Engine,0
+20,25,Charles Pic,Marussia,54,21,+2 Laps,0
+21,23,Narain Karthikeyan,HRT,54,23,+2 Laps,0
+22,22,Pedro de la Rosa,HRT,54,22,+2 Laps,0
+23,14,Kamui Kobayashi,Sauber,46,17,Retired,0
+24,10,Romain Grosjean,Lotus F1,3,6,Collision,0

@@ -1,0 +1,17 @@
+position,number,driver,constructor,laps,grid,status,points
+1,2,Juan Fangio,Maserati,77,1,Finished,8
+2,10,Luigi Musso,Ferrari,77,3,Finished,7
+3,12,Peter Collins,Ferrari,77,5,Finished,4
+4,14,Mike Hawthorn,Ferrari,76,7,+1 Lap,3
+5,6,Harry Schell,Maserati,70,4,+7 Laps,2
+6,4,Jean Behra,Maserati,69,2,+8 Laps,0
+7,24,Jack Brabham,Cooper,68,15,+9 Laps,0
+7,24,Mike MacDowel,Cooper,68,15,+9 Laps,0
+8,8,Carlos Menditeguy,Maserati,30,9,Engine,0
+9,18,Stuart Lewis-Evans,Vanwall,30,10,Steering,0
+10,20,Roy Salvadori,Vanwall,25,6,Engine,0
+11,28,Herbert MacKay-Fraser,BRM,24,12,Transmission,0
+12,16,Maurice Trintignant,Ferrari,23,8,Electrical,0
+13,22,Jack Brabham,Cooper,4,13,Accident,0
+14,30,Horace Gould,Maserati,4,14,Halfshaft,0
+15,26,Ron Flockhart,BRM,2,11,Accident,0

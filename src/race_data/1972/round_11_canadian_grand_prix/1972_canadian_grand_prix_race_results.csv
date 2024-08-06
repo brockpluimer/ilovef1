@@ -1,0 +1,25 @@
+position,number,driver,constructor,laps,grid,status,points
+1,1,Jackie Stewart,Tyrrell,80,5,Finished,9
+2,19,Peter Revson,McLaren,80,1,Finished,6
+3,18,Denny Hulme,McLaren,80,2,Finished,4
+4,8,Carlos Reutemann,Brabham,80,9,Finished,3
+5,11,Clay Regazzoni,Ferrari,80,7,Finished,2
+6,4,Chris Amon,Matra,79,10,+1 Lap,1
+7,22,Tim Schenken,Surtees,79,13,+1 Lap,0
+8,7,Graham Hill,Brabham,79,17,+1 Lap,0
+9,29,Carlos Pace,March,78,18,Out of fuel,0
+10,15,Howden Ganley,BRM,78,14,+2 Laps,0
+11,5,Emerson Fittipaldi,Team Lotus,78,4,+2 Laps,0
+12,10,Jacky Ickx,Ferrari,76,8,+4 Laps,0
+13,28,Henri Pescarolo,March,73,21,+7 Laps,0
+14,6,Reine Wisell,Team Lotus,65,16,Engine,0
+15,26,Niki Lauda,March,64,19,Disqualified,0
+16,25,Ronnie Peterson,March,61,3,Collision,0
+17,27,Mike Beuttler,March,59,24,Not classified,0
+18,2,François Cevert,Tyrrell,51,6,Gearbox,0
+19,16,Peter Gethin,BRM,25,12,Suspension,0
+20,33,Skip Barber,March,24,22,Not classified,0
+21,14,Jean-Pierre Beltoise,BRM,21,20,Oil leak,0
+22,17,Bill Brack,BRM,20,23,Spun off,0
+23,9,Wilson Fittipaldi,Brabham,5,11,Gearbox,0
+24,23,Andrea de Adamich,Surtees,2,15,Gearbox,0

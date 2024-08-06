@@ -1,0 +1,23 @@
+position,number,driver,constructor,laps,grid,status,points
+1,5,Jackie Stewart,Tyrrell,14,1,Finished,9
+2,6,François Cevert,Tyrrell,14,3,Finished,6
+3,30,Jacky Ickx,McLaren,14,4,Finished,4
+4,24,Carlos Pace,Surtees,14,11,Finished,3
+5,11,Wilson Fittipaldi,Brabham,14,13,Finished,2
+6,1,Emerson Fittipaldi,Team Lotus,14,14,Finished,1
+7,31,Jochen Mass,Surtees,14,15,Finished,0
+8,17,Jackie Oliver,Shadow,14,17,Finished,0
+9,8,Peter Revson,McLaren,14,7,Finished,0
+10,26,Henri Pescarolo,Iso Marlboro,14,12,Finished,0
+11,9,Rolf Stommelen,Brabham,14,16,Finished,0
+12,7,Denny Hulme,McLaren,14,8,Finished,0
+13,12,Graham Hill,Shadow,14,20,Finished,0
+14,23,Mike Hailwood,Surtees,13,18,+1 Lap,0
+15,18,David Purley,March,13,22,+1 Lap,0
+16,15,Mike Beuttler,March,13,19,+1 Lap,0
+17,10,Carlos Reutemann,Brabham,7,6,Engine,0
+18,19,Clay Regazzoni,BRM,7,10,Engine,0
+19,16,George Follmer,Shadow,5,21,Accident,0
+20,20,Jean-Pierre Beltoise,BRM,4,9,Gearbox,0
+21,21,Niki Lauda,BRM,1,5,Accident,0
+22,2,Ronnie Peterson,Team Lotus,0,2,Ignition,0

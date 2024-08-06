@@ -1,0 +1,17 @@
+position,number,driver,constructor,laps,grid,status,points
+1,34,Juan Fangio,Ferrari,98,3,Finished,5
+1,34,Luigi Musso,Ferrari,98,3,Finished,4
+2,4,Jean Behra,Maserati,98,4,Finished,6
+3,14,Mike Hawthorn,Maserati,96,8,+2 Laps,4
+4,10,Chico Landi,Maserati,92,11,+6 Laps,1.5
+4,10,Gerino Gerini,Maserati,92,11,+6 Laps,1.5
+5,38,Olivier Gendebien,Ferrari,91,10,+7 Laps,2
+6,16,Óscar González,Maserati,88,13,+10 Laps,0
+6,16,Alberto Uria,Maserati,88,13,+10 Laps,0
+7,2,Stirling Moss,Maserati,81,7,Engine,0
+8,36,Peter Collins,Ferrari,58,9,Accident,0
+9,8,Luigi Piotti,Maserati,57,12,Accident,0
+10,6,Carlos Menditeguy,Maserati,42,6,Halfshaft,0
+11,32,Eugenio Castellotti,Ferrari,40,2,Gearbox,0
+12,12,José Froilán González,Maserati,24,5,Engine,0
+13,30,Juan Fangio,Ferrari,22,1,Fuel pump,0

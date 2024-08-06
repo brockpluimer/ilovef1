@@ -1,0 +1,31 @@
+position,number,driver,constructor,laps,grid,status,points
+1,1,Juan Fangio,Ferrari,101,2,Finished,8
+2,4,Alfonso de Portago,Ferrari,100,12,+1 Lap,3
+2,4,Peter Collins,Ferrari,100,12,+1 Lap,3
+3,8,Jean Behra,Maserati,99,13,+2 Laps,4
+4,21,Jack Fairman,Connaught,98,21,+3 Laps,3
+5,31,Horace Gould,Maserati,97,14,+4 Laps,2
+6,11,Luigi Villoresi,Maserati,96,19,+5 Laps,0
+7,9,Cesare Perdisa,Maserati,95,15,+6 Laps,0
+8,10,Paco Godia,Maserati,94,25,+7 Laps,0
+9,15,Robert Manzon,Gordini,94,18,+7 Laps,0
+10,3,Eugenio Castellotti,Ferrari,92,8,+9 Laps,0
+10,3,Alfonso de Portago,Ferrari,92,8,+9 Laps,0
+11,26,Bob Gerard,Cooper,88,22,+13 Laps,0
+12,7,Stirling Moss,Maserati,94,1,Axle,1
+13,16,Harry Schell,Vanwall,87,5,Fuel system,0
+14,20,Desmond Titterington,Connaught,74,11,Engine,0
+15,17,Maurice Trintignant,Vanwall,74,16,Fuel system,0
+16,14,Hernando da Silva Ramos,Gordini,71,26,Axle,0
+17,2,Peter Collins,Ferrari,64,4,Oil pressure,0
+18,28,Roy Salvadori,Maserati,59,7,Fuel system,0
+19,24,Tony Brooks,BRM,39,9,Accident,0
+20,23,Mike Hawthorn,BRM,24,3,Transmission,0
+21,27,Louis Rosier,Maserati,23,27,Electrical,0
+22,29,Bruce Halford,Maserati,22,20,Engine,0
+23,12,Umberto Maglioli,Maserati,21,24,Gearbox,0
+24,19,Archie Scott Brown,Connaught,16,10,Transmission,0
+25,32,Paul Emery,Emeryson,12,23,Ignition,0
+26,30,Jack Brabham,Maserati,3,28,Engine,0
+27,25,Ron Flockhart,BRM,2,17,Engine,0
+28,18,José Froilán González,Vanwall,0,6,Transmission,0

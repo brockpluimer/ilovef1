@@ -1,0 +1,15 @@
+position,number,driver,constructor,laps,grid,status,points
+1,10,Graham Hill,Lotus-Ford,90,6,Finished,9
+2,1,Denny Hulme,McLaren-Ford,90,3,Finished,6
+3,14,Brian Redman,Cooper-BRM,89,13,+1 Lap,4
+4,15,Ludovico Scarfiotti,Cooper-BRM,89,12,+1 Lap,3
+5,6,Jean-Pierre Beltoise,Matra-Ford,81,5,+9 Laps,2
+6,2,Bruce McLaren,McLaren-Ford,77,4,Oil leak,0
+7,7,John Surtees,Honda,74,7,Gearbox,0
+8,16,Jo Siffert,Lotus-Ford,62,10,Transmission,0
+9,19,Chris Amon,Ferrari,57,1,Fuel pump,0
+10,5,Piers Courage,BRM,52,11,Fuel pump,0
+11,9,Pedro Rodríguez,BRM,27,2,Accident,0
+12,21,Jacky Ickx,Ferrari,13,8,Ignition,0
+13,4,Jochen Rindt,Brabham-Repco,10,9,Oil pressure,0
+14,3,Jack Brabham,Brabham-Repco,0,0,Withdrew,0

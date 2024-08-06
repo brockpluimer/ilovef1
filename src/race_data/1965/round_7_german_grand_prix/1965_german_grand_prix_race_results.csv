@@ -1,0 +1,22 @@
+position,number,driver,constructor,laps,grid,status,points
+1,1,Jim Clark,Lotus-Climax,15,1,Finished,9
+2,9,Graham Hill,BRM,15,3,Finished,6
+3,5,Dan Gurney,Brabham-Climax,15,5,Finished,4
+4,12,Jochen Rindt,Cooper-Climax,15,8,Finished,3
+5,4,Jack Brabham,Brabham-Climax,15,14,Finished,2
+6,8,Lorenzo Bandini,Ferrari,15,7,Finished,1
+7,16,Jo Bonnier,Brabham-Climax,15,9,Finished,0
+8,24,Masten Gregory,BRM,14,19,+1 Lap,0
+9,7,John Surtees,Ferrari,11,4,Gearbox,0
+10,17,Jo Siffert,Brabham-BRM,9,11,Engine,0
+11,2,Mike Spence,Lotus-Climax,8,6,Transmission,0
+12,3,Gerhard Mitter,Lotus-Climax,8,12,Water leak,0
+13,20,Richard Attwood,Lotus-BRM,8,17,Water leak,0
+14,11,Bruce McLaren,Cooper-Climax,7,10,Gearbox,0
+15,6,Denny Hulme,Brabham-Climax,5,13,Fuel leak,0
+16,19,Chris Amon,Lotus-BRM,3,16,Electrical,0
+17,22,Paul Hawkins,Lotus-Climax,3,20,Oil leak,0
+18,10,Jackie Stewart,BRM,2,2,Suspension,0
+19,21,Frank Gardner,Brabham-BRM,0,18,Gearbox,0
+20,25,Roberto Bussinello,BRM,0,0,Did not qualify,0
+21,23,Ian Raby,Brabham-Climax,0,0,Did not qualify,0

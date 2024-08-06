@@ -1,0 +1,28 @@
+position,number,driver,constructor,laps,grid,status,points
+1,27,Alan Jones,Williams,76,3,Finished,9
+2,5,Nelson Piquet,Brabham,76,5,Finished,6
+3,28,Carlos Reutemann,Williams,76,4,Finished,4
+4,4,Derek Daly,Tyrrell,75,10,+1 Lap,3
+5,3,Jean-Pierre Jarier,Tyrrell,75,11,+1 Lap,2
+6,8,Alain Prost,McLaren,75,7,+1 Lap,1
+7,6,Hector Rebaque,Brabham,74,17,+2 Laps,0
+8,7,John Watson,McLaren,74,12,Engine,0
+9,29,Riccardo Patrese,Arrows,73,21,+3 Laps,0
+10,1,Jody Scheckter,Ferrari,73,23,+3 Laps,0
+11,50,Rupert Keegan,Williams,73,18,+3 Laps,0
+12,20,Emerson Fittipaldi,Fittipaldi,72,22,+4 Laps,0
+13,30,Jochen Mass,Arrows,69,24,+7 Laps,0
+14,16,René Arnoux,Renault,67,16,Not classified,0
+15,25,Didier Pironi,Ligier,63,1,Tyre,0
+16,9,Marc Surer,ATS,59,15,Engine,0
+17,11,Mario Andretti,Team Lotus,57,9,Gearbox,0
+18,23,Bruno Giacomelli,Alfa Romeo,42,6,Spun off,0
+19,2,Gilles Villeneuve,Ferrari,35,19,Engine,0
+20,26,Jacques Laffite,Ligier,30,2,Tyre,0
+21,22,Patrick Depailler,Alfa Romeo,27,8,Engine,0
+22,31,Eddie Cheever,Osella,17,20,Suspension,0
+23,12,Elio de Angelis,Team Lotus,16,14,Suspension,0
+24,15,Jean-Pierre Jabouille,Renault,4,13,Engine,0
+25,14,Jan Lammers,Ensign,0,0,Did not qualify,0
+26,21,Keke Rosberg,Fittipaldi,0,0,Did not qualify,0
+27,43,Desiré Wilson,Williams,0,0,Did not qualify,0

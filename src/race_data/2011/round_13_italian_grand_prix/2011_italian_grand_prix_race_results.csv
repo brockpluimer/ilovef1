@@ -1,0 +1,25 @@
+position,number,driver,constructor,laps,grid,status,points
+1,1,Sebastian Vettel,Red Bull,53,1,Finished,25
+2,4,Jenson Button,McLaren,53,3,Finished,18
+3,5,Fernando Alonso,Ferrari,53,4,Finished,15
+4,3,Lewis Hamilton,McLaren,53,2,Finished,12
+5,7,Michael Schumacher,Mercedes,53,8,Finished,10
+6,6,Felipe Massa,Ferrari,53,6,Finished,8
+7,19,Jaime Alguersuari,Toro Rosso,52,18,+1 Lap,6
+8,15,Paul di Resta,Force India,52,11,+1 Lap,4
+9,9,Bruno Senna,Renault,52,10,+1 Lap,2
+10,18,Sébastien Buemi,Toro Rosso,52,16,+1 Lap,1
+11,12,Pastor Maldonado,Williams,52,14,+1 Lap,0
+12,11,Rubens Barrichello,Williams,52,13,+1 Lap,0
+13,20,Heikki Kovalainen,Lotus,51,20,+2 Laps,0
+14,21,Jarno Trulli,Lotus,51,19,+2 Laps,0
+15,24,Timo Glock,Virgin,51,21,+2 Laps,0
+16,22,Daniel Ricciardo,HRT,39,23,+14 Laps,0
+17,17,Sergio Pérez,Sauber,32,15,Gearbox,0
+18,16,Kamui Kobayashi,Sauber,21,17,Gearbox,0
+19,14,Adrian Sutil,Force India,9,12,Hydraulics,0
+20,2,Mark Webber,Red Bull,4,5,Accident,0
+21,25,Jérôme d'Ambrosio,Virgin,1,22,Gearbox,0
+22,10,Vitaly Petrov,Renault,0,7,Collision,0
+23,8,Nico Rosberg,Mercedes,0,9,Collision,0
+24,23,Vitantonio Liuzzi,HRT,0,24,Collision,0

@@ -1,0 +1,31 @@
+position,number,driver,constructor,laps,grid,status,points
+1,4,Jim Rathmann,Watson,200,2,Finished,8
+2,1,Rodger Ward,Watson,200,3,Finished,6
+3,99,Paul Goldsmith,Epperly,200,26,Finished,4
+4,7,Don Branson,Phillips,200,8,Finished,3
+5,3,Johnny Thomson,Lesovsky,200,17,Finished,2
+6,22,Eddie Johnson,Trevis,200,7,Finished,1
+7,98,Lloyd Ruby,Watson,200,12,Finished,0
+8,44,Bob Veith,Meskowski,200,25,Finished,0
+9,18,Bud Tingelstad,Trevis,200,28,Finished,0
+10,38,Bob Christie,Kurtis Kraft,200,14,Finished,0
+11,27,Red Amick,Epperly,200,22,Finished,0
+12,17,Duane Carter,Kuzma,200,27,Finished,0
+13,39,Bill Homeier,Kuzma,200,31,Finished,0
+14,48,Gene Hartley,Kurtis Kraft,196,24,+4 Laps,0
+15,65,Chuck Stevenson,Watson,196,9,+4 Laps,0
+16,14,Bobby Grim,Meskowski,194,21,+6 Laps,0
+17,26,Shorty Templeman,Kurtis Kraft,191,19,Clutch,0
+18,56,Jim Hurtubise,Christensen,185,23,Engine,0
+19,10,Jimmy Bryan,Epperly,152,10,Fuel system,0
+20,28,Troy Ruttman,Watson,134,6,Axle,0
+21,6,Eddie Sachs,Ewing,132,1,Magneto,0
+22,73,Don Freeland,Kurtis Kraft,129,11,Magneto,0
+23,2,Tony Bettenhausen,Watson,125,18,Engine,0
+24,32,Wayne Weiler,Epperly,103,15,Accident,0
+25,5,Anthony Foyt,Kurtis Kraft,90,16,Clutch,0
+26,46,Eddie Russo,Kurtis Kraft,90,29,Accident,0
+27,8,Johnny Boyd,Epperly,77,13,Engine,0
+28,37,Gene Force,Kurtis Kraft,74,20,Brakes,0
+29,16,Jim McWithey,Epperly,60,32,Brakes,0
+30,9,Len Sutton,Watson,47,5,Engine,0

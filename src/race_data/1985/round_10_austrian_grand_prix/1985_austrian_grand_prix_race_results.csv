@@ -1,0 +1,28 @@
+position,number,driver,constructor,laps,grid,status,points
+1,2,Alain Prost,McLaren,52,1,Finished,9
+2,12,Ayrton Senna,Team Lotus,52,14,Finished,6
+3,27,Michele Alboreto,Ferrari,52,9,Finished,4
+4,28,Stefan Johansson,Ferrari,52,12,Finished,3
+5,11,Elio de Angelis,Team Lotus,52,7,Finished,2
+6,8,Marc Surer,Brabham,51,11,+1 Lap,1
+7,3,Stefan Bellof,Tyrrell,49,22,Out of fuel,0
+8,18,Thierry Boutsen,Arrows,49,16,+3 Laps,0
+9,24,Huub Rothengatter,Osella,48,24,+4 Laps,0
+10,15,Patrick Tambay,Renault,46,8,Engine,0
+11,26,Jacques Laffite,Ligier,43,15,Accident,0
+12,29,Pierluigi Martini,Minardi,40,23,Suspension,0
+13,1,Niki Lauda,McLaren,39,3,Engine,0
+14,17,Gerhard Berger,Arrows,33,17,Turbo,0
+15,19,Teo Fabi,Toleman,31,6,Electrical,0
+16,16,Derek Warwick,Renault,29,13,Engine,0
+17,10,Kenny Acheson,RAM,28,23,Engine,0
+18,7,Nelson Piquet,Brabham,26,5,Exhaust,0
+19,5,Nigel Mansell,Williams,25,2,Engine,0
+20,22,Riccardo Patrese,Alfa Romeo,25,10,Engine,0
+21,30,Jonathan Palmer,Zakspeed,17,25,Engine,0
+22,9,Philippe Alliot,RAM,16,21,Turbo,0
+23,25,Andrea de Cesaris,Ligier,13,18,Accident,0
+24,23,Eddie Cheever,Alfa Romeo,6,20,Turbo,0
+25,6,Keke Rosberg,Williams,4,4,Oil pressure,0
+26,20,Piercarlo Ghinzani,Toleman,0,19,Withdrew,0
+27,4,Martin Brundle,Tyrrell,0,0,Did not qualify,0

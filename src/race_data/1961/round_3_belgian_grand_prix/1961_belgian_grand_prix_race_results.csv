@@ -1,0 +1,27 @@
+position,number,driver,constructor,laps,grid,status,points
+1,4,Phil Hill,Ferrari,30,1,Finished,9
+2,2,Wolfgang von Trips,Ferrari,30,2,Finished,6
+3,6,Richie Ginther,Ferrari,30,5,Finished,4
+4,8,Olivier Gendebien,Ferrari,30,3,Finished,3
+5,24,John Surtees,Cooper-Climax,30,4,Finished,2
+6,20,Dan Gurney,Porsche,30,10,Finished,1
+7,18,Jo Bonnier,Porsche,30,9,Finished,0
+8,14,Stirling Moss,Lotus-Climax,30,8,Finished,0
+9,40,Jackie Lewis,Cooper-Climax,29,13,+1 Lap,0
+10,44,Masten Gregory,Cooper-Climax,29,12,+1 Lap,0
+11,22,Carel Godin de Beaufort,Porsche,28,14,+2 Laps,0
+12,34,Jim Clark,Lotus-Climax,24,16,+6 Laps,0
+13,38,Tony Brooks,BRM,24,7,+6 Laps,0
+14,36,Graham Hill,BRM,24,6,Ignition,0
+15,26,Maurice Trintignant,Cooper-Maserati,23,20,Gearbox,0
+16,46,Lorenzo Bandini,Cooper-Maserati,20,17,Wheel bearing,0
+17,28,Jack Brabham,Cooper-Climax,12,11,Engine,0
+18,30,Bruce McLaren,Cooper-Climax,9,15,Ignition,0
+19,32,Innes Ireland,Lotus-Climax,9,18,Engine,0
+20,12,Lucien Bianchi,Lotus-Climax,9,23,Oil leak,0
+21,10,Willy Mairesse,Lotus-Climax,7,19,Ignition,0
+22,42,Tony Marsh,Lotus-Climax,0,0,Withdrew,0
+23,48,Wolfgang Seidel,Lotus-Climax,0,0,Withdrew,0
+24,50,Ian Burgess,Lotus-Climax,0,0,Withdrew,0
+25,16,Cliff Allison,Lotus-Climax,0,0,Withdrew,0
+26,16,Henry Taylor,Lotus-Climax,0,0,Withdrew,0

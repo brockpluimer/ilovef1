@@ -1,0 +1,20 @@
+position,number,driver,constructor,laps,grid,status,points
+1,9,Denny Hulme,Brabham-Repco,100,4,Finished,9
+2,14,Graham Hill,Lotus-BRM,99,8,+1 Lap,6
+3,20,Chris Amon,Ferrari,98,14,+2 Laps,4
+4,16,Bruce McLaren,McLaren-BRM,98,10,+3 Laps,3
+5,11,Pedro Rodríguez,Cooper-Maserati,96,16,+4 Laps,2
+6,5,Mike Spence,BRM,96,12,+4 Laps,1
+7,18,Lorenzo Bandini,Ferrari,81,2,Accident,0
+8,6,Piers Courage,BRM,64,13,Spun off,0
+9,12,Jim Clark,Lotus-Climax,42,5,Suspension,0
+10,7,John Surtees,Honda,32,3,Engine,0
+11,17,Jo Siffert,Cooper-Maserati,31,9,Oil pressure,0
+12,4,Jackie Stewart,BRM,14,6,Differential,0
+13,10,Jochen Rindt,Cooper-Maserati,14,15,Gearbox,0
+14,23,Dan Gurney,Eagle-Weslake,4,7,Fuel pump,0
+15,2,Johnny Servoz-Gavin,Matra,4,11,Injection,0
+16,8,Jack Brabham,Brabham-Repco,0,1,Engine,0
+17,15,Bob Anderson,Brabham-Climax,0,0,Did not qualify,0
+18,1,Jean-Pierre Beltoise,Matra,0,0,Did not qualify,0
+19,22,Richie Ginther,Eagle-Climax,0,0,Did not qualify,0

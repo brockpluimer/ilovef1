@@ -1,0 +1,30 @@
+position,number,driver,constructor,laps,grid,status,points
+1,11,Elio de Angelis,Team Lotus,53,7,Finished,9
+2,6,Keke Rosberg,Williams,53,6,Finished,6
+3,26,Jacques Laffite,Ligier,52,14,+1 Lap,4
+4,27,Patrick Tambay,Ferrari,52,4,+1 Lap,3
+5,8,Niki Lauda,McLaren,52,10,+1 Lap,2
+6,30,Mauro Baldi,Arrows,52,23,+1 Lap,1
+7,20,Chico Serra,Fittipaldi,51,20,+2 Laps,0
+8,15,Alain Prost,Renault,48,3,Injection,0
+9,7,John Watson,McLaren,44,18,Engine,0
+10,4,Brian Henton,Tyrrell,32,19,Engine,0
+11,1,Nelson Piquet,Brabham,31,1,Electrical,0
+12,33,Tommy Byrne,Theodore,28,26,Spun off,0
+13,29,Marc Surer,Arrows,28,21,Engine,0
+14,2,Riccardo Patrese,Brabham,27,2,Engine,0
+15,25,Eddie Cheever,Ligier,22,22,Engine,0
+16,12,Nigel Mansell,Team Lotus,17,12,Engine,0
+17,16,René Arnoux,Renault,16,5,Injection,0
+18,9,Manfred Winkelhock,ATS,15,25,Spun off,0
+19,35,Derek Warwick,Toleman,7,15,Suspension,0
+20,36,Teo Fabi,Toleman,7,17,Transmission,0
+21,14,Roberto Guerrero,Ensign,6,16,Spun off,0
+22,3,Michele Alboreto,Tyrrell,1,8,Spun off,0
+23,17,Rupert Keegan,March,1,24,Steering,0
+24,5,Derek Daly,Williams,0,9,Collision,0
+25,22,Andrea de Cesaris,Alfa Romeo,0,11,Collision,0
+26,23,Bruno Giacomelli,Alfa Romeo,0,13,Collision,0
+27,18,Raul Boesel,March,0,0,Did not qualify,0
+28,31,Jean-Pierre Jarier,Osella,0,0,Did not qualify,0
+29,10,Eliseo Salazar,ATS,0,0,Did not qualify,0

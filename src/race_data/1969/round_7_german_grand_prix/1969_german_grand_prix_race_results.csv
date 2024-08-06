@@ -1,0 +1,15 @@
+position,number,driver,constructor,laps,grid,status,points
+1,6,Jacky Ickx,Brabham-Ford,14,1,Finished,9
+2,7,Jackie Stewart,Matra-Ford,14,2,Finished,6
+3,10,Bruce McLaren,McLaren-Ford,14,8,Finished,4
+4,1,Graham Hill,Lotus-Ford,14,9,Finished,3
+5,11,Jo Siffert,Lotus-Ford,12,4,Suspension,2
+6,8,Jean-Pierre Beltoise,Matra-Ford,12,10,Suspension,1
+7,9,Denny Hulme,McLaren-Ford,11,5,Transmission,0
+8,15,Jackie Oliver,BRM-Ford,11,16,Oil leak,0
+9,2,Jochen Rindt,Lotus-Ford,10,3,Ignition,0
+10,16,Jo Bonnier,Lotus-Ford,4,23,Fuel leak,0
+11,17,Piers Courage,Brabham-Ford,1,7,Accident,0
+12,12,Vic Elford,McLaren-Ford,0,6,Accident,0
+13,3,Mario Andretti,Lotus-Ford,0,15,Accident,0
+14,14,John Surtees,BRM,0,11,Withdrew,0

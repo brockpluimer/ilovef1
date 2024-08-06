@@ -1,0 +1,28 @@
+position,number,driver,constructor,laps,grid,status,points
+1,8,Niki Lauda,McLaren,75,8,Finished,9
+2,7,Alain Prost,McLaren,75,5,Finished,6
+3,16,Derek Warwick,Renault,74,9,+1 Lap,4
+4,22,Riccardo Patrese,Alfa Romeo,73,18,+2 Laps,3
+5,26,Andrea de Cesaris,Ligier,73,14,+2 Laps,2
+6,19,Ayrton Senna,Toleman,72,13,+3 Laps,1
+7,11,Elio de Angelis,Team Lotus,71,7,+4 Laps,0
+8,21,Mauro Baldi,Spirit,71,20,+4 Laps,0
+9,17,Marc Surer,Arrows,71,23,+4 Laps,0
+10,25,François Hesnault,Ligier,71,17,+4 Laps,0
+11,27,Michele Alboreto,Ferrari,70,10,Ignition,0
+12,18,Thierry Boutsen,Arrows,70,26,+5 Laps,0
+13,3,Martin Brundle,Tyrrell,71,25,Disqualified,0
+14,15,Patrick Tambay,Renault,66,4,Out of fuel,0
+15,4,Stefan Bellof,Tyrrell,60,24,Disqualified,0
+16,5,Jacques Laffite,Williams,60,11,Transmission,0
+17,14,Manfred Winkelhock,ATS,53,12,Engine,0
+18,6,Keke Rosberg,Williams,51,2,Wheel,0
+19,12,Nigel Mansell,Team Lotus,51,3,Turbo,0
+20,28,René Arnoux,Ferrari,40,15,Injection,0
+21,1,Nelson Piquet,Brabham,29,1,Turbo,0
+22,20,Johnny Cecotto,Toleman,26,19,Tyre,0
+23,9,Philippe Alliot,RAM,24,22,Engine,0
+24,10,Jonathan Palmer,RAM,22,21,Gearbox,0
+25,2,Teo Fabi,Brabham,18,6,Turbo,0
+26,23,Eddie Cheever,Alfa Romeo,4,16,Radiator,0
+27,24,Piercarlo Ghinzani,Osella,0,0,Withdrew,0

@@ -1,0 +1,31 @@
+position,number,driver,constructor,laps,grid,status,points
+1,5,Nigel Mansell,Williams,59,1,Finished,10
+2,2,Gerhard Berger,McLaren,59,4,Finished,6
+3,27,Alain Prost,Ferrari,59,5,Finished,4
+4,1,Ayrton Senna,McLaren,58,2,Out of fuel,3
+5,20,Nelson Piquet,Benetton,58,8,+1 Lap,2
+6,32,Bertrand Gachot,Jordan,58,17,+1 Lap,1
+7,4,Stefano Modena,Tyrrell,58,10,+1 Lap,0
+8,3,Satoru Nakajima,Tyrrell,58,15,+1 Lap,0
+9,23,Pierluigi Martini,Minardi,58,23,+1 Lap,0
+10,21,Emanuele Pirro,Dallara,57,18,+2 Laps,0
+11,24,Gianni Morbidelli,Minardi,57,20,+2 Laps,0
+12,11,Mika Häkkinen,Team Lotus,57,25,+2 Laps,0
+13,22,Jyrki Järvilehto,Dallara,56,11,+3 Laps,0
+14,12,Johnny Herbert,Team Lotus,55,24,Oil pressure,0
+15,8,Mark Blundell,Brabham,52,12,Engine,0
+16,33,Andrea de Cesaris,Jordan,41,13,Spun off,0
+17,28,Jean Alesi,Ferrari,31,6,Collision,0
+18,30,Aguri Suzuki,Lola,29,22,Collision,0
+19,25,Thierry Boutsen,Ligier,29,19,Engine,0
+20,7,Martin Brundle,Brabham,28,14,Throttle,0
+21,9,Michele Alboreto,Footwork,25,26,Transmission,0
+22,15,Maurício Gugelmin,Leyton House,24,9,Chassis,0
+23,19,Roberto Moreno,Benetton,21,7,Gearbox,0
+24,29,Éric Bernard,Lola,21,21,Transmission,0
+25,16,Ivan Capelli,Leyton House,16,16,Spun off,0
+26,6,Riccardo Patrese,Williams,1,3,Collision,0
+27,26,Érik Comas,Ligier,0,0,Did not qualify,0
+28,10,Stefan Johansson,Footwork,0,0,Did not qualify,0
+29,18,Fabrizio Barbazza,AGS,0,0,Did not qualify,0
+30,17,Gabriele Tarquini,AGS,0,0,Did not qualify,0

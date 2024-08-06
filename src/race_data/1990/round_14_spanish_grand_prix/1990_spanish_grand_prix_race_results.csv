@@ -1,0 +1,31 @@
+position,number,driver,constructor,laps,grid,status,points
+1,1,Alain Prost,Ferrari,73,2,Finished,9
+2,2,Nigel Mansell,Ferrari,73,3,Finished,6
+3,19,Alessandro Nannini,Benetton,73,9,Finished,4
+4,5,Thierry Boutsen,Williams,73,7,Finished,3
+5,6,Riccardo Patrese,Williams,73,6,Finished,2
+6,30,Aguri Suzuki,Larrousse,73,15,Finished,1
+7,25,Nicola Larini,Ligier,72,20,+1 Lap,0
+8,15,Maurício Gugelmin,Leyton House,72,12,+1 Lap,0
+9,18,Yannick Dalmas,AGS,72,23,+1 Lap,0
+10,9,Michele Alboreto,Arrows,71,25,+2 Laps,0
+11,11,Derek Warwick,Team Lotus,63,10,Gearbox,0
+12,16,Ivan Capelli,Leyton House,59,19,Physical,0
+13,28,Gerhard Berger,McLaren,56,5,Collision,0
+14,27,Ayrton Senna,McLaren,53,1,Radiator,0
+15,20,Nelson Piquet,Benetton,47,8,Battery,0
+16,22,Andrea de Cesaris,Dallara,47,17,Engine,0
+17,14,Olivier Grouillard,Osella,45,21,Wheel bearing,0
+18,23,Pierluigi Martini,Minardi,41,11,Spun off,0
+19,26,Philippe Alliot,Ligier,22,13,Spun off,0
+20,29,Éric Bernard,Larrousse,20,18,Gearbox,0
+21,3,Satoru Nakajima,Tyrrell,13,14,Spun off,0
+22,17,Gabriele Tarquini,AGS,5,22,Engine,0
+23,8,Stefano Modena,Brabham,5,24,Collision,0
+24,4,Jean Alesi,Tyrrell,0,4,Spun off,0
+25,21,Emanuele Pirro,Dallara,0,16,Throttle,0
+26,12,Martin Donnelly,Team Lotus,0,0,Injured,0
+27,7,David Brabham,Brabham,0,0,Did not qualify,0
+28,24,Paolo Barilla,Minardi,0,0,Did not qualify,0
+29,10,Bernd Schneider,Arrows,0,0,Did not qualify,0
+30,31,Bertrand Gachot,Coloni,0,0,Did not qualify,0

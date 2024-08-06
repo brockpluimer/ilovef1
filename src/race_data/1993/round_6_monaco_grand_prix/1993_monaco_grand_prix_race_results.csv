@@ -1,0 +1,27 @@
+position,number,driver,constructor,laps,grid,status,points
+1,8,Ayrton Senna,McLaren,78,3,Finished,10
+2,0,Damon Hill,Williams,78,4,Finished,6
+3,27,Jean Alesi,Ferrari,78,5,Finished,4
+4,2,Alain Prost,Williams,77,1,+1 Lap,3
+5,23,Christian Fittipaldi,Minardi,76,17,+2 Laps,2
+6,25,Martin Brundle,Ligier,76,13,+2 Laps,1
+7,11,Alessandro Zanardi,Team Lotus,76,20,+2 Laps,0
+8,7,Michael Andretti,McLaren,76,9,+2 Laps,0
+9,14,Rubens Barrichello,Jordan,76,16,+2 Laps,0
+10,4,Andrea de Cesaris,Tyrrell,76,19,+2 Laps,0
+11,24,Fabrizio Barbazza,Minardi,75,25,+3 Laps,0
+12,19,Philippe Alliot,Larrousse,75,15,+3 Laps,0
+13,29,Karl Wendlinger,Sauber,74,8,+4 Laps,0
+14,28,Gerhard Berger,Ferrari,70,7,Collision,0
+15,12,Johnny Herbert,Team Lotus,61,14,Gearbox,0
+16,6,Riccardo Patrese,Benetton,53,6,Engine,0
+17,20,Érik Comas,Larrousse,51,10,Engine,0
+18,10,Aguri Suzuki,Footwork,46,18,Spun off,0
+19,9,Derek Warwick,Footwork,43,12,Throttle,0
+20,5,Michael Schumacher,Benetton,32,2,Hydraulics,0
+21,3,Ukyo Katayama,Tyrrell,31,22,Engine,0
+22,21,Michele Alboreto,Lola,28,24,Gearbox,0
+23,30,Jyrki Järvilehto,Sauber,23,11,Accident,0
+24,15,Thierry Boutsen,Jordan,12,23,Suspension,0
+25,26,Mark Blundell,Ligier,3,21,Spun off,0
+26,22,Luca Badoer,Lola,0,0,Did not qualify,0

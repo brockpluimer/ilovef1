@@ -1,0 +1,20 @@
+position,number,driver,constructor,laps,grid,status,points
+1,9,Bruce McLaren,Cooper-Climax,42,10,Finished,8
+2,6,Maurice Trintignant,Cooper-Climax,42,5,Finished,7
+3,2,Tony Brooks,Ferrari,42,4,Finished,4
+4,8,Jack Brabham,Cooper-Climax,42,2,Finished,3
+5,10,Innes Ireland,Team Lotus,39,9,+3 Laps,2
+6,4,Wolfgang von Trips,Ferrari,38,6,Engine,0
+7,17,Harry Blanchard,Porsche,38,16,+4 Laps,0
+8,3,Cliff Allison,Ferrari,23,11,Transmission,0
+9,12,Roy Salvadori,Cooper-Maserati,23,11,Transmission,0
+10,1,Rodger Ward,Kurtis Kraft,20,19,Clutch,0
+11,14,Alessandro de Tomaso,Cooper-OSCA,13,14,Brakes,0
+12,5,Phil Hill,Ferrari,8,8,Clutch,0
+13,15,Fritz d'Orey,Tec-Mec,6,17,Oil leak,0
+14,7,Stirling Moss,Cooper-Climax,5,1,Transmission,0
+15,19,Harry Schell,Cooper-Climax,5,3,Clutch,0
+16,16,George Constantine,Cooper-Borgward,5,15,Overheating,0
+17,11,Alan Stacey,Team Lotus,2,12,Clutch,0
+18,18,Bob Said,Connaught,0,13,Accident,0
+19,22,Phil Cade,Maserati,0,0,Withdrew,0

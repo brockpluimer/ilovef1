@@ -1,0 +1,31 @@
+position,number,driver,constructor,laps,grid,status,points
+1,12,Ayrton Senna,McLaren,43,1,Finished,9
+2,11,Alain Prost,McLaren,43,2,Finished,6
+3,16,Ivan Capelli,March,43,14,Finished,4
+4,1,Nelson Piquet,Team Lotus,43,9,Finished,3
+5,17,Derek Warwick,Arrows,43,10,Finished,2
+6,18,Eddie Cheever,Arrows,42,11,+1 Lap,1
+7,5,Martin Brundle,Williams,42,12,+1 Lap,0
+8,36,Alex Caffi,Dallara,42,15,+1 Lap,0
+9,30,Philippe Alliot,Larrousse,42,16,+1 Lap,0
+10,14,Philippe Streiff,AGS,42,18,+1 Lap,0
+11,26,Stefan Johansson,Ligier,39,20,Engine,0
+12,3,Jonathan Palmer,Tyrrell,39,21,Throttle,0
+13,10,Bernd Schneider,Zakspeed,38,25,Gearbox,0
+14,20,Thierry Boutsen,Benetton,43,6,Disqualified,0
+15,19,Alessandro Nannini,Benetton,43,7,Disqualified,0
+16,31,Gabriele Tarquini,Coloni,36,22,Steering,0
+17,27,Michele Alboreto,Ferrari,35,4,Engine,0
+18,6,Riccardo Patrese,Williams,30,5,Engine,0
+19,15,Maurício Gugelmin,March,29,13,Spun off,0
+20,9,Piercarlo Ghinzani,Zakspeed,25,24,Oil leak,0
+21,2,Satoru Nakajima,Team Lotus,22,8,Engine,0
+22,21,Nicola Larini,Osella,14,26,Fuel system,0
+23,28,Gerhard Berger,Ferrari,11,3,Injection,0
+24,29,Yannick Dalmas,Larrousse,9,23,Engine,0
+25,22,Andrea de Cesaris,Rial,2,19,Accident,0
+26,25,René Arnoux,Ligier,2,17,Accident,0
+27,24,Luis Pérez-Sala,Minardi,0,0,Did not qualify,0
+28,23,Pierluigi Martini,Minardi,0,0,Did not qualify,0
+29,33,Stefano Modena,Euro Brun,0,0,Did not qualify,0
+30,4,Julian Bailey,Tyrrell,0,0,Did not qualify,0

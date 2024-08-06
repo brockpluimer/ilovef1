@@ -1,0 +1,25 @@
+position,number,driver,constructor,laps,grid,status,points
+1,1,Sebastian Vettel,Red Bull,44,1,Finished,25
+2,2,Mark Webber,Red Bull,44,3,Finished,18
+3,4,Jenson Button,McLaren,44,13,Finished,15
+4,5,Fernando Alonso,Ferrari,44,8,Finished,12
+5,7,Michael Schumacher,Mercedes,44,24,Finished,10
+6,8,Nico Rosberg,Mercedes,44,5,Finished,8
+7,14,Adrian Sutil,Force India,44,15,Finished,6
+8,6,Felipe Massa,Ferrari,44,4,Finished,4
+9,10,Vitaly Petrov,Renault,44,10,Finished,2
+10,12,Pastor Maldonado,Williams,44,21,Finished,1
+11,15,Paul di Resta,Force India,44,17,Finished,0
+12,16,Kamui Kobayashi,Sauber,44,12,Finished,0
+13,9,Bruno Senna,Renault,44,7,Finished,0
+14,21,Jarno Trulli,Lotus,43,18,+1 Lap,0
+15,20,Heikki Kovalainen,Lotus,43,16,+1 Lap,0
+16,11,Rubens Barrichello,Williams,43,14,+1 Lap,0
+17,25,Jérôme d'Ambrosio,Virgin,43,20,+1 Lap,0
+18,24,Timo Glock,Virgin,43,19,+1 Lap,0
+19,23,Vitantonio Liuzzi,HRT,43,22,+1 Lap,0
+20,17,Sergio Pérez,Sauber,27,9,Suspension,0
+21,22,Daniel Ricciardo,HRT,13,23,Engine,0
+22,3,Lewis Hamilton,McLaren,12,2,Collision,0
+23,18,Sébastien Buemi,Toro Rosso,6,11,Rear wing,0
+24,19,Jaime Alguersuari,Toro Rosso,0,6,Collision,0

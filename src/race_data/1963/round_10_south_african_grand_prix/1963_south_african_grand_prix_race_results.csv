@@ -1,0 +1,24 @@
+position,number,driver,constructor,laps,grid,status,points
+1,1,Jim Clark,Lotus-Climax,85,1,Finished,9
+2,9,Dan Gurney,Brabham,85,3,Finished,6
+3,5,Graham Hill,BRM,84,6,+1 Lap,4
+4,10,Bruce McLaren,Cooper-Climax,84,9,+1 Lap,3
+5,4,Lorenzo Bandini,Ferrari,84,5,+1 Lap,2
+6,12,Jo Bonnier,Cooper-Climax,83,11,+2 Laps,1
+7,11,Tony Maggs,Cooper-Climax,82,10,+3 Laps,0
+8,2,Trevor Taylor,Lotus-Climax,81,8,+4 Laps,0
+9,19,John Love,Cooper-Climax,80,13,+5 Laps,0
+10,14,Carel Godin de Beaufort,Porsche,79,20,+6 Laps,0
+11,16,Doug Serrurier,LDS,78,18,+7 Laps,0
+12,23,Trevor Blokdyk,Cooper-Maserati,77,19,+8 Laps,0
+13,8,Jack Brabham,Brabham,70,2,Accident,0
+14,21,Brausch Niemann,Lotus-Ford,66,15,+19 Laps,0
+15,18,Peter de Klerk,Alfa Romeo,53,16,Gearbox,0
+16,22,David Prophet,Brabham,49,14,Oil pressure,0
+17,3,John Surtees,Ferrari,43,4,Engine,0
+18,6,Richie Ginther,BRM,43,7,Halfshaft,0
+19,7,Ernie Pieterse,Lotus-Climax,3,12,Engine,0
+20,20,Sam Tingle,LDS,2,17,Halfshaft,0
+21,15,Paddy Driver,Lotus-BRM,0,0,Accident,0
+22,17,Neville Lederle,Lotus-Climax,0,0,Withdrew,0
+23,,Mike Hailwood,Lola,0,0,Withdrew,0

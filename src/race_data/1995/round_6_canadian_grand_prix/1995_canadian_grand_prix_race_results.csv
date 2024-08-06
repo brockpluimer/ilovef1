@@ -1,0 +1,25 @@
+position,number,driver,constructor,laps,grid,status,points
+1,27,Jean Alesi,Ferrari,68,5,Finished,10
+2,14,Rubens Barrichello,Jordan,68,9,Finished,6
+3,15,Eddie Irvine,Jordan,68,8,Finished,4
+4,26,Olivier Panis,Ligier,68,11,Finished,3
+5,1,Michael Schumacher,Benetton,68,1,Finished,2
+6,9,Gianni Morbidelli,Footwork,67,13,+1 Lap,1
+7,4,Mika Salo,Tyrrell,67,15,+1 Lap,0
+8,24,Luca Badoer,Minardi,67,19,+1 Lap,0
+9,10,Taki Inoue,Footwork,66,22,+2 Laps,0
+10,25,Martin Brundle,Ligier,61,14,Collision,0
+11,28,Gerhard Berger,Ferrari,61,4,Collision,0
+12,23,Pierluigi Martini,Minardi,60,17,Throttle,0
+13,22,Roberto Moreno,Forti,54,23,Fuel system,0
+14,5,Damon Hill,Williams,50,2,Gearbox,0
+15,7,Mark Blundell,McLaren,47,10,Engine,0
+16,3,Ukyo Katayama,Tyrrell,42,16,Engine,0
+17,16,Bertrand Gachot,Pacific,36,20,Battery,0
+18,30,Heinz-Harald Frentzen,Sauber,26,12,Engine,0
+19,21,Pedro Diniz,Forti,26,24,Gearbox,0
+20,29,Jean-Christophe Boullion,Sauber,19,18,Spun off,0
+21,17,Andrea Montermini,Pacific,5,21,Gearbox,0
+22,6,David Coulthard,Williams,1,3,Spun off,0
+23,2,Johnny Herbert,Benetton,0,6,Collision,0
+24,8,Mika Häkkinen,McLaren,0,7,Collision,0

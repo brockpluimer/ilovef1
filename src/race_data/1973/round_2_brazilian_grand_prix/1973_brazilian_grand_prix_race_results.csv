@@ -1,0 +1,21 @@
+position,number,driver,constructor,laps,grid,status,points
+1,1,Emerson Fittipaldi,Team Lotus,40,2,Finished,9
+2,3,Jackie Stewart,Tyrrell,40,8,Finished,6
+3,7,Denny Hulme,McLaren,40,5,Finished,4
+4,10,Arturo Merzario,Ferrari,39,17,+1 Lap,3
+5,9,Jacky Ickx,Ferrari,39,3,+1 Lap,2
+6,14,Clay Regazzoni,BRM,39,4,+1 Lap,1
+7,19,Howden Ganley,Iso Marlboro,39,14,+1 Lap,0
+8,16,Niki Lauda,BRM,38,13,+2 Laps,0
+9,20,Nanni Galli,Iso Marlboro,38,18,+2 Laps,0
+10,4,François Cevert,Tyrrell,38,9,+2 Laps,0
+11,17,Carlos Reutemann,Brabham,38,7,+2 Laps,0
+12,23,Luiz Bueno,Surtees,36,20,+4 Laps,0
+13,15,Jean-Pierre Beltoise,BRM,23,10,Electrical,0
+14,12,Mike Beuttler,March,18,19,Overheating,0
+15,6,Carlos Pace,Surtees,9,6,Suspension,0
+16,5,Mike Hailwood,Surtees,6,14,Gearbox,0
+17,11,Jean-Pierre Jarier,March,6,15,Gearbox,0
+18,2,Ronnie Peterson,Team Lotus,5,1,Wheel,0
+19,18,Wilson Fittipaldi,Brabham,5,11,Overheating,0
+20,8,Peter Revson,McLaren,3,12,Gearbox,0

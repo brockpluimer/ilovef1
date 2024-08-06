@@ -1,0 +1,24 @@
+position,number,driver,constructor,laps,grid,status,points
+1,1,Emerson Fittipaldi,McLaren,53,5,Finished,9
+2,24,James Hunt,Hesketh,53,6,Finished,6
+3,7,Carlos Reutemann,Brabham,53,3,Finished,4
+4,11,Clay Regazzoni,Ferrari,53,7,Finished,3
+5,4,Patrick Depailler,Tyrrell,53,8,Finished,2
+6,12,Niki Lauda,Ferrari,53,4,Finished,1
+7,28,Mark Donohue,Penske,52,16,+1 Lap,0
+8,6,Jacky Ickx,Team Lotus,52,18,+1 Lap,0
+9,9,Vittorio Brambilla,March,52,12,+1 Lap,0
+10,22,Graham Hill,Lola,52,21,+1 Lap,0
+11,3,Jody Scheckter,Tyrrell,52,9,+1 Lap,0
+12,16,Tom Pryce,Shadow-Ford,51,14,Transmission,0
+13,23,Rolf Stommelen,Lola,51,19,+2 Laps,0
+14,2,Jochen Mass,McLaren,50,13,+3 Laps,0
+15,8,Carlos Pace,Brabham,46,2,Engine,0
+16,20,Arturo Merzario,Williams,44,20,Not classified,0
+17,27,Mario Andretti,Parnelli,27,10,Transmission,0
+18,14,Mike Wilds,BRM,24,22,Engine,0
+19,5,Ronnie Peterson,Team Lotus,15,11,Engine,0
+20,21,Jacques Laffite,Williams,15,17,Gearbox,0
+21,30,Wilson Fittipaldi,Fittipaldi,12,23,Accident,0
+22,18,John Watson,Surtees,6,15,Disqualified,0
+23,17,Jean-Pierre Jarier,Shadow-Ford,0,1,Transmission,0

@@ -1,0 +1,31 @@
+position,number,driver,constructor,laps,grid,status,points
+1,4,Wolfgang von Trips,Ferrari,75,4,Finished,9
+2,2,Phil Hill,Ferrari,75,1,Finished,6
+3,6,Richie Ginther,Ferrari,75,2,Finished,4
+4,12,Jack Brabham,Cooper-Climax,75,9,Finished,3
+5,8,Jo Bonnier,Porsche,75,3,Finished,2
+6,36,Roy Salvadori,Cooper-Climax,75,13,Finished,1
+7,10,Dan Gurney,Porsche,74,12,+1 Lap,0
+8,14,Bruce McLaren,Cooper-Climax,74,14,+1 Lap,0
+9,22,Tony Brooks,BRM,73,6,+2 Laps,0
+10,16,Innes Ireland,Lotus-Climax,72,7,+3 Laps,0
+11,42,Masten Gregory,Cooper-Climax,71,16,+4 Laps,0
+12,60,Lorenzo Bandini,Cooper-Maserati,71,21,+4 Laps,0
+13,50,Tony Maggs,Lotus-Climax,69,24,+6 Laps,0
+14,44,Ian Burgess,Lotus-Climax,69,25,+6 Laps,0
+15,54,Keith Greene,Gilby,69,26,+6 Laps,0
+16,56,Carel Godin de Beaufort,Porsche,69,18,+6 Laps,0
+17,52,Wolfgang Seidel,Lotus-Climax,58,22,+17 Laps,0
+18,18,Jim Clark,Lotus-Climax,62,8,Oil leak,0
+19,26,Jack Fairman,Ferguson,56,20,Disqualified,0
+19,26,Stirling Moss,Ferguson,56,20,Disqualified,0
+20,32,Lucien Bianchi,Lotus-Climax,45,30,Gearbox,0
+21,28,Stirling Moss,Lotus-Climax,44,5,Brakes,0
+22,20,Graham Hill,BRM,43,11,Engine,0
+23,58,Giancarlo Baghetti,Ferrari,27,19,Accident,0
+24,48,Tony Marsh,Lotus-Climax,25,27,Ignition,0
+25,34,John Surtees,Cooper-Climax,23,10,Differential,0
+26,38,Tim Parnell,Lotus-Climax,12,29,Clutch,0
+27,46,Jackie Lewis,Cooper-Climax,7,15,Handling,0
+28,40,Gerry Ashmore,Lotus-Climax,7,26,Ignition,0
+29,30,Henry Taylor,Lotus-Climax,5,17,Accident,0

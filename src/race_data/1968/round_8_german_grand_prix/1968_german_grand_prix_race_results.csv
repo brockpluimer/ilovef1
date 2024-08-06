@@ -1,0 +1,21 @@
+position,number,driver,constructor,laps,grid,status,points
+1,6,Jackie Stewart,Matra-Ford,14,6,Finished,9
+2,3,Graham Hill,Lotus-Ford,14,4,Finished,6
+3,5,Jochen Rindt,Brabham-Repco,14,3,Finished,4
+4,9,Jacky Ickx,Ferrari,14,1,Finished,3
+5,4,Jack Brabham,Brabham-Repco,14,15,Finished,2
+6,10,Pedro Rodríguez,BRM,14,14,Finished,1
+7,1,Denny Hulme,McLaren-Ford,14,11,Finished,0
+8,22,Piers Courage,BRM,14,8,Finished,0
+9,14,Dan Gurney,Eagle-Weslake,14,10,Finished,0
+10,18,Hubert Hahne,Lola,14,18,Finished,0
+11,21,Jackie Oliver,Lotus-Ford,13,13,+1 Lap,0
+12,17,Kurt Ahrens,Brabham-Repco,13,17,+1 Lap,0
+13,2,Bruce McLaren,McLaren,13,16,+1 Lap,0
+14,11,Richard Attwood,BRM,13,20,+1 Lap,0
+15,8,Chris Amon,Ferrari,11,2,Accident,0
+16,12,Jean-Pierre Beltoise,Matra,8,12,Accident,0
+17,16,Jo Siffert,Lotus-Ford,6,9,Ignition,0
+18,19,Lucien Bianchi,Cooper-BRM,6,19,Fuel leak,0
+19,7,John Surtees,Honda,3,7,Ignition,0
+20,20,Vic Elford,Cooper-BRM,0,5,Accident,0

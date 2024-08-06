@@ -1,0 +1,26 @@
+position,number,driver,constructor,laps,grid,status,points
+1,6,Keke Rosberg,Williams,82,3,Finished,9
+2,26,Jacques Laffite,Ligier,82,20,Finished,6
+3,25,Philippe Streiff,Ligier,82,18,Finished,4
+4,4,Ivan Capelli,Tyrrell,81,22,+1 Lap,3
+5,28,Stefan Johansson,Ferrari,81,15,+1 Lap,2
+6,17,Gerhard Berger,Arrows,81,7,+1 Lap,1
+7,24,Huub Rothengatter,Osella,78,25,+4 Laps,0
+8,29,Pierluigi Martini,Minardi,78,23,+4 Laps,0
+9,12,Ayrton Senna,Team Lotus,62,1,Engine,0
+10,27,Michele Alboreto,Ferrari,61,5,Transmission,0
+11,1,Niki Lauda,McLaren,57,16,Accident,0
+12,16,Derek Warwick,Renault,57,12,Transmission,0
+13,3,Martin Brundle,Tyrrell,49,17,Not classified,0
+14,8,Marc Surer,Brabham,42,6,Engine,0
+15,22,Riccardo Patrese,Alfa Romeo,42,14,Exhaust,0
+16,19,Teo Fabi,Toleman,40,24,Engine,0
+17,18,Thierry Boutsen,Arrows,37,11,Oil leak,0
+18,20,Piercarlo Ghinzani,Toleman,28,21,Clutch,0
+19,2,Alain Prost,McLaren,26,4,Engine,0
+20,15,Patrick Tambay,Renault,20,8,Transmission,0
+21,33,Alan Jones,Lola,20,19,Electrical,0
+22,11,Elio de Angelis,Team Lotus,18,10,Disqualified,0
+23,7,Nelson Piquet,Brabham,14,9,Heat shield fire,0
+24,23,Eddie Cheever,Alfa Romeo,5,13,Engine,0
+25,5,Nigel Mansell,Williams,1,2,Transmission,0

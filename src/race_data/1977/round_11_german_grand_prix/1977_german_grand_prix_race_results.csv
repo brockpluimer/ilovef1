@@ -1,0 +1,30 @@
+position,number,driver,constructor,laps,grid,status,points
+1,11,Niki Lauda,Ferrari,47,3,Finished,9
+2,20,Jody Scheckter,Wolf,47,1,Finished,6
+3,8,Hans-Joachim Stuck,Brabham,47,5,Finished,4
+4,12,Carlos Reutemann,Ferrari,47,8,Finished,3
+5,19,Vittorio Brambilla,Surtees,47,10,Finished,2
+6,23,Patrick Tambay,Ensign,47,11,Finished,1
+7,18,Vern Schuppan,Surtees,46,19,+1 Lap,0
+8,9,Alex Ribeiro,March,46,20,+1 Lap,0
+9,3,Ronnie Peterson,Tyrrell,42,14,Engine,0
+10,16,Riccardo Patrese,Shadow,42,16,Wheel,0
+11,24,Rupert Keegan,Hesketh,40,23,Accident,0
+12,5,Mario Andretti,Team Lotus,34,7,Engine,0
+13,1,James Hunt,McLaren,32,4,Fuel pump,0
+14,6,Gunnar Nilsson,Team Lotus,31,9,Engine,0
+15,2,Jochen Mass,McLaren,26,13,Gearbox,0
+16,4,Patrick Depailler,Tyrrell,22,15,Engine,0
+17,26,Jacques Laffite,Ligier,21,6,Engine,0
+18,25,Hector Rebaque,Hesketh,20,24,Engine,0
+19,30,Brett Lunger,McLaren,14,21,Accident,0
+20,10,Ian Scheckter,March,9,19,Clutch,0
+21,7,John Watson,Brabham,8,2,Engine,0
+22,34,Jean-Pierre Jarier,Penske,5,12,Transmission,0
+23,17,Alan Jones,Shadow,0,17,Accident,0
+24,35,Hans Heyer,Penske,9,25,Did not qualify,0
+25,27,Patrick Nève,March,0,0,Did not qualify,0
+26,36,Emilio de Villota,McLaren,0,0,Did not qualify,0
+27,28,Emerson Fittipaldi,Fittipaldi,0,0,Did not qualify,0
+28,37,Arturo Merzario,March,0,0,Did not qualify,0
+29,40,Teddy Pilette,BRM,0,0,Did not qualify,0

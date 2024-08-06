@@ -1,0 +1,29 @@
+position,number,driver,constructor,laps,grid,status,points
+1,0,Damon Hill,Williams,50,2,Finished,10
+2,5,Michael Schumacher,Benetton,50,1,Finished,6
+3,27,Jean Alesi,Ferrari,50,7,Finished,4
+4,2,Nigel Mansell,Williams,50,4,Finished,3
+5,15,Eddie Irvine,Jordan,50,6,Finished,2
+6,30,Heinz-Harald Frentzen,Sauber,50,3,Finished,1
+7,7,Mika Häkkinen,McLaren,50,8,Finished,0
+8,9,Christian Fittipaldi,Footwork,49,18,+1 Lap,0
+9,20,Érik Comas,Larrousse,49,22,+1 Lap,0
+10,11,Mika Salo,Team Lotus,49,25,+1 Lap,0
+11,26,Olivier Panis,Ligier,49,19,+1 Lap,0
+12,31,David Brabham,Simtek,48,24,+2 Laps,0
+13,12,Alessandro Zanardi,Team Lotus,48,17,+2 Laps,0
+14,4,Mark Blundell,Tyrrell,26,13,Engine,0
+15,14,Rubens Barrichello,Jordan,16,10,Gearbox,0
+16,8,Martin Brundle,McLaren,13,9,Spun off,0
+17,10,Gianni Morbidelli,Footwork,13,12,Spun off,0
+18,28,Gerhard Berger,Ferrari,10,11,Ignition,0
+19,25,Franck Lagorce,Ligier,10,20,Collision,0
+20,23,Pierluigi Martini,Minardi,10,16,Collision,0
+21,24,Michele Alboreto,Minardi,10,21,Spun off,0
+22,6,Johnny Herbert,Benetton,3,5,Spun off,0
+23,3,Ukyo Katayama,Tyrrell,3,14,Spun off,0
+24,32,Taki Inoue,Simtek,3,26,Spun off,0
+25,29,Jyrki Järvilehto,Sauber,0,15,Engine,0
+26,19,Hideki Noda,Larrousse,0,23,Spun off,0
+27,34,Bertrand Gachot,Pacific,0,0,Did not qualify,0
+28,33,Paul Belmondo,Pacific,0,0,Did not qualify,0

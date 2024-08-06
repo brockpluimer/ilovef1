@@ -1,0 +1,31 @@
+position,number,driver,constructor,laps,grid,status,points
+1,6,Riccardo Patrese,Williams,67,1,Finished,10
+2,5,Nigel Mansell,Williams,67,2,Finished,6
+3,1,Ayrton Senna,McLaren,67,3,Finished,4
+4,33,Andrea de Cesaris,Jordan,66,11,+1 Lap,3
+5,19,Roberto Moreno,Benetton,66,9,+1 Lap,2
+6,29,Éric Bernard,Lola,66,23,+1 Lap,1
+7,24,Gianni Morbidelli,Minardi,66,14,+1 Lap,0
+8,25,Thierry Boutsen,Ligier,65,10,+2 Laps,0
+9,11,Mika Häkkinen,Team Lotus,65,24,+2 Laps,0
+10,12,Johnny Herbert,Team Lotus,65,25,+2 Laps,0
+11,4,Stefano Modena,Tyrrell,65,8,+2 Laps,0
+12,3,Satoru Nakajima,Tyrrell,64,13,+3 Laps,0
+13,8,Mark Blundell,Brabham,54,12,Engine,0
+14,32,Bertrand Gachot,Jordan,51,20,Spun off,0
+15,30,Aguri Suzuki,Lola,48,19,Gearbox,0
+16,20,Nelson Piquet,Benetton,44,6,Wheel bearing,0
+17,28,Jean Alesi,Ferrari,42,4,Clutch,0
+18,22,Jyrki Järvilehto,Dallara,30,16,Engine,0
+19,9,Michele Alboreto,Footwork,24,26,Engine,0
+20,7,Martin Brundle,Brabham,20,17,Wheel,0
+21,16,Ivan Capelli,Leyton House,19,22,Engine,0
+22,27,Alain Prost,Ferrari,16,7,Alternator,0
+23,15,Maurício Gugelmin,Leyton House,15,18,Engine,0
+24,14,Olivier Grouillard,Fondmetal,13,21,Engine,0
+25,2,Gerhard Berger,McLaren,5,5,Engine,0
+26,23,Pierluigi Martini,Minardi,4,15,Spun off,0
+27,26,Érik Comas,Ligier,0,0,Did not qualify,0
+28,17,Gabriele Tarquini,AGS,0,0,Did not qualify,0
+29,10,Stefan Johansson,Footwork,0,0,Did not qualify,0
+30,18,Fabrizio Barbazza,AGS,0,0,Did not qualify,0

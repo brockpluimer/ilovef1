@@ -1,0 +1,25 @@
+position,number,driver,constructor,laps,grid,status,points
+1,12,Niki Lauda,Ferrari,70,1,Finished,9
+2,3,Jody Scheckter,Tyrrell,70,9,Finished,6
+3,7,Carlos Reutemann,Brabham,70,6,Finished,4
+4,4,Patrick Depailler,Tyrrell,70,12,Finished,3
+5,11,Clay Regazzoni,Ferrari,70,4,Finished,2
+6,16,Tom Pryce,Shadow-Ford,70,5,Finished,1
+7,1,Emerson Fittipaldi,McLaren,69,8,+1 Lap,0
+8,8,Carlos Pace,Brabham,69,2,+1 Lap,0
+9,14,Bob Evans,BRM,68,20,+2 Laps,0
+10,18,John Watson,Surtees,68,18,+2 Laps,0
+11,28,Mark Donohue,Penske,67,21,+3 Laps,0
+12,30,Wilson Fittipaldi,Fittipaldi,67,24,+3 Laps,0
+13,22,François Migault,Embassy Hill,57,22,Suspension,0
+14,9,Vittorio Brambilla,March,54,3,Brakes,0
+15,6,Jacky Ickx,Team Lotus,52,16,Brakes,0
+16,5,Ronnie Peterson,Team Lotus,36,14,Brakes,0
+17,21,Jacques Laffite,Williams,18,23,Gearbox,0
+18,10,Lella Lombardi,March,18,17,Engine,0
+19,23,Tony Brise,Embassy Hill,17,7,Engine,0
+20,24,James Hunt,Hesketh,15,11,Transmission,0
+21,17,Jean-Pierre Jarier,Shadow-Ford,13,10,Spun off,0
+22,20,Arturo Merzario,Williams,2,19,Clutch,0
+23,26,Alan Jones,Hesketh,1,13,Accident,0
+24,2,Jochen Mass,McLaren,0,15,Accident,0

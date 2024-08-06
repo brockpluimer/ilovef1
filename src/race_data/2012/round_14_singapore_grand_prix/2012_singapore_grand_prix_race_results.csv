@@ -1,0 +1,25 @@
+position,number,driver,constructor,laps,grid,status,points
+1,1,Sebastian Vettel,Red Bull,59,3,Finished,25
+2,3,Jenson Button,McLaren,59,4,Finished,18
+3,5,Fernando Alonso,Ferrari,59,5,Finished,15
+4,11,Paul di Resta,Force India,59,6,Finished,12
+5,8,Nico Rosberg,Mercedes,59,10,Finished,10
+6,9,Kimi Räikkönen,Lotus F1,59,12,Finished,8
+7,10,Romain Grosjean,Lotus F1,59,8,Finished,6
+8,6,Felipe Massa,Ferrari,59,13,Finished,4
+9,16,Daniel Ricciardo,Toro Rosso,59,15,Finished,2
+10,15,Sergio Pérez,Sauber,59,14,Finished,1
+11,2,Mark Webber,Red Bull,59,7,Finished,0
+12,24,Timo Glock,Marussia,59,20,Finished,0
+13,14,Kamui Kobayashi,Sauber,59,17,Finished,0
+14,12,Nico Hülkenberg,Force India,59,11,Finished,0
+15,20,Heikki Kovalainen,Caterham,59,19,Finished,0
+16,25,Charles Pic,Marussia,59,21,Finished,0
+17,22,Pedro de la Rosa,HRT,58,24,+1 Lap,0
+18,19,Bruno Senna,Williams,57,22,Retired,0
+19,21,Vitaly Petrov,Caterham,57,18,+2 Laps,0
+20,17,Jean-Éric Vergne,Toro Rosso,38,16,Collision,0
+21,7,Michael Schumacher,Mercedes,38,9,Collision,0
+22,18,Pastor Maldonado,Williams,36,2,Hydraulics,0
+23,23,Narain Karthikeyan,HRT,30,23,Accident,0
+24,4,Lewis Hamilton,McLaren,22,1,Gearbox,0

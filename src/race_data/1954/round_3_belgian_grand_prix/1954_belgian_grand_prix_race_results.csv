@@ -1,0 +1,16 @@
+position,number,driver,constructor,laps,grid,status,points
+1,26,Juan Fangio,Maserati,36,1,Finished,9
+2,8,Maurice Trintignant,Ferrari,36,6,Finished,6
+3,22,Stirling Moss,Maserati,35,9,+1 Lap,4
+4,10,José Froilán González,Ferrari,35,5,+1 Lap,1.5
+4,10,Mike Hawthorn,Ferrari,35,5,+1 Lap,1.5
+5,18,André Pilette,Gordini,35,8,+1 Lap,2
+6,20,Prince Bira,Maserati,35,13,+1 Lap,0
+7,30,Sergio Mantovani,Maserati,34,11,+2 Laps,0
+8,4,Nino Farina,Ferrari,14,3,Ignition,0
+9,16,Paul Frère,Gordini,14,10,Engine,0
+10,12,Jean Behra,Gordini,12,7,Suspension,0
+11,28,Onofre Marimón,Maserati,3,4,Engine,0
+12,6,José Froilán González,Ferrari,1,2,Engine,0
+13,2,Jacques Swaters,Ferrari,1,14,Engine,0
+14,24,Roberto Mieres,Maserati,0,12,Heat shield fire,0

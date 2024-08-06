@@ -1,0 +1,29 @@
+position,number,driver,constructor,laps,grid,status,points
+1,5,Michael Schumacher,Benetton,58,2,Finished,10
+2,27,Nicola Larini,Ferrari,58,6,Finished,6
+3,7,Mika Häkkinen,McLaren,58,8,Finished,4
+4,29,Karl Wendlinger,Sauber,58,10,Finished,3
+5,3,Ukyo Katayama,Tyrrell,57,9,+1 Lap,2
+6,0,Damon Hill,Williams,57,4,+1 Lap,1
+7,30,Heinz-Harald Frentzen,Sauber,57,7,+1 Lap,0
+8,8,Martin Brundle,McLaren,57,13,+1 Lap,0
+9,4,Mark Blundell,Tyrrell,56,12,+2 Laps,0
+10,12,Johnny Herbert,Team Lotus,56,20,+2 Laps,0
+11,26,Olivier Panis,Ligier,56,19,+2 Laps,0
+12,25,Éric Bernard,Ligier,55,17,+3 Laps,0
+13,9,Christian Fittipaldi,Footwork,54,16,Spun off,0
+14,15,Andrea de Cesaris,Jordan,49,21,Spun off,0
+15,24,Michele Alboreto,Minardi,44,15,Wheel,0
+16,10,Gianni Morbidelli,Footwork,40,11,Engine,0
+17,23,Pierluigi Martini,Minardi,37,14,Spun off,0
+18,31,David Brabham,Simtek,27,24,Spun off,0
+19,34,Bertrand Gachot,Pacific,23,25,Engine,0
+20,19,Olivier Beretta,Larrousse,17,23,Engine,0
+21,28,Gerhard Berger,Ferrari,16,3,Suspension,0
+22,2,Ayrton Senna,Williams,5,1,Accident,0
+23,20,Érik Comas,Larrousse,5,18,Withdrew,0
+24,6,Jyrki Järvilehto,Benetton,0,5,Collision,0
+25,11,Pedro Lamy,Team Lotus,0,22,Collision,0
+26,32,Roland Ratzenberger,Simtek,0,0,Accident,0
+27,14,Rubens Barrichello,Jordan,0,0,Injury,0
+28,33,Paul Belmondo,Pacific,0,0,Did not qualify,0

@@ -1,0 +1,29 @@
+position,number,driver,constructor,laps,grid,status,points
+1,0,Damon Hill,Williams,71,2,Finished,10
+2,2,David Coulthard,Williams,71,3,Finished,6
+3,7,Mika Häkkinen,McLaren,71,4,Finished,4
+4,14,Rubens Barrichello,Jordan,71,8,Finished,3
+5,6,Jos Verstappen,Benetton,71,10,Finished,2
+6,8,Martin Brundle,McLaren,71,7,Finished,1
+7,15,Eddie Irvine,Jordan,70,13,+1 Lap,0
+8,9,Christian Fittipaldi,Footwork,70,11,+1 Lap,0
+9,10,Gianni Morbidelli,Footwork,70,16,+1 Lap,0
+10,25,Éric Bernard,Ligier,70,21,+1 Lap,0
+11,12,Johnny Herbert,Team Lotus,70,20,+1 Lap,0
+12,23,Pierluigi Martini,Minardi,69,18,+2 Laps,0
+13,24,Michele Alboreto,Minardi,69,19,+2 Laps,0
+14,19,Yannick Dalmas,Larrousse,69,23,+2 Laps,0
+15,32,Jean-Marc Gounon,Simtek,67,26,+4 Laps,0
+16,11,Philippe Adams,Team Lotus,67,25,+4 Laps,0
+17,26,Olivier Panis,Ligier,70,15,Disqualified,0
+18,4,Mark Blundell,Tyrrell,61,12,Engine,0
+19,5,Jyrki Järvilehto,Benetton,60,14,Spun off,0
+20,29,Andrea de Cesaris,Sauber,54,17,Spun off,0
+21,27,Jean Alesi,Ferrari,38,5,Collision,0
+22,31,David Brabham,Simtek,36,24,Collision,0
+23,30,Heinz-Harald Frentzen,Sauber,31,9,Differential,0
+24,20,Érik Comas,Larrousse,27,22,Suspension,0
+25,3,Ukyo Katayama,Tyrrell,26,6,Gearbox,0
+26,28,Gerhard Berger,Ferrari,7,1,Gearbox,0
+27,34,Bertrand Gachot,Pacific,0,0,Did not qualify,0
+28,33,Paul Belmondo,Pacific,0,0,Did not qualify,0

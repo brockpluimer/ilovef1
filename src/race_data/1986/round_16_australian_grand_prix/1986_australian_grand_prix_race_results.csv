@@ -1,0 +1,27 @@
+position,number,driver,constructor,laps,grid,status,points
+1,1,Alain Prost,McLaren,82,4,Finished,9
+2,6,Nelson Piquet,Williams,82,2,Finished,6
+3,28,Stefan Johansson,Ferrari,81,12,+1 Lap,4
+4,3,Martin Brundle,Tyrrell,81,16,+1 Lap,3
+5,4,Philippe Streiff,Tyrrell,80,10,Out of fuel,2
+6,11,Johnny Dumfries,Team Lotus,80,14,+2 Laps,1
+7,25,René Arnoux,Ligier,79,5,+3 Laps,0
+8,26,Philippe Alliot,Ligier,79,8,+3 Laps,0
+9,14,Jonathan Palmer,Zakspeed,77,21,+5 Laps,0
+10,19,Teo Fabi,Benetton,77,13,+5 Laps,0
+11,16,Patrick Tambay,Lola,70,17,Not classified,0
+12,5,Nigel Mansell,Williams,63,1,Tyre,0
+13,7,Riccardo Patrese,Brabham,63,19,Electrical,0
+14,2,Keke Rosberg,McLaren,62,7,Tyre,0
+15,22,Allen Berg,Osella,61,26,Not classified,0
+16,8,Derek Warwick,Brabham,57,20,Brakes,0
+17,17,Christian Danner,Arrows,52,24,Engine,0
+18,18,Thierry Boutsen,Arrows,50,22,Engine,0
+19,12,Ayrton Senna,Team Lotus,43,3,Engine,0
+20,23,Andrea de Cesaris,Minardi,40,11,Mechanical,0
+21,20,Gerhard Berger,Benetton,40,6,Engine,0
+22,29,Huub Rothengatter,Zakspeed,29,23,Suspension,0
+23,15,Alan Jones,Lola,16,15,Engine,0
+24,24,Alessandro Nannini,Minardi,10,18,Accident,0
+25,21,Piercarlo Ghinzani,Osella,2,25,Transmission,0
+26,27,Michele Alboreto,Ferrari,0,9,Accident,0

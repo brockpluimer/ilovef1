@@ -1,0 +1,28 @@
+position,number,driver,constructor,laps,grid,status,points
+1,1,Nelson Piquet,Brabham,63,1,Finished,9
+2,11,Elio de Angelis,Team Lotus,63,5,Finished,6
+3,2,Teo Fabi,Brabham,63,23,Finished,4
+4,7,Alain Prost,McLaren,63,2,Finished,3
+5,5,Jacques Laffite,Williams,62,19,+1 Lap,2
+6,3,Martin Brundle,Tyrrell,63,11,Disqualified,0
+7,27,Michele Alboreto,Ferrari,49,4,Engine,0
+8,6,Keke Rosberg,Williams,47,21,Turbo,0
+9,16,Derek Warwick,Renault,40,6,Gearbox,0
+10,4,Stefan Bellof,Tyrrell,33,16,Accident,0
+11,15,Patrick Tambay,Renault,33,9,Transmission,0
+12,9,Philippe Alliot,RAM,33,20,Brakes,0
+13,8,Niki Lauda,McLaren,33,10,Electrical,0
+14,12,Nigel Mansell,Team Lotus,27,3,Gearbox,0
+15,18,Thierry Boutsen,Arrows,27,13,Engine,0
+16,26,Andrea de Cesaris,Ligier,24,12,Overheating,0
+17,20,Johnny Cecotto,Toleman,23,17,Clutch,0
+18,23,Eddie Cheever,Alfa Romeo,21,8,Engine,0
+19,19,Ayrton Senna,Toleman,21,7,Accident,0
+20,22,Riccardo Patrese,Alfa Romeo,20,25,Spun off,0
+21,25,François Hesnault,Ligier,3,18,Accident,0
+22,24,Piercarlo Ghinzani,Osella,3,26,Accident,0
+23,28,René Arnoux,Ferrari,2,15,Accident,0
+24,10,Jonathan Palmer,RAM,2,24,Tyre,0
+25,14,Manfred Winkelhock,ATS,0,14,Engine,0
+26,17,Marc Surer,Arrows,0,22,Accident,0
+27,21,Huub Rothengatter,Spirit,0,0,Did not qualify,0

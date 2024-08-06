@@ -1,0 +1,25 @@
+position,number,driver,constructor,laps,grid,status,points
+1,4,Jenson Button,McLaren,70,7,Finished,25
+2,1,Sebastian Vettel,Red Bull,70,1,Finished,18
+3,2,Mark Webber,Red Bull,70,4,Finished,15
+4,7,Michael Schumacher,Mercedes,70,8,Finished,12
+5,10,Vitaly Petrov,Renault,70,10,Finished,10
+6,6,Felipe Massa,Ferrari,70,3,Finished,8
+7,16,Kamui Kobayashi,Sauber,70,13,Finished,6
+8,19,Jaime Alguersuari,Toro Rosso,70,24,Finished,4
+9,11,Rubens Barrichello,Williams,70,16,Finished,2
+10,18,Sébastien Buemi,Toro Rosso,70,15,Finished,1
+11,8,Nico Rosberg,Mercedes,70,6,Finished,0
+12,17,Pedro de la Rosa,Sauber,70,17,Finished,0
+13,23,Vitantonio Liuzzi,HRT,69,20,+1 Lap,0
+14,22,Narain Karthikeyan,HRT,69,22,+1 Lap,0
+15,25,Jérôme d'Ambrosio,Virgin,69,23,+1 Lap,0
+16,24,Timo Glock,Virgin,69,21,+1 Lap,0
+17,21,Jarno Trulli,Lotus,69,18,+1 Lap,0
+18,15,Paul di Resta,Force India,67,11,Accident,0
+19,12,Pastor Maldonado,Williams,61,12,Retired,0
+20,9,Nick Heidfeld,Renault,55,9,Accident,0
+21,14,Adrian Sutil,Force India,49,14,Accident,0
+22,5,Fernando Alonso,Ferrari,36,2,Collision,0
+23,20,Heikki Kovalainen,Lotus,28,19,Transmission,0
+24,3,Lewis Hamilton,McLaren,7,5,Collision,0

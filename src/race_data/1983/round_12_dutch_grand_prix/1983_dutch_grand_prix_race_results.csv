@@ -1,0 +1,30 @@
+position,number,driver,constructor,laps,grid,status,points
+1,28,René Arnoux,Ferrari,72,10,Finished,9
+2,27,Patrick Tambay,Ferrari,72,2,Finished,6
+3,7,John Watson,McLaren,72,15,Finished,4
+4,35,Derek Warwick,Toleman,72,7,Finished,3
+5,23,Mauro Baldi,Alfa Romeo,72,12,Finished,2
+6,3,Michele Alboreto,Tyrrell,71,18,+1 Lap,1
+7,40,Stefan Johansson,Spirit,70,16,+2 Laps,0
+8,29,Marc Surer,Arrows,70,14,+2 Laps,0
+9,6,Riccardo Patrese,Brabham,70,6,+2 Laps,0
+10,26,Raul Boesel,Ligier,70,24,+2 Laps,0
+11,31,Corrado Fabi,Osella,68,25,Engine,0
+12,33,Roberto Guerrero,Theodore,68,20,+4 Laps,0
+13,36,Bruno Giacomelli,Toleman,68,13,Spun off,0
+14,30,Thierry Boutsen,Arrows,65,21,Engine,0
+15,1,Keke Rosberg,Williams,53,23,Ignition,0
+16,9,Manfred Winkelhock,ATS,50,9,Disqualified,0
+17,5,Nelson Piquet,Brabham,41,1,Collision,0
+18,15,Alain Prost,Renault,41,4,Spun off,0
+19,16,Eddie Cheever,Renault,39,11,Electrical,0
+20,2,Jacques Laffite,Williams,37,17,Handling,0
+21,12,Nigel Mansell,Team Lotus,26,5,Spun off,0
+22,8,Niki Lauda,McLaren,25,19,Brakes,0
+23,4,Danny Sullivan,Tyrrell,20,26,Engine,0
+24,11,Elio de Angelis,Team Lotus,12,3,Electrical,0
+25,22,Andrea de Cesaris,Alfa Romeo,5,8,Engine,0
+26,25,Jean-Pierre Jarier,Ligier,3,22,Suspension,0
+27,32,Piercarlo Ghinzani,Osella,0,0,Did not qualify,0
+28,34,Johnny Cecotto,Theodore,0,0,Did not qualify,0
+29,17,Kenny Acheson,RAM,0,0,Did not qualify,0

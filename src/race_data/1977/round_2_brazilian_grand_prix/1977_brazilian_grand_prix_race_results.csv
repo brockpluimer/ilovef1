@@ -1,0 +1,23 @@
+position,number,driver,constructor,laps,grid,status,points
+1,12,Carlos Reutemann,Ferrari,40,2,Finished,9
+2,1,James Hunt,McLaren,40,1,Finished,6
+3,11,Niki Lauda,Ferrari,40,13,Finished,4
+4,28,Emerson Fittipaldi,Fittipaldi,39,16,+1 Lap,3
+5,6,Gunnar Nilsson,Team Lotus,39,10,+1 Lap,2
+6,17,Renzo Zorzi,Shadow,39,18,+1 Lap,1
+7,29,Ingo Hoffmann,Fittipaldi,38,19,+2 Laps,0
+8,8,Carlos Pace,Brabham,33,12,Accident,0
+9,16,Tom Pryce,Shadow,33,5,Engine,0
+10,18,Hans Binder,Surtees,32,20,Suspension,0
+11,7,John Watson,Brabham,30,7,Accident,0
+12,26,Jacques Laffite,Ligier,26,14,Accident,0
+13,4,Patrick Depailler,Tyrrell,23,6,Accident,0
+14,5,Mario Andretti,Team Lotus,19,3,Ignition,0
+15,9,Alex Ribeiro,March,16,21,Engine,0
+16,2,Jochen Mass,McLaren,12,4,Accident,0
+17,3,Ronnie Peterson,Tyrrell,12,8,Accident,0
+18,22,Clay Regazzoni,Ensign,12,9,Accident,0
+19,19,Vittorio Brambilla,Surtees,11,11,Accident,0
+20,20,Jody Scheckter,Wolf,11,15,Engine,0
+21,10,Ian Scheckter,March,1,17,Transmission,0
+22,14,Larry Perkins,BRM,1,22,Overheating,0

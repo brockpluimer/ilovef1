@@ -1,0 +1,25 @@
+position,number,driver,constructor,laps,grid,status,points
+1,6,Mark Webber,Red Bull,52,2,Finished,25
+2,2,Lewis Hamilton,McLaren,52,4,Finished,18
+3,4,Nico Rosberg,Mercedes,52,5,Finished,15
+4,1,Jenson Button,McLaren,52,14,Finished,12
+5,9,Rubens Barrichello,Williams,52,8,Finished,10
+6,23,Kamui Kobayashi,Sauber,52,12,Finished,8
+7,5,Sebastian Vettel,Red Bull,52,1,Finished,6
+8,14,Adrian Sutil,Force India,52,11,Finished,4
+9,3,Michael Schumacher,Mercedes,52,10,Finished,2
+10,10,Nico Hülkenberg,Williams,52,13,Finished,1
+11,15,Vitantonio Liuzzi,Force India,52,20,Finished,0
+12,16,Sébastien Buemi,Toro Rosso,52,16,Finished,0
+13,12,Vitaly Petrov,Renault,52,15,Finished,0
+14,8,Fernando Alonso,Ferrari,52,3,Finished,0
+15,7,Felipe Massa,Ferrari,52,7,Finished,0
+16,18,Jarno Trulli,Lotus,51,21,+1 Lap,0
+17,19,Heikki Kovalainen,Lotus,51,18,+1 Lap,0
+18,24,Timo Glock,Virgin,50,19,+2 Laps,0
+19,20,Karun Chandhok,HRT,50,23,+2 Laps,0
+20,21,Sakon Yamamoto,HRT,50,24,+2 Laps,0
+21,17,Jaime Alguersuari,Toro Rosso,44,17,Brakes,0
+22,22,Pedro de la Rosa,Sauber,29,9,Collision,0
+23,11,Robert Kubica,Renault,19,6,Driveshaft,0
+24,25,Lucas di Grassi,Virgin,9,22,Hydraulics,0

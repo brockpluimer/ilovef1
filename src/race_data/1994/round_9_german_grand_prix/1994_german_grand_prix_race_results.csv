@@ -1,0 +1,29 @@
+position,number,driver,constructor,laps,grid,status,points
+1,28,Gerhard Berger,Ferrari,45,1,Finished,10
+2,26,Olivier Panis,Ligier,45,12,Finished,6
+3,25,Éric Bernard,Ligier,45,14,Finished,4
+4,9,Christian Fittipaldi,Footwork,45,17,Finished,3
+5,10,Gianni Morbidelli,Footwork,45,16,Finished,2
+6,20,Érik Comas,Larrousse,45,22,Finished,1
+7,19,Olivier Beretta,Larrousse,44,24,+1 Lap,0
+8,0,Damon Hill,Williams,44,3,+1 Lap,0
+9,32,Jean-Marc Gounon,Simtek,39,26,Engine,0
+10,31,David Brabham,Simtek,37,25,Clutch,0
+11,5,Michael Schumacher,Benetton,20,4,Engine,0
+12,8,Martin Brundle,McLaren,19,13,Engine,0
+13,2,David Coulthard,Williams,17,6,Electrical,0
+14,6,Jos Verstappen,Benetton,15,19,Heat shield fire,0
+15,3,Ukyo Katayama,Tyrrell,6,5,Throttle,0
+16,27,Jean Alesi,Ferrari,1,2,Electrical,0
+17,4,Mark Blundell,Tyrrell,0,7,Collision,0
+18,7,Mika Häkkinen,McLaren,0,8,Collision,0
+19,30,Heinz-Harald Frentzen,Sauber,0,9,Collision,0
+20,15,Eddie Irvine,Jordan,0,10,Collision,0
+21,14,Rubens Barrichello,Jordan,0,11,Collision,0
+22,12,Johnny Herbert,Team Lotus,0,15,Collision,0
+23,29,Andrea de Cesaris,Sauber,0,18,Collision,0
+24,23,Pierluigi Martini,Minardi,0,20,Collision,0
+25,11,Alessandro Zanardi,Team Lotus,0,21,Collision,0
+26,24,Michele Alboreto,Minardi,0,23,Collision,0
+27,34,Bertrand Gachot,Pacific,0,0,Did not qualify,0
+28,33,Paul Belmondo,Pacific,0,0,Did not qualify,0

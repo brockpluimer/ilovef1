@@ -1,0 +1,31 @@
+position,number,driver,constructor,laps,grid,status,points
+1,14,Graham Hill,BRM,86,2,Finished,9
+2,12,Richie Ginther,BRM,86,3,Finished,6
+3,28,Bruce McLaren,Cooper-Climax,86,4,Finished,4
+4,8,Willy Mairesse,Ferrari,86,10,Finished,3
+5,2,Giancarlo Baghetti,Ferrari,86,18,Finished,2
+6,18,Jo Bonnier,Porsche,85,9,+1 Lap,1
+7,30,Tony Maggs,Cooper-Climax,85,12,+1 Lap,0
+8,6,Lorenzo Bandini,Ferrari,84,17,+2 Laps,0
+9,24,Nino Vaccarella,Lotus-Climax,84,14,+2 Laps,0
+10,32,Carel Godin de Beaufort,Porsche,81,20,+5 Laps,0
+11,10,Phil Hill,Ferrari,81,15,+5 Laps,0
+12,38,Masten Gregory,Lotus-BRM,77,6,+9 Laps,0
+13,16,Dan Gurney,Porsche,66,7,Differential,0
+14,4,Ricardo Rodríguez,Ferrari,63,11,Ignition,0
+15,40,Innes Ireland,Lotus-Climax,45,5,Suspension,0
+16,46,John Surtees,Lola,42,8,Engine,0
+17,44,Roy Salvadori,Lola,41,13,Engine,0
+18,22,Trevor Taylor,Lotus-Climax,25,16,Gearbox,0
+19,48,Tony Settember,Emeryson,18,21,Engine,0
+20,36,Maurice Trintignant,Lotus-Climax,17,19,Electrical,0
+21,20,Jim Clark,Lotus-Climax,12,1,Gearbox,0
+22,60,Tony Shelly,Lotus-BRM,0,0,Did not qualify,0
+23,56,Keith Greene,Gilby,0,0,Did not qualify,0
+24,52,Gerry Ashmore,Lotus-Climax,0,0,Did not qualify,0
+25,62,Ian Burgess,Cooper-Climax,0,0,Did not qualify,0
+26,42,Jo Siffert,Lotus-BRM,0,0,Did not qualify,0
+27,54,Ernesto Prinoth,Lotus-Climax,0,0,Did not qualify,0
+28,50,Roberto Lippi,De Tomaso-Osca,0,0,Did not qualify,0
+29,26,Jay Chamberlain,Lotus-Climax,0,0,Did not qualify,0
+30,34,Nasif Estéfano,De Tomaso,0,0,Did not qualify,0

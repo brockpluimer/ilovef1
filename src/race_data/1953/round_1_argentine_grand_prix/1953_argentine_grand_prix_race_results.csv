@@ -1,0 +1,18 @@
+position,number,driver,constructor,laps,grid,status,points
+1,10,Alberto Ascari,Ferrari,97,1,Finished,9
+2,14,Luigi Villoresi,Ferrari,96,3,+1 Lap,6
+3,4,José Froilán González,Maserati,96,5,+1 Lap,4
+4,16,Mike Hawthorn,Ferrari,96,6,+1 Lap,3
+5,8,Oscar Gálvez,Maserati,96,9,+1 Lap,2
+6,30,Jean Behra,Gordini,94,11,+3 Laps,0
+7,28,Maurice Trintignant,Gordini,91,7,+6 Laps,0
+7,28,Harry Schell,Gordini,91,7,+6 Laps,0
+8,22,John Barber,Cooper,90,16,+7 Laps,0
+9,20,Alan Brown,Cooper,87,12,+10 Laps,0
+10,26,Robert Manzon,Gordini,67,8,Wheel,0
+11,2,Juan Fangio,Maserati,36,2,Transmission,0
+12,6,Felice Bonetto,Maserati,32,15,Transmission,0
+13,12,Nino Farina,Ferrari,31,4,Accident,0
+14,32,Carlos Menditeguy,Gordini,24,10,Gearbox,0
+15,34,Pablo Birger,Simca,21,14,Differential,0
+16,24,Adolfo Cruz,Cooper,20,13,Wheel,0

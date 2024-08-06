@@ -1,0 +1,27 @@
+position,number,driver,constructor,laps,grid,status,points
+1,26,Jacques Laffite,Ligier,40,1,Finished,9
+2,25,Patrick Depailler,Ligier,40,2,Finished,6
+3,2,Carlos Reutemann,Team Lotus,40,3,Finished,4
+4,3,Didier Pironi,Tyrrell,40,8,Finished,3
+5,12,Gilles Villeneuve,Ferrari,39,5,+1 Lap,2
+6,11,Jody Scheckter,Ferrari,39,6,+1 Lap,1
+7,30,Jochen Mass,Arrows,39,19,+1 Lap,0
+8,7,John Watson,McLaren,39,14,+1 Lap,0
+9,29,Riccardo Patrese,Arrows,39,16,+1 Lap,0
+10,15,Jean-Pierre Jabouille,Renault,39,7,+1 Lap,0
+11,14,Emerson Fittipaldi,Fittipaldi,39,9,+1 Lap,0
+12,18,Elio de Angelis,Shadow,39,20,+1 Lap,0
+13,22,Derek Daly,Ensign,39,23,+1 Lap,0
+14,17,Jan Lammers,Shadow,39,21,+1 Lap,0
+15,28,Clay Regazzoni,Williams,38,17,+2 Laps,0
+16,27,Alan Jones,Williams,33,13,Fuel system,0
+17,9,Hans-Joachim Stuck,ATS,31,24,Steering,0
+18,16,René Arnoux,Renault,28,11,Spun off,0
+19,20,James Hunt,Wolf,7,10,Steering,0
+20,8,Patrick Tambay,McLaren,7,18,Collision,0
+21,5,Niki Lauda,Brabham-Alfa Romeo,5,12,Gearbox,0
+22,6,Nelson Piquet,Brabham-Alfa Romeo,5,22,Accident,0
+23,1,Mario Andretti,Team Lotus,2,4,Fuel leak,0
+24,4,Jean-Pierre Jarier,Tyrrell,0,15,Electrical,0
+25,31,Hector Rebaque,Team Lotus,0,0,Did not qualify,0
+26,24,Arturo Merzario,Merzario,0,0,Did not qualify,0

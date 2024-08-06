@@ -1,0 +1,27 @@
+position,number,driver,constructor,laps,grid,status,points
+1,28,Clay Regazzoni,Williams,68,4,Finished,9
+2,16,René Arnoux,Renault,68,5,Finished,6
+3,4,Jean-Pierre Jarier,Tyrrell,67,16,+1 Lap,4
+4,7,John Watson,McLaren,67,7,+1 Lap,3
+5,11,Jody Scheckter,Ferrari,67,11,+1 Lap,2
+6,25,Jacky Ickx,Ligier,67,17,+1 Lap,1
+7,8,Patrick Tambay,McLaren,66,18,Out of fuel,0
+8,2,Carlos Reutemann,Team Lotus,66,8,+2 Laps,0
+9,31,Hector Rebaque,Team Lotus,66,26,+2 Laps,0
+10,3,Didier Pironi,Tyrrell,66,15,+2 Laps,0
+11,17,Jan Lammers,Shadow,65,21,+3 Laps,0
+12,18,Elio de Angelis,Shadow,65,12,+3 Laps,0
+13,22,Patrick Gaillard,Ensign,65,23,+3 Laps,0
+14,12,Gilles Villeneuve,Ferrari,63,13,Fuel system,0
+15,29,Riccardo Patrese,Arrows,45,19,Gearbox,0
+16,26,Jacques Laffite,Ligier,44,10,Engine,0
+17,20,Keke Rosberg,Wolf,44,14,Fuel system,0
+18,27,Alan Jones,Williams,38,1,Water pump,0
+19,30,Jochen Mass,Arrows,37,20,Gearbox,0
+20,14,Emerson Fittipaldi,Fittipaldi,25,22,Engine,0
+21,15,Jean-Pierre Jabouille,Renault,21,2,Turbo,0
+22,5,Niki Lauda,Brabham-Alfa Romeo,12,6,Brakes,0
+23,1,Mario Andretti,Team Lotus,3,9,Wheel,0
+24,6,Nelson Piquet,Brabham-Alfa Romeo,1,3,Spun off,0
+25,9,Hans-Joachim Stuck,ATS,0,0,Did not qualify,0
+26,24,Arturo Merzario,Merzario,0,0,Did not qualify,0

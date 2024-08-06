@@ -1,0 +1,31 @@
+position,number,driver,constructor,laps,grid,status,points
+1,5,Emerson Fittipaldi,McLaren,80,1,Finished,9
+2,11,Clay Regazzoni,Ferrari,80,6,Finished,6
+3,1,Ronnie Peterson,Team Lotus,80,10,Finished,4
+4,24,James Hunt,Hesketh,80,8,Finished,3
+5,4,Patrick Depailler,Tyrrell,80,7,Finished,2
+6,6,Denny Hulme,McLaren,79,14,+1 Lap,1
+7,55,Mario Andretti,Parnelli,79,16,+1 Lap,0
+8,8,Carlos Pace,Brabham,79,9,+1 Lap,0
+9,7,Carlos Reutemann,Brabham,79,4,+1 Lap,0
+10,19,Helmuth Koinigg,Surtees,78,22,+2 Laps,0
+11,27,Rolf Stommelen,Lola,78,11,+2 Laps,0
+12,66,Mark Donohue,Penske,78,24,+2 Laps,0
+13,2,Jacky Ickx,Team Lotus,78,21,+2 Laps,0
+14,26,Graham Hill,Lola,77,20,+3 Laps,0
+15,21,Jacques Laffite,Iso Marlboro,74,18,Puncture,0
+16,33,Jochen Mass,McLaren,72,12,+8 Laps,0
+17,15,Chris Amon,BRM,70,25,Not classified,0
+18,12,Niki Lauda,Ferrari,67,2,Accident,0
+19,16,Tom Pryce,Shadow,65,13,Engine,0
+20,28,John Watson,Brabham,61,15,Suspension,0
+21,14,Jean-Pierre Beltoise,BRM,60,17,Not classified,0
+22,3,Jody Scheckter,Tyrrell,48,3,Brakes,0
+23,17,Jean-Pierre Jarier,Shadow,46,5,Halfshaft,0
+24,20,Arturo Merzario,Iso Marlboro,40,19,Handling,0
+25,50,Eppie Wietzes,Brabham,33,26,Engine,0
+26,9,Hans-Joachim Stuck,March,12,23,Fuel system,0
+27,18,Derek Bell,Surtees,0,0,Did not qualify,0
+28,22,Mike Wilds,Ensign,0,0,Did not qualify,0
+29,10,Vittorio Brambilla,March,0,0,Did not qualify,0
+30,42,Ian Ashley,Brabham,0,0,Did not qualify,0

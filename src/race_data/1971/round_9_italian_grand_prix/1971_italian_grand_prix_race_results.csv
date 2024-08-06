@@ -1,0 +1,25 @@
+position,number,driver,constructor,laps,grid,status,points
+1,18,Peter Gethin,BRM,55,11,Finished,9
+2,25,Ronnie Peterson,March-Ford,55,6,Finished,6
+3,2,François Cevert,Tyrrell,55,5,Finished,4
+4,9,Mike Hailwood,Surtees,55,17,Finished,3
+5,19,Howden Ganley,BRM,55,4,Finished,2
+6,12,Chris Amon,Matra,55,1,Finished,1
+7,14,Jackie Oliver,McLaren,55,13,Finished,0
+8,5,Emerson Fittipaldi,Lotus-Pratt &amp; Whitney,54,18,+1 Lap,0
+9,20,Jo Siffert,BRM,53,3,+2 Laps,0
+10,28,Jo Bonnier,McLaren,51,21,+4 Laps,0
+11,10,Graham Hill,Brabham,47,14,Gearbox,0
+12,26,Jean-Pierre Jarier,March-Ford,47,24,Not classified,0
+13,24,Mike Beuttler,March-Ford,41,16,Engine,0
+14,16,Henri Pescarolo,March-Ford,40,10,Suspension,0
+15,23,Andrea de Adamich,March-Alfa Romeo,33,20,Engine,0
+16,4,Clay Regazzoni,Ferrari,17,8,Engine,0
+17,3,Jacky Ickx,Ferrari,15,2,Engine,0
+18,30,Jackie Stewart,Tyrrell,15,7,Engine,0
+19,22,Nanni Galli,March-Ford,11,19,Electrical,0
+20,11,Tim Schenken,Brabham,5,9,Suspension,0
+21,27,Silvio Moser,Bellasi,5,22,Suspension,0
+22,21,Helmut Marko,BRM,3,12,Engine,0
+23,7,John Surtees,Surtees,3,15,Engine,0
+24,8,Rolf Stommelen,Surtees,0,23,Accident,0

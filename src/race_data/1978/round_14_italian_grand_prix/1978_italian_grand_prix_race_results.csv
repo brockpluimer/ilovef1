@@ -1,0 +1,31 @@
+position,number,driver,constructor,laps,grid,status,points
+1,1,Niki Lauda,Brabham,40,4,Finished,9
+2,2,John Watson,Brabham,40,7,Finished,6
+3,11,Carlos Reutemann,Ferrari,40,11,Finished,4
+4,26,Jacques Laffite,Ligier,40,8,Finished,3
+5,8,Patrick Tambay,McLaren,40,19,Finished,2
+6,5,Mario Andretti,Team Lotus,40,1,Finished,1
+7,12,Gilles Villeneuve,Ferrari,40,2,Finished,0
+8,14,Emerson Fittipaldi,Fittipaldi,40,13,Finished,0
+9,29,Nelson Piquet,McLaren,40,24,Finished,0
+10,22,Derek Daly,Ensign,40,18,Finished,0
+11,4,Patrick Depailler,Tyrrell,40,16,Finished,0
+12,20,Jody Scheckter,Wolf,39,9,+1 Lap,0
+13,27,Alan Jones,Williams,39,6,+1 Lap,0
+14,33,Bruno Giacomelli,McLaren,39,20,+1 Lap,0
+15,17,Clay Regazzoni,Shadow,33,15,+7 Laps,0
+16,35,Riccardo Patrese,Arrows,28,12,Engine,0
+17,7,James Hunt,McLaren,19,10,Distributor,0
+18,37,Arturo Merzario,Merzario,14,22,Engine,0
+19,15,Jean-Pierre Jabouille,Renault,6,3,Engine,0
+20,6,Ronnie Peterson,Team Lotus,0,5,Accident,0
+21,3,Didier Pironi,Tyrrell,0,14,Accident,0
+22,16,Hans-Joachim Stuck,Shadow,0,17,Accident,0
+23,30,Brett Lunger,McLaren,0,21,Accident,0
+24,19,Vittorio Brambilla,Surtees,0,23,Accident,0
+25,25,Hector Rebaque,Team Lotus,0,0,Did not qualify,0
+26,10,Harald Ertl,ATS,0,0,Did not qualify,0
+27,9,Michael Bleekemolen,ATS,0,0,Did not qualify,0
+28,18,Carlo Franchi,Surtees,0,0,Did not qualify,0
+29,23,Harald Ertl,Ensign,0,0,Did not prequalify,0
+30,32,Keke Rosberg,Wolf,0,0,Did not prequalify,0

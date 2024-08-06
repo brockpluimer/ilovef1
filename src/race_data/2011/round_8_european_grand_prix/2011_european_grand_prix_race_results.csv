@@ -1,0 +1,25 @@
+position,number,driver,constructor,laps,grid,status,points
+1,1,Sebastian Vettel,Red Bull,57,1,Finished,25
+2,5,Fernando Alonso,Ferrari,57,4,Finished,18
+3,2,Mark Webber,Red Bull,57,2,Finished,15
+4,3,Lewis Hamilton,McLaren,57,3,Finished,12
+5,6,Felipe Massa,Ferrari,57,5,Finished,10
+6,4,Jenson Button,McLaren,57,6,Finished,8
+7,8,Nico Rosberg,Mercedes,57,7,Finished,6
+8,19,Jaime Alguersuari,Toro Rosso,56,18,+1 Lap,4
+9,14,Adrian Sutil,Force India,56,10,+1 Lap,2
+10,9,Nick Heidfeld,Renault,56,9,+1 Lap,1
+11,17,Sergio Pérez,Sauber,56,16,+1 Lap,0
+12,11,Rubens Barrichello,Williams,56,13,+1 Lap,0
+13,18,Sébastien Buemi,Toro Rosso,56,17,+1 Lap,0
+14,15,Paul di Resta,Force India,56,12,+1 Lap,0
+15,10,Vitaly Petrov,Renault,56,11,+1 Lap,0
+16,16,Kamui Kobayashi,Sauber,56,14,+1 Lap,0
+17,7,Michael Schumacher,Mercedes,56,8,+1 Lap,0
+18,12,Pastor Maldonado,Williams,56,15,+1 Lap,0
+19,20,Heikki Kovalainen,Lotus,55,19,+2 Laps,0
+20,21,Jarno Trulli,Lotus,55,20,+2 Laps,0
+21,24,Timo Glock,Virgin,55,21,+2 Laps,0
+22,25,Jérôme d'Ambrosio,Virgin,55,23,+2 Laps,0
+23,23,Vitantonio Liuzzi,HRT,54,22,+3 Laps,0
+24,22,Narain Karthikeyan,HRT,54,24,+3 Laps,0

@@ -1,0 +1,31 @@
+position,number,driver,constructor,laps,grid,status,points
+1,20,Nelson Piquet,Benetton,81,7,Finished,9
+2,2,Nigel Mansell,Ferrari,81,3,Finished,6
+3,1,Alain Prost,Ferrari,81,4,Finished,4
+4,28,Gerhard Berger,McLaren,81,2,Finished,3
+5,5,Thierry Boutsen,Williams,81,9,Finished,2
+6,6,Riccardo Patrese,Williams,80,6,+1 Lap,1
+7,19,Roberto Moreno,Benetton,80,8,+1 Lap,0
+8,4,Jean Alesi,Tyrrell,80,5,+1 Lap,0
+9,23,Pierluigi Martini,Minardi,79,10,+2 Laps,0
+10,25,Nicola Larini,Ligier,79,12,+2 Laps,0
+11,26,Philippe Alliot,Ligier,78,19,+3 Laps,0
+12,8,Stefano Modena,Brabham,77,17,+4 Laps,0
+13,14,Olivier Grouillard,Osella,74,22,+7 Laps,0
+14,21,Emanuele Pirro,Dallara,68,21,Engine,0
+15,27,Ayrton Senna,McLaren,61,1,Spun off,0
+16,17,Gabriele Tarquini,AGS,58,26,Engine,0
+17,12,Johnny Herbert,Team Lotus,57,18,Clutch,0
+18,3,Satoru Nakajima,Tyrrell,53,13,Spun off,0
+19,16,Ivan Capelli,Leyton House,46,14,Throttle,0
+20,11,Derek Warwick,Team Lotus,43,11,Gearbox,0
+21,15,Maurício Gugelmin,Leyton House,27,16,Brakes,0
+22,22,Andrea de Cesaris,Dallara,23,15,Electrical,0
+23,29,Éric Bernard,Larrousse,21,23,Gearbox,0
+24,24,Gianni Morbidelli,Minardi,20,20,Gearbox,0
+25,7,David Brabham,Brabham,18,25,Spun off,0
+26,30,Aguri Suzuki,Larrousse,6,24,Transmission,0
+27,9,Michele Alboreto,Arrows,0,0,Did not qualify,0
+28,18,Yannick Dalmas,AGS,0,0,Did not qualify,0
+29,10,Alex Caffi,Arrows,0,0,Did not qualify,0
+30,31,Bertrand Gachot,Coloni,0,0,Did not qualify,0

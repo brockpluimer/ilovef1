@@ -1,0 +1,31 @@
+position,number,driver,constructor,laps,grid,status,points
+1,5,Mario Andretti,Team Lotus,52,4,Finished,9
+2,11,Niki Lauda,Ferrari,52,5,Finished,6
+3,17,Alan Jones,Shadow,52,16,Finished,4
+4,2,Jochen Mass,McLaren,52,9,Finished,3
+5,22,Clay Regazzoni,Ensign,52,7,Finished,2
+6,3,Ronnie Peterson,Tyrrell,52,12,Finished,1
+7,27,Patrick Nève,March,50,24,+2 Laps,0
+8,26,Jacques Laffite,Ligier,50,8,+2 Laps,0
+9,24,Rupert Keegan,Hesketh,48,23,+4 Laps,0
+10,10,Ian Scheckter,March,41,17,Transmission,0
+11,12,Carlos Reutemann,Ferrari,39,2,Spun off,0
+12,16,Riccardo Patrese,Shadow,39,6,Spun off,0
+13,14,Bruno Giacomelli,McLaren,38,15,Engine,0
+14,8,Hans-Joachim Stuck,Brabham,31,11,Engine,0
+15,1,James Hunt,McLaren,26,1,Spun off,0
+16,4,Patrick Depailler,Tyrrell,24,13,Engine,0
+17,20,Jody Scheckter,Wolf,23,3,Engine,0
+18,15,Jean-Pierre Jabouille,Renault,23,20,Engine,0
+19,34,Jean-Pierre Jarier,Penske,19,18,Engine,0
+20,23,Patrick Tambay,Ensign,9,21,Engine,0
+21,19,Vittorio Brambilla,Surtees,5,10,Accident,0
+22,6,Gunnar Nilsson,Team Lotus,4,22,Suspension,0
+23,30,Brett Lunger,McLaren,4,19,Engine,0
+24,7,John Watson,Brabham,3,14,Accident,0
+25,9,Alex Ribeiro,March,0,0,Did not qualify,0
+26,28,Emerson Fittipaldi,Fittipaldi,0,0,Did not qualify,0
+27,18,Lamberto Leoni,Surtees,0,0,Did not qualify,0
+28,38,Brian Henton,Boro,0,0,Did not qualify,0
+29,36,Emilio de Villota,McLaren,0,0,Did not qualify,0
+30,25,Ian Ashley,Hesketh,0,0,Did not qualify,0

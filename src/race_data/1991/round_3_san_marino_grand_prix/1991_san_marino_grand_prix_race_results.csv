@@ -1,0 +1,31 @@
+position,number,driver,constructor,laps,grid,status,points
+1,1,Ayrton Senna,McLaren,61,1,Finished,10
+2,2,Gerhard Berger,McLaren,61,5,Finished,6
+3,22,Jyrki Järvilehto,Dallara,60,16,+1 Lap,4
+4,23,Pierluigi Martini,Minardi,59,9,+2 Laps,3
+5,11,Mika Häkkinen,Team Lotus,58,25,+3 Laps,2
+6,12,Julian Bailey,Team Lotus,58,26,+3 Laps,1
+7,25,Thierry Boutsen,Ligier,58,24,+3 Laps,0
+8,8,Mark Blundell,Brabham,58,23,+3 Laps,0
+9,35,Eric van de Poele,Lambo,57,21,Out of fuel,0
+10,26,Érik Comas,Ligier,57,19,+4 Laps,0
+11,7,Martin Brundle,Brabham,57,18,+4 Laps,0
+12,15,Maurício Gugelmin,Leyton House,55,15,Engine,0
+13,19,Roberto Moreno,Benetton,54,13,Engine,0
+14,4,Stefano Modena,Tyrrell,41,6,Transmission,0
+15,33,Andrea de Cesaris,Jordan,37,11,Gearbox,0
+16,32,Bertrand Gachot,Jordan,37,13,Suspension,0
+17,16,Ivan Capelli,Leyton House,24,22,Spun off,0
+18,29,Éric Bernard,Lola,17,17,Engine,0
+19,6,Riccardo Patrese,Williams,17,2,Electrical,0
+20,3,Satoru Nakajima,Tyrrell,15,10,Transmission,0
+21,24,Gianni Morbidelli,Minardi,10,8,Gearbox,0
+22,28,Jean Alesi,Ferrari,2,7,Spun off,0
+23,30,Aguri Suzuki,Lola,2,20,Spun off,0
+24,20,Nelson Piquet,Benetton,1,14,Spun off,0
+25,5,Nigel Mansell,Williams,0,4,Collision,0
+26,27,Alain Prost,Ferrari,0,3,Spun off,0
+27,17,Gabriele Tarquini,AGS,0,0,Did not qualify,0
+28,18,Fabrizio Barbazza,AGS,0,0,Did not qualify,0
+29,10,Alex Caffi,Footwork,0,0,Did not qualify,0
+30,9,Michele Alboreto,Footwork,0,0,Did not qualify,0

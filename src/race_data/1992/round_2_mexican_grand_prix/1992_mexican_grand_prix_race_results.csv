@@ -1,0 +1,31 @@
+position,number,driver,constructor,laps,grid,status,points
+1,5,Nigel Mansell,Williams,69,1,Finished,10
+2,6,Riccardo Patrese,Williams,69,2,Finished,6
+3,19,Michael Schumacher,Benetton,69,3,Finished,4
+4,2,Gerhard Berger,McLaren,69,5,Finished,3
+5,4,Andrea de Cesaris,Tyrrell,68,11,+1 Lap,2
+6,11,Mika Häkkinen,Team Lotus,68,18,+1 Lap,1
+7,12,Johnny Herbert,Team Lotus,68,12,+1 Lap,0
+8,21,Jyrki Järvilehto,Dallara,68,7,+1 Lap,0
+9,26,Érik Comas,Ligier,67,26,+2 Laps,0
+10,25,Thierry Boutsen,Ligier,67,22,+2 Laps,0
+11,29,Bertrand Gachot,Larrousse,66,13,+3 Laps,0
+12,30,Ukyo Katayama,Larrousse,66,24,+3 Laps,0
+13,9,Michele Alboreto,Footwork,65,25,+4 Laps,0
+14,20,Martin Brundle,Benetton,47,4,Engine,0
+15,15,Gabriele Tarquini,Fondmetal,45,14,Clutch,0
+16,14,Andrea Chiesa,Fondmetal,37,23,Spun off,0
+17,22,Pierluigi Martini,Dallara,36,9,Handling,0
+18,27,Jean Alesi,Ferrari,31,10,Engine,0
+19,24,Gianni Morbidelli,Minardi,29,21,Spun off,0
+20,32,Stefano Modena,Jordan,17,15,Gearbox,0
+21,3,Olivier Grouillard,Tyrrell,12,16,Engine,0
+22,1,Ayrton Senna,McLaren,11,6,Transmission,0
+23,23,Christian Fittipaldi,Minardi,2,17,Spun off,0
+24,33,Maurício Gugelmin,Jordan,0,8,Engine,0
+25,16,Karl Wendlinger,March,0,19,Collision,0
+26,28,Ivan Capelli,Ferrari,0,20,Collision,0
+27,10,Aguri Suzuki,Footwork,0,0,Did not qualify,0
+28,17,Paul Belmondo,March,0,0,Did not qualify,0
+29,7,Eric van de Poele,Brabham,0,0,Did not qualify,0
+30,8,Giovanna Amati,Brabham,0,0,Did not qualify,0

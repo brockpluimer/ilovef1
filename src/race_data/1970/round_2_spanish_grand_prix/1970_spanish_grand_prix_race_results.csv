@@ -1,0 +1,23 @@
+position,number,driver,constructor,laps,grid,status,points
+1,1,Jackie Stewart,March,90,3,Finished,9
+2,11,Bruce McLaren,McLaren-Ford,89,11,+1 Lap,6
+3,18,Mario Andretti,March,89,16,+1 Lap,4
+4,6,Graham Hill,Team Lotus,89,15,+1 Lap,3
+5,16,Johnny Servoz-Gavin,March,88,14,+2 Laps,2
+6,8,John Surtees,McLaren-Ford,76,12,Gearbox,0
+7,7,Jack Brabham,Brabham,61,1,Engine,0
+8,24,Rolf Stommelen,Brabham,43,17,Engine,0
+9,22,Henri Pescarolo,Matra,33,9,Engine,0
+10,4,Jean-Pierre Beltoise,Matra,31,4,Engine,0
+11,5,Denny Hulme,McLaren-Ford,10,2,Ignition,0
+12,9,Chris Amon,March,10,6,Engine,0
+13,3,Jochen Rindt,Team Lotus,9,8,Ignition,0
+14,10,Pedro Rodríguez,BRM,4,5,Withdrew,0
+15,2,Jacky Ickx,Ferrari,0,7,Accident,0
+16,15,Jackie Oliver,BRM,0,10,Accident,0
+17,12,Piers Courage,De Tomaso,0,13,Withdrew,0
+18,20,Andrea de Adamich,McLaren-Alfa Romeo,0,0,Did not qualify,0
+19,19,John Miles,Team Lotus,0,0,Did not qualify,0
+20,14,Jo Siffert,March,0,0,Did not qualify,0
+21,21,George Eaton,BRM,0,0,Did not qualify,0
+22,23,Alex Soler-Roig,Team Lotus,0,0,Did not qualify,0

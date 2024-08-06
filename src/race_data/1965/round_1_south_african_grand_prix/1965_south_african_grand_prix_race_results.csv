@@ -1,0 +1,31 @@
+position,number,driver,constructor,laps,grid,status,points
+1,5,Jim Clark,Lotus-Climax,85,1,Finished,9
+2,1,John Surtees,Ferrari,85,2,Finished,6
+3,3,Graham Hill,BRM,85,5,Finished,4
+4,6,Mike Spence,Lotus-Climax,85,4,Finished,3
+5,9,Bruce McLaren,Cooper-Climax,84,8,+1 Lap,2
+6,4,Jackie Stewart,BRM,83,11,+2 Laps,1
+7,12,Jo Siffert,Brabham-BRM,83,14,+2 Laps,0
+8,7,Jack Brabham,Brabham-Climax,81,3,+4 Laps,0
+9,18,Paul Hawkins,Brabham-Ford,81,16,+4 Laps,0
+10,20,Peter de Klerk,Alfa Romeo,79,17,+6 Laps,0
+11,15,Tony Maggs,Lotus-BRM,77,13,+8 Laps,0
+12,16,Frank Gardner,Brabham-BRM,75,15,+10 Laps,0
+13,25,Sam Tingle,LDS-Alfa Romeo,73,20,+12 Laps,0
+14,19,David Prophet,Brabham-Ford,71,19,+14 Laps,0
+15,2,Lorenzo Bandini,Ferrari,66,6,Ignition,0
+16,14,Bob Anderson,Brabham-Climax,50,12,Not classified,0
+17,11,Jo Bonnier,Brabham-Climax,42,7,Clutch,0
+18,10,Jochen Rindt,Cooper-Climax,39,10,Electrical,0
+19,17,John Love,Cooper-Climax,20,18,Halfshaft,0
+20,8,Dan Gurney,Brabham-Climax,11,9,Ignition,0
+21,28,Trevor Blokdyk,Cooper-Ford,0,0,Did not qualify,0
+22,23,Neville Lederle,Lotus-Climax,0,0,Did not qualify,0
+23,21,Doug Serrurier,LDS-Climax,0,0,Did not qualify,0
+24,27,Brausch Niemann,Lotus-Ford,0,0,Did not qualify,0
+25,22,Ernie Pieterse,Lotus-Climax,0,0,Did not qualify,0
+26,24,Clive Puzey,Lotus-Climax,0,0,Did not prequalify,0
+27,29,Jackie Pretorius,LDS-Alfa Romeo,0,0,Did not prequalify,0
+28,32,Dave Charlton,Lotus-Ford,0,0,Did not prequalify,0
+29,26,Ray Reed,RE,0,0,Withdrew,0
+30,31,David Clapham,Cooper-Maserati,0,0,Withdrew,0

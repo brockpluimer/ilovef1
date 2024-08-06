@@ -1,0 +1,23 @@
+position,number,driver,constructor,laps,grid,status,points
+1,11,Jackie Stewart,Tyrrell,75,4,Finished,9
+2,4,Jacky Ickx,Ferrari,75,1,Finished,6
+3,20,Chris Amon,Matra,75,3,Finished,4
+4,14,Pedro Rodríguez,BRM,75,5,Finished,3
+5,9,Denny Hulme,McLaren,75,9,Finished,2
+6,21,Jean-Pierre Beltoise,Matra,74,6,+1 Lap,1
+7,12,François Cevert,Tyrrell,74,12,+1 Lap,0
+8,10,Peter Gethin,McLaren,73,7,+2 Laps,0
+9,8,Tim Schenken,Brabham,72,21,+3 Laps,0
+10,16,Howden Ganley,BRM,71,17,+4 Laps,0
+11,24,John Surtees,Surtees,67,22,+8 Laps,0
+12,3,Reine Wisell,Lotus-Ford,58,16,Not classified,0
+13,2,Emerson Fittipaldi,Lotus-Ford,54,14,Suspension,0
+14,27,Henri Pescarolo,March-Ford,53,11,Engine,0
+15,6,Mario Andretti,Ferrari,50,8,Engine,0
+16,19,Alex Soler-Roig,March-Ford,46,20,Fuel pump,0
+17,17,Andrea de Adamich,March-Alfa Romeo,26,18,Transmission,0
+18,18,Ronnie Peterson,March-Ford,24,13,Ignition,0
+19,5,Clay Regazzoni,Ferrari,13,2,Engine,0
+20,25,Rolf Stommelen,Surtees,9,19,Fuel pressure,0
+21,15,Jo Siffert,BRM,5,15,Gearbox,0
+22,7,Graham Hill,Brabham,5,10,Steering,0

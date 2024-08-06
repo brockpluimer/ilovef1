@@ -1,0 +1,31 @@
+position,number,driver,constructor,laps,grid,status,points
+1,5,Thierry Boutsen,Williams,69,6,Finished,9
+2,6,Riccardo Patrese,Williams,69,3,Finished,6
+3,22,Andrea de Cesaris,Dallara,69,9,Finished,4
+4,11,Nelson Piquet,Team Lotus,69,19,Finished,3
+5,25,René Arnoux,Ligier,68,22,+1 Lap,2
+6,21,Alex Caffi,Dallara,67,8,+2 Laps,1
+7,1,Ayrton Senna,McLaren,66,2,Engine,0
+8,38,Christian Danner,Rial,66,23,+3 Laps,0
+9,31,Roberto Moreno,Coloni,57,26,Differential,0
+10,9,Derek Warwick,Arrows,40,12,Engine,0
+11,3,Jonathan Palmer,Tyrrell,35,14,Spun off,0
+12,17,Nicola Larini,Osella,33,15,Electrical,0
+13,16,Ivan Capelli,March,28,21,Spun off,0
+14,30,Philippe Alliot,Larrousse,26,10,Spun off,0
+15,36,Stefan Johansson,Onyx,13,18,Disqualified,0
+16,24,Luis Pérez-Sala,Minardi,11,24,Spun off,0
+17,15,Maurício Gugelmin,March,11,17,Electrical,0
+18,28,Gerhard Berger,Ferrari,6,4,Gearbox,0
+19,40,Gabriele Tarquini,AGS,6,25,Spun off,0
+20,10,Eddie Cheever,Arrows,3,16,Spun off,0
+21,2,Alain Prost,McLaren,2,1,Suspension,0
+22,27,Nigel Mansell,Ferrari,0,5,Disqualified,0
+23,8,Stefano Modena,Brabham,0,7,Accident,0
+24,23,Pierluigi Martini,Minardi,0,11,Accident,0
+25,19,Alessandro Nannini,Benetton,0,13,Disqualified,0
+26,4,Michele Alboreto,Tyrrell,0,20,Electrical,0
+27,12,Satoru Nakajima,Team Lotus,0,0,Did not qualify,0
+28,29,Yannick Dalmas,Larrousse,0,0,Did not qualify,0
+29,20,Johnny Herbert,Benetton,0,0,Did not qualify,0
+30,26,Olivier Grouillard,Ligier,0,0,Did not qualify,0

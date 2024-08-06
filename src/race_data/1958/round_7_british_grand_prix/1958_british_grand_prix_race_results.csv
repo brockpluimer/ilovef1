@@ -1,0 +1,21 @@
+position,number,driver,constructor,laps,grid,status,points
+1,1,Peter Collins,Ferrari,75,6,Finished,8
+2,2,Mike Hawthorn,Ferrari,75,4,Finished,7
+3,10,Roy Salvadori,Cooper,75,3,Finished,4
+4,9,Stuart Lewis-Evans,Vanwall,75,7,Finished,3
+5,20,Harry Schell,BRM,75,2,Finished,2
+6,11,Jack Brabham,Cooper,75,10,Finished,0
+7,8,Tony Brooks,Vanwall,74,9,+1 Lap,0
+8,4,Maurice Trintignant,Cooper,73,12,+2 Laps,0
+9,5,Carroll Shelby,Maserati,72,15,+3 Laps,0
+10,3,Wolfgang von Trips,Ferrari,59,11,Engine,0
+11,22,Jo Bonnier,Maserati,49,13,Gearbox,0
+12,6,Gerino Gerini,Maserati,44,18,Gearbox,0
+13,12,Ian Burgess,Cooper,40,16,Clutch,0
+14,7,Stirling Moss,Vanwall,25,1,Engine,0
+15,17,Cliff Allison,Team Lotus,21,5,Engine,0
+16,19,Jean Behra,BRM,19,8,Suspension,0
+17,15,Ivor Bueb,Connaught,19,17,Gearbox,0
+18,18,Alan Stacey,Team Lotus,19,20,Overheating,0
+19,16,Graham Hill,Team Lotus,17,14,Overheating,0
+20,14,Jack Fairman,Connaught,7,19,Ignition,0

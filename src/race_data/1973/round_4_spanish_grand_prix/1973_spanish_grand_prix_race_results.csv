@@ -1,0 +1,23 @@
+position,number,driver,constructor,laps,grid,status,points
+1,1,Emerson Fittipaldi,Team Lotus,75,7,Finished,9
+2,4,François Cevert,Tyrrell,75,3,Finished,6
+3,20,George Follmer,Shadow,75,14,Finished,4
+4,6,Peter Revson,McLaren,74,5,+1 Lap,3
+5,15,Jean-Pierre Beltoise,BRM,74,10,+1 Lap,2
+6,5,Denny Hulme,McLaren,74,2,+1 Lap,1
+7,12,Mike Beuttler,March,74,19,+1 Lap,0
+8,11,Henri Pescarolo,March,73,18,+2 Laps,0
+9,14,Clay Regazzoni,BRM,69,8,+6 Laps,0
+10,17,Wilson Fittipaldi,Brabham,69,12,+6 Laps,0
+11,24,Nanni Galli,Iso Marlboro,69,20,+6 Laps,0
+12,7,Jacky Ickx,Ferrari,69,6,+6 Laps,0
+13,18,Carlos Reutemann,Brabham,66,15,Halfshaft,0
+14,23,Howden Ganley,Iso Marlboro,63,21,Out of fuel,0
+15,2,Ronnie Peterson,Team Lotus,56,1,Gearbox,0
+16,3,Jackie Stewart,Tyrrell,47,4,Brakes,0
+17,16,Niki Lauda,BRM,28,11,Tyre,0
+18,25,Graham Hill,Shadow,27,22,Brakes,0
+19,9,Mike Hailwood,Surtees,25,9,Oil leak,0
+20,19,Jackie Oliver,Shadow,23,13,Engine,0
+21,21,Andrea de Adamich,Brabham,17,17,Wheel,0
+22,10,Carlos Pace,Surtees,13,16,Halfshaft,0

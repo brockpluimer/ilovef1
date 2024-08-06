@@ -1,0 +1,27 @@
+position,number,driver,constructor,laps,grid,status,points
+1,12,Gilles Villeneuve,Ferrari,78,3,Finished,9
+2,11,Jody Scheckter,Ferrari,78,2,Finished,6
+3,4,Jean-Pierre Jarier,Tyrrell,78,9,Finished,4
+4,1,Mario Andretti,Team Lotus,78,8,Finished,3
+5,2,Carlos Reutemann,Team Lotus,78,11,Finished,2
+6,5,Niki Lauda,Brabham-Alfa Romeo,77,4,+1 Lap,1
+7,6,Nelson Piquet,Brabham-Alfa Romeo,77,12,+1 Lap,0
+8,20,James Hunt,Wolf,77,13,+1 Lap,0
+9,28,Clay Regazzoni,Williams,76,22,+2 Laps,0
+10,8,Patrick Tambay,McLaren,75,17,+3 Laps,0
+11,29,Riccardo Patrese,Arrows,75,16,+3 Laps,0
+12,30,Jochen Mass,Arrows,74,20,+4 Laps,0
+13,14,Emerson Fittipaldi,Fittipaldi,74,18,+4 Laps,0
+14,31,Hector Rebaque,Team Lotus,71,23,Engine,0
+15,16,René Arnoux,Renault,67,10,Tyre,0
+16,27,Alan Jones,Williams,63,19,Suspension,0
+17,7,John Watson,McLaren,61,14,Ignition,0
+18,9,Hans-Joachim Stuck,ATS,57,24,Accident,0
+19,15,Jean-Pierre Jabouille,Renault,47,1,Engine,0
+20,26,Jacques Laffite,Ligier,45,6,Accident,0
+21,3,Didier Pironi,Tyrrell,25,7,Throttle,0
+22,18,Elio de Angelis,Shadow,16,15,Accident,0
+23,25,Patrick Depailler,Ligier,4,5,Accident,0
+24,17,Jan Lammers,Shadow,2,21,Accident,0
+25,22,Derek Daly,Ensign,0,0,Did not qualify,0
+26,24,Arturo Merzario,Merzario,0,0,Did not qualify,0

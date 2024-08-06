@@ -1,0 +1,28 @@
+position,number,driver,constructor,laps,grid,status,points
+1,28,Carlos Reutemann,Williams,76,2,Finished,9
+2,26,Jacques Laffite,Ligier,76,5,Finished,6
+3,5,Nelson Piquet,Brabham,76,4,Finished,4
+4,30,Jochen Mass,Arrows,75,15,+1 Lap,3
+5,2,Gilles Villeneuve,Ferrari,75,6,+1 Lap,2
+6,20,Emerson Fittipaldi,Fittipaldi,74,18,+2 Laps,1
+7,11,Mario Andretti,Team Lotus,73,19,+3 Laps,0
+8,29,Riccardo Patrese,Arrows,73,11,+3 Laps,0
+9,12,Elio de Angelis,Team Lotus,68,14,Accident,0
+10,9,Jan Lammers,ATS,64,13,Not classified,0
+11,25,Didier Pironi,Ligier,54,1,Accident,0
+12,16,René Arnoux,Renault,53,20,Accident,0
+13,22,Patrick Depailler,Alfa Romeo,50,7,Engine,0
+14,1,Jody Scheckter,Ferrari,27,17,Handling,0
+15,15,Jean-Pierre Jabouille,Renault,25,16,Gearbox,0
+16,27,Alan Jones,Williams,24,3,Differential,0
+17,23,Bruno Giacomelli,Alfa Romeo,0,8,Accident,0
+18,3,Jean-Pierre Jarier,Tyrrell,0,9,Accident,0
+19,8,Alain Prost,McLaren,0,10,Accident,0
+20,4,Derek Daly,Tyrrell,0,12,Accident,0
+21,7,John Watson,McLaren,0,0,Did not qualify,0
+22,31,Eddie Cheever,Osella,0,0,Did not qualify,0
+23,17,Geoff Lees,Shadow,0,0,Did not qualify,0
+24,21,Keke Rosberg,Fittipaldi,0,0,Did not qualify,0
+25,6,Ricardo Zunino,Brabham,0,0,Did not qualify,0
+26,14,Tiff Needell,Ensign,0,0,Did not qualify,0
+27,18,Dave Kennedy,Shadow,0,0,Did not qualify,0

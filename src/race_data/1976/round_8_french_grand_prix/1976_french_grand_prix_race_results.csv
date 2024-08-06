@@ -1,0 +1,31 @@
+position,number,driver,constructor,laps,grid,status,points
+1,11,James Hunt,McLaren,54,1,Finished,9
+2,4,Patrick Depailler,Tyrrell,54,3,Finished,6
+3,28,John Watson,Penske,54,8,Finished,4
+4,8,Carlos Pace,Brabham-Alfa Romeo,54,5,Finished,3
+5,5,Mario Andretti,Team Lotus,54,7,Finished,2
+6,3,Jody Scheckter,Tyrrell,54,9,Finished,1
+7,34,Hans-Joachim Stuck,March,54,17,Finished,0
+8,16,Tom Pryce,Shadow,54,16,Finished,0
+9,35,Arturo Merzario,March,54,20,Finished,0
+10,20,Jacky Ickx,Wolf,53,19,+1 Lap,0
+11,7,Carlos Reutemann,Brabham-Alfa Romeo,53,10,+1 Lap,0
+12,17,Jean-Pierre Jarier,Shadow,53,15,+1 Lap,0
+13,21,Michel Leclère,Wolf,53,22,+1 Lap,0
+14,26,Jacques Laffite,Ligier,53,13,+1 Lap,0
+15,12,Jochen Mass,McLaren,53,14,+1 Lap,0
+16,18,Brett Lunger,Surtees,53,23,+1 Lap,0
+17,25,Guy Edwards,Hesketh,53,25,+1 Lap,0
+18,22,Patrick Nève,Ensign,53,26,+1 Lap,0
+19,10,Ronnie Peterson,March,51,6,Fuel system,0
+20,19,Alan Jones,Surtees,44,18,Suspension,0
+21,9,Vittorio Brambilla,March,28,11,Oil pressure,0
+22,30,Emerson Fittipaldi,Fittipaldi,21,21,Oil pressure,0
+23,38,Henri Pescarolo,Surtees,19,24,Suspension,0
+24,2,Clay Regazzoni,Ferrari,17,4,Engine,0
+25,1,Niki Lauda,Ferrari,8,2,Engine,0
+26,6,Gunnar Nilsson,Team Lotus,8,12,Gearbox,0
+27,24,Harald Ertl,Hesketh,4,29,Differential,0
+28,33,Damien Magee,Brabham-Ford,0,0,Did not qualify,0
+29,31,Ingo Hoffmann,Fittipaldi,0,0,Did not qualify,0
+30,32,Loris Kessel,Brabham-Ford,0,0,Did not qualify,0

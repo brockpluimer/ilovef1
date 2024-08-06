@@ -1,0 +1,26 @@
+position,number,driver,constructor,laps,grid,status,points
+1,5,Jackie Stewart,Tyrrell,78,1,Finished,9
+2,1,Emerson Fittipaldi,Team Lotus,78,5,Finished,6
+3,2,Ronnie Peterson,Team Lotus,77,2,+1 Lap,4
+4,6,François Cevert,Tyrrell,77,4,+1 Lap,3
+5,8,Peter Revson,McLaren,76,15,+2 Laps,2
+6,7,Denny Hulme,McLaren,76,3,+2 Laps,1
+7,9,Andrea de Adamich,Brabham,75,25,+3 Laps,0
+8,23,Mike Hailwood,Surtees,75,13,+3 Laps,0
+9,27,James Hunt,March,73,18,Engine,0
+10,17,Jackie Oliver,Shadow,72,22,+6 Laps,0
+11,11,Wilson Fittipaldi,Brabham,71,9,Fuel system,0
+12,14,Jean-Pierre Jarier,March,67,14,Gearbox,0
+13,12,Graham Hill,Shadow,62,24,Suspension,0
+14,4,Arturo Merzario,Ferrari,58,16,Oil pressure,0
+15,10,Carlos Reutemann,Brabham,46,19,Gearbox,0
+16,3,Jacky Ickx,Ferrari,44,7,Halfshaft,0
+17,25,Howden Ganley,Iso Marlboro,41,10,Halfshaft,0
+18,20,Jean-Pierre Beltoise,BRM,39,11,Accident,0
+19,24,Carlos Pace,Surtees,31,17,Halfshaft,0
+20,18,David Purley,March,31,23,Fuel leak,0
+21,26,Nanni Galli,Iso Marlboro,30,21,Halfshaft,0
+22,21,Niki Lauda,BRM,24,6,Gearbox,0
+23,22,Chris Amon,Tecno,22,12,Overheating,0
+24,19,Clay Regazzoni,BRM,15,8,Brakes,0
+25,15,Mike Beuttler,March,3,20,Engine,0

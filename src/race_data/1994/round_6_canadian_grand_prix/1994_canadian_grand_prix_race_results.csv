@@ -1,0 +1,28 @@
+position,number,driver,constructor,laps,grid,status,points
+1,5,Michael Schumacher,Benetton,69,1,Finished,10
+2,0,Damon Hill,Williams,69,4,Finished,6
+3,27,Jean Alesi,Ferrari,69,2,Finished,4
+4,28,Gerhard Berger,Ferrari,69,3,Finished,3
+5,2,David Coulthard,Williams,68,5,+1 Lap,2
+6,6,Jyrki Järvilehto,Benetton,68,20,+1 Lap,1
+7,14,Rubens Barrichello,Jordan,68,6,+1 Lap,0
+8,12,Johnny Herbert,Team Lotus,68,17,+1 Lap,0
+9,23,Pierluigi Martini,Minardi,68,15,+1 Lap,0
+10,4,Mark Blundell,Tyrrell,67,13,Spun off,0
+11,24,Michele Alboreto,Minardi,67,18,+2 Laps,0
+12,26,Olivier Panis,Ligier,67,19,+2 Laps,0
+13,25,Éric Bernard,Ligier,66,24,+3 Laps,0
+14,31,David Brabham,Simtek,65,25,+4 Laps,0
+15,11,Alessandro Zanardi,Team Lotus,62,23,+7 Laps,0
+16,9,Christian Fittipaldi,Footwork,68,16,Disqualified,0
+17,7,Mika Häkkinen,McLaren,61,7,Engine,0
+18,19,Olivier Beretta,Larrousse,57,22,Engine,0
+19,10,Gianni Morbidelli,Footwork,50,11,Transmission,0
+20,34,Bertrand Gachot,Pacific,47,26,Oil pressure,0
+21,20,Érik Comas,Larrousse,45,21,Clutch,0
+22,3,Ukyo Katayama,Tyrrell,44,9,Accident,0
+23,15,Eddie Irvine,Jordan,40,8,Spun off,0
+24,29,Andrea de Cesaris,Sauber,24,14,Oil pressure,0
+25,30,Heinz-Harald Frentzen,Sauber,5,10,Spun off,0
+26,8,Martin Brundle,McLaren,3,12,Electrical,0
+27,33,Paul Belmondo,Pacific,0,0,Did not qualify,0

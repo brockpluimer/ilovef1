@@ -1,0 +1,27 @@
+position,number,driver,constructor,laps,grid,status,points
+1,2,Gerhard Berger,McLaren,81,4,Finished,10
+2,19,Michael Schumacher,Benetton,81,5,Finished,6
+3,20,Martin Brundle,Benetton,81,8,Finished,4
+4,27,Jean Alesi,Ferrari,80,6,+1 Lap,3
+5,25,Thierry Boutsen,Ligier,80,22,+1 Lap,2
+6,32,Stefano Modena,Jordan,80,15,+1 Lap,1
+7,11,Mika Häkkinen,Team Lotus,80,10,+1 Lap,0
+8,10,Aguri Suzuki,Footwork,79,18,+2 Laps,0
+9,23,Christian Fittipaldi,Minardi,79,17,+2 Laps,0
+10,24,Gianni Morbidelli,Minardi,79,16,+2 Laps,0
+11,28,Nicola Larini,Ferrari,79,19,+2 Laps,0
+12,16,Jan Lammers,March,78,25,+3 Laps,0
+13,12,Johnny Herbert,Team Lotus,77,12,+4 Laps,0
+14,21,Jyrki Järvilehto,Dallara,70,24,Gearbox,0
+15,17,Emanuele Naspetti,March,55,23,Gearbox,0
+16,29,Bertrand Gachot,Larrousse,51,21,Fuel system,0
+17,6,Riccardo Patrese,Williams,50,3,Engine,0
+18,30,Ukyo Katayama,Larrousse,35,26,Differential,0
+19,4,Andrea de Cesaris,Tyrrell,29,7,Engine,0
+20,5,Nigel Mansell,Williams,18,1,Collision,0
+21,1,Ayrton Senna,McLaren,18,2,Collision,0
+22,33,Maurício Gugelmin,Jordan,7,20,Spun off,0
+23,26,Érik Comas,Ligier,4,9,Engine,0
+24,9,Michele Alboreto,Footwork,0,11,Engine,0
+25,22,Pierluigi Martini,Dallara,0,14,Accident,0
+26,3,Olivier Grouillard,Tyrrell,0,13,Accident,0

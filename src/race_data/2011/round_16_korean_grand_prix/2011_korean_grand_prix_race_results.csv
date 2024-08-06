@@ -1,0 +1,25 @@
+position,number,driver,constructor,laps,grid,status,points
+1,1,Sebastian Vettel,Red Bull,55,2,Finished,25
+2,3,Lewis Hamilton,McLaren,55,1,Finished,18
+3,2,Mark Webber,Red Bull,55,4,Finished,15
+4,4,Jenson Button,McLaren,55,3,Finished,12
+5,5,Fernando Alonso,Ferrari,55,6,Finished,10
+6,6,Felipe Massa,Ferrari,55,5,Finished,8
+7,19,Jaime Alguersuari,Toro Rosso,55,11,Finished,6
+8,8,Nico Rosberg,Mercedes,55,7,Finished,4
+9,18,Sébastien Buemi,Toro Rosso,55,13,Finished,2
+10,15,Paul di Resta,Force India,55,9,Finished,1
+11,14,Adrian Sutil,Force India,55,10,Finished,0
+12,11,Rubens Barrichello,Williams,55,18,Finished,0
+13,9,Bruno Senna,Renault,54,15,+1 Lap,0
+14,20,Heikki Kovalainen,Lotus,54,19,+1 Lap,0
+15,16,Kamui Kobayashi,Sauber,54,14,+1 Lap,0
+16,17,Sergio Pérez,Sauber,54,17,+1 Lap,0
+17,21,Jarno Trulli,Lotus,54,20,+1 Lap,0
+18,24,Timo Glock,Virgin,54,21,+1 Lap,0
+19,22,Daniel Ricciardo,HRT,54,24,+1 Lap,0
+20,25,Jérôme d'Ambrosio,Virgin,54,22,+1 Lap,0
+21,23,Vitantonio Liuzzi,HRT,52,23,+3 Laps,0
+22,12,Pastor Maldonado,Williams,30,16,Clutch,0
+23,10,Vitaly Petrov,Renault,16,8,Collision,0
+24,7,Michael Schumacher,Mercedes,15,12,Collision,0

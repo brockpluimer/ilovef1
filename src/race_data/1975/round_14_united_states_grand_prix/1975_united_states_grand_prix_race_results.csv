@@ -1,0 +1,25 @@
+position,number,driver,constructor,laps,grid,status,points
+1,12,Niki Lauda,Ferrari,59,1,Finished,9
+2,1,Emerson Fittipaldi,McLaren,59,2,Finished,6
+3,2,Jochen Mass,McLaren,59,9,Finished,4
+4,24,James Hunt,Hesketh,59,15,Finished,3
+5,5,Ronnie Peterson,Team Lotus,59,14,Finished,2
+6,3,Jody Scheckter,Tyrrell,59,10,Finished,1
+7,9,Vittorio Brambilla,March,59,6,Finished,0
+8,10,Hans-Joachim Stuck,March,58,13,+1 Lap,0
+9,28,John Watson,Penske,57,12,+2 Laps,0
+10,30,Wilson Fittipaldi,Fittipaldi,55,23,+4 Laps,0
+11,16,Tom Pryce,Shadow-Ford,52,7,Not classified,0
+12,6,Brian Henton,Team Lotus,49,19,Not classified,0
+13,25,Brett Lunger,Hesketh,46,18,Accident,0
+14,31,Roelof Wunderink,Ensign,41,22,Gearbox,0
+15,11,Clay Regazzoni,Ferrari,0,11,Withdrew,0
+16,17,Jean-Pierre Jarier,Shadow-Ford,19,4,Wheel bearing,0
+17,7,Carlos Reutemann,Brabham,9,3,Engine,0
+18,27,Mario Andretti,Parnelli,9,5,Suspension,0
+19,23,Tony Brise,Embassy Hill,5,17,Accident,0
+20,15,Michel Leclère,Tyrrell,5,20,Engine,0
+21,4,Patrick Depailler,Tyrrell,2,8,Accident,0
+22,8,Carlos Pace,Brabham,2,16,Accident,0
+23,21,Jacques Laffite,Williams,0,21,Physical,0
+24,20,Lella Lombardi,Williams,0,24,Ignition,0

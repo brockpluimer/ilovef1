@@ -1,0 +1,25 @@
+position,number,driver,constructor,laps,grid,status,points
+1,14,Bruce McLaren,Cooper-Climax,100,3,Finished,9
+2,36,Phil Hill,Ferrari,100,9,Finished,6
+3,38,Lorenzo Bandini,Ferrari,100,10,Finished,4
+4,28,John Surtees,Lola,99,11,+1 Lap,3
+5,2,Jo Bonnier,Porsche,93,18,+7 Laps,2
+6,10,Graham Hill,BRM,92,2,Engine,1
+7,40,Willy Mairesse,Ferrari,90,4,Oil pressure,0
+8,22,Jack Brabham,Lotus-Climax,77,6,Accident,0
+9,34,Innes Ireland,Lotus-Climax,64,8,Fuel pump,0
+10,18,Jim Clark,Lotus-Climax,55,1,Clutch,0
+11,26,Roy Salvadori,Lola,44,12,Suspension,0
+12,16,Tony Maggs,Cooper-Climax,43,19,Gearbox,0
+13,20,Trevor Taylor,Lotus-Climax,24,17,Oil leak,0
+14,4,Dan Gurney,Porsche,0,5,Accident,0
+15,30,Maurice Trintignant,Lotus-Climax,0,7,Accident,0
+16,8,Richie Ginther,BRM,0,14,Accident,0
+17,46,Jo Siffert,Lotus-Climax,0,0,Did not qualify,0
+18,24,Jackie Lewis,BRM,0,0,Did not qualify,0
+19,32,Masten Gregory,Lotus-BRM,0,0,Did not qualify,0
+20,44,Carel Godin de Beaufort,Porsche,0,0,Did not qualify,0
+21,42,Nino Vaccarella,Lotus-Climax,0,0,Did not qualify,0
+22,40,Ricardo Rodríguez,Ferrari,0,0,Withdrew,0
+23,6,Roberto Bussinello,De Tomaso-Alfa Romeo,0,0,Withdrew,0
+24,12,Tony Marsh,BRM,0,0,Withdrew,0

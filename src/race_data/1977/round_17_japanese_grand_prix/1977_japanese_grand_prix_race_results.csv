@@ -1,0 +1,24 @@
+position,number,driver,constructor,laps,grid,status,points
+1,1,James Hunt,McLaren,73,2,Finished,9
+2,12,Carlos Reutemann,Ferrari,73,7,Finished,6
+3,4,Patrick Depailler,Tyrrell,73,15,Finished,4
+4,17,Alan Jones,Shadow,73,12,Finished,3
+5,26,Jacques Laffite,Ligier,72,5,Out of fuel,2
+6,16,Riccardo Patrese,Shadow,72,13,+1 Lap,1
+7,8,Hans-Joachim Stuck,Brabham,72,4,+1 Lap,0
+8,19,Vittorio Brambilla,Surtees,71,9,+2 Laps,0
+9,50,Kunimitsu Takahashi,Tyrrell,71,22,+2 Laps,0
+10,20,Jody Scheckter,Wolf,71,6,+2 Laps,0
+11,52,Kazuyoshi Hoshino,Kojima,71,11,+2 Laps,0
+12,9,Alex Ribeiro,March,69,23,+4 Laps,0
+13,6,Gunnar Nilsson,Team Lotus,63,14,Gearbox,0
+14,22,Clay Regazzoni,Ensign,43,10,Engine,0
+15,7,John Watson,Brabham,29,3,Gearbox,0
+16,2,Jochen Mass,McLaren,28,8,Engine,0
+17,23,Patrick Tambay,Ensign,14,16,Engine,0
+18,3,Ronnie Peterson,Tyrrell,5,18,Accident,0
+19,11,Gilles Villeneuve,Ferrari,5,20,Accident,0
+20,27,Jean-Pierre Jarier,Ligier,3,17,Engine,0
+21,5,Mario Andretti,Team Lotus,1,1,Collision,0
+22,51,Noritake Takahara,Kojima,1,19,Collision,0
+23,18,Hans Binder,Surtees,1,21,Collision,0

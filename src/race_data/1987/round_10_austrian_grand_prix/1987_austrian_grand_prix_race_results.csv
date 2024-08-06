@@ -1,0 +1,27 @@
+position,number,driver,constructor,laps,grid,status,points
+1,5,Nigel Mansell,Williams,52,2,Finished,9
+2,6,Nelson Piquet,Williams,52,1,Finished,6
+3,19,Teo Fabi,Benetton,51,5,+1 Lap,4
+4,20,Thierry Boutsen,Benetton,51,4,+1 Lap,3
+5,12,Ayrton Senna,Team Lotus,50,7,+2 Laps,2
+6,1,Alain Prost,McLaren,50,9,+2 Laps,1
+7,2,Stefan Johansson,McLaren,50,14,+2 Laps,0
+8,26,Piercarlo Ghinzani,Ligier,50,18,+2 Laps,0
+9,10,Christian Danner,Zakspeed,49,20,+3 Laps,0
+10,25,René Arnoux,Ligier,49,16,+3 Laps,0
+11,16,Ivan Capelli,March,49,23,+3 Laps,0
+12,30,Philippe Alliot,Larrousse,49,22,+3 Laps,0
+13,11,Satoru Nakajima,Team Lotus,49,13,+3 Laps,0
+14,3,Jonathan Palmer,Tyrrell,47,24,+5 Laps,0
+15,9,Martin Brundle,Zakspeed,48,17,Disqualified,0
+16,14,Pascal Fabre,AGS,45,26,Not classified,0
+17,7,Riccardo Patrese,Brabham,43,8,Engine,0
+18,27,Michele Alboreto,Ferrari,42,6,Turbo,0
+19,8,Andrea de Cesaris,Brabham,35,10,Engine,0
+20,17,Derek Warwick,Arrows,35,11,Engine,0
+21,18,Eddie Cheever,Arrows,31,12,Tyre,0
+22,28,Gerhard Berger,Ferrari,5,3,Turbo,0
+23,23,Adrián Campos,Minardi,3,19,Electrical,0
+24,24,Alessandro Nannini,Minardi,1,15,Engine,0
+25,21,Alex Caffi,Osella,0,21,Electrical,0
+26,4,Philippe Streiff,Tyrrell,0,25,Accident,0

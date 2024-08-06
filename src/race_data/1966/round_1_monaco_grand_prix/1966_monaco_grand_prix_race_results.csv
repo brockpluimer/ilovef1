@@ -1,0 +1,17 @@
+position,number,driver,constructor,laps,grid,status,points
+1,12,Jackie Stewart,BRM,100,3,Finished,9
+2,16,Lorenzo Bandini,Ferrari,100,5,Finished,6
+3,11,Graham Hill,BRM,99,4,+1 Lap,4
+4,19,Bob Bondurant,BRM,95,16,+5 Laps,3
+5,9,Richie Ginther,Cooper-Maserati,80,9,Transmission,0
+6,21,Guy Ligier,Cooper-Maserati,75,15,Not classified,0
+7,18,Jo Bonnier,Cooper-Maserati,73,16,Not classified,0
+8,4,Jim Clark,Lotus-Climax,60,1,Suspension,0
+9,10,Jochen Rindt,Cooper-Maserati,56,7,Engine,0
+10,14,Jo Siffert,Brabham-BRM,35,13,Clutch,0
+11,6,Mike Spence,Lotus-BRM,34,12,Suspension,0
+12,7,Jack Brabham,Brabham-Repco,17,11,Gearbox,0
+13,17,John Surtees,Ferrari,16,2,Transmission,0
+14,8,Denny Hulme,Brabham-Climax,15,6,Transmission,0
+15,2,Bruce McLaren,McLaren-Ford,9,10,Oil leak,0
+16,15,Bob Anderson,Brabham-Climax,3,8,Engine,0

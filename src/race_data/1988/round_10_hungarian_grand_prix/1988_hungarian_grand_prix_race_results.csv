@@ -1,0 +1,31 @@
+position,number,driver,constructor,laps,grid,status,points
+1,12,Ayrton Senna,McLaren,76,1,Finished,9
+2,11,Alain Prost,McLaren,76,7,Finished,6
+3,20,Thierry Boutsen,Benetton,76,3,Finished,4
+4,28,Gerhard Berger,Ferrari,76,9,Finished,3
+5,15,Maurício Gugelmin,March,75,8,+1 Lap,2
+6,6,Riccardo Patrese,Williams,75,6,+1 Lap,1
+7,2,Satoru Nakajima,Team Lotus,73,19,+3 Laps,0
+8,1,Nelson Piquet,Team Lotus,73,13,+3 Laps,0
+9,29,Yannick Dalmas,Larrousse,73,17,+3 Laps,0
+10,24,Luis Pérez-Sala,Minardi,72,11,+4 Laps,0
+11,33,Stefano Modena,Euro Brun,72,26,+4 Laps,0
+12,30,Philippe Alliot,Larrousse,72,20,+4 Laps,0
+13,31,Gabriele Tarquini,Coloni,71,22,+5 Laps,0
+14,17,Derek Warwick,Arrows,65,12,Brakes,0
+15,5,Nigel Mansell,Williams,60,2,Driver unwell,0
+16,18,Eddie Cheever,Arrows,55,14,Brakes,0
+17,27,Michele Alboreto,Ferrari,40,15,Electrical,0
+18,25,René Arnoux,Ligier,32,25,Engine,0
+19,22,Andrea de Cesaris,Rial,28,18,Halfshaft,0
+20,19,Alessandro Nannini,Benetton,24,5,Overheating,0
+21,36,Alex Caffi,Dallara,22,10,Engine,0
+22,26,Stefan Johansson,Ligier,19,24,Throttle,0
+23,23,Pierluigi Martini,Minardi,8,16,Collision,0
+24,14,Philippe Streiff,AGS,8,23,Collision,0
+25,16,Ivan Capelli,March,5,4,Engine,0
+26,3,Jonathan Palmer,Tyrrell,3,21,Engine,0
+27,32,Oscar Larrauri,Euro Brun,0,0,Did not qualify,0
+28,10,Bernd Schneider,Zakspeed,0,0,Did not qualify,0
+29,4,Julian Bailey,Tyrrell,0,0,Did not qualify,0
+30,9,Piercarlo Ghinzani,Zakspeed,0,0,Did not qualify,0

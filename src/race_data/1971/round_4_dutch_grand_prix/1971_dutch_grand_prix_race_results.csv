@@ -1,0 +1,24 @@
+position,number,driver,constructor,laps,grid,status,points
+1,2,Jacky Ickx,Ferrari,70,1,Finished,9
+2,8,Pedro Rodríguez,BRM,70,2,Finished,6
+3,3,Clay Regazzoni,Ferrari,69,4,+1 Lap,4
+4,16,Ronnie Peterson,March-Ford,68,13,+2 Laps,3
+5,23,John Surtees,Surtees,68,7,+2 Laps,2
+6,9,Jo Siffert,BRM,68,8,+2 Laps,1
+7,10,Howden Ganley,BRM,66,9,+4 Laps,0
+8,30,Gijs van Lennep,Surtees,65,21,+5 Laps,0
+9,21,Jean-Pierre Beltoise,Matra,65,11,+5 Laps,0
+10,24,Graham Hill,Brabham,65,16,+5 Laps,0
+11,5,Jackie Stewart,Tyrrell,65,3,+5 Laps,0
+12,26,Denny Hulme,McLaren,63,14,+7 Laps,0
+13,31,Henri Pescarolo,March-Ford,62,15,Not classified,0
+14,22,Skip Barber,March-Ford,60,24,Not classified,0
+15,28,Peter Gethin,McLaren,60,23,Not classified,0
+16,19,Alex Soler-Roig,March-Ford,57,17,Engine,0
+17,25,Tim Schenken,Brabham,39,19,Suspension,0
+18,6,François Cevert,Tyrrell,29,12,Accident,0
+19,29,Rolf Stommelen,Surtees,19,18,Disqualified,0
+20,14,Reine Wisell,Lotus-Ford,17,4,Disqualified,0
+21,4,Mario Andretti,Ferrari,5,16,Fuel pump,0
+22,15,David Walker,Lotus-Pratt &amp; Whitney,5,22,Accident,0
+23,20,Chris Amon,Matra,2,5,Spun off,0

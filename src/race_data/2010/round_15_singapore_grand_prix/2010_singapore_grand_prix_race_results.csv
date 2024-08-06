@@ -1,0 +1,25 @@
+position,number,driver,constructor,laps,grid,status,points
+1,8,Fernando Alonso,Ferrari,61,1,Finished,25
+2,5,Sebastian Vettel,Red Bull,61,2,Finished,18
+3,6,Mark Webber,Red Bull,61,5,Finished,15
+4,1,Jenson Button,McLaren,61,4,Finished,12
+5,4,Nico Rosberg,Mercedes,61,7,Finished,10
+6,9,Rubens Barrichello,Williams,61,6,Finished,8
+7,11,Robert Kubica,Renault,61,8,Finished,6
+8,7,Felipe Massa,Ferrari,61,24,Finished,4
+9,14,Adrian Sutil,Force India,61,15,Finished,2
+10,10,Nico Hülkenberg,Williams,61,17,Finished,1
+11,12,Vitaly Petrov,Renault,60,12,+1 Lap,0
+12,17,Jaime Alguersuari,Toro Rosso,60,11,+1 Lap,0
+13,3,Michael Schumacher,Mercedes,60,9,+1 Lap,0
+14,16,Sébastien Buemi,Toro Rosso,60,13,+1 Lap,0
+15,25,Lucas di Grassi,Virgin,59,20,+2 Laps,0
+16,19,Heikki Kovalainen,Lotus,58,19,Engine,0
+17,24,Timo Glock,Virgin,49,18,Hydraulics,0
+18,22,Nick Heidfeld,Sauber,36,14,Collision,0
+19,2,Lewis Hamilton,McLaren,35,3,Collision,0
+20,20,Christian Klien,HRT,31,22,Hydraulics,0
+21,23,Kamui Kobayashi,Sauber,30,10,Accident,0
+22,21,Bruno Senna,HRT,29,23,Accident,0
+23,18,Jarno Trulli,Lotus,27,21,Hydraulics,0
+24,15,Vitantonio Liuzzi,Force India,1,16,Collision,0

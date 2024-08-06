@@ -1,0 +1,31 @@
+position,number,driver,constructor,laps,grid,status,points
+1,9,Vittorio Brambilla,March,29,8,Finished,4.5
+2,24,James Hunt,Hesketh,29,2,Finished,3
+3,16,Tom Pryce,Shadow-Ford,29,15,Finished,2
+4,2,Jochen Mass,McLaren,29,9,Finished,1.5
+5,5,Ronnie Peterson,Team Lotus,29,13,Finished,1
+6,12,Niki Lauda,Ferrari,29,1,Finished,0.5
+7,11,Clay Regazzoni,Ferrari,29,5,Finished,0
+8,3,Jody Scheckter,Tyrrell,28,10,+1 Lap,0
+9,1,Emerson Fittipaldi,McLaren,28,3,+1 Lap,0
+10,18,John Watson,Surtees,28,18,+1 Lap,0
+11,4,Patrick Depailler,Tyrrell,28,7,+1 Lap,0
+12,31,Chris Amon,Ensign,28,23,+1 Lap,0
+13,25,Brett Lunger,Hesketh,28,17,+1 Lap,0
+14,7,Carlos Reutemann,Brabham,28,11,+1 Lap,0
+15,23,Tony Brise,Embassy Hill,28,16,+1 Lap,0
+16,22,Rolf Stommelen,Embassy Hill,27,25,+2 Laps,0
+17,29,Lella Lombardi,March,26,21,+3 Laps,0
+18,33,Roelof Wunderink,Ensign,25,27,Not classified,0
+19,32,Harald Ertl,Hesketh,23,26,Electrical,0
+20,21,Jacques Laffite,Williams,21,12,Handling,0
+21,8,Carlos Pace,Brabham,17,6,Engine,0
+22,20,Jo Vonlanthen,Williams,14,28,Engine,0
+23,10,Hans-Joachim Stuck,March,10,4,Accident,0
+24,17,Jean-Pierre Jarier,Shadow-Matra,10,14,Injection,0
+25,14,Bob Evans,BRM,2,24,Engine,0
+26,27,Mario Andretti,Parnelli,1,19,Accident,0
+27,28,Mark Donohue,March,0,20,Accident,0
+28,6,Brian Henton,Team Lotus,0,22,Accident,0
+29,35,Tony Trimmer,Maki,0,0,Did not qualify,0
+30,30,Wilson Fittipaldi,Fittipaldi,0,0,Did not qualify,0

@@ -1,0 +1,31 @@
+position,number,driver,constructor,laps,grid,status,points
+1,28,Gerhard Berger,Ferrari,51,3,Finished,9
+2,27,Michele Alboreto,Ferrari,51,4,Finished,6
+3,18,Eddie Cheever,Arrows,51,5,Finished,4
+4,17,Derek Warwick,Arrows,51,6,Finished,3
+5,16,Ivan Capelli,March,51,11,Finished,2
+6,20,Thierry Boutsen,Benetton,51,8,Finished,1
+7,6,Riccardo Patrese,Williams,51,10,Finished,0
+8,15,Maurício Gugelmin,March,51,13,Finished,0
+9,19,Alessandro Nannini,Benetton,50,9,+1 Lap,0
+10,12,Ayrton Senna,McLaren,49,1,Collision,0
+11,5,Jean-Louis Schlesser,Williams,49,22,+2 Laps,0
+12,4,Julian Bailey,Tyrrell,49,26,+2 Laps,0
+13,25,René Arnoux,Ligier,49,24,+2 Laps,0
+14,11,Alain Prost,McLaren,34,2,Engine,0
+15,30,Philippe Alliot,Larrousse,33,20,Engine,0
+16,14,Philippe Streiff,AGS,31,23,Clutch,0
+17,10,Bernd Schneider,Zakspeed,28,15,Engine,0
+18,22,Andrea de Cesaris,Rial,27,18,Chassis,0
+19,9,Piercarlo Ghinzani,Zakspeed,25,16,Engine,0
+20,36,Alex Caffi,Dallara,24,21,Engine,0
+21,29,Yannick Dalmas,Larrousse,17,25,Radiator,0
+22,23,Pierluigi Martini,Minardi,15,14,Engine,0
+23,2,Satoru Nakajima,Team Lotus,14,12,Engine,0
+24,24,Luis Pérez-Sala,Minardi,12,19,Gearbox,0
+25,1,Nelson Piquet,Team Lotus,11,7,Clutch,0
+26,21,Nicola Larini,Osella,2,17,Engine,0
+27,3,Jonathan Palmer,Tyrrell,0,0,Did not qualify,0
+28,26,Stefan Johansson,Ligier,0,0,Did not qualify,0
+29,31,Gabriele Tarquini,Coloni,0,0,Did not qualify,0
+30,33,Stefano Modena,Euro Brun,0,0,Did not qualify,0

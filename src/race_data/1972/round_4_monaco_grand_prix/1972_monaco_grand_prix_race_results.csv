@@ -1,0 +1,26 @@
+position,number,driver,constructor,laps,grid,status,points
+1,17,Jean-Pierre Beltoise,BRM,80,4,Finished,9
+2,6,Jacky Ickx,Ferrari,80,2,Finished,6
+3,8,Emerson Fittipaldi,Team Lotus,79,1,+1 Lap,4
+4,1,Jackie Stewart,Tyrrell,78,8,+2 Laps,3
+5,15,Brian Redman,McLaren,77,10,+3 Laps,2
+6,16,Chris Amon,Matra,77,6,+3 Laps,1
+7,12,Andrea de Adamich,Surtees,77,18,+3 Laps,0
+8,26,Helmut Marko,BRM,77,17,+3 Laps,0
+9,21,Wilson Fittipaldi,Brabham,77,21,+3 Laps,0
+10,27,Rolf Stommelen,March,77,25,+3 Laps,0
+11,3,Ronnie Peterson,March,76,15,+4 Laps,0
+12,20,Graham Hill,Brabham,76,20,+4 Laps,0
+13,5,Mike Beuttler,March,76,23,+4 Laps,0
+14,9,David Walker,Team Lotus,75,14,+5 Laps,0
+15,14,Denny Hulme,McLaren,74,7,+6 Laps,0
+16,4,Niki Lauda,March,74,22,+6 Laps,0
+17,23,Carlos Pace,March,72,24,+8 Laps,0
+18,2,François Cevert,Tyrrell,70,12,Not classified,0
+19,22,Henri Pescarolo,March,58,9,Accident,0
+20,7,Clay Regazzoni,Ferrari,51,3,Accident,0
+21,11,Mike Hailwood,Surtees,48,11,Accident,0
+22,19,Howden Ganley,BRM,47,20,Accident,0
+23,10,Tim Schenken,Surtees,31,13,Accident,0
+24,18,Peter Gethin,BRM,27,5,Accident,0
+25,28,Reine Wisell,BRM,16,16,Engine,0

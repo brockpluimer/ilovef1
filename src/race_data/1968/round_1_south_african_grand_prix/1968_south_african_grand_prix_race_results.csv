@@ -1,0 +1,24 @@
+position,number,driver,constructor,laps,grid,status,points
+1,4,Jim Clark,Lotus-Ford,80,1,Finished,9
+2,5,Graham Hill,Lotus-Ford,80,2,Finished,6
+3,3,Jochen Rindt,Brabham-Repco,80,4,Finished,4
+4,8,Chris Amon,Ferrari,78,8,+2 Laps,3
+5,1,Denny Hulme,McLaren-BRM,78,9,+2 Laps,2
+6,21,Jean-Pierre Beltoise,Matra-Ford,77,18,+3 Laps,1
+7,19,Jo Siffert,Cooper-Maserati,77,16,+3 Laps,0
+8,7,John Surtees,Honda,75,6,+5 Laps,0
+9,17,John Love,Brabham-Repco,75,17,+5 Laps,0
+10,23,Jackie Pretorius,Brabham-Climax,71,23,Not classified,0
+11,6,Dan Gurney,Eagle-Weslake,58,12,Oil leak,0
+12,9,Jacky Ickx,Ferrari,51,11,Oil leak,0
+13,20,Jo Bonnier,Cooper-Maserati,46,19,Overheating,0
+14,16,Jackie Stewart,Matra-Ford,43,3,Engine,0
+15,18,Sam Tingle,LDS,35,22,Overheating,0
+16,25,Basil van Rooyen,Cooper-Climax,22,20,Engine,0
+17,11,Pedro Rodríguez,BRM,20,10,Fuel system,0
+18,2,Jack Brabham,Brabham-Repco,16,5,Engine,0
+19,10,Andrea de Adamich,Ferrari,13,7,Accident,0
+20,12,Mike Spence,BRM,7,14,Fuel system,0
+21,14,Brian Redman,Cooper-Maserati,4,21,Oil leak,0
+22,22,Dave Charlton,Brabham-Repco,3,14,Differential,0
+23,15,Ludovico Scarfiotti,Cooper-BRM,2,15,Water pipe,0

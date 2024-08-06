@@ -1,0 +1,29 @@
+position,number,driver,constructor,laps,grid,status,points
+1,5,Nelson Piquet,Brabham,60,5,Finished,9
+2,27,Alan Jones,Williams,60,6,Finished,6
+3,28,Carlos Reutemann,Williams,60,3,Finished,4
+4,12,Elio de Angelis,Team Lotus,59,18,+1 Lap,3
+5,21,Keke Rosberg,Fittipaldi,59,11,+1 Lap,2
+6,25,Didier Pironi,Ligier,59,13,+1 Lap,1
+7,8,Alain Prost,McLaren,59,24,+1 Lap,0
+8,1,Jody Scheckter,Ferrari,59,16,+1 Lap,0
+9,26,Jacques Laffite,Ligier,59,20,+1 Lap,0
+10,16,René Arnoux,Renault,58,1,+2 Laps,0
+11,50,Rupert Keegan,Williams,58,21,+2 Laps,0
+12,31,Eddie Cheever,Osella,57,17,+3 Laps,0
+13,3,Jean-Pierre Jarier,Tyrrell,54,12,Brakes,0
+14,15,Jean-Pierre Jabouille,Renault,53,2,Gearbox,0
+15,9,Marc Surer,ATS,45,23,Engine,0
+16,11,Mario Andretti,Team Lotus,40,10,Engine,0
+17,29,Riccardo Patrese,Arrows,38,7,Engine,0
+18,4,Derek Daly,Tyrrell,33,22,Accident,0
+19,7,John Watson,McLaren,20,14,Wheel bearing,0
+20,6,Hector Rebaque,Brabham,18,9,Suspension,0
+21,20,Emerson Fittipaldi,Fittipaldi,17,15,Accident,0
+22,2,Gilles Villeneuve,Ferrari,5,8,Puncture,0
+23,23,Bruno Giacomelli,Alfa Romeo,5,4,Puncture,0
+24,22,Vittorio Brambilla,Alfa Romeo,4,19,Spun off,0
+25,43,Nigel Mansell,Team Lotus,0,0,Did not qualify,0
+26,30,Manfred Winkelhock,Arrows,0,0,Did not qualify,0
+27,14,Jan Lammers,Ensign,0,0,Did not qualify,0
+28,41,Geoff Lees,Ensign,0,0,Did not qualify,0

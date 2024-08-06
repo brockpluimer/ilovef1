@@ -1,0 +1,26 @@
+position,number,driver,constructor,laps,grid,status,points
+1,3,Jackie Stewart,Tyrrell,79,16,Finished,9
+2,6,Peter Revson,McLaren,79,6,Finished,6
+3,1,Emerson Fittipaldi,Team Lotus,79,2,Finished,4
+4,9,Arturo Merzario,Ferrari,78,15,+1 Lap,3
+5,5,Denny Hulme,McLaren,77,1,+2 Laps,2
+6,23,George Follmer,Shadow,77,21,+2 Laps,1
+7,18,Carlos Reutemann,Brabham,77,8,+2 Laps,0
+8,12,Andrea de Adamich,Surtees,77,20,+2 Laps,0
+9,7,Jody Scheckter,McLaren,75,3,Engine,0
+10,21,Howden Ganley,Iso Marlboro,73,19,+6 Laps,0
+11,2,Ronnie Peterson,Team Lotus,73,4,+6 Laps,0
+12,11,Carlos Pace,Surtees,69,9,Accident,0
+13,26,Eddie Keizan,Tyrrell,67,22,Not classified,0
+14,14,Jean-Pierre Jarier,March,66,18,Not classified,0
+15,4,François Cevert,Tyrrell,66,25,Not classified,0
+16,24,Mike Beuttler,March,65,23,Not classified,0
+17,19,Wilson Fittipaldi,Brabham,52,17,Gearbox,0
+18,20,Jackie Pretorius,Iso Marlboro,35,24,Overheating,0
+19,17,Niki Lauda,BRM,26,10,Engine,0
+20,22,Jackie Oliver,Shadow,14,14,Engine,0
+21,16,Jean-Pierre Beltoise,BRM,4,7,Clutch,0
+22,25,Dave Charlton,Team Lotus,3,13,Accident,0
+23,15,Clay Regazzoni,BRM,2,5,Accident,0
+24,8,Jacky Ickx,Ferrari,2,11,Accident,0
+25,10,Mike Hailwood,Surtees,2,12,Accident,0

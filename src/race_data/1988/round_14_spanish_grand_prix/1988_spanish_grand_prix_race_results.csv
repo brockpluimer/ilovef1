@@ -1,0 +1,31 @@
+position,number,driver,constructor,laps,grid,status,points
+1,11,Alain Prost,McLaren,72,2,Finished,9
+2,5,Nigel Mansell,Williams,72,3,Finished,6
+3,19,Alessandro Nannini,Benetton,72,5,Finished,4
+4,12,Ayrton Senna,McLaren,72,1,Finished,3
+5,6,Riccardo Patrese,Williams,72,7,Finished,2
+6,28,Gerhard Berger,Ferrari,72,8,Finished,1
+7,15,Maurício Gugelmin,March,72,11,Finished,0
+8,1,Nelson Piquet,Team Lotus,72,9,Finished,0
+9,20,Thierry Boutsen,Benetton,72,4,Finished,0
+10,36,Alex Caffi,Dallara,71,18,+1 Lap,0
+11,29,Yannick Dalmas,Larrousse,71,16,+1 Lap,0
+12,24,Luis Pérez-Sala,Minardi,70,24,+2 Laps,0
+13,33,Stefano Modena,Euro Brun,70,26,+2 Laps,0
+14,30,Philippe Alliot,Larrousse,69,12,+3 Laps,0
+15,26,Stefan Johansson,Ligier,62,21,Wheel,0
+16,18,Eddie Cheever,Arrows,60,25,Chassis,0
+17,16,Ivan Capelli,March,45,6,Engine,0
+18,17,Derek Warwick,Arrows,41,17,Chassis,0
+19,22,Andrea de Cesaris,Rial,37,23,Engine,0
+20,14,Philippe Streiff,AGS,16,13,Engine,0
+21,27,Michele Alboreto,Ferrari,15,10,Engine,0
+22,23,Pierluigi Martini,Minardi,15,20,Gearbox,0
+23,2,Satoru Nakajima,Team Lotus,14,15,Spun off,0
+24,21,Nicola Larini,Osella,9,14,Suspension,0
+25,3,Jonathan Palmer,Tyrrell,4,22,Chassis,0
+26,25,René Arnoux,Ligier,0,19,Throttle,0
+27,10,Bernd Schneider,Zakspeed,0,0,Did not qualify,0
+28,32,Oscar Larrauri,Euro Brun,0,0,Did not qualify,0
+29,4,Julian Bailey,Tyrrell,0,0,Did not qualify,0
+30,9,Piercarlo Ghinzani,Zakspeed,0,0,Did not qualify,0

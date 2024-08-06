@@ -1,0 +1,25 @@
+position,number,driver,constructor,laps,grid,status,points
+1,1,Juan Fangio,Maserati,22,1,Finished,9
+2,8,Mike Hawthorn,Ferrari,22,2,Finished,6
+3,7,Peter Collins,Ferrari,22,4,Finished,4
+4,6,Luigi Musso,Ferrari,22,8,Finished,3
+5,10,Stirling Moss,Vanwall,22,7,Finished,2
+6,2,Jean Behra,Maserati,22,3,Finished,0
+7,3,Harry Schell,Maserati,22,6,Finished,0
+8,16,Masten Gregory,Maserati,21,10,+1 Lap,0
+9,11,Tony Brooks,Vanwall,21,5,+1 Lap,0
+10,4,Giorgio Scarlatti,Maserati,21,13,+1 Lap,0
+11,15,Bruce Halford,Maserati,21,16,+1 Lap,0
+12,21,Edgar Barth,Porsche,21,12,+1 Lap,0
+13,28,Brian Naylor,Cooper,20,17,+2 Laps,0
+14,27,Carel Godin de Beaufort,Porsche,20,20,+2 Laps,0
+15,25,Tony Marsh,Cooper,17,22,+5 Laps,0
+16,17,Hans Herrmann,Maserati,14,11,Chassis,0
+17,20,Umberto Maglioli,Porsche,13,15,Engine,0
+18,23,Roy Salvadori,Cooper,11,14,Suspension,0
+19,18,Paco Godia,Maserati,11,21,Steering,0
+20,12,Stuart Lewis-Evans,Vanwall,10,9,Gearbox,0
+21,24,Jack Brabham,Cooper,6,18,Transmission,0
+22,26,Paul England,Cooper,4,23,Distributor,0
+23,29,Dick Gibson,Cooper,3,24,Steering,0
+24,19,Horace Gould,Maserati,2,19,Axle,0

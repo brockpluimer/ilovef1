@@ -1,0 +1,26 @@
+position,number,driver,constructor,laps,grid,status,points
+1,6,Nelson Piquet,Williams,61,2,Finished,9
+2,12,Ayrton Senna,Team Lotus,61,1,Finished,6
+3,26,Jacques Laffite,Ligier,61,5,Finished,4
+4,25,René Arnoux,Ligier,61,4,Finished,3
+5,3,Martin Brundle,Tyrrell,60,17,+1 Lap,2
+6,20,Gerhard Berger,Benetton,59,16,+2 Laps,1
+7,4,Philippe Streiff,Tyrrell,59,18,+2 Laps,0
+8,8,Elio de Angelis,Brabham,58,14,+3 Laps,0
+9,11,Johnny Dumfries,Team Lotus,58,11,+3 Laps,0
+10,19,Teo Fabi,Benetton,56,12,+5 Laps,0
+11,18,Thierry Boutsen,Arrows,37,15,Exhaust,0
+12,27,Michele Alboreto,Ferrari,35,6,Fuel system,0
+13,1,Alain Prost,McLaren,30,9,Engine,0
+14,22,Christian Danner,Osella,29,24,Engine,0
+15,28,Stefan Johansson,Ferrari,26,8,Brakes,0
+16,16,Patrick Tambay,Lola,24,13,Battery,0
+17,7,Riccardo Patrese,Brabham,21,10,Water leak,0
+18,14,Jonathan Palmer,Zakspeed,20,21,Engine,0
+19,17,Marc Surer,Arrows,19,20,Engine,0
+20,24,Alessandro Nannini,Minardi,18,25,Clutch,0
+21,23,Andrea de Cesaris,Minardi,16,22,Turbo,0
+22,21,Piercarlo Ghinzani,Osella,16,23,Engine,0
+23,2,Keke Rosberg,McLaren,6,7,Engine,0
+24,15,Alan Jones,Lola,5,19,Injection,0
+25,5,Nigel Mansell,Williams,0,3,Spun off,0

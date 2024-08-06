@@ -1,0 +1,24 @@
+position,number,driver,constructor,laps,grid,status,points
+1,5,Jim Clark,Lotus-Climax,80,1,Finished,9
+2,3,Graham Hill,BRM,80,2,Finished,6
+3,1,John Surtees,Ferrari,80,5,Finished,4
+4,6,Mike Spence,Lotus-Climax,80,6,Finished,3
+5,4,Jackie Stewart,BRM,80,4,Finished,2
+6,7,Dan Gurney,Brabham-Climax,79,7,+1 Lap,1
+7,15,Jo Bonnier,Brabham-Climax,79,14,+1 Lap,0
+8,17,Frank Gardner,Brabham-BRM,78,13,+2 Laps,0
+9,16,Jo Siffert,Brabham-BRM,78,18,+2 Laps,0
+10,9,Bruce McLaren,Cooper-Climax,77,11,+3 Laps,0
+11,24,Ian Raby,Brabham-BRM,73,20,+7 Laps,0
+12,12,Masten Gregory,BRM,70,19,+10 Laps,0
+13,22,Richard Attwood,Lotus-BRM,63,16,+17 Laps,0
+14,10,Jochen Rindt,Cooper-Climax,62,12,Engine,0
+15,23,Innes Ireland,Lotus-BRM,41,15,Engine,0
+16,20,John Rhodes,Cooper-Climax,38,21,Ignition,0
+17,18,Bob Anderson,Brabham-Climax,33,17,Gearbox,0
+18,14,Denny Hulme,Brabham-Climax,29,10,Alternator,0
+19,11,Richie Ginther,Honda,26,3,Injection,0
+20,2,Lorenzo Bandini,Ferrari,2,9,Engine,0
+21,8,Jack Brabham,Brabham-Climax,0,8,Withdrew,0
+22,25,Alan Rollinson,Cooper-Ford,0,0,Did not qualify,0
+23,26,Brian Gubby,Lotus-Climax,0,0,Did not qualify,0

@@ -1,0 +1,23 @@
+position,number,driver,constructor,laps,grid,status,points
+1,6,Nico Rosberg,Mercedes,53,2,Finished,25
+2,44,Lewis Hamilton,Mercedes,53,1,Finished,18
+3,5,Sebastian Vettel,Ferrari,53,3,Finished,15
+4,7,Kimi Räikkönen,Ferrari,53,4,Finished,12
+5,3,Daniel Ricciardo,Red Bull,53,6,Finished,10
+6,77,Valtteri Bottas,Williams,53,5,Finished,8
+7,33,Max Verstappen,Red Bull,53,7,Finished,6
+8,11,Sergio Pérez,Force India,53,8,Finished,4
+9,19,Felipe Massa,Williams,53,11,Finished,2
+10,27,Nico Hülkenberg,Force India,53,9,Finished,1
+11,8,Romain Grosjean,Haas F1 Team,52,17,+1 Lap,0
+12,22,Jenson Button,McLaren,52,14,+1 Lap,0
+13,21,Esteban Gutiérrez,Haas F1 Team,52,10,+1 Lap,0
+14,14,Fernando Alonso,McLaren,52,12,+1 Lap,0
+15,55,Carlos Sainz,Toro Rosso,52,15,+1 Lap,0
+16,9,Marcus Ericsson,Sauber,52,19,+1 Lap,0
+17,20,Kevin Magnussen,Renault,52,21,+1 Lap,0
+18,31,Esteban Ocon,Manor Marussia,51,22,+2 Laps,0
+19,26,Daniil Kvyat,Toro Rosso,36,16,Battery,0
+20,94,Pascal Wehrlein,Manor Marussia,26,13,Oil leak,0
+21,30,Jolyon Palmer,Renault,7,20,Collision damage,0
+22,12,Felipe Nasr,Sauber,6,18,Collision damage,0

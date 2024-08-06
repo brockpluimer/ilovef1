@@ -1,0 +1,27 @@
+position,number,driver,constructor,laps,grid,status,points
+1,12,Ayrton Senna,Team Lotus,78,2,Finished,9
+2,6,Nelson Piquet,Williams,78,3,Finished,6
+3,27,Michele Alboreto,Ferrari,78,5,Finished,4
+4,28,Gerhard Berger,Ferrari,77,8,+1 Lap,3
+5,3,Jonathan Palmer,Tyrrell,76,15,+2 Laps,2
+6,16,Ivan Capelli,March,76,19,+2 Laps,1
+7,9,Martin Brundle,Zakspeed,76,14,+2 Laps,0
+8,19,Teo Fabi,Benetton,76,12,+2 Laps,0
+9,1,Alain Prost,McLaren,75,4,Engine,0
+10,11,Satoru Nakajima,Team Lotus,75,17,+3 Laps,0
+11,25,René Arnoux,Ligier,74,22,+4 Laps,0
+12,26,Piercarlo Ghinzani,Ligier,74,20,+4 Laps,0
+13,14,Pascal Fabre,AGS,71,24,+7 Laps,0
+14,18,Eddie Cheever,Arrows,59,6,Overheating,0
+15,17,Derek Warwick,Arrows,58,11,Gearbox,0
+16,2,Stefan Johansson,McLaren,57,7,Engine,0
+17,30,Philippe Alliot,Larrousse,42,18,Engine,0
+18,7,Riccardo Patrese,Brabham,41,10,Electrical,0
+19,21,Alex Caffi,Osella,39,16,Electrical,0
+20,8,Andrea de Cesaris,Brabham,38,21,Suspension,0
+21,5,Nigel Mansell,Williams,29,1,Turbo,0
+22,24,Alessandro Nannini,Minardi,21,13,Electrical,0
+23,4,Philippe Streiff,Tyrrell,9,23,Accident,0
+24,20,Thierry Boutsen,Benetton,5,9,Transmission,0
+25,23,Adrián Campos,Minardi,0,0,Withdrew,0
+26,10,Christian Danner,Zakspeed,0,0,Excluded,0

@@ -1,0 +1,30 @@
+position,number,driver,constructor,laps,grid,status,points
+1,5,Mario Andretti,Team Lotus,54,2,Finished,9
+2,6,Ronnie Peterson,Team Lotus,54,5,Finished,6
+3,7,James Hunt,McLaren,54,4,Finished,4
+4,2,John Watson,Brabham,54,1,Finished,3
+5,27,Alan Jones,Williams,54,14,Finished,2
+6,20,Jody Scheckter,Wolf,54,7,Finished,1
+7,26,Jacques Laffite,Ligier,54,10,Finished,0
+8,35,Riccardo Patrese,Arrows,54,12,Finished,0
+9,8,Patrick Tambay,McLaren,54,6,Finished,0
+10,3,Didier Pironi,Tyrrell,54,16,Finished,0
+11,16,Hans-Joachim Stuck,Shadow,53,20,+1 Lap,0
+12,12,Gilles Villeneuve,Ferrari,53,9,+1 Lap,0
+13,9,Jochen Mass,ATS,53,25,+1 Lap,0
+14,31,René Arnoux,Martini,53,18,+1 Lap,0
+15,36,Rolf Stommelen,Arrows,53,21,+1 Lap,0
+16,10,Keke Rosberg,ATS,52,26,+2 Laps,0
+17,19,Vittorio Brambilla,Surtees,52,19,+2 Laps,0
+18,11,Carlos Reutemann,Ferrari,49,8,+5 Laps,0
+19,30,Brett Lunger,McLaren,45,24,Engine,0
+20,14,Emerson Fittipaldi,Fittipaldi,43,15,Suspension,0
+21,18,Rupert Keegan,Surtees,40,23,Engine,0
+22,33,Bruno Giacomelli,McLaren,28,22,Engine,0
+23,1,Niki Lauda,Brabham,10,3,Engine,0
+24,4,Patrick Depailler,Tyrrell,10,13,Engine,0
+25,17,Clay Regazzoni,Shadow,4,17,Electrical,0
+26,15,Jean-Pierre Jabouille,Renault,1,11,Engine,0
+27,37,Arturo Merzario,Merzario,0,0,Did not qualify,0
+28,22,Derek Daly,Ensign,0,0,Did not qualify,0
+29,25,Hector Rebaque,Team Lotus,0,0,Did not qualify,0

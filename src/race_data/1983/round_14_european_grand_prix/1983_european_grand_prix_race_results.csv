@@ -1,0 +1,30 @@
+position,number,driver,constructor,laps,grid,status,points
+1,5,Nelson Piquet,Brabham,76,4,Finished,9
+2,15,Alain Prost,Renault,76,8,Finished,6
+3,12,Nigel Mansell,Team Lotus,76,3,Finished,4
+4,22,Andrea de Cesaris,Alfa Romeo,76,14,Finished,3
+5,35,Derek Warwick,Toleman,76,11,Finished,2
+6,36,Bruno Giacomelli,Toleman,76,12,Finished,1
+7,6,Riccardo Patrese,Brabham,76,2,Finished,0
+8,9,Manfred Winkelhock,ATS,75,9,+1 Lap,0
+9,28,René Arnoux,Ferrari,75,5,+1 Lap,0
+10,16,Eddie Cheever,Renault,75,7,+1 Lap,0
+11,30,Thierry Boutsen,Arrows,75,18,+1 Lap,0
+12,33,Roberto Guerrero,Theodore,75,21,+1 Lap,0
+13,42,Jonathan Palmer,Williams,74,25,+2 Laps,0
+14,40,Stefan Johansson,Spirit,74,19,+2 Laps,0
+15,26,Raul Boesel,Ligier,73,23,+3 Laps,0
+16,27,Patrick Tambay,Ferrari,67,6,Spun off,0
+17,3,Michele Alboreto,Tyrrell,64,26,Engine,0
+18,32,Piercarlo Ghinzani,Osella,63,24,Throttle,0
+19,29,Marc Surer,Arrows,50,17,Engine,0
+20,1,Keke Rosberg,Williams,43,16,Engine,0
+21,23,Mauro Baldi,Alfa Romeo,39,15,Clutch,0
+22,7,John Watson,McLaren,36,10,Spun off,0
+23,4,Danny Sullivan,Tyrrell,27,20,Oil leak,0
+24,8,Niki Lauda,McLaren,25,13,Engine,0
+25,11,Elio de Angelis,Team Lotus,12,1,Oil pump,0
+26,25,Jean-Pierre Jarier,Ligier,0,22,Clutch,0
+27,17,Kenny Acheson,RAM,0,0,Did not qualify,0
+28,31,Corrado Fabi,Osella,0,0,Did not qualify,0
+29,2,Jacques Laffite,Williams,0,0,Did not qualify,0

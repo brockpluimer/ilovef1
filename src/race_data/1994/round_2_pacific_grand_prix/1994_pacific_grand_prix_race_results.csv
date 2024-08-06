@@ -1,0 +1,29 @@
+position,number,driver,constructor,laps,grid,status,points
+1,5,Michael Schumacher,Benetton,83,2,Finished,10
+2,28,Gerhard Berger,Ferrari,83,5,Finished,6
+3,14,Rubens Barrichello,Jordan,82,8,+1 Lap,4
+4,9,Christian Fittipaldi,Footwork,82,9,+1 Lap,3
+5,30,Heinz-Harald Frentzen,Sauber,82,11,+1 Lap,2
+6,20,Érik Comas,Larrousse,80,16,+3 Laps,1
+7,12,Johnny Herbert,Team Lotus,80,23,+3 Laps,0
+8,11,Pedro Lamy,Team Lotus,79,24,+4 Laps,0
+9,26,Olivier Panis,Ligier,78,22,+5 Laps,0
+10,25,Éric Bernard,Ligier,78,18,+5 Laps,0
+11,32,Roland Ratzenberger,Simtek,78,26,+5 Laps,0
+12,10,Gianni Morbidelli,Footwork,69,13,Engine,0
+13,29,Karl Wendlinger,Sauber,69,19,Collision,0
+14,24,Michele Alboreto,Minardi,69,15,Collision,0
+15,8,Martin Brundle,McLaren,67,6,Overheating,0
+16,23,Pierluigi Martini,Minardi,63,17,Spun off,0
+17,6,Jos Verstappen,Benetton,54,10,Spun off,0
+18,0,Damon Hill,Williams,49,3,Transmission,0
+19,15,Aguri Suzuki,Jordan,44,20,Steering,0
+20,3,Ukyo Katayama,Tyrrell,42,14,Engine,0
+21,7,Mika Häkkinen,McLaren,19,4,Gearbox,0
+22,19,Olivier Beretta,Larrousse,14,21,Electrical,0
+23,31,David Brabham,Simtek,2,25,Electrical,0
+24,2,Ayrton Senna,Williams,0,1,Collision,0
+25,27,Nicola Larini,Ferrari,0,7,Collision,0
+26,4,Mark Blundell,Tyrrell,0,12,Collision,0
+27,34,Bertrand Gachot,Pacific,0,0,Did not qualify,0
+28,33,Paul Belmondo,Pacific,0,0,Did not qualify,0

@@ -1,0 +1,24 @@
+position,number,driver,constructor,laps,grid,status,points
+1,2,Ronnie Peterson,Team Lotus,54,2,Finished,9
+2,5,Jackie Stewart,Tyrrell,54,7,Finished,6
+3,24,Carlos Pace,Surtees,54,8,Finished,4
+4,10,Carlos Reutemann,Brabham,54,5,Finished,3
+5,20,Jean-Pierre Beltoise,BRM,54,13,Finished,2
+6,19,Clay Regazzoni,BRM,54,14,Finished,1
+7,4,Arturo Merzario,Ferrari,53,6,+1 Lap,0
+8,7,Denny Hulme,McLaren,53,3,+1 Lap,0
+9,26,Gijs van Lennep,Iso Marlboro,52,23,+2 Laps,0
+10,23,Mike Hailwood,Surtees,49,15,+5 Laps,0
+11,1,Emerson Fittipaldi,Team Lotus,48,1,Fuel system,0
+12,25,Howden Ganley,Iso Marlboro,44,21,Not classified,0
+13,18,Jean-Pierre Jarier,March,37,12,Engine,0
+14,28,Rikky von Opel,Ensign,34,19,Fuel system,0
+15,11,Wilson Fittipaldi,Brabham,31,16,Fuel system,0
+16,12,Graham Hill,Shadow,28,22,Suspension,0
+17,16,George Follmer,Shadow,23,20,Differential,0
+18,9,Rolf Stommelen,Brabham,21,17,Wheel,0
+19,17,Jackie Oliver,Shadow,9,18,Fuel system,0
+20,6,François Cevert,Tyrrell,6,10,Suspension,0
+21,27,James Hunt,March,3,9,Injection,0
+22,8,Peter Revson,McLaren,0,4,Clutch,0
+23,15,Mike Beuttler,March,0,11,Collision,0

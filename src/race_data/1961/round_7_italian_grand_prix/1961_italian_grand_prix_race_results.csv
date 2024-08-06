@@ -1,0 +1,31 @@
+position,number,driver,constructor,laps,grid,status,points
+1,2,Phil Hill,Ferrari,43,4,Finished,9
+2,46,Dan Gurney,Porsche,43,12,Finished,6
+3,12,Bruce McLaren,Cooper-Climax,43,14,Finished,4
+4,60,Jackie Lewis,Cooper-Climax,43,16,Finished,3
+5,26,Tony Brooks,BRM,43,13,Finished,2
+6,40,Roy Salvadori,Cooper-Climax,42,18,+1 Lap,1
+7,74,Carel Godin de Beaufort,Porsche,41,15,+2 Laps,0
+8,62,Lorenzo Bandini,Cooper-Maserati,41,21,+2 Laps,0
+9,48,Maurice Trintignant,Cooper-Maserati,41,22,+2 Laps,0
+10,16,Tim Parnell,Lotus-Climax,40,27,+3 Laps,0
+11,20,Henry Taylor,Lotus-Climax,39,23,+4 Laps,0
+12,58,Renato Pirocchi,Cooper-Maserati,38,29,+5 Laps,0
+13,28,Stirling Moss,Lotus-Climax,36,11,Wheel bearing,0
+14,6,Richie Ginther,Ferrari,23,3,Engine,0
+15,72,Gaetano Starrabba,Lotus-Maserati,19,30,Engine,0
+16,44,Jo Bonnier,Porsche,14,8,Suspension,0
+17,8,Ricardo Rodríguez,Ferrari,13,2,Fuel system,0
+18,32,Giancarlo Baghetti,Ferrari,13,6,Engine,0
+19,50,Nino Vaccarella,De Tomaso-Alfa Romeo,13,20,Engine,0
+20,22,Masten Gregory,Lotus-Climax,11,17,Suspension,0
+21,24,Graham Hill,BRM,10,5,Engine,0
+22,10,Jack Brabham,Cooper-Climax,8,10,Overheating,0
+23,14,Brian Naylor,JBW,6,31,Engine,0
+24,38,Innes Ireland,Lotus-Climax,5,9,Chassis,0
+25,30,Jack Fairman,Cooper-Climax,5,26,Engine,0
+26,42,John Surtees,Cooper-Climax,2,19,Accident,0
+27,4,Wolfgang von Trips,Ferrari,1,1,Accident,0
+28,36,Jim Clark,Lotus-Climax,1,7,Accident,0
+29,54,Roberto Bussinello,De Tomaso-Alfa Romeo,1,24,Engine,0
+30,56,Wolfgang Seidel,Lotus-Climax,1,28,Engine,0

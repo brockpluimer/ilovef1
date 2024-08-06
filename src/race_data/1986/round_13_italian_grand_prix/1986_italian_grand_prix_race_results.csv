@@ -1,0 +1,28 @@
+position,number,driver,constructor,laps,grid,status,points
+1,6,Nelson Piquet,Williams,51,6,Finished,9
+2,5,Nigel Mansell,Williams,51,3,Finished,6
+3,28,Stefan Johansson,Ferrari,51,12,Finished,4
+4,2,Keke Rosberg,McLaren,51,8,Finished,3
+5,20,Gerhard Berger,Benetton,50,4,+1 Lap,2
+6,15,Alan Jones,Lola,49,18,+2 Laps,1
+7,18,Thierry Boutsen,Arrows,49,13,+2 Laps,0
+8,17,Christian Danner,Arrows,49,16,+2 Laps,0
+9,4,Philippe Streiff,Tyrrell,49,23,+2 Laps,0
+10,3,Martin Brundle,Tyrrell,49,20,+2 Laps,0
+11,22,Alex Caffi,Osella,45,27,Not classified,0
+12,19,Teo Fabi,Benetton,44,1,Puncture,0
+13,27,Michele Alboreto,Ferrari,33,9,Engine,0
+14,23,Andrea de Cesaris,Minardi,33,21,Engine,0
+15,31,Ivan Capelli,AGS,31,25,Puncture,0
+16,25,René Arnoux,Ligier,30,11,Gearbox,0
+17,14,Jonathan Palmer,Zakspeed,27,22,Engine,0
+18,1,Alain Prost,McLaren,27,2,Disqualified,0
+19,26,Philippe Alliot,Ligier,22,14,Engine,0
+20,11,Johnny Dumfries,Team Lotus,18,17,Gearbox,0
+21,8,Derek Warwick,Brabham,16,7,Spun off,0
+22,24,Alessandro Nannini,Minardi,15,19,Electrical,0
+23,21,Piercarlo Ghinzani,Osella,12,26,Suspension,0
+24,16,Patrick Tambay,Lola,2,15,Accident,0
+25,7,Riccardo Patrese,Brabham,2,10,Accident,0
+26,29,Huub Rothengatter,Zakspeed,1,24,Engine,0
+27,12,Ayrton Senna,Team Lotus,0,5,Transmission,0

@@ -1,0 +1,21 @@
+position,number,driver,constructor,laps,grid,status,points
+1,22,Jenson Button,Brawn,78,1,Finished,10
+2,23,Rubens Barrichello,Brawn,78,3,Finished,8
+3,4,Kimi Räikkönen,Ferrari,78,2,Finished,6
+4,3,Felipe Massa,Ferrari,78,5,Finished,5
+5,14,Mark Webber,Red Bull,78,8,Finished,4
+6,16,Nico Rosberg,Williams,78,6,Finished,3
+7,7,Fernando Alonso,Renault,78,9,Finished,2
+8,11,Sébastien Bourdais,Toro Rosso,78,14,Finished,1
+9,21,Giancarlo Fisichella,Force India,78,13,Finished,0
+10,10,Timo Glock,Toyota,77,20,+1 Lap,0
+11,6,Nick Heidfeld,BMW Sauber,77,16,+1 Lap,0
+12,1,Lewis Hamilton,McLaren,77,19,+1 Lap,0
+13,9,Jarno Trulli,Toyota,77,18,+1 Lap,0
+14,20,Adrian Sutil,Force India,77,15,+1 Lap,0
+15,17,Kazuki Nakajima,Williams,76,10,Accident,0
+16,2,Heikki Kovalainen,McLaren,51,7,Accident,0
+17,5,Robert Kubica,BMW Sauber,28,17,Brakes,0
+18,15,Sebastian Vettel,Red Bull,15,4,Accident,0
+19,8,Nelson Piquet Jr.,Renault,10,12,Collision,0
+20,12,Sébastien Buemi,Toro Rosso,10,11,Collision,0

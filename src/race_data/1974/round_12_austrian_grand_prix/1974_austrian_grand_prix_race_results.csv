@@ -1,0 +1,31 @@
+position,number,driver,constructor,laps,grid,status,points
+1,7,Carlos Reutemann,Brabham,54,2,Finished,9
+2,6,Denny Hulme,McLaren,54,10,Finished,6
+3,24,James Hunt,Hesketh,54,7,Finished,4
+4,28,John Watson,Brabham,54,11,Finished,3
+5,11,Clay Regazzoni,Ferrari,54,8,Finished,2
+6,10,Vittorio Brambilla,March,54,20,Finished,1
+7,33,David Hobbs,McLaren,53,17,+1 Lap,0
+8,17,Jean-Pierre Jarier,Shadow,52,23,+2 Laps,0
+9,30,Dieter Quester,Surtees,51,25,+3 Laps,0
+10,23,Tim Schenken,Trojan,50,19,+4 Laps,0
+11,9,Hans-Joachim Stuck,March,48,15,Suspension,0
+12,26,Graham Hill,Lola,48,21,+6 Laps,0
+13,35,Ian Ashley,Token,46,24,Not classified,0
+14,1,Ronnie Peterson,Team Lotus,45,6,Halfshaft,0
+15,2,Jacky Ickx,Team Lotus,43,22,Collision,0
+16,4,Patrick Depailler,Tyrrell,42,14,Collision,0
+17,8,Carlos Pace,Brabham,41,4,Fuel leak,0
+18,5,Emerson Fittipaldi,McLaren,37,3,Engine,0
+19,21,Jacques Laffite,Iso Marlboro,37,12,Not classified,0
+20,20,Arturo Merzario,Iso Marlboro,24,9,Fuel system,0
+21,16,Tom Pryce,Shadow,22,16,Spun off,0
+22,14,Jean-Pierre Beltoise,BRM,22,18,Engine,0
+23,12,Niki Lauda,Ferrari,17,1,Engine,0
+24,27,Rolf Stommelen,Lola,14,13,Accident,0
+25,3,Jody Scheckter,Tyrrell,8,5,Engine,0
+26,31,Ian Scheckter,Hesketh,0,0,Did not qualify,0
+27,43,Leo Kinnunen,Surtees,0,0,Did not qualify,0
+28,18,Derek Bell,Surtees,0,0,Did not qualify,0
+29,22,Mike Wilds,Ensign,0,0,Did not qualify,0
+30,19,Jean-Pierre Jabouille,Surtees,0,0,Did not qualify,0

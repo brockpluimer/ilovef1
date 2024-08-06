@@ -1,0 +1,22 @@
+position,number,driver,constructor,laps,grid,status,points
+1,5,Jim Clark,Lotus-Ford,80,1,Finished,9
+2,2,Denny Hulme,Brabham-Repco,80,4,Finished,6
+3,8,Chris Amon,Ferrari,80,6,Finished,4
+4,1,Jack Brabham,Brabham-Repco,80,3,Finished,3
+5,12,Pedro Rodríguez,Cooper-Maserati,79,9,+1 Lap,2
+6,7,John Surtees,Honda,78,7,+2 Laps,1
+7,15,Chris Irwin,BRM,77,13,+3 Laps,0
+8,20,David Hobbs,BRM,77,14,+3 Laps,0
+9,14,Alan Rees,Cooper-Maserati,76,15,+4 Laps,0
+10,18,Guy Ligier,Brabham-Repco,76,21,+4 Laps,0
+11,19,Bob Anderson,Brabham-Climax,67,17,Engine,0
+12,6,Graham Hill,Lotus-Ford,64,2,Engine,0
+13,4,Mike Spence,BRM,44,11,Ignition,0
+14,9,Dan Gurney,Eagle-Weslake,34,5,Clutch,0
+15,22,Silvio Moser,Cooper-ATS,29,20,Oil pressure,0
+16,11,Jochen Rindt,Cooper-Maserati,26,8,Engine,0
+17,3,Jackie Stewart,BRM,20,12,Transmission,0
+18,10,Bruce McLaren,Eagle-Weslake,14,10,Engine,0
+19,17,Jo Siffert,Cooper-Maserati,10,18,Engine,0
+20,23,Jo Bonnier,Cooper-Maserati,0,9,Engine,0
+21,16,Piers Courage,BRM,0,0,Withdrew,0

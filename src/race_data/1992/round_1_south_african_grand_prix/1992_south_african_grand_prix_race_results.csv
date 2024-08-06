@@ -1,0 +1,31 @@
+position,number,driver,constructor,laps,grid,status,points
+1,5,Nigel Mansell,Williams,72,1,Finished,10
+2,6,Riccardo Patrese,Williams,72,4,Finished,6
+3,1,Ayrton Senna,McLaren,72,2,Finished,4
+4,19,Michael Schumacher,Benetton,72,6,Finished,3
+5,2,Gerhard Berger,McLaren,72,3,Finished,2
+6,12,Johnny Herbert,Team Lotus,71,11,+1 Lap,1
+7,26,Érik Comas,Ligier,71,13,+1 Lap,0
+8,10,Aguri Suzuki,Footwork,70,16,+2 Laps,0
+9,11,Mika Häkkinen,Team Lotus,70,21,+2 Laps,0
+10,9,Michele Alboreto,Footwork,70,17,+2 Laps,0
+11,33,Maurício Gugelmin,Jordan,70,23,+2 Laps,0
+12,30,Ukyo Katayama,Larrousse,68,18,+4 Laps,0
+13,7,Eric van de Poele,Brabham,68,26,+4 Laps,0
+14,3,Olivier Grouillard,Tyrrell,62,12,Engine,0
+15,25,Thierry Boutsen,Ligier,60,14,Fuel system,0
+16,22,Pierluigi Martini,Dallara,56,25,Clutch,0
+17,24,Gianni Morbidelli,Minardi,55,19,Engine,0
+18,21,Jyrki Järvilehto,Dallara,44,24,Gearbox,0
+19,23,Christian Fittipaldi,Minardi,43,20,Alternator,0
+20,4,Andrea de Cesaris,Tyrrell,41,10,Engine,0
+21,27,Jean Alesi,Ferrari,40,5,Engine,0
+22,28,Ivan Capelli,Ferrari,28,9,Engine,0
+23,15,Gabriele Tarquini,Fondmetal,23,15,Engine,0
+24,16,Karl Wendlinger,March,13,7,Overheating,0
+25,29,Bertrand Gachot,Larrousse,8,22,Steering,0
+26,20,Martin Brundle,Benetton,1,8,Clutch,0
+27,17,Paul Belmondo,March,0,0,Did not qualify,0
+28,14,Andrea Chiesa,Fondmetal,0,0,Did not qualify,0
+29,32,Stefano Modena,Jordan,0,0,Did not qualify,0
+30,8,Giovanna Amati,Brabham,0,0,Did not qualify,0

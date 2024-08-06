@@ -1,0 +1,28 @@
+position,number,driver,constructor,laps,grid,status,points
+1,7,Carlos Reutemann,Brabham,78,4,Finished,9
+2,14,Jean-Pierre Beltoise,BRM,78,11,Finished,6
+3,33,Mike Hailwood,McLaren,78,12,Finished,4
+4,4,Patrick Depailler,Tyrrell,78,15,Finished,3
+5,9,Hans-Joachim Stuck,March,78,7,Finished,2
+6,20,Arturo Merzario,Iso Marlboro,78,3,Finished,1
+7,5,Emerson Fittipaldi,McLaren,78,5,Finished,0
+8,3,Jody Scheckter,Tyrrell,78,8,Finished,0
+9,6,Denny Hulme,McLaren,77,9,+1 Lap,0
+10,10,Vittorio Brambilla,March,77,19,+1 Lap,0
+11,18,Carlos Pace,Surtees,77,2,+1 Lap,0
+12,26,Graham Hill,Lola,77,18,+1 Lap,0
+13,29,Ian Scheckter,Team Lotus,76,22,+2 Laps,0
+14,32,Eddie Keizan,Tyrrell,76,24,+2 Laps,0
+15,37,François Migault,BRM,75,25,+3 Laps,0
+16,12,Niki Lauda,Ferrari,74,1,Ignition,0
+17,8,Richard Robarts,Brabham,74,23,+4 Laps,0
+18,15,Henri Pescarolo,BRM,72,21,+6 Laps,0
+19,23,Dave Charlton,McLaren,71,20,+7 Laps,0
+20,11,Clay Regazzoni,Ferrari,65,6,Oil pressure,0
+21,28,John Watson,Brabham,54,13,Fuel system,0
+22,2,Jacky Ickx,Team Lotus,31,10,Brakes,0
+23,24,James Hunt,Hesketh,13,14,Transmission,0
+24,19,Jochen Mass,Surtees,11,17,Suspension,0
+25,30,Paddy Driver,Team Lotus,6,26,Clutch,0
+26,1,Ronnie Peterson,Team Lotus,2,16,Collision,0
+27,21,Tom Belsø,Iso Marlboro,0,27,Clutch,0

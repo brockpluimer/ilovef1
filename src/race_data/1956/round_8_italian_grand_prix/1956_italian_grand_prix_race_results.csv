@@ -1,0 +1,30 @@
+position,number,driver,constructor,laps,grid,status,points
+1,36,Stirling Moss,Maserati,50,6,Finished,9
+2,26,Peter Collins,Ferrari,50,7,Finished,3
+2,26,Juan Fangio,Ferrari,50,7,Finished,3
+3,4,Ron Flockhart,Connaught,49,26,+1 Lap,4
+4,38,Paco Godia,Maserati,49,18,+1 Lap,3
+5,6,Jack Fairman,Connaught,47,16,+3 Laps,2
+6,40,Luigi Piotti,Maserati,47,15,+3 Laps,0
+7,14,Toulo de Graffenried,Maserati,46,19,+4 Laps,0
+8,22,Juan Fangio,Ferrari,46,1,+4 Laps,0
+8,22,Eugenio Castellotti,Ferrari,46,1,+4 Laps,0
+9,12,André Simon,Gordini,45,25,+5 Laps,0
+10,42,Gerino Gerini,Maserati,42,17,+8 Laps,0
+11,44,Roy Salvadori,Maserati,41,14,+9 Laps,0
+12,28,Luigi Musso,Ferrari,47,3,Steering,0
+13,46,Jean Behra,Maserati,42,13,Steering,0
+13,46,Umberto Maglioli,Maserati,42,13,Steering,0
+14,18,Harry Schell,Vanwall,32,10,Transmission,0
+15,32,Jean Behra,Maserati,23,5,Magneto,0
+16,48,Bruce Halford,Maserati,16,22,Engine,0
+17,20,Maurice Trintignant,Vanwall,13,11,Transmission,0
+18,16,Piero Taruffi,Vanwall,12,4,Oil leak,0
+19,24,Eugenio Castellotti,Ferrari,9,2,Tyre,0
+20,34,Luigi Villoresi,Maserati,7,8,Engine,0
+20,34,Jo Bonnier,Maserati,7,8,Engine,0
+21,10,Robert Manzon,Gordini,7,23,Chassis,0
+22,30,Alfonso de Portago,Ferrari,6,9,Tyre,0
+23,2,Les Leston,Connaught,6,20,Suspension,0
+24,8,Hernando da Silva Ramos,Gordini,3,21,Engine,0
+25,50,Wolfgang von Trips,Ferrari,0,0,Withdrew,0

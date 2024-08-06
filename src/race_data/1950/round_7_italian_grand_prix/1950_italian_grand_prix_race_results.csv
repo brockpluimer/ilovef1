@@ -1,0 +1,30 @@
+position,number,driver,constructor,laps,grid,status,points
+1,10,Nino Farina,Alfa Romeo,80,3,Finished,8
+2,48,Dorino Serafini,Ferrari,80,6,Finished,3
+2,48,Alberto Ascari,Ferrari,80,6,Finished,3
+3,36,Luigi Fagioli,Alfa Romeo,80,5,Finished,4
+4,58,Louis Rosier,Talbot-Lago,75,13,+5 Laps,3
+5,24,Philippe Étancelin,Talbot-Lago,75,16,+5 Laps,2
+6,38,Toulo de Graffenried,Maserati,72,17,+8 Laps,0
+7,8,Peter Whitehead,Ferrari,72,18,+8 Laps,0
+8,50,David Murray,Maserati,56,24,Gearbox,0
+9,32,Cuth Harrison,ERA,51,21,Radiator,0
+10,12,Raymond Sommer,Talbot-Lago,48,8,Gearbox,0
+11,40,Guy Mairesse,Talbot-Lago,42,11,Oil pipe,0
+12,4,Franco Rol,Maserati,39,9,Retired,0
+13,60,Piero Taruffi,Alfa Romeo,34,7,Engine,0
+13,60,Juan Fangio,Alfa Romeo,34,7,Engine,0
+14,56,Pierre Levegh,Talbot-Lago,29,20,Gearbox,0
+15,18,Juan Fangio,Alfa Romeo,23,1,Gearbox,1
+16,2,Johnny Claes,Talbot-Lago,22,22,Overheating,0
+17,16,Alberto Ascari,Ferrari,21,2,Engine,0
+18,22,Clemente Biondetti,Ferrari,17,25,Engine,0
+19,64,Henri Louveau,Talbot-Lago,16,16,Brakes,0
+20,62,Franco Comotti,Maserati,15,26,Retired,0
+21,42,Maurice Trintignant,Simca,13,12,Water pipe,0
+22,6,Louis Chiron,Maserati,13,19,Oil pressure,0
+23,46,Consalvo Sanesi,Alfa Romeo,11,4,Engine,0
+24,44,Robert Manzon,Simca,7,10,Transmission,0
+25,30,Prince Bira,Maserati,1,15,Engine,0
+26,28,Paul Pietsch,Maserati,0,27,Engine,0
+27,52,Felice Bonetto,Milano,0,23,Withdrew,0

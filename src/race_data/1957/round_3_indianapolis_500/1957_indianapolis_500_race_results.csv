@@ -1,0 +1,31 @@
+position,number,driver,constructor,laps,grid,status,points
+1,9,Sam Hanks,Epperly,200,13,Finished,8
+2,26,Jim Rathmann,Epperly,200,32,Finished,7
+3,1,Jimmy Bryan,Kuzma,200,15,Finished,4
+4,54,Paul Russo,Kurtis Kraft,200,10,Finished,3
+5,73,Andy Linden,Kurtis Kraft,200,12,Finished,2
+6,6,Johnny Boyd,Kurtis Kraft,200,5,Finished,0
+7,48,Marshall Teague,Kurtis Kraft,200,28,Finished,0
+8,12,Pat O'Connor,Kurtis Kraft,200,1,Finished,0
+9,7,Bob Veith,Phillips,200,16,Finished,0
+10,22,Gene Hartley,Lesovsky,200,14,Finished,0
+11,19,Jack Turner,Kurtis Kraft,200,19,Finished,0
+12,10,Johnny Thomson,Kuzma,199,11,+1 Lap,0
+13,95,Bob Christie,Kurtis Kraft,197,33,+3 Laps,0
+14,82,Chuck Weyant,Kuzma,196,25,+4 Laps,0
+15,27,Tony Bettenhausen,Kurtis Kraft,195,22,+5 Laps,0
+16,18,Johnnie Parsons,Kurtis Kraft,195,17,+5 Laps,0
+17,3,Don Freeland,Kurtis Kraft,192,21,+8 Laps,0
+18,5,Jimmy Reece,Kurtis Kraft,182,6,Throttle,0
+19,92,Don Edmunds,Kurtis Kraft,170,27,Spun off,0
+20,28,Johnnie Tolan,Kurtis Kraft,138,31,Clutch,0
+21,89,Al Herman,Dunn,111,30,Accident,0
+22,14,Fred Agabashian,Kurtis Kraft,107,4,Fuel leak,0
+23,88,Eddie Sachs,Kuzma,105,2,Fuel leak,0
+24,77,Mike Magill,Kurtis Kraft,101,18,Accident,0
+25,43,Eddie Johnson,Kurtis Kraft,93,20,Wheel bearing,0
+26,31,Bill Cheesbourg,Kurtis Kraft,81,23,Fuel leak,0
+27,16,Al Keller,Kurtis Kraft,75,8,Accident,0
+28,57,Jimmy Daywalt,Kurtis Kraft,53,29,Accident,0
+29,83,Ed Elisian,Kurtis Kraft,51,7,Retired,0
+30,8,Rodger Ward,Lesovsky,27,24,Turbo,0

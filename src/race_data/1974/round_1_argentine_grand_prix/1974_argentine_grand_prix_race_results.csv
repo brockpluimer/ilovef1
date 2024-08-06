@@ -1,0 +1,26 @@
+position,number,driver,constructor,laps,grid,status,points
+1,6,Denny Hulme,McLaren,53,10,Finished,9
+2,12,Niki Lauda,Ferrari,53,8,Finished,6
+3,11,Clay Regazzoni,Ferrari,53,2,Finished,4
+4,33,Mike Hailwood,McLaren,53,9,Finished,3
+5,14,Jean-Pierre Beltoise,BRM,53,14,Finished,2
+6,4,Patrick Depailler,Tyrrell,53,15,Finished,1
+7,7,Carlos Reutemann,Brabham,52,6,Out of fuel,0
+8,10,Howden Ganley,March,52,19,Out of fuel,0
+9,15,Henri Pescarolo,BRM,52,21,+1 Lap,0
+10,5,Emerson Fittipaldi,McLaren,52,3,+1 Lap,0
+11,27,Guy Edwards,Lola,51,25,+2 Laps,0
+12,28,John Watson,Brabham,49,20,+4 Laps,0
+13,1,Ronnie Peterson,Team Lotus,48,1,+5 Laps,0
+14,26,Graham Hill,Lola,45,17,Engine,0
+15,2,Jacky Ickx,Team Lotus,36,7,Clutch,0
+16,8,Richard Robarts,Brabham,36,22,Gearbox,0
+17,9,Hans-Joachim Stuck,March,31,23,Clutch,0
+18,37,François Migault,BRM,31,24,Water leak,0
+19,3,Jody Scheckter,Tyrrell,25,12,Engine,0
+20,18,Carlos Pace,Surtees,21,11,Suspension,0
+21,20,Arturo Merzario,Iso Marlboro,19,13,Overheating,0
+22,24,James Hunt,March,11,5,Overheating,0
+23,19,Jochen Mass,Surtees,10,18,Engine,0
+24,16,Peter Revson,Shadow,1,4,Accident,0
+25,17,Jean-Pierre Jarier,Shadow,0,16,Accident,0

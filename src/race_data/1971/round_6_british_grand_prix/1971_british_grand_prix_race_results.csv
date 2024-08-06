@@ -1,0 +1,25 @@
+position,number,driver,constructor,laps,grid,status,points
+1,12,Jackie Stewart,Tyrrell,68,2,Finished,9
+2,18,Ronnie Peterson,March-Ford,68,5,Finished,6
+3,1,Emerson Fittipaldi,Lotus-Ford,68,4,Finished,4
+4,26,Henri Pescarolo,March-Ford,67,17,+1 Lap,3
+5,24,Rolf Stommelen,Surtees,67,12,+1 Lap,2
+6,23,John Surtees,Surtees,67,11,+1 Lap,1
+7,22,Jean-Pierre Beltoise,Matra,66,15,+2 Laps,0
+8,17,Howden Ganley,BRM,66,11,+2 Laps,0
+9,16,Jo Siffert,BRM,66,3,+2 Laps,0
+10,14,François Cevert,Tyrrell,65,10,+3 Laps,0
+11,20,Nanni Galli,March-Ford,65,21,+3 Laps,0
+12,8,Tim Schenken,Brabham,63,7,Gearbox,0
+13,3,Reine Wisell,Lotus-Pratt &amp; Whitney,57,19,Not classified,0
+14,19,Andrea de Adamich,March-Alfa Romeo,56,24,Not classified,0
+15,10,Peter Gethin,McLaren,53,14,Engine,0
+16,4,Jacky Ickx,Ferrari,51,6,Engine,0
+17,5,Clay Regazzoni,Ferrari,48,1,Oil pressure,0
+18,21,Chris Amon,Matra,35,9,Engine,0
+19,9,Denny Hulme,McLaren,32,8,Engine,0
+20,25,Derek Bell,Surtees,23,23,Suspension,0
+21,6,Mike Beuttler,March-Ford,21,20,Oil pressure,0
+22,2,Dave Charlton,Lotus-Ford,1,13,Engine,0
+23,7,Graham Hill,Brabham,0,22,Accident,0
+24,11,Jackie Oliver,McLaren,0,16,Accident,0

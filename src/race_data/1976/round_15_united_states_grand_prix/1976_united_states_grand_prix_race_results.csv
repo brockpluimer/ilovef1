@@ -1,0 +1,28 @@
+position,number,driver,constructor,laps,grid,status,points
+1,11,James Hunt,McLaren,59,1,Finished,9
+2,3,Jody Scheckter,Tyrrell,59,2,Finished,6
+3,1,Niki Lauda,Ferrari,59,5,Finished,4
+4,12,Jochen Mass,McLaren,59,17,Finished,3
+5,34,Hans-Joachim Stuck,March,59,6,Finished,2
+6,28,John Watson,Penske,59,8,Finished,1
+7,2,Clay Regazzoni,Ferrari,58,14,+1 Lap,0
+8,19,Alan Jones,Surtees,58,18,+1 Lap,0
+9,30,Emerson Fittipaldi,Fittipaldi,57,15,+2 Laps,0
+10,17,Jean-Pierre Jarier,Shadow,57,16,+2 Laps,0
+11,18,Brett Lunger,Surtees,57,24,+2 Laps,0
+12,25,Alex Ribeiro,Hesketh,57,22,+2 Laps,0
+13,24,Harald Ertl,Hesketh,54,21,+5 Laps,0
+14,21,Warwick Brown,Wolf,54,23,+5 Laps,0
+15,38,Henri Pescarolo,Surtees,48,26,Not classified,0
+16,16,Tom Pryce,Shadow,45,9,Engine,0
+17,9,Vittorio Brambilla,March,34,12,Tyre,0
+18,26,Jacques Laffite,Ligier,34,4,Tyre,0
+19,8,Carlos Pace,Brabham-Alfa Romeo,31,10,Collision,0
+20,7,Larry Perkins,Brabham-Alfa Romeo,30,13,Suspension,0
+21,5,Mario Andretti,Team Lotus,23,11,Suspension,0
+22,22,Jacky Ickx,Ensign,14,19,Accident,0
+23,6,Gunnar Nilsson,Team Lotus,13,20,Engine,0
+24,10,Ronnie Peterson,March,12,3,Suspension,0
+25,20,Arturo Merzario,Wolf,9,25,Accident,0
+26,4,Patrick Depailler,Tyrrell,7,7,Fuel pipe,0
+27,39,Otto Stuppacher,Tyrrell,0,0,Did not qualify,0

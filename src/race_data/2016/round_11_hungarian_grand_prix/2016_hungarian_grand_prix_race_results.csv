@@ -1,0 +1,23 @@
+position,number,driver,constructor,laps,grid,status,points
+1,44,Lewis Hamilton,Mercedes,70,2,Finished,25
+2,6,Nico Rosberg,Mercedes,70,1,Finished,18
+3,3,Daniel Ricciardo,Red Bull,70,3,Finished,15
+4,5,Sebastian Vettel,Ferrari,70,5,Finished,12
+5,33,Max Verstappen,Red Bull,70,4,Finished,10
+6,7,Kimi Räikkönen,Ferrari,70,14,Finished,8
+7,14,Fernando Alonso,McLaren,69,7,+1 Lap,6
+8,55,Carlos Sainz,Toro Rosso,69,6,+1 Lap,4
+9,77,Valtteri Bottas,Williams,69,10,+1 Lap,2
+10,27,Nico Hülkenberg,Force India,69,9,+1 Lap,1
+11,11,Sergio Pérez,Force India,69,13,+1 Lap,0
+12,30,Jolyon Palmer,Renault,69,17,+1 Lap,0
+13,21,Esteban Gutiérrez,Haas F1 Team,69,15,+1 Lap,0
+14,8,Romain Grosjean,Haas F1 Team,69,11,+1 Lap,0
+15,20,Kevin Magnussen,Renault,69,19,+1 Lap,0
+16,26,Daniil Kvyat,Toro Rosso,69,12,+1 Lap,0
+17,12,Felipe Nasr,Sauber,69,16,+1 Lap,0
+18,19,Felipe Massa,Williams,68,18,+2 Laps,0
+19,94,Pascal Wehrlein,Manor Marussia,68,20,+2 Laps,0
+20,9,Marcus Ericsson,Sauber,68,22,+2 Laps,0
+21,88,Rio Haryanto,Manor Marussia,68,21,+2 Laps,0
+22,22,Jenson Button,McLaren,60,8,Oil leak,0

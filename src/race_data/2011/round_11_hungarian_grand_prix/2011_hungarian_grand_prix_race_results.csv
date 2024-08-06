@@ -1,0 +1,25 @@
+position,number,driver,constructor,laps,grid,status,points
+1,4,Jenson Button,McLaren,70,3,Finished,25
+2,1,Sebastian Vettel,Red Bull,70,1,Finished,18
+3,5,Fernando Alonso,Ferrari,70,5,Finished,15
+4,3,Lewis Hamilton,McLaren,70,2,Finished,12
+5,2,Mark Webber,Red Bull,70,6,Finished,10
+6,6,Felipe Massa,Ferrari,70,4,Finished,8
+7,15,Paul di Resta,Force India,69,11,+1 Lap,6
+8,18,Sébastien Buemi,Toro Rosso,69,23,+1 Lap,4
+9,8,Nico Rosberg,Mercedes,69,7,+1 Lap,2
+10,19,Jaime Alguersuari,Toro Rosso,69,16,+1 Lap,1
+11,16,Kamui Kobayashi,Sauber,69,13,+1 Lap,0
+12,10,Vitaly Petrov,Renault,69,12,+1 Lap,0
+13,11,Rubens Barrichello,Williams,68,15,+2 Laps,0
+14,14,Adrian Sutil,Force India,68,8,+2 Laps,0
+15,17,Sergio Pérez,Sauber,68,10,+2 Laps,0
+16,12,Pastor Maldonado,Williams,68,17,+2 Laps,0
+17,24,Timo Glock,Virgin,66,20,+4 Laps,0
+18,22,Daniel Ricciardo,HRT,66,22,+4 Laps,0
+19,25,Jérôme d'Ambrosio,Virgin,65,24,+5 Laps,0
+20,23,Vitantonio Liuzzi,HRT,65,21,+5 Laps,0
+21,20,Heikki Kovalainen,Lotus,55,18,Water leak,0
+22,7,Michael Schumacher,Mercedes,26,9,Gearbox,0
+23,9,Nick Heidfeld,Renault,23,14,Heat shield fire,0
+24,21,Jarno Trulli,Lotus,17,19,Oil leak,0

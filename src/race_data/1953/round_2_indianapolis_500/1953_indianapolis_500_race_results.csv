@@ -1,0 +1,31 @@
+position,number,driver,constructor,laps,grid,status,points
+1,14,Bill Vukovich,Kurtis Kraft,200,1,Finished,9
+2,16,Art Cross,Kurtis Kraft,200,12,Finished,6
+3,3,Sam Hanks,Kurtis Kraft,200,9,Finished,2
+3,3,Duane Carter,Kurtis Kraft,200,9,Finished,2
+4,59,Fred Agabashian,Kurtis Kraft,200,2,Finished,1.5
+4,59,Paul Russo,Kurtis Kraft,200,2,Finished,1.5
+5,5,Jack McGrath,Kurtis Kraft,200,3,Finished,2
+6,48,Jimmy Daywalt,Kurtis Kraft,200,21,Finished,0
+7,2,Jim Rathmann,Kurtis Kraft,200,25,Finished,0
+7,2,Eddie Johnson,Kurtis Kraft,200,25,Finished,0
+8,12,Ernie McCoy,Stevens,200,20,Finished,0
+9,98,Tony Bettenhausen,Kuzma,196,6,Accident,0
+9,98,Chuck Stevenson,Kuzma,196,6,Accident,0
+9,98,Gene Hartley,Kuzma,196,6,Accident,0
+10,53,Jimmy Davies,Kurtis Kraft,193,32,+7 Laps,0
+11,9,Duke Nalon,Kurtis Kraft,191,26,Accident,0
+12,73,Carl Scarborough,Kurtis Kraft,190,19,+10 Laps,0
+12,73,Bob Scott,Kurtis Kraft,190,19,+10 Laps,0
+13,88,Manny Ayulo,Kuzma,184,4,Engine,0
+14,8,Jimmy Bryan,Schroeder,183,31,+17 Laps,0
+15,49,Bill Holland,Kurtis Kraft,177,28,Magneto,0
+15,49,Jim Rathmann,Kurtis Kraft,177,28,Magneto,0
+16,92,Rodger Ward,Kurtis Kraft,177,10,Axle,0
+16,92,Andy Linden,Kurtis Kraft,177,10,Axle,0
+16,92,Duke Dinsmore,Kurtis Kraft,177,10,Axle,0
+17,23,Walt Faulkner,Kurtis Kraft,176,14,+24 Laps,0
+17,23,Johnny Mantz,Kurtis Kraft,176,14,+24 Laps,0
+18,22,Marshall Teague,Kurtis Kraft,169,22,Oil leak,0
+19,62,Travis Webb,Kurtis Kraft,166,18,Oil leak,0
+19,62,Johnny Thomson,Kurtis Kraft,166,18,Oil leak,0

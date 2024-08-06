@@ -1,0 +1,23 @@
+position,number,driver,constructor,laps,grid,status,points
+1,1,Niki Lauda,Ferrari,40,2,Finished,9
+2,4,Patrick Depailler,Tyrrell,40,9,Finished,6
+3,16,Tom Pryce,Shadow,40,12,Finished,4
+4,34,Hans-Joachim Stuck,March,40,14,Finished,3
+5,3,Jody Scheckter,Tyrrell,40,13,Finished,2
+6,12,Jochen Mass,McLaren,40,6,Finished,1
+7,2,Clay Regazzoni,Ferrari,40,4,Finished,0
+8,20,Jacky Ickx,Wolf,39,19,+1 Lap,0
+9,21,Renzo Zorzi,Williams,39,17,+1 Lap,0
+10,8,Carlos Pace,Brabham-Alfa Romeo,39,10,+1 Lap,0
+11,31,Ingo Hoffmann,Fittipaldi,39,20,+1 Lap,0
+12,7,Carlos Reutemann,Brabham-Alfa Romeo,37,15,Out of fuel,0
+13,30,Emerson Fittipaldi,Fittipaldi,37,5,+3 Laps,0
+14,10,Lella Lombardi,March,36,22,+4 Laps,0
+15,17,Jean-Pierre Jarier,Shadow,33,3,Accident,0
+16,11,James Hunt,McLaren,32,1,Accident,0
+17,9,Vittorio Brambilla,March,15,7,Oil leak,0
+18,26,Jacques Laffite,Ligier,14,11,Transmission,0
+19,5,Ronnie Peterson,Team Lotus,10,18,Accident,0
+20,6,Mario Andretti,Team Lotus,6,16,Accident,0
+21,28,John Watson,Penske,2,8,Fuel system,0
+22,14,Ian Ashley,BRM,2,21,Oil pump,0

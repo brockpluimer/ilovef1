@@ -1,0 +1,30 @@
+position,number,driver,constructor,laps,grid,status,points
+1,7,John Surtees,Ferrari,15,2,Finished,9
+2,3,Jim Clark,Lotus-Climax,15,1,Finished,6
+3,2,Richie Ginther,BRM,15,6,Finished,4
+4,26,Gerhard Mitter,Porsche,15,15,Finished,3
+5,20,Jim Hall,Lotus-BRM,14,16,+1 Lap,2
+6,16,Jo Bonnier,Cooper-Climax,14,12,+1 Lap,1
+7,9,Jack Brabham,Brabham,14,8,+1 Lap,0
+8,4,Trevor Taylor,Lotus-Climax,14,18,+1 Lap,0
+9,18,Jo Siffert,Lotus-BRM,10,9,Differential,0
+10,28,Bernard Collomb,Lotus-Climax,10,21,+5 Laps,0
+11,17,Carel Godin de Beaufort,Porsche,9,17,Wheel,0
+12,6,Tony Maggs,Cooper-Climax,7,10,Engine,0
+13,10,Dan Gurney,Brabham,6,13,Gearbox,0
+14,22,Mário de Araújo Cabral,Cooper-Climax,6,20,Gearbox,0
+15,24,Ian Burgess,Scirocco,5,19,Steering,0
+16,23,Tony Settember,Scirocco,5,22,Accident,0
+17,5,Bruce McLaren,Cooper-Climax,3,5,Accident,0
+18,1,Graham Hill,BRM,2,4,Gearbox,0
+19,21,Chris Amon,Lola,1,14,Accident,0
+20,8,Willy Mairesse,Ferrari,1,7,Accident,0
+21,14,Innes Ireland,Lotus-BRM,1,11,Accident,0
+22,15,Lorenzo Bandini,BRM,0,3,Accident,0
+23,29,André Pilette,Lotus-Climax,0,0,Did not qualify,0
+24,25,Ian Raby,Gilby,0,0,Did not qualify,0
+25,30,Tim Parnell,Lotus-Climax,0,0,Did not qualify,0
+26,27,Kurt Kuhnke,Lotus-Borgward,0,0,Did not qualify,0
+27,11,Phil Hill,ATS,0,0,Withdrew,0
+28,12,Giancarlo Baghetti,ATS,0,0,Withdrew,0
+29,19,Masten Gregory,Lotus-BRM,0,0,Withdrew,0

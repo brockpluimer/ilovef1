@@ -1,0 +1,18 @@
+position,number,driver,constructor,laps,grid,status,points
+1,5,Jim Clark,Lotus-Ford,90,8,Finished,9
+2,1,Jack Brabham,Brabham-Repco,90,3,Finished,6
+3,2,Denny Hulme,Brabham-Repco,90,7,Finished,4
+4,3,Chris Amon,Ferrari,90,9,Finished,3
+5,4,Mike Parkes,Ferrari,89,10,+1 Lap,2
+6,22,Ludovico Scarfiotti,Ferrari,89,15,+1 Lap,1
+7,18,Chris Irwin,Lotus-BRM,88,13,+2 Laps,0
+8,10,Mike Spence,BRM,87,12,+3 Laps,0
+9,21,Bob Anderson,Brabham-Climax,86,17,+4 Laps,0
+10,20,Jo Siffert,Cooper-Maserati,83,16,+7 Laps,0
+11,7,John Surtees,Honda,73,6,Throttle,0
+12,9,Jackie Stewart,BRM,51,11,Brakes,0
+13,12,Jochen Rindt,Cooper-Maserati,41,4,Suspension,0
+14,14,Pedro Rodríguez,Cooper-Maserati,39,5,Gearbox,0
+15,6,Graham Hill,Lotus-Ford,11,1,Engine,0
+16,15,Dan Gurney,Eagle-Weslake,8,2,Injection,0
+17,17,Bruce McLaren,McLaren-BRM,1,14,Accident,0

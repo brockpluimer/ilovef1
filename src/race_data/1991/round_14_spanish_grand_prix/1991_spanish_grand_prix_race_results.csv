@@ -1,0 +1,31 @@
+position,number,driver,constructor,laps,grid,status,points
+1,5,Nigel Mansell,Williams,65,2,Finished,10
+2,27,Alain Prost,Ferrari,65,6,Finished,6
+3,6,Riccardo Patrese,Williams,65,4,Finished,4
+4,28,Jean Alesi,Ferrari,65,7,Finished,3
+5,1,Ayrton Senna,McLaren,65,3,Finished,2
+6,19,Michael Schumacher,Benetton,65,5,Finished,1
+7,15,Maurício Gugelmin,Leyton House,64,13,+1 Lap,0
+8,22,Jyrki Järvilehto,Dallara,64,15,+1 Lap,0
+9,32,Alessandro Zanardi,Jordan,64,20,+1 Lap,0
+10,7,Martin Brundle,Brabham,63,11,+2 Laps,0
+11,20,Nelson Piquet,Benetton,63,10,+2 Laps,0
+12,14,Gabriele Tarquini,Fondmetal,63,22,+2 Laps,0
+13,23,Pierluigi Martini,Minardi,63,19,+2 Laps,0
+14,24,Gianni Morbidelli,Minardi,62,16,Collision,0
+15,21,Emanuele Pirro,Dallara,62,9,+3 Laps,0
+16,4,Stefano Modena,Tyrrell,62,14,+3 Laps,0
+17,3,Satoru Nakajima,Tyrrell,62,18,+3 Laps,0
+18,8,Mark Blundell,Brabham,49,12,Engine,0
+19,26,Érik Comas,Ligier,36,25,Electrical,0
+20,2,Gerhard Berger,McLaren,33,1,Electrical,0
+21,9,Michele Alboreto,Footwork,23,24,Engine,0
+22,33,Andrea de Cesaris,Jordan,22,17,Electrical,0
+23,11,Mika Häkkinen,Team Lotus,5,21,Spun off,0
+24,16,Ivan Capelli,Leyton House,1,8,Collision,0
+25,29,Éric Bernard,Lola,0,23,Collision,0
+26,25,Thierry Boutsen,Ligier,0,26,Collision,0
+27,30,Aguri Suzuki,Lola,0,0,Did not qualify,0
+28,34,Nicola Larini,Lambo,0,0,Did not qualify,0
+29,12,Michael Bartels,Team Lotus,0,0,Did not qualify,0
+30,35,Eric van de Poele,Lambo,0,0,Did not qualify,0

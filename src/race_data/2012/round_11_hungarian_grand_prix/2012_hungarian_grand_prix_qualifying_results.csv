@@ -1,0 +1,25 @@
+position,number,driver,constructor,Q1,Q2,Q3
+1,4,Lewis Hamilton,McLaren,1:21.794,1:21.060,1:20.953
+2,10,Romain Grosjean,Lotus F1,1:22.755,1:21.657,1:21.366
+3,1,Sebastian Vettel,Red Bull,1:22.948,1:21.407,1:21.416
+4,3,Jenson Button,McLaren,1:22.028,1:21.618,1:21.583
+5,9,Kimi Räikkönen,Lotus F1,1:22.234,1:21.583,1:21.730
+6,5,Fernando Alonso,Ferrari,1:22.095,1:21.598,1:21.844
+7,6,Felipe Massa,Ferrari,1:22.203,1:21.534,1:21.900
+8,18,Pastor Maldonado,Williams,1:22.475,1:21.504,1:21.939
+9,19,Bruno Senna,Williams,1:22.271,1:21.697,1:22.343
+10,12,Nico Hülkenberg,Force India,1:22.176,1:21.653,1:22.847
+11,2,Mark Webber,Red Bull,1:22.829,1:21.715,
+12,11,Paul di Resta,Force India,1:21.912,1:21.813,
+13,8,Nico Rosberg,Mercedes,1:22.079,1:21.895,
+14,15,Sergio Pérez,Sauber,1:22.110,1:21.895,
+15,14,Kamui Kobayashi,Sauber,1:22.801,1:22.300,
+16,17,Jean-Éric Vergne,Toro Rosso,1:22.799,1:22.380,
+17,7,Michael Schumacher,Mercedes,1:22.436,1:22.723,
+18,16,Daniel Ricciardo,Toro Rosso,1:23.250,,
+19,20,Heikki Kovalainen,Caterham,1:23.576,,
+20,21,Vitaly Petrov,Caterham,1:24.167,,
+21,25,Charles Pic,Marussia,1:25.244,,
+22,24,Timo Glock,Marussia,1:25.476,,
+23,22,Pedro de la Rosa,HRT,1:25.916,,
+24,23,Narain Karthikeyan,HRT,1:26.178,,

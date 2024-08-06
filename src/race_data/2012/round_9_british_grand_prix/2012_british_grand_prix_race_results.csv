@@ -1,0 +1,25 @@
+position,number,driver,constructor,laps,grid,status,points
+1,2,Mark Webber,Red Bull,52,2,Finished,25
+2,5,Fernando Alonso,Ferrari,52,1,Finished,18
+3,1,Sebastian Vettel,Red Bull,52,4,Finished,15
+4,6,Felipe Massa,Ferrari,52,5,Finished,12
+5,9,Kimi Räikkönen,Lotus F1,52,6,Finished,10
+6,10,Romain Grosjean,Lotus F1,52,9,Finished,8
+7,7,Michael Schumacher,Mercedes,52,3,Finished,6
+8,4,Lewis Hamilton,McLaren,52,8,Finished,4
+9,19,Bruno Senna,Williams,52,13,Finished,2
+10,3,Jenson Button,McLaren,52,16,Finished,1
+11,14,Kamui Kobayashi,Sauber,52,17,Finished,0
+12,12,Nico Hülkenberg,Force India,52,14,Finished,0
+13,16,Daniel Ricciardo,Toro Rosso,52,12,Finished,0
+14,17,Jean-Éric Vergne,Toro Rosso,52,23,Finished,0
+15,8,Nico Rosberg,Mercedes,52,11,Finished,0
+16,18,Pastor Maldonado,Williams,51,7,+1 Lap,0
+17,20,Heikki Kovalainen,Caterham,51,19,+1 Lap,0
+18,24,Timo Glock,Marussia,51,20,+1 Lap,0
+19,25,Charles Pic,Marussia,51,24,+1 Lap,0
+20,22,Pedro de la Rosa,HRT,50,21,+2 Laps,0
+21,23,Narain Karthikeyan,HRT,50,22,+2 Laps,0
+22,15,Sergio Pérez,Sauber,11,15,Collision,0
+23,11,Paul di Resta,Force India,2,10,Collision,0
+24,21,Vitaly Petrov,Caterham,0,18,Engine,0

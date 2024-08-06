@@ -1,0 +1,19 @@
+position,number,driver,constructor,laps,grid,status,points
+1,4,Pedro Rodríguez,Cooper-Maserati,80,4,Finished,9
+2,17,John Love,Cooper-Climax,80,5,Finished,6
+3,11,John Surtees,Honda,79,6,+1 Lap,4
+4,2,Denny Hulme,Brabham-Repco,78,2,+2 Laps,3
+5,14,Bob Anderson,Brabham-Climax,78,10,+2 Laps,2
+6,1,Jack Brabham,Brabham-Repco,76,1,+4 Laps,1
+7,19,Dave Charlton,Brabham-Climax,63,8,Not classified,0
+8,20,Luki Botha,Brabham-Climax,60,17,Not classified,0
+9,18,Sam Tingle,LDS-Climax,56,14,Accident,0
+10,16,Piers Courage,Lotus-BRM,51,18,Fuel system,0
+11,9,Dan Gurney,Eagle-Climax,44,11,Suspension,0
+12,12,Jo Siffert,Cooper-Maserati,41,16,Engine,0
+13,3,Jochen Rindt,Cooper-Maserati,38,7,Engine,0
+14,6,Mike Spence,BRM,31,13,Oil leak,0
+15,15,Jo Bonnier,Cooper-Maserati,30,12,Engine,0
+16,7,Jim Clark,Lotus-BRM,22,3,Engine,0
+17,8,Graham Hill,Lotus-BRM,6,15,Accident,0
+18,5,Jackie Stewart,BRM,2,9,Engine,0

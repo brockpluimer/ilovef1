@@ -1,0 +1,16 @@
+position,number,driver,constructor,laps,grid,status,points
+1,4,Jackie Stewart,Matra-Ford,90,2,Finished,9
+2,10,Jo Siffert,Lotus-Ford,90,10,Finished,6
+3,8,Chris Amon,Ferrari,90,4,Finished,4
+4,7,Denny Hulme,McLaren-Ford,90,7,Finished,3
+5,12,Jacky Ickx,Brabham-Ford,90,5,Finished,2
+6,11,Jack Brabham,Brabham-Ford,90,8,Finished,1
+7,1,Graham Hill,Lotus-Ford,88,3,+2 Laps,0
+8,5,Jean-Pierre Beltoise,McLaren-Ford,87,11,+3 Laps,0
+9,14,John Surtees,BRM,87,12,+3 Laps,0
+10,18,Vic Elford,McLaren-Ford,84,15,+6 Laps,0
+11,17,Silvio Moser,Brabham-Ford,54,14,Ignition,0
+12,6,Bruce McLaren,McLaren-Ford,24,6,Suspension,0
+13,2,Jochen Rindt,Lotus-Ford,16,1,Halfshaft,0
+14,16,Piers Courage,Brabham-Ford,12,9,Clutch,0
+15,15,Jackie Oliver,BRM,9,13,Gearbox,0

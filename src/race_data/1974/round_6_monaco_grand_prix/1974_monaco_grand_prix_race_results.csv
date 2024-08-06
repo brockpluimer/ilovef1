@@ -1,0 +1,29 @@
+position,number,driver,constructor,laps,grid,status,points
+1,1,Ronnie Peterson,Team Lotus,78,3,Finished,9
+2,3,Jody Scheckter,Tyrrell,78,5,Finished,6
+3,17,Jean-Pierre Jarier,Shadow,78,6,Finished,4
+4,11,Clay Regazzoni,Ferrari,78,2,Finished,3
+5,5,Emerson Fittipaldi,McLaren,77,13,+1 Lap,2
+6,28,John Watson,Brabham,77,23,+1 Lap,1
+7,26,Graham Hill,Lola,76,21,+2 Laps,0
+8,27,Guy Edwards,Lola,75,26,+3 Laps,0
+9,4,Patrick Depailler,Tyrrell,74,4,+4 Laps,0
+10,15,Henri Pescarolo,BRM,62,27,Gearbox,0
+11,2,Jacky Ickx,Team Lotus,34,19,Engine,0
+12,12,Niki Lauda,Ferrari,32,1,Ignition,0
+13,24,James Hunt,Hesketh,27,7,Halfshaft,0
+14,33,Mike Hailwood,McLaren,11,10,Accident,0
+15,7,Carlos Reutemann,Brabham,5,8,Suspension,0
+16,37,François Migault,BRM,4,22,Accident,0
+17,22,Vern Schuppan,Ensign,4,25,Accident,0
+18,9,Hans-Joachim Stuck,March,3,9,Collision,0
+19,14,Jean-Pierre Beltoise,BRM,0,11,Collision,0
+20,6,Denny Hulme,McLaren,0,12,Collision,0
+21,20,Arturo Merzario,Iso Marlboro,0,14,Collision,0
+22,10,Vittorio Brambilla,March,0,15,Collision,0
+23,16,Brian Redman,Shadow,0,16,Collision,0
+24,18,Carlos Pace,Surtees,0,18,Collision,0
+25,23,Tim Schenken,Trojan,0,24,Collision,0
+26,19,Jochen Mass,Surtees,0,17,Withdrew,0
+27,30,Chris Amon,Amon,0,20,Withdrew,0
+28,8,Rikky von Opel,Brabham,0,0,Did not qualify,0

@@ -1,0 +1,29 @@
+position,number,driver,constructor,laps,grid,status,points
+1,12,Gilles Villeneuve,Ferrari,70,3,Finished,9
+2,20,Jody Scheckter,Wolf,70,2,Finished,6
+3,11,Carlos Reutemann,Ferrari,70,11,Finished,4
+4,35,Riccardo Patrese,Arrows,70,12,Finished,3
+5,4,Patrick Depailler,Tyrrell,70,13,Finished,2
+6,22,Derek Daly,Ensign,70,15,Finished,1
+7,3,Didier Pironi,Tyrrell,70,18,Finished,0
+8,8,Patrick Tambay,McLaren,70,17,Finished,0
+9,27,Alan Jones,Williams,70,5,Finished,0
+10,5,Mario Andretti,Team Lotus,69,9,+1 Lap,0
+11,66,Nelson Piquet,Brabham,69,14,+1 Lap,0
+12,15,Jean-Pierre Jabouille,Renault,65,22,+5 Laps,0
+13,10,Keke Rosberg,ATS,58,21,+12 Laps,0
+14,26,Jacques Laffite,Ligier,52,10,Transmission,0
+15,7,James Hunt,McLaren,51,19,Spun off,0
+16,55,Jean-Pierre Jarier,Team Lotus,49,1,Oil leak,0
+17,18,René Arnoux,Surtees,37,16,Engine,0
+18,21,Bobby Rahal,Wolf,16,20,Fuel system,0
+19,2,John Watson,Brabham,8,4,Accident,0
+20,1,Niki Lauda,Brabham,5,7,Brakes,0
+21,16,Hans-Joachim Stuck,Shadow,1,8,Accident,0
+22,14,Emerson Fittipaldi,Fittipaldi,0,6,Accident,0
+23,17,Clay Regazzoni,Shadow,0,0,Did not qualify,0
+24,19,Beppe Gabbiani,Surtees,0,0,Did not qualify,0
+25,37,Arturo Merzario,Merzario,0,0,Did not qualify,0
+26,25,Hector Rebaque,Team Lotus,0,0,Did not qualify,0
+27,36,Rolf Stommelen,Arrows,0,0,Did not prequalify,0
+28,9,Michael Bleekemolen,ATS,0,0,Did not prequalify,0

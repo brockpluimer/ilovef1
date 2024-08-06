@@ -1,0 +1,26 @@
+position,number,driver,constructor,laps,grid,status,points
+1,8,Jim Clark,Lotus-Climax,65,1,Finished,9
+2,5,Jack Brabham,Brabham,65,10,Finished,6
+3,2,Richie Ginther,BRM,65,5,Finished,4
+4,1,Graham Hill,BRM,64,3,+1 Lap,3
+5,11,Jo Bonnier,Cooper-Climax,62,8,+3 Laps,2
+6,6,Dan Gurney,Brabham,62,4,+3 Laps,1
+7,22,Hap Sharp,Lotus-BRM,61,16,+4 Laps,0
+8,16,Jim Hall,Lotus-BRM,61,15,+4 Laps,0
+9,14,Jo Siffert,Lotus-BRM,59,9,+6 Laps,0
+10,12,Carel Godin de Beaufort,Porsche,58,18,+7 Laps,0
+11,13,Moisés Solana,BRM,57,11,Engine,0
+12,25,Phil Hill,ATS,46,17,Suspension,0
+13,24,Lorenzo Bandini,Ferrari,36,7,Ignition,0
+14,3,Bruce McLaren,Cooper-Climax,30,6,Engine,0
+15,10,Pedro Rodríguez,Lotus-Climax,26,20,Suspension,0
+16,17,Masten Gregory,Lola,23,14,Suspension,0
+17,23,John Surtees,Ferrari,19,2,Disqualified,0
+18,9,Trevor Taylor,Lotus-Climax,19,12,Engine,0
+19,26,Giancarlo Baghetti,ATS,12,21,Engine,0
+20,18,Chris Amon,Lotus-BRM,9,19,Gearbox,0
+21,4,Tony Maggs,Cooper-Climax,7,13,Engine,0
+22,20,Frank Dochnal,Cooper-Climax,0,0,Withdrew,0
+23,7,Walt Hansgen,Team Lotus,0,0,Withdrew,0
+24,15,Innes Ireland,Lotus-BRM,0,0,Withdrew,0
+25,19,Thomas Monarch,Lotus-Climax,0,0,Withdrew,0

@@ -1,0 +1,27 @@
+position,number,driver,constructor,laps,grid,status,points
+1,12,Denny Hulme,McLaren,79,5,Finished,9
+2,8,Emerson Fittipaldi,Team Lotus,79,3,Finished,6
+3,14,Peter Revson,McLaren,79,12,Finished,4
+4,7,Mario Andretti,Ferrari,79,6,Finished,3
+5,3,Ronnie Peterson,March,79,9,Finished,2
+6,19,Graham Hill,Brabham,78,14,+1 Lap,1
+7,4,Niki Lauda,March,78,21,+1 Lap,0
+8,5,Jacky Ickx,Ferrari,78,7,+1 Lap,0
+9,2,François Cevert,Tyrrell,78,8,+1 Lap,0
+10,9,David Walker,Team Lotus,78,19,+1 Lap,0
+11,21,Henri Pescarolo,March,78,22,+1 Lap,0
+12,6,Clay Regazzoni,Ferrari,77,2,+2 Laps,0
+13,25,Rolf Stommelen,March,77,25,+2 Laps,0
+14,24,Helmut Marko,BRM,76,23,+3 Laps,0
+15,15,Chris Amon,Matra,76,13,+3 Laps,0
+16,27,John Love,Surtees,73,26,Spun off,0
+17,22,Carlos Pace,March,73,24,+6 Laps,0
+18,23,Howden Ganley,BRM,70,16,Not classified,0
+19,18,Andrea de Adamich,Surtees,69,20,Not classified,0
+20,11,Peter Gethin,BRM,65,18,Not classified,0
+21,10,Jean-Pierre Beltoise,BRM,61,11,Engine,0
+22,1,Jackie Stewart,Tyrrell,45,1,Gearbox,0
+23,17,Mike Hailwood,Surtees,28,4,Suspension,0
+24,20,Carlos Reutemann,Brabham,27,15,Fuel system,0
+25,16,Tim Schenken,Surtees,9,10,Engine,0
+26,26,Dave Charlton,Team Lotus,2,17,Fuel pump,0

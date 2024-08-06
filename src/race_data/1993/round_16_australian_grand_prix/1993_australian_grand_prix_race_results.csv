@@ -1,0 +1,25 @@
+position,number,driver,constructor,laps,grid,status,points
+1,8,Ayrton Senna,McLaren,79,1,Finished,10
+2,2,Alain Prost,Williams,79,2,Finished,6
+3,0,Damon Hill,Williams,79,3,Finished,4
+4,27,Jean Alesi,Ferrari,78,7,+1 Lap,3
+5,28,Gerhard Berger,Ferrari,78,6,+1 Lap,2
+6,25,Martin Brundle,Ligier,78,8,+1 Lap,1
+7,10,Aguri Suzuki,Footwork,78,10,+1 Lap,0
+8,6,Riccardo Patrese,Benetton,77,9,Fuel system,0
+9,26,Mark Blundell,Ligier,77,14,+2 Laps,0
+10,9,Derek Warwick,Footwork,77,17,+2 Laps,0
+11,14,Rubens Barrichello,Jordan,76,13,+3 Laps,0
+12,20,Érik Comas,Larrousse,76,21,+3 Laps,0
+13,4,Andrea de Cesaris,Tyrrell,75,15,+4 Laps,0
+14,19,Toshio Suzuki,Larrousse,74,24,+5 Laps,0
+15,29,Karl Wendlinger,Sauber,73,11,Brakes,0
+16,30,Jyrki Järvilehto,Sauber,56,12,Accident,0
+17,23,Jean-Marc Gounon,Minardi,34,22,Spun off,0
+18,7,Mika Häkkinen,McLaren,28,5,Brakes,0
+19,5,Michael Schumacher,Benetton,19,4,Engine,0
+20,3,Ukyo Katayama,Tyrrell,11,18,Spun off,0
+21,15,Eddie Irvine,Jordan,10,19,Accident,0
+22,12,Johnny Herbert,Team Lotus,9,20,Suspension,0
+23,24,Pierluigi Martini,Minardi,5,16,Gearbox,0
+24,11,Pedro Lamy,Team Lotus,0,23,Accident,0

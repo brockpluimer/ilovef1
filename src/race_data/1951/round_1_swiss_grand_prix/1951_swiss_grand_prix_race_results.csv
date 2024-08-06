@@ -1,0 +1,22 @@
+position,number,driver,constructor,laps,grid,status,points
+1,24,Juan Fangio,Alfa Romeo,42,1,Finished,9
+2,44,Piero Taruffi,Ferrari,42,6,Finished,6
+3,22,Nino Farina,Alfa Romeo,42,2,Finished,4
+4,28,Consalvo Sanesi,Alfa Romeo,41,4,+1 Lap,3
+5,26,Toulo de Graffenried,Alfa Romeo,40,5,+2 Laps,2
+6,20,Alberto Ascari,Ferrari,40,7,+2 Laps,0
+7,30,Louis Chiron,Maserati,40,19,+2 Laps,0
+8,14,Stirling Moss,HWM,40,14,+2 Laps,0
+9,8,Louis Rosier,Talbot-Lago,39,8,+3 Laps,0
+10,4,Philippe Étancelin,Talbot-Lago,39,12,+3 Laps,0
+11,38,Rudi Fischer,Ferrari,39,10,+3 Laps,0
+12,32,Harry Schell,Maserati,38,17,+4 Laps,0
+13,2,Johnny Claes,Talbot-Lago,35,18,+7 Laps,0
+14,40,Guy Mairesse,Talbot-Lago,31,21,+11 Laps,0
+15,16,Peter Whitehead,Ferrari,36,9,Accident,0
+16,10,Henri Louveau,Talbot-Lago,30,11,Accident,0
+17,12,George Abecassis,HWM,23,20,Magneto,0
+18,6,Yves Cabantous,Talbot-Lago,14,15,Ignition,0
+19,18,Luigi Villoresi,Ferrari,12,3,Accident,0
+20,42,José Froilán González,Talbot-Lago,10,13,Oil pump,0
+21,52,Peter Hirt,Veritas,0,16,Fuel system,0

@@ -1,0 +1,23 @@
+position,number,driver,constructor,laps,grid,status,points
+1,1,Denny Hulme,McLaren-Ford,68,7,Finished,9
+2,5,Johnny Servoz-Gavin,Matra-Ford,68,13,Finished,6
+3,8,Jacky Ickx,Ferrari,68,4,Finished,4
+4,27,Piers Courage,BRM,67,17,+1 Lap,3
+5,6,Jean-Pierre Beltoise,Matra,66,18,+2 Laps,2
+6,3,Jo Bonnier,McLaren-BRM,64,19,+4 Laps,1
+7,20,Jo Siffert,Lotus-Ford,58,9,Suspension,0
+8,10,Jack Brabham,Brabham-Repco,56,16,Oil pressure,0
+9,4,Jackie Stewart,Matra-Ford,42,6,Engine,0
+10,15,David Hobbs,Honda,42,14,Engine,0
+11,19,Jackie Oliver,Lotus-Ford,38,11,Transmission,0
+12,2,Bruce McLaren,McLaren-Ford,34,2,Oil leak,0
+13,11,Jochen Rindt,Brabham-Repco,33,10,Engine,0
+14,26,Pedro Rodríguez,BRM,22,15,Engine,0
+15,21,Dan Gurney,Eagle-Weslake,19,12,Engine,0
+16,16,Graham Hill,Lotus-Ford,10,5,Wheel,0
+17,14,John Surtees,Honda,8,1,Accident,0
+18,9,Chris Amon,Ferrari,8,3,Accident,0
+19,7,Derek Bell,Ferrari,4,8,Fuel system,0
+20,23,Vic Elford,Cooper-BRM,2,20,Accident,0
+21,28,Frank Gardner,BRM,0,0,Did not qualify,0
+22,12,Silvio Moser,Brabham-Repco,0,0,Did not qualify,0

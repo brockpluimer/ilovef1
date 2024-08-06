@@ -1,0 +1,31 @@
+position,number,driver,constructor,laps,grid,status,points
+1,1,Alan Jones,Williams,75,2,Finished,9
+2,15,Alain Prost,Renault,75,5,Finished,6
+3,23,Bruno Giacomelli,Alfa Romeo,75,8,Finished,4
+4,12,Nigel Mansell,Team Lotus,75,9,Finished,3
+5,5,Nelson Piquet,Brabham,75,4,Finished,2
+6,26,Jacques Laffite,Ligier,75,12,Finished,1
+7,7,John Watson,McLaren,75,6,Finished,0
+8,2,Carlos Reutemann,Williams,74,1,+1 Lap,0
+9,28,Didier Pironi,Ferrari,73,18,+2 Laps,0
+10,20,Keke Rosberg,Fittipaldi,73,20,+2 Laps,0
+11,29,Riccardo Patrese,Arrows,71,11,+4 Laps,0
+12,8,Andrea de Cesaris,McLaren,69,14,+6 Laps,0
+13,4,Michele Alboreto,Tyrrell,67,17,Engine,0
+14,14,Eliseo Salazar,Ensign,61,24,Not classified,0
+15,36,Derek Warwick,Toleman,43,22,Gearbox,0
+16,22,Mario Andretti,Alfa Romeo,29,10,Suspension,0
+17,27,Gilles Villeneuve,Ferrari,22,3,Disqualified,0
+18,6,Hector Rebaque,Brabham,20,16,Throttle,0
+19,33,Marc Surer,Theodore,19,23,Suspension,0
+20,3,Eddie Cheever,Tyrrell,10,19,Engine,0
+21,16,René Arnoux,Renault,10,13,Electrical,0
+22,25,Patrick Tambay,Ligier,2,7,Accident,0
+23,11,Elio de Angelis,Team Lotus,2,15,Water leak,0
+24,32,Jean-Pierre Jarier,Osella,0,21,Transmission,0
+25,9,Slim Borgudd,ATS,0,0,Did not qualify,0
+26,21,Chico Serra,Fittipaldi,0,0,Did not qualify,0
+27,17,Derek Daly,March,0,0,Did not qualify,0
+28,30,Jacques Villeneuve Sr.,Arrows,0,0,Did not qualify,0
+29,35,Brian Henton,Toleman,0,0,Did not qualify,0
+30,31,Beppe Gabbiani,Osella,0,0,Did not qualify,0

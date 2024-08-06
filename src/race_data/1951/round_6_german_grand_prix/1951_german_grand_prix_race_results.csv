@@ -1,0 +1,23 @@
+position,number,driver,constructor,laps,grid,status,points
+1,71,Alberto Ascari,Ferrari,20,1,Finished,8
+2,75,Juan Fangio,Alfa Romeo,20,3,Finished,7
+3,74,José Froilán González,Ferrari,20,2,Finished,4
+4,72,Luigi Villoresi,Ferrari,20,5,Finished,3
+5,73,Piero Taruffi,Ferrari,20,6,Finished,2
+6,91,Rudi Fischer,Ferrari,19,8,+1 Lap,0
+7,82,Robert Manzon,Simca,19,9,+1 Lap,0
+8,84,Louis Rosier,Talbot-Lago,19,15,+1 Lap,0
+9,90,Pierre Levegh,Talbot-Lago,18,19,+2 Laps,0
+10,93,Jacques Swaters,Talbot-Lago,18,22,+2 Laps,0
+11,94,Johnny Claes,Talbot-Lago,17,18,+3 Laps,0
+12,87,Yves Cabantous,Talbot-Lago,17,11,Accident,0
+13,81,Maurice Trintignant,Simca,13,14,Engine,0
+14,77,Felice Bonetto,Alfa Romeo,12,10,Magneto,0
+15,88,Duncan Hamilton,Talbot-Lago,12,20,Oil pressure,0
+16,78,Paul Pietsch,Alfa Romeo,11,7,Accident,0
+17,83,André Simon,Simca,11,12,Engine,0
+18,76,Nino Farina,Alfa Romeo,8,4,Overheating,0
+19,86,Philippe Étancelin,Talbot-Lago,4,21,Gearbox,0
+20,85,Louis Chiron,Talbot-Lago,3,13,Ignition,0
+21,92,Toni Branca,Maserati,3,17,Engine,0
+22,79,Toulo de Graffenried,Maserati,2,16,Engine,0

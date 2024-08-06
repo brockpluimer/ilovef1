@@ -1,0 +1,27 @@
+position,number,driver,constructor,laps,grid,status,points
+1,0,Damon Hill,Williams,53,2,Finished,10
+2,27,Jean Alesi,Ferrari,53,3,Finished,6
+3,7,Michael Andretti,McLaren,52,9,+1 Lap,4
+4,29,Karl Wendlinger,Sauber,52,15,+1 Lap,3
+5,6,Riccardo Patrese,Benetton,52,10,+1 Lap,2
+6,20,Érik Comas,Larrousse,52,20,+1 Lap,1
+7,24,Pierluigi Martini,Minardi,51,22,+2 Laps,0
+8,23,Christian Fittipaldi,Minardi,51,24,+2 Laps,0
+9,19,Philippe Alliot,Larrousse,51,16,+2 Laps,0
+10,22,Luca Badoer,Lola,51,25,+2 Laps,0
+11,11,Pedro Lamy,Team Lotus,49,26,Electrical,0
+12,2,Alain Prost,Williams,48,1,Engine,0
+13,4,Andrea de Cesaris,Tyrrell,47,18,Oil pressure,0
+14,3,Ukyo Katayama,Tyrrell,47,17,+6 Laps,0
+15,21,Michele Alboreto,Lola,23,21,Suspension,0
+16,5,Michael Schumacher,Benetton,21,5,Engine,0
+17,26,Mark Blundell,Ligier,20,14,Spun off,0
+18,28,Gerhard Berger,Ferrari,15,6,Suspension,0
+19,12,Johnny Herbert,Team Lotus,14,7,Spun off,0
+20,25,Martin Brundle,Ligier,8,12,Collision,0
+21,8,Ayrton Senna,McLaren,8,4,Collision,0
+22,10,Aguri Suzuki,Footwork,0,8,Collision,0
+23,9,Derek Warwick,Footwork,0,11,Collision,0
+24,30,Jyrki Järvilehto,Sauber,0,13,Collision,0
+25,14,Rubens Barrichello,Jordan,0,19,Collision,0
+26,15,Marco Apicella,Jordan,0,23,Collision,0

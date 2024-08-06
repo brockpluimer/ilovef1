@@ -1,0 +1,18 @@
+position,number,driver,constructor,laps,grid,status,points
+1,10,Juan Fangio,Mercedes,36,2,Finished,9
+2,14,Stirling Moss,Mercedes,36,3,Finished,6
+3,2,Nino Farina,Ferrari,36,4,Finished,4
+4,6,Paul Frère,Ferrari,36,8,Finished,3
+5,24,Jean Behra,Maserati,35,13,+1 Lap,1
+5,24,Roberto Mieres,Maserati,35,13,+1 Lap,1
+6,4,Maurice Trintignant,Ferrari,35,10,+1 Lap,0
+7,22,Luigi Musso,Maserati,34,7,+2 Laps,0
+8,26,Cesare Perdisa,Maserati,33,11,+3 Laps,0
+9,28,Louis Rosier,Maserati,33,12,+3 Laps,0
+10,12,Karl Kling,Mercedes,21,6,Oil leak,0
+11,30,Eugenio Castellotti,Lancia,16,1,Gearbox,0
+12,40,Mike Hawthorn,Vanwall,8,9,Gearbox,0
+13,20,Jean Behra,Maserati,3,5,Spun off,0
+14,38,Johnny Claes,Maserati,0,0,Withdrew,0
+15,48,Piero Taruffi,Ferrari,0,0,Withdrew,0
+16,4,Harry Schell,Ferrari,0,0,Withdrew,0

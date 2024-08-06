@@ -1,0 +1,18 @@
+position,number,driver,constructor,laps,grid,status,points
+1,22,Dan Gurney,Brabham-Climax,57,2,Finished,9
+2,8,Graham Hill,BRM,57,6,Finished,6
+3,20,Jack Brabham,Brabham-Climax,57,5,Finished,4
+4,4,Peter Arundell,Lotus-Climax,57,4,Finished,3
+5,10,Richie Ginther,BRM,57,9,Finished,2
+6,12,Bruce McLaren,Cooper-Climax,56,7,+1 Lap,1
+7,14,Phil Hill,Cooper-Climax,56,10,+1 Lap,0
+8,36,Mike Hailwood,Lotus-BRM,56,13,+1 Lap,0
+9,26,Lorenzo Bandini,Ferrari,55,8,+2 Laps,0
+10,34,Chris Amon,Lotus-BRM,53,14,+4 Laps,0
+11,28,Maurice Trintignant,BRM,52,16,+5 Laps,0
+12,32,Bob Anderson,Brabham-Climax,50,15,+7 Laps,0
+13,16,Innes Ireland,BRP,32,11,Accident,0
+14,2,Jim Clark,Lotus-Climax,31,1,Engine,0
+15,24,John Surtees,Ferrari,6,3,Engine,0
+16,18,Trevor Taylor,BRP,6,12,Accident,0
+17,30,Jo Siffert,Brabham-BRM,4,17,Clutch,0

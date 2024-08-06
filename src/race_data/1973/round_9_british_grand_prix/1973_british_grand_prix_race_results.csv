@@ -1,0 +1,30 @@
+position,number,driver,constructor,laps,grid,status,points
+1,8,Peter Revson,McLaren,67,3,Finished,9
+2,2,Ronnie Peterson,Team Lotus,67,1,Finished,6
+3,7,Denny Hulme,McLaren,67,2,Finished,4
+4,27,James Hunt,March,67,11,Finished,3
+5,6,François Cevert,Tyrrell,67,7,Finished,2
+6,10,Carlos Reutemann,Brabham,67,8,Finished,1
+7,19,Clay Regazzoni,BRM,67,10,Finished,0
+8,3,Jacky Ickx,Ferrari,67,19,Finished,0
+9,25,Howden Ganley,Iso Marlboro,66,18,+1 Lap,0
+10,5,Jackie Stewart,Tyrrell,66,4,+1 Lap,0
+11,15,Mike Beuttler,March,65,24,+2 Laps,0
+12,21,Niki Lauda,BRM,63,9,+4 Laps,0
+13,28,Rikky von Opel,Ensign,61,21,+6 Laps,0
+14,11,Wilson Fittipaldi,Brabham,44,13,Oil leak,0
+15,1,Emerson Fittipaldi,Team Lotus,36,5,Transmission,0
+16,29,John Watson,Brabham,36,23,Fuel system,0
+17,12,Graham Hill,Shadow,24,27,Chassis,0
+18,22,Chris Amon,Tecno,6,29,Fuel system,0
+19,30,Jody Scheckter,McLaren,0,6,Collision,0
+20,23,Mike Hailwood,Surtees,0,12,Collision,0
+21,31,Jochen Mass,Surtees,0,14,Collision,0
+22,24,Carlos Pace,Surtees,0,15,Collision,0
+23,20,Jean-Pierre Beltoise,BRM,0,17,Collision,0
+24,9,Andrea de Adamich,Brabham,0,20,Collision,0
+25,14,Roger Williamson,March,0,22,Collision,0
+26,16,George Follmer,Shadow,0,25,Collision,0
+27,17,Jackie Oliver,Shadow,0,26,Collision,0
+28,26,Graham McRae,Iso Marlboro,0,28,Throttle,0
+29,18,David Purley,March,0,16,Spun off,0

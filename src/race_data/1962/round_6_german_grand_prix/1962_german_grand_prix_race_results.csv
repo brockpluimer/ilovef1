@@ -1,0 +1,31 @@
+position,number,driver,constructor,laps,grid,status,points
+1,11,Graham Hill,BRM,15,2,Finished,9
+2,14,John Surtees,Lola,15,4,Finished,6
+3,7,Dan Gurney,Porsche,15,1,Finished,4
+4,5,Jim Clark,Lotus-Climax,15,3,Finished,3
+5,9,Bruce McLaren,Cooper-Climax,15,5,Finished,2
+6,3,Ricardo Rodríguez,Ferrari,15,10,Finished,1
+7,8,Jo Bonnier,Porsche,15,6,Finished,0
+8,12,Richie Ginther,BRM,15,7,Finished,0
+9,10,Tony Maggs,Cooper-Climax,15,23,Finished,0
+10,2,Giancarlo Baghetti,Ferrari,15,13,Finished,0
+11,25,Ian Burgess,Cooper-Climax,15,16,Finished,0
+12,19,Jo Siffert,Lotus-Climax,15,17,Finished,0
+13,18,Carel Godin de Beaufort,Porsche,15,8,Finished,0
+14,32,Heini Walter,Porsche,14,14,+1 Lap,0
+15,26,Nino Vaccarella,Porsche,14,15,+1 Lap,0
+16,21,Lucien Bianchi,ENB,14,25,+1 Lap,0
+17,20,Jackie Lewis,Cooper-Climax,10,21,Suspension,0
+18,1,Phil Hill,Ferrari,9,12,Suspension,0
+19,16,Jack Brabham,Brabham,9,24,Throttle,0
+20,27,Keith Greene,Gilby,7,19,Suspension,0
+21,15,Roy Salvadori,Lola,4,9,Gearbox,0
+22,17,Maurice Trintignant,Lotus-Climax,4,11,Gearbox,0
+23,4,Lorenzo Bandini,Ferrari,4,18,Accident,0
+24,28,Heinz Schiller,Lotus-BRM,4,20,Oil pressure,0
+25,31,Bernard Collomb,Cooper-Climax,2,22,Gearbox,0
+26,6,Trevor Taylor,Lotus-Climax,0,26,Accident,0
+27,29,Tony Shelly,Lotus-Climax,0,0,Did not qualify,0
+28,34,Wolfgang Seidel,Lotus-BRM,0,0,Did not qualify,0
+29,30,Jay Chamberlain,Lotus-Climax,0,0,Did not qualify,0
+30,34,Günther Seiffert,Lotus-BRM,0,0,Did not qualify,0

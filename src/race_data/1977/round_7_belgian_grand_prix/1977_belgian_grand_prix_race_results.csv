@@ -1,0 +1,31 @@
+position,number,driver,constructor,laps,grid,status,points
+1,6,Gunnar Nilsson,Team Lotus,70,3,Finished,9
+2,11,Niki Lauda,Ferrari,70,11,Finished,6
+3,3,Ronnie Peterson,Tyrrell,70,8,Finished,4
+4,19,Vittorio Brambilla,Surtees,70,12,Finished,3
+5,17,Alan Jones,Shadow,70,17,Finished,2
+6,8,Hans-Joachim Stuck,Brabham,69,18,+1 Lap,1
+7,1,James Hunt,McLaren,69,9,+1 Lap,0
+8,4,Patrick Depailler,Tyrrell,69,5,+1 Lap,0
+9,25,Harald Ertl,Hesketh,69,25,+1 Lap,0
+10,27,Patrick Nève,March,68,24,+2 Laps,0
+11,34,Jean-Pierre Jarier,Penske,68,26,+2 Laps,0
+12,18,Larry Perkins,Surtees,67,23,+3 Laps,0
+13,31,David Purley,LEC,67,20,+3 Laps,0
+14,37,Arturo Merzario,March,65,14,+5 Laps,0
+15,33,Boy Lunger,March,63,27,Not classified,0
+16,20,Jody Scheckter,Wolf,62,4,Engine,0
+17,2,Jochen Mass,McLaren,39,6,Accident,0
+18,26,Jacques Laffite,Ligier,32,10,Engine,0
+19,22,Clay Regazzoni,Ensign,29,13,Engine,0
+20,12,Carlos Reutemann,Ferrari,14,7,Accident,0
+21,24,Rupert Keegan,Hesketh,14,19,Accident,0
+22,16,Riccardo Patrese,Shadow,12,15,Accident,0
+23,10,Ian Scheckter,March,8,21,Accident,0
+24,28,Emerson Fittipaldi,Fittipaldi,2,16,Electrical,0
+25,5,Mario Andretti,Team Lotus,0,1,Accident,0
+26,7,John Watson,Brabham,0,2,Accident,0
+27,36,Emilio de Villota,McLaren,0,0,Did not qualify,0
+28,9,Alex Ribeiro,March,0,0,Did not qualify,0
+29,35,Conny Andersson,BRM,0,0,Did not qualify,0
+30,38,Bernard de Dryver,March,0,0,Did not qualify,0

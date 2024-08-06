@@ -1,0 +1,23 @@
+position,number,driver,constructor,laps,grid,status,points
+1,11,Jackie Stewart,Tyrrell,80,1,Finished,9
+2,17,Ronnie Peterson,March-Ford,80,6,Finished,6
+3,4,Jacky Ickx,Ferrari,80,2,Finished,4
+4,9,Denny Hulme,McLaren,80,6,Finished,3
+5,1,Emerson Fittipaldi,Lotus-Ford,79,17,+1 Lap,2
+6,24,Rolf Stommelen,Surtees,79,16,+1 Lap,1
+7,22,John Surtees,Surtees,79,10,+1 Lap,0
+8,27,Henri Pescarolo,March-Ford,77,13,+3 Laps,0
+9,15,Pedro Rodríguez,BRM,76,5,+4 Laps,0
+10,8,Tim Schenken,Brabham,76,18,+4 Laps,0
+11,14,Jo Siffert,BRM,58,3,Oil pipe,0
+12,21,Jean-Pierre Beltoise,Matra,47,7,Differential,0
+13,20,Chris Amon,Matra,45,4,Differential,0
+14,5,Clay Regazzoni,Ferrari,24,11,Accident,0
+15,10,Peter Gethin,McLaren,22,14,Accident,0
+16,2,Reine Wisell,Lotus-Ford,21,12,Wheel bearing,0
+17,12,François Cevert,Tyrrell,5,15,Accident,0
+18,7,Graham Hill,Brabham,1,9,Accident,0
+19,16,Howden Ganley,BRM,0,0,Did not qualify,0
+20,6,Mario Andretti,Ferrari,0,0,Did not qualify,0
+21,18,Alex Soler-Roig,March-Ford,0,0,Did not qualify,0
+22,28,Skip Barber,March-Ford,0,0,Did not qualify,0

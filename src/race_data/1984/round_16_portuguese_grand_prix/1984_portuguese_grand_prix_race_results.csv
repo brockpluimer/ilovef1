@@ -1,0 +1,28 @@
+position,number,driver,constructor,laps,grid,status,points
+1,7,Alain Prost,McLaren,70,2,Finished,9
+2,8,Niki Lauda,McLaren,70,11,Finished,6
+3,19,Ayrton Senna,Toleman,70,3,Finished,4
+4,27,Michele Alboreto,Ferrari,70,8,Finished,3
+5,11,Elio de Angelis,Team Lotus,70,5,Finished,2
+6,1,Nelson Piquet,Brabham,69,1,+1 Lap,1
+7,15,Patrick Tambay,Renault,69,7,+1 Lap,0
+8,22,Riccardo Patrese,Alfa Romeo,69,12,+1 Lap,0
+9,28,René Arnoux,Ferrari,69,17,+1 Lap,0
+10,2,Manfred Winkelhock,Brabham,69,19,+1 Lap,0
+11,20,Stefan Johansson,Toleman,69,10,+1 Lap,0
+12,26,Andrea de Cesaris,Ligier,69,20,+1 Lap,0
+13,14,Gerhard Berger,ATS,68,23,+2 Laps,0
+14,5,Jacques Laffite,Williams,67,15,+3 Laps,0
+15,21,Mauro Baldi,Spirit,66,25,+4 Laps,0
+16,30,Jo Gartner,Osella,65,24,Out of fuel,0
+17,23,Eddie Cheever,Alfa Romeo,64,14,+6 Laps,0
+18,24,Piercarlo Ghinzani,Osella,60,22,Engine,0
+19,12,Nigel Mansell,Team Lotus,52,6,Spun off,0
+20,16,Derek Warwick,Renault,51,9,Gearbox,0
+21,33,Philippe Streiff,Renault,48,13,Transmission,0
+22,6,Keke Rosberg,Williams,39,4,Engine,0
+23,25,François Hesnault,Ligier,31,21,Electrical,0
+24,18,Thierry Boutsen,Arrows,24,18,Transmission,0
+25,10,Jonathan Palmer,RAM,19,26,Gearbox,0
+26,17,Marc Surer,Arrows,8,16,Electrical,0
+27,9,Philippe Alliot,RAM,2,27,Engine,0

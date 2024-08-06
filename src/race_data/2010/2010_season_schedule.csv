@@ -1,0 +1,20 @@
+round,raceName,date,time,circuit,country
+1,Bahrain Grand Prix,2010-03-14,12:00:00Z,Bahrain International Circuit,Bahrain
+2,Australian Grand Prix,2010-03-28,06:00:00Z,Albert Park Grand Prix Circuit,Australia
+3,Malaysian Grand Prix,2010-04-04,08:00:00Z,Sepang International Circuit,Malaysia
+4,Chinese Grand Prix,2010-04-18,06:00:00Z,Shanghai International Circuit,China
+5,Spanish Grand Prix,2010-05-09,12:00:00Z,Circuit de Barcelona-Catalunya,Spain
+6,Monaco Grand Prix,2010-05-16,12:00:00Z,Circuit de Monaco,Monaco
+7,Turkish Grand Prix,2010-05-30,11:00:00Z,Istanbul Park,Turkey
+8,Canadian Grand Prix,2010-06-13,16:00:00Z,Circuit Gilles Villeneuve,Canada
+9,European Grand Prix,2010-06-27,12:00:00Z,Valencia Street Circuit,Spain
+10,British Grand Prix,2010-07-11,12:00:00Z,Silverstone Circuit,UK
+11,German Grand Prix,2010-07-25,12:00:00Z,Hockenheimring,Germany
+12,Hungarian Grand Prix,2010-08-01,12:00:00Z,Hungaroring,Hungary
+13,Belgian Grand Prix,2010-08-29,12:00:00Z,Circuit de Spa-Francorchamps,Belgium
+14,Italian Grand Prix,2010-09-12,12:00:00Z,Autodromo Nazionale di Monza,Italy
+15,Singapore Grand Prix,2010-09-26,12:00:00Z,Marina Bay Street Circuit,Singapore
+16,Japanese Grand Prix,2010-10-10,06:00:00Z,Suzuka Circuit,Japan
+17,Korean Grand Prix,2010-10-24,05:00:00Z,Korean International Circuit,Korea
+18,Brazilian Grand Prix,2010-11-07,16:00:00Z,Autódromo José Carlos Pace,Brazil
+19,Abu Dhabi Grand Prix,2010-11-14,13:00:00Z,Yas Marina Circuit,UAE

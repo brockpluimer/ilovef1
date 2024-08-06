@@ -1,0 +1,31 @@
+position,number,driver,constructor,laps,grid,status,points
+1,9,José Froilán González,Ferrari,90,2,Finished,8.14
+2,11,Mike Hawthorn,Ferrari,90,3,Finished,6.14
+3,33,Onofre Marimón,Maserati,89,28,+1 Lap,4.14
+4,1,Juan Fangio,Mercedes,89,1,+1 Lap,3.14
+5,10,Maurice Trintignant,Ferrari,87,8,+3 Laps,2
+6,4,Roberto Mieres,Maserati,87,32,+3 Laps,0
+7,2,Karl Kling,Mercedes,87,6,+3 Laps,0
+8,8,Ken Wharton,Maserati,86,9,+4 Laps,0
+9,19,André Pilette,Gordini,86,12,+4 Laps,0
+10,29,Bob Gerard,Cooper,85,18,+5 Laps,0
+11,25,Don Beauman,Connaught,84,17,+6 Laps,0
+12,3,Harry Schell,Maserati,83,16,+7 Laps,0
+13,23,Leslie Marr,Connaught,82,22,+8 Laps,0
+14,26,Leslie Thorne,Connaught,78,23,+12 Laps,0
+15,28,Horace Gould,Cooper,44,20,+46 Laps,0
+16,7,Stirling Moss,Maserati,80,4,Axle,0
+17,22,Bill Whitehouse,Connaught,63,19,Fuel system,0
+18,17,Jean Behra,Gordini,54,5,Suspension,0
+19,5,Roy Salvadori,Maserati,53,7,Transmission,0
+20,6,Prince Bira,Maserati,44,10,Accident,0
+20,6,Ron Flockhart,Maserati,44,10,Accident,0
+21,32,Luigi Villoresi,Maserati,40,27,Engine,0
+21,32,Alberto Ascari,Maserati,40,27,Engine,0
+22,24,John Riseley-Prichard,Connaught,40,21,Accident,0
+23,12,Reg Parnell,Ferrari,25,14,Engine,0
+24,31,Alberto Ascari,Maserati,21,30,Engine,0
+25,18,Clemar Bucci,Gordini,18,13,Accident,0
+26,20,Peter Collins,Vanwall,16,11,Engine,0
+27,14,Robert Manzon,Ferrari,16,15,Engine,0
+28,21,Peter Whitehead,Cooper,4,24,Oil leak,0

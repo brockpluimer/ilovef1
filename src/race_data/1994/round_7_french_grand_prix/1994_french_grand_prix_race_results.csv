@@ -1,0 +1,29 @@
+position,number,driver,constructor,laps,grid,status,points
+1,5,Michael Schumacher,Benetton,72,3,Finished,10
+2,0,Damon Hill,Williams,72,1,Finished,6
+3,28,Gerhard Berger,Ferrari,72,5,Finished,4
+4,30,Heinz-Harald Frentzen,Sauber,71,10,+1 Lap,3
+5,23,Pierluigi Martini,Minardi,70,16,+2 Laps,2
+6,29,Andrea de Cesaris,Sauber,70,11,+2 Laps,1
+7,12,Johnny Herbert,Team Lotus,70,19,+2 Laps,0
+8,9,Christian Fittipaldi,Footwork,70,18,+2 Laps,0
+9,32,Jean-Marc Gounon,Simtek,68,26,+4 Laps,0
+10,4,Mark Blundell,Tyrrell,67,17,+5 Laps,0
+11,20,Érik Comas,Larrousse,66,20,Engine,0
+12,3,Ukyo Katayama,Tyrrell,53,14,Spun off,0
+13,7,Mika Häkkinen,McLaren,48,9,Engine,0
+14,2,Nigel Mansell,Williams,45,2,Gearbox,0
+15,27,Jean Alesi,Ferrari,41,4,Collision,0
+16,14,Rubens Barrichello,Jordan,41,7,Collision,0
+17,25,Éric Bernard,Ligier,40,15,Gearbox,0
+18,19,Olivier Beretta,Larrousse,36,25,Engine,0
+19,8,Martin Brundle,McLaren,29,12,Engine,0
+20,10,Gianni Morbidelli,Footwork,28,22,Collision,0
+21,26,Olivier Panis,Ligier,28,13,Collision,0
+22,31,David Brabham,Simtek,28,24,Transmission,0
+23,6,Jos Verstappen,Benetton,25,8,Spun off,0
+24,15,Eddie Irvine,Jordan,24,6,Gearbox,0
+25,24,Michele Alboreto,Minardi,21,21,Engine,0
+26,11,Alessandro Zanardi,Team Lotus,20,23,Engine,0
+27,33,Paul Belmondo,Pacific,0,0,Did not qualify,0
+28,34,Bertrand Gachot,Pacific,0,0,Did not qualify,0

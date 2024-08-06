@@ -1,0 +1,25 @@
+position,number,driver,constructor,laps,grid,status,points
+1,4,Lewis Hamilton,McLaren,70,2,Finished,25
+2,10,Romain Grosjean,Lotus F1,70,7,Finished,18
+3,15,Sergio Pérez,Sauber,70,15,Finished,15
+4,1,Sebastian Vettel,Red Bull,70,1,Finished,12
+5,5,Fernando Alonso,Ferrari,70,3,Finished,10
+6,8,Nico Rosberg,Mercedes,70,5,Finished,8
+7,2,Mark Webber,Red Bull,70,4,Finished,6
+8,9,Kimi Räikkönen,Lotus F1,70,12,Finished,4
+9,14,Kamui Kobayashi,Sauber,70,11,Finished,2
+10,6,Felipe Massa,Ferrari,70,6,Finished,1
+11,11,Paul di Resta,Force India,70,8,Finished,0
+12,12,Nico Hülkenberg,Force India,70,13,Finished,0
+13,18,Pastor Maldonado,Williams,70,22,Finished,0
+14,16,Daniel Ricciardo,Toro Rosso,70,14,Finished,0
+15,17,Jean-Éric Vergne,Toro Rosso,69,19,+1 Lap,0
+16,3,Jenson Button,McLaren,69,10,+1 Lap,0
+17,19,Bruno Senna,Williams,69,16,+1 Lap,0
+18,20,Heikki Kovalainen,Caterham,69,17,+1 Lap,0
+19,21,Vitaly Petrov,Caterham,69,18,+1 Lap,0
+20,25,Charles Pic,Marussia,69,23,+3 Laps,0
+21,24,Timo Glock,Marussia,56,21,Suspension,0
+22,7,Michael Schumacher,Mercedes,43,9,Rear wing,0
+23,22,Pedro de la Rosa,HRT,24,20,Brakes,0
+24,23,Narain Karthikeyan,HRT,22,24,Suspension,0

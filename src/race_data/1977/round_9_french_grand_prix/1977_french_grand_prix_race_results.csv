@@ -1,0 +1,31 @@
+position,number,driver,constructor,laps,grid,status,points
+1,5,Mario Andretti,Team Lotus,80,1,Finished,9
+2,7,John Watson,Brabham,80,4,Finished,6
+3,1,James Hunt,McLaren,80,2,Finished,4
+4,6,Gunnar Nilsson,Team Lotus,80,3,Finished,3
+5,11,Niki Lauda,Ferrari,80,9,Finished,2
+6,12,Carlos Reutemann,Ferrari,79,6,+1 Lap,1
+7,22,Clay Regazzoni,Ensign,79,16,+1 Lap,0
+8,26,Jacques Laffite,Ligier,78,5,+2 Laps,0
+9,2,Jochen Mass,McLaren,78,7,+2 Laps,0
+10,24,Rupert Keegan,Hesketh,78,14,+2 Laps,0
+11,28,Emerson Fittipaldi,Fittipaldi,77,22,+3 Laps,0
+12,3,Ronnie Peterson,Tyrrell,77,17,+3 Laps,0
+13,19,Vittorio Brambilla,Surtees,77,11,+3 Laps,0
+14,10,Ian Scheckter,March,69,20,Not classified,0
+15,20,Jody Scheckter,Wolf,66,8,Accident,0
+16,8,Hans-Joachim Stuck,Brabham,64,13,Accident,0
+17,17,Alan Jones,Shadow,60,10,Transmission,0
+18,37,Arturo Merzario,March,27,18,Gearbox,0
+19,4,Patrick Depailler,Tyrrell,21,12,Accident,0
+20,16,Riccardo Patrese,Shadow,6,15,Engine,0
+21,31,David Purley,LEC,5,21,Accident,0
+22,34,Jean-Pierre Jarier,Penske,4,19,Accident,0
+23,9,Alex Ribeiro,March,0,0,Did not qualify,0
+24,27,Patrick Nève,March,0,0,Did not qualify,0
+25,30,Brett Lunger,McLaren,0,0,Did not qualify,0
+26,25,Harald Ertl,Hesketh,0,0,Did not qualify,0
+27,18,Larry Perkins,Surtees,0,0,Did not qualify,0
+28,39,Hector Rebaque,Hesketh,0,0,Did not qualify,0
+29,18,Patrick Tambay,Surtees,0,0,Did not qualify,0
+30,35,Conny Andersson,BRM,0,0,Did not qualify,0

@@ -1,0 +1,31 @@
+position,number,driver,constructor,laps,grid,status,points
+1,5,Nigel Mansell,Williams,72,4,Finished,10
+2,27,Alain Prost,Ferrari,72,2,Finished,6
+3,1,Ayrton Senna,McLaren,72,3,Finished,4
+4,28,Jean Alesi,Ferrari,72,6,Finished,3
+5,6,Riccardo Patrese,Williams,71,1,+1 Lap,2
+6,33,Andrea de Cesaris,Jordan,71,13,+1 Lap,1
+7,15,Maurício Gugelmin,Leyton House,70,9,+2 Laps,0
+8,20,Nelson Piquet,Benetton,70,7,+2 Laps,0
+9,23,Pierluigi Martini,Minardi,70,12,+2 Laps,0
+10,12,Johnny Herbert,Team Lotus,70,20,+2 Laps,0
+11,26,Érik Comas,Ligier,70,14,+2 Laps,0
+12,25,Thierry Boutsen,Ligier,69,16,+3 Laps,0
+13,19,Roberto Moreno,Benetton,63,8,Physical,0
+14,4,Stefano Modena,Tyrrell,57,11,Gearbox,0
+15,14,Olivier Grouillard,Fondmetal,47,21,Oil leak,0
+16,29,Éric Bernard,Lola,43,23,Transmission,0
+17,22,Jyrki Järvilehto,Dallara,39,26,Tyre,0
+18,8,Mark Blundell,Brabham,36,17,Spun off,0
+19,30,Aguri Suzuki,Lola,32,22,Transmission,0
+20,9,Michele Alboreto,Footwork,31,25,Gearbox,0
+21,7,Martin Brundle,Brabham,21,24,Gearbox,0
+22,3,Satoru Nakajima,Tyrrell,12,18,Spun off,0
+23,24,Gianni Morbidelli,Minardi,8,10,Collision,0
+24,16,Ivan Capelli,Leyton House,7,15,Spun off,0
+25,2,Gerhard Berger,McLaren,6,5,Engine,0
+26,32,Bertrand Gachot,Jordan,0,19,Spun off,0
+27,11,Mika Häkkinen,Team Lotus,0,0,Did not qualify,0
+28,18,Fabrizio Barbazza,AGS,0,0,Did not qualify,0
+29,17,Gabriele Tarquini,AGS,0,0,Did not qualify,0
+30,10,Stefan Johansson,Footwork,0,0,Did not qualify,0

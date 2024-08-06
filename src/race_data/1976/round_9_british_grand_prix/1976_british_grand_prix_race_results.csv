@@ -1,0 +1,31 @@
+position,number,driver,constructor,laps,grid,status,points
+1,1,Niki Lauda,Ferrari,76,1,Finished,9
+2,3,Jody Scheckter,Tyrrell,76,8,Finished,6
+3,28,John Watson,Penske,75,11,+1 Lap,4
+4,16,Tom Pryce,Shadow,75,20,+1 Lap,3
+5,19,Alan Jones,Surtees,75,19,+1 Lap,2
+6,30,Emerson Fittipaldi,Fittipaldi,74,21,+2 Laps,1
+7,24,Harald Ertl,Hesketh,73,23,+3 Laps,0
+8,8,Carlos Pace,Brabham-Alfa Romeo,73,16,+3 Laps,0
+9,17,Jean-Pierre Jarier,Shadow,70,24,+6 Laps,0
+10,11,James Hunt,McLaren,76,2,Disqualified,0
+11,6,Gunnar Nilsson,Team Lotus,67,14,Engine,0
+12,10,Ronnie Peterson,March,60,7,Fuel system,0
+13,18,Brett Lunger,Surtees,55,18,Gearbox,0
+14,4,Patrick Depailler,Tyrrell,47,5,Engine,0
+15,7,Carlos Reutemann,Brabham-Alfa Romeo,46,15,Oil pressure,0
+16,35,Arturo Merzario,March,39,9,Engine,0
+17,2,Clay Regazzoni,Ferrari,36,4,Oil pressure,0
+18,26,Jacques Laffite,Ligier,31,13,Suspension,0
+19,32,Bob Evans,Brabham-Ford,24,22,Gearbox,0
+20,9,Vittorio Brambilla,March,22,10,Accident,0
+21,38,Henri Pescarolo,Surtees,16,26,Fuel system,0
+22,22,Chris Amon,Ensign,8,6,Water leak,0
+23,5,Mario Andretti,Team Lotus,4,3,Ignition,0
+24,12,Jochen Mass,McLaren,1,12,Clutch,0
+25,34,Hans-Joachim Stuck,March,0,17,Accident,0
+26,25,Guy Edwards,Hesketh,0,25,Accident,0
+27,20,Jacky Ickx,Wolf,0,0,Did not qualify,0
+28,13,Divina Galica,Surtees,0,0,Did not qualify,0
+29,40,Mike Wilds,Shadow,0,0,Did not qualify,0
+30,33,Lella Lombardi,Brabham-Ford,0,0,Did not qualify,0

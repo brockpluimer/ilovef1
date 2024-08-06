@@ -1,0 +1,23 @@
+round,raceName,date,time,circuit,country
+1,Bahrain Grand Prix,2021-03-28,15:00:00Z,Bahrain International Circuit,Bahrain
+2,Emilia Romagna Grand Prix,2021-04-18,13:00:00Z,Autodromo Enzo e Dino Ferrari,Italy
+3,Portuguese Grand Prix,2021-05-02,14:00:00Z,Autódromo Internacional do Algarve,Portugal
+4,Spanish Grand Prix,2021-05-09,13:00:00Z,Circuit de Barcelona-Catalunya,Spain
+5,Monaco Grand Prix,2021-05-23,13:00:00Z,Circuit de Monaco,Monaco
+6,Azerbaijan Grand Prix,2021-06-06,12:00:00Z,Baku City Circuit,Azerbaijan
+7,French Grand Prix,2021-06-20,13:00:00Z,Circuit Paul Ricard,France
+8,Styrian Grand Prix,2021-06-27,13:00:00Z,Red Bull Ring,Austria
+9,Austrian Grand Prix,2021-07-04,13:00:00Z,Red Bull Ring,Austria
+10,British Grand Prix,2021-07-18,14:00:00Z,Silverstone Circuit,UK
+11,Hungarian Grand Prix,2021-08-01,13:00:00Z,Hungaroring,Hungary
+12,Belgian Grand Prix,2021-08-29,13:00:00Z,Circuit de Spa-Francorchamps,Belgium
+13,Dutch Grand Prix,2021-09-05,13:00:00Z,Circuit Park Zandvoort,Netherlands
+14,Italian Grand Prix,2021-09-12,13:00:00Z,Autodromo Nazionale di Monza,Italy
+15,Russian Grand Prix,2021-09-26,12:00:00Z,Sochi Autodrom,Russia
+16,Turkish Grand Prix,2021-10-10,12:00:00Z,Istanbul Park,Turkey
+17,United States Grand Prix,2021-10-24,19:00:00Z,Circuit of the Americas,USA
+18,Mexico City Grand Prix,2021-11-07,19:00:00Z,Autódromo Hermanos Rodríguez,Mexico
+19,São Paulo Grand Prix,2021-11-14,17:00:00Z,Autódromo José Carlos Pace,Brazil
+20,Qatar Grand Prix,2021-11-21,14:00:00Z,Losail International Circuit,Qatar
+21,Saudi Arabian Grand Prix,2021-12-05,17:30:00Z,Jeddah Corniche Circuit,Saudi Arabia
+22,Abu Dhabi Grand Prix,2021-12-12,13:00:00Z,Yas Marina Circuit,UAE

@@ -1,0 +1,24 @@
+position,number,driver,constructor,laps,grid,status,points
+1,11,Jackie Stewart,Tyrrell,55,1,Finished,9
+2,12,François Cevert,Tyrrell,55,7,Finished,6
+3,1,Emerson Fittipaldi,Lotus-Ford,55,17,Finished,4
+4,14,Jo Siffert,BRM,55,6,Finished,3
+5,20,Chris Amon,Matra,55,9,Finished,2
+6,2,Reine Wisell,Lotus-Ford,55,15,Finished,1
+7,21,Jean-Pierre Beltoise,Matra,55,8,Finished,0
+8,22,John Surtees,Surtees,55,13,Finished,0
+9,10,Peter Gethin,McLaren,54,19,+1 Lap,0
+10,16,Howden Ganley,BRM,54,16,+1 Lap,0
+11,24,Rolf Stommelen,Surtees,53,10,+2 Laps,0
+12,8,Tim Schenken,Brabham,50,14,Oil pressure,0
+13,34,François Mazet,March-Ford,50,23,+5 Laps,0
+14,28,Max Jean,March-Ford,46,22,Not classified,0
+15,27,Henri Pescarolo,March-Ford,45,18,Gearbox,0
+16,7,Graham Hill,Brabham,34,4,Oil pipe,0
+17,19,Andrea de Adamich,March-Alfa Romeo,31,20,Engine,0
+18,15,Pedro Rodríguez,BRM,27,5,Ignition,0
+19,5,Clay Regazzoni,Ferrari,20,2,Accident,0
+20,17,Ronnie Peterson,March-Alfa Romeo,19,12,Engine,0
+21,9,Denny Hulme,McLaren,16,11,Ignition,0
+22,4,Jacky Ickx,Ferrari,4,3,Engine,0
+23,18,Alex Soler-Roig,March-Ford,4,21,Fuel pump,0
